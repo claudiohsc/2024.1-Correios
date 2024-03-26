@@ -1,0 +1,27 @@
+site_name: Interação Humano Computador
+nav: 
+  - Inicio: "index.md"
+  - Atas: 
+    - Ata1: "atas/ata1.md"
+theme:
+  name: material
+  logo: imagens/inss-logo.png
+  features:
+    - navigation.tabs
+  palette:
+
+    # Palette toggle for light mode
+    
+    - scheme: default
+      primary: orange
+      toggle:
+        icon: material/lightbulb
+        name: Mudar para o modo escuro
+
+    # Palette toggle for dark mode
+        
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/lightbulb
+        name: Mudar para o modo claro
