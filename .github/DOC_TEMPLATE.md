@@ -16,7 +16,7 @@
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Person](https://github.com/person).</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Person](https://github.com/person), 2024.</p></font>
 
 ## Bibliografia
 
