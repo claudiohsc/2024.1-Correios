@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# Grupo 3: Interação Humano-Computador
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Integrantes
 
-## Commands
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Bertolazi"><img style="border-radius: 60%;" src="https://github.com/Bertolazi.png" width="200px;" alt=""/><br /><sub><b>Gabriel Bertolazi</b></sub></a><br />
+    <td align="center"><a href="https://github.com/pabloheika"><img style="border-radius: 60%;" src="https://github.com/pabloheika.png" width="200px;" alt=""/><br /><sub><b>Pablo Santos Costa</b></sub></a><br />
+    <td align="center"><a href="https://github.com/MMcLovin"><img style="border-radius: 60%;" src="https://github.com/MMcLovin.png" width="200px;" alt=""/><br /><sub><b>Gabriel Fernando de Jesus Silva</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
+    <td align="center"><a href="https://github.com/EliasOliver21"><img style="border-radius: 60%;" src="https://github.com/EliasOliver21.png" width="200px;" alt=""/><br /><sub><b>Elias Faria de Oliveira</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
+    <td align="center"><a href="https://github.com/claudiohsc"><img style="border-radius: 60%;" src="https://github.com/claudiohsc.png" width="200px;" alt=""/><br /><sub><b>Claúdio Henrique dos Santos Carvalho</b></sub></a><br />
+    <td align="center"><a href="https://github.com/avmricardo"><img style="border-radius: 60%;" src="https://github.com/avmricardo.png" width="200px;" alt=""/><br /><sub><b>Ricardo Augusto Valle Maciel</b></sub></a><br />
+  </tr>
+</table>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Histórico de versões
+| Versão | Descrição | Autor | Revisor
+| :-: | :-: | :-: | :-:
+|`1.0`| Criação do documento | [Ricardo Augusto](https://github.com/avmricardo) | 
