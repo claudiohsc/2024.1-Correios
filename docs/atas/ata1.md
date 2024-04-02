@@ -38,6 +38,17 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 <p> Tabela 2: Integrantes por atividades. </p>
 </div>
 
+| Tarefas | Integrante(s) |
+|:-:|:-:|
+| Configuração GitPages e artefato equipe | Ricardo | 
+| Lista de sites avaliados | Cláudio | 
+| Planejamento (mapa de disponibilidade, site selecionado) | Pablo, Ricardo | 
+| Ferramentas do projeto | Pablo | 
+| Processo de design | Ricardo, Cláudio
+| Atas das reuniões | Ricardo | 
+| Cronograma | Elias, Gabriel Fernando, Gabriel Bertolazi, Pablo | 
+| Artefato de apresentação | Elias
+
 <div style="text-align: center">
 <p> Fonte: Ricardo Augusto, 2024. </p>
 </div>
