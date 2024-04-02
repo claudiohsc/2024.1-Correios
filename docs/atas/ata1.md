@@ -44,9 +44,9 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 ## Histórico de Versão
 
-| Versão | Data | Autor | Descrição | Revisor
+| Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 02 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | 
+|`1.0`| 02 / 04 / 2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | 
 
 
 
