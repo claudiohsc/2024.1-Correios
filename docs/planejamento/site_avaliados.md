@@ -48,6 +48,44 @@ O [Consumidor.gov.br](https://www.consumidor.gov.br/) é um serviço público qu
 ***
 
 
+## **NFS-e**
+
+<div align="center">
+    <img src="../assets/sites-avaliados/" width = 200px/>
+    <p> Figura 3 Portal NFS-e. Fonte: <a href="https://www.nfse.gov.br/EmissorNacional/Login">NFS-e</a></p> 
+</div>
+
+### **Sobre o site**
+O [Portal NFS-e](https://www.nfse.gov.br/EmissorNacional/Login) é um sistema online para geração de Nota Fiscal de Serviços Eletrônica (NFS-e) que é um documento digital gerado e armazenado eletronicamente em Ambiente Nacional pela Receita Federal do Brasil (RFB). É utilizada para registrar operações de prestação de serviços. A geração da NFS-e é automatizada através do Portal disponibilizado aos contribuintes. Os dados necessários são informados, analisados, processados e validados, resultando no documento.
+
+
+### **Critérios avaliados**
+
+
+
+***
+
+
+
+## **Núcleo de Seleção UEG**
+
+<div align="center">
+    <img src="../assets/sites-avaliados/" width = 200px/>
+    <p> Figura 4 Núcleo de Seleção UEG. Fonte: <a href="https://www.nucleodeselecao.ueg.br">Núcleo de Seleção UEG</a></p> 
+</div>
+
+### **Sobre o site**
+O [Núcleo de Seleção UEG](https://www.nucleodeselecao.ueg.br) é um setor da Universidade Estadual de Goiás (UEG) encarregado de planejar, executar e coordenar processos seletivos e concursos públicos tanto para instituições públicas quanto privadas. Possui responsabilidades de aprimorar continuamente os meios, métodos e suporte tecnológico para suas atividades, visando garantir segurança especializada, informação e profissionais qualificados.
+
+
+### **Critérios avaliados**
+
+
+
+***
+
+
+
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
