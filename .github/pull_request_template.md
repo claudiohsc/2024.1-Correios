@@ -6,13 +6,11 @@
 | :-: | :-: | :-: | :-: | :-:
 |`1.0`| dd / MM / aaaa | Descrição | [Nome](link github) | -
 
-- [ ] O revisor adicionou seu nome em "Revisor" na tabela de histórico de versões;
-
 - [ ] Os artefatos possuem referência bibliográfica e/ou bibliografia; 
 
 - [ ] Os artefatos possuem introdução;
 
-- [ ] As referências (tabelas, imagens) estão de acordo com as normas ABNT:
+- [ ] As referências (tabelas, imagens, bibliografia, referência bibliográfica) estão de acordo com as normas ABNT, por exemplo
 
 <div style="text-align: center">
 <p> Tabela 1: Descrição. </p>
@@ -22,4 +20,8 @@
 <div style="text-align: center">
 <p> Fonte: Nome Sobrenome, 2024. </p>
 </div>
+
+- [ ] As datas/horas presentes nos artefatos estão condizentes com a realidade;
+
+- [ ] O revisor verificou os documentos presentes nesse PR e colocou seu nome no histórico de versões.
 
