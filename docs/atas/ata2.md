@@ -5,7 +5,7 @@
 Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo da disciplina, contendo as pautas das reuniões, os integrantes que participaram, local, hora e data, os resultados discutidos das pautas, o link da gravação da reunião e o histórico de versão do documento. 
 
 ## Pautas da reunião:
-- Definição do site a ser utilizado para o projeto da disciplina;
+1. Definição do site a ser utilizado para o projeto da disciplina;
 
 ## Integrantes presentes:
 
@@ -30,7 +30,7 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 </div>
 
 ## Resultados da reunião
-1. 
+1. Os integrantes do grupo realizaram avaliações dos sites stack overflow, cebraspe, nota fiscal eletrônica, biblioteca nacional, consumidor.gov e do núcleo de seleções da UEG. Porém decidimos por escolher o site dos Correios para o projeto da disciplina, vimos que o site possui muitas funcionalidades para os membros do grupo ficarem responsáveis e está de acordo com as necessidades e os requisitos da disciplina.
 
 ## Gravação da reunião
 
