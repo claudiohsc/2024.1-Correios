@@ -32,4 +32,4 @@ Com base nas informações da tabela acima, definimos que os encontros serão id
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 30/03/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  | [Pessoa](https://github.com/) |
+| `1.0`  | 30/03/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  | [Claudio Henrique](https://github.com/claudiohsc) |
