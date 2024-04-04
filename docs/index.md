@@ -16,4 +16,4 @@
 ## Histórico de versões
 | Versão | Data | Descrição | Autor | Revisor
 | :-: | :-: | :-: | :-: | :-:
-|`1.0`| 02 / 04 / 2024 | Criação do documento | [Ricardo Augusto](https://github.com/avmricardo) | [Elias Faria](https://github.com/EliasOliver21)
+|`1.0`| 02 / 04 / 2024 | Criação do documento | [Ricardo Augusto](https://github.com/avmricardo) | [Elias Oliveira](https://github.com/EliasOliver21)
