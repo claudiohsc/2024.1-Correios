@@ -94,7 +94,7 @@ mesmo utilizando uma rede de 800Mb. Durante esse carregamento não há feedback 
 ## **NFS-e**
 
 <div align="center">
-    <img src="../assets/sites-avaliados/" width = 200px/>
+    <img src="../assets/sites-avaliados/logo-nfse.png" width = 200px/>
     <p> Figura 4: Portal NFS-e. Fonte: <a href="https://www.nfse.gov.br/EmissorNacional/Login">NFS-e</a></p> 
 </div>
 
@@ -113,7 +113,7 @@ O [Portal NFS-e](https://www.nfse.gov.br/EmissorNacional/Login) é um sistema on
 ## **Núcleo de Seleção UEG**
 
 <div align="center">
-    <img src="../assets/sites-avaliados/Logo-N_cleo_Sele__o_400x400.jpg" width = 200px/>
+    <img src="../assets/sites-avaliados/Logo-N_cleo_Sele__o_400x400.jpg" width = 150px/>
     <p> Figura 5: Núcleo de Seleção UEG. Fonte: <a href="https://www.nucleodeselecao.ueg.br">Núcleo de Seleção UEG</a></p> 
 </div>
 
@@ -126,7 +126,7 @@ O [Núcleo de Seleção UEG](https://www.nucleodeselecao.ueg.br) é um setor da 
 - *Projeto estético e minimalista*: editais e processos
  estão todos na página inicial, assim como os banners na parte de cima. Isso dificulta a visão e reconhecimento do objetivo final do usuário dentro do site.
 
-- *Ajuda edocumentação*: A única forma de tentar aprender como o site funciona é pela aba “Fale
+- *Ajuda e documentação*: A única forma de tentar aprender como o site funciona é pela aba “Fale
  Conosco”, onde é preenchido um formulário para tirar as dúvidas.
 
 - *Controle e liberdade do usuário*: Na área do candidato não possui nenhum botão para que leve de volta para a
@@ -155,7 +155,7 @@ O [Stack Overflow](https://stackoverflow.com) é uma plataforma online de pergun
 ### **Critérios avaliados**
 Na avaliação heurística, foram encontradas as seguintes violações:
 
-- *Projeto estético e minimalista*: .
+- *Projeto estético e minimalista*: a tela principal possui muitas informações que muitos usuários podem não estar buscando, o que pode fazer com que o usuário se perca um pouco nesse começo.
 
 [Link da avaliação detalhada]()
 
@@ -168,4 +168,4 @@ Na avaliação heurística, foram encontradas as seguintes violações:
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   |Versão Inicial |   [Claudio Henrique](https://github.com/claudiohsc)   |   04/04/2024   | [Nome do Revisor ](https://github.com)   |       xx/xx/xxxx      |
+|  1.0   |Versão Inicial |   [Claudio Henrique](https://github.com/claudiohsc)   |   05/04/2024   | [Nome do Revisor ](https://github.com)   |       xx/xx/xxxx      |
