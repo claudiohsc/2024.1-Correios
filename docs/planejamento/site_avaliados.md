@@ -1,6 +1,6 @@
 # **Sites Avaliados**
 ## **Introdução** 
-Para aplicar os conhecimentos da disciplina de Interação Humano computador, avaliamos previamente alguns sites de software livre ou governamentais para compor o nosso projeto. As avaliações foram baseadas nas heurísticas de [Nielsen](https://www.nngroup.com/people/jakob-nielsen/).
+Para aplicar os conhecimentos da disciplina de Interação Humano computador, avaliamos previamente alguns sites de software livre ou governamentais para compor o nosso projeto. As avaliações foram baseadas nas heurísticas de [Nielsen](https://www.nngroup.com/people/jakob-nielsen/) e estudadas a partir de Barbosa e Silva(2011)<a id="anchor_1" href="#REF1"><sup>1</sup></a>.
 
 | Aplicativo       | Descrição                                       |
 |------------------|---------------------------------------------------|
@@ -163,7 +163,9 @@ Na avaliação heurística, foram encontradas as seguintes violações:
 
 ***
 
+## Bibliografia
 
+> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 
 ## **Histórico de Versões**
