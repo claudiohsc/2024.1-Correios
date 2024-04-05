@@ -1,6 +1,6 @@
 # **Sites Avaliados**
 ## **Introdução** 
-Para aplicar os conhecimentos da disciplina de Interação Humano computador, avaliamos previamente alguns sites de software livre ou governamentais para compor o nosso projeto.
+Para aplicar os conhecimentos da disciplina de Interação Humano computador, avaliamos previamente alguns sites de software livre ou governamentais para compor o nosso projeto. As avaliações foram baseadas nas heurísticas de [Nielsen](https://www.nngroup.com/people/jakob-nielsen/).
 
 | Aplicativo       | Descrição                                       |
 |------------------|---------------------------------------------------|
@@ -35,7 +35,7 @@ O site da [Biblioteca Nacional Digital](https://bndigital.bn.gov.br) (BNDigital)
 ## **Cebraspe**
 
 <div align="center">
-    <img src="../assets/sites-avaliados/" width = 170/>
+    <img src="../assets/sites-avaliados/logo-cebraspe.png" width = 170/>
     <p> Figura 2: Imagem Cebraspe. Fonte: 
         <a href="https://www.cebraspe.org.br">Cebraspe</a>
     </p> 
@@ -48,7 +48,15 @@ O [Cebraspe](https://www.cebraspe.org.br) é uma associação civil sem fins luc
 
 ### Critérios avaliados
 
+- *Status do sistema*: ao tentar logar no sistema com alguma informação incorreta, o usuário
+não recebe nenhum alerta de erro.
 
+- *Estética e design minimalista*: na página de acesso aos boletins informativos - com informações dos
+candidatos de processos passados - os botões não se encontram de forma alinhada. 
+Na página de inscrição, a cor que delimita o campo de texto não possui contraste suficiente para
+distinguir onde o mesmo começa e acaba
+
+[Link da avaliação detalhada]()
 
 ***
 
@@ -65,7 +73,20 @@ O [Consumidor.gov.br](https://www.consumidor.gov.br/) é um serviço público qu
 
 ### **Critérios avaliados**
 
+- *Estética e design minimalista*: A tela inicial contém uma variedade de dados, incluindo orientações de utilização,
+o que acaba por sobrecarregar a apresentação visual.
 
+- *Prevenção de erro*: A tela de acesso tem uma divisão vertical que pode induzir ao engano, fazendo o
+usuário consumidor realizar o login no local errado.
+
+- *Flexibilidade e eficiência de uso & Controle e liberdade de usuário*: Se encontra a função de inativar o perfil na parte de edição, o que pode ocasionar
+em uma ineficiência de uso por não está em localidade habitual e sim outra função
+
+- *Status do sistema*: Na tela de indicadores a alternância entre as abas há uma um delay considerável
+mesmo utilizando uma rede de 800Mb. Durante esse carregamento não há feedback algum.
+
+
+[Link da avaliação detalhada]()
 
 ***
 
@@ -92,7 +113,7 @@ O [Portal NFS-e](https://www.nfse.gov.br/EmissorNacional/Login) é um sistema on
 ## **Núcleo de Seleção UEG**
 
 <div align="center">
-    <img src="../assets/sites-avaliados/" width = 200px/>
+    <img src="../assets/sites-avaliados/Logo-N_cleo_Sele__o_400x400.jpg" width = 200px/>
     <p> Figura 5: Núcleo de Seleção UEG. Fonte: <a href="https://www.nucleodeselecao.ueg.br">Núcleo de Seleção UEG</a></p> 
 </div>
 
@@ -102,26 +123,44 @@ O [Núcleo de Seleção UEG](https://www.nucleodeselecao.ueg.br) é um setor da 
 
 ### **Critérios avaliados**
 
+- *Projeto estético e minimalista*: editais e processos
+ estão todos na página inicial, assim como os banners na parte de cima. Isso dificulta a visão e reconhecimento do objetivo final do usuário dentro do site.
 
+- *Ajuda edocumentação*: A única forma de tentar aprender como o site funciona é pela aba “Fale
+ Conosco”, onde é preenchido um formulário para tirar as dúvidas.
+
+- *Controle e liberdade do usuário*: Na área do candidato não possui nenhum botão para que leve de volta para a
+ página onde contém os editais e processos. O site abre uma nova aba e também
+ não permite que o usuário volte pelas setas do navegador.
+
+- *Flexibilidade e eficiência de uso, consistência e padronização*:  O sistema não dá a possibilidade do usuário “Lembrar a senha”, e isso pode
+ se tornar um grande ou pequeno problema. O sistema poderia oferecer um checkbox para manter o login
+ ou lembrar os dados de acesso
+
+[Link da avaliação detalhada]()
 
 ***
 
 ## **Stack Overflow**
 
 <div align="center">
-    <img src="../assets/sites-avaliados/" width = 200px/>
+    <img src="../assets/sites-avaliados/Stack_Overflow_logo.png" width = 200px/>
     <p> Figura 6: Stack Overflow. Fonte: <a href="https://stackoverflow.com">Stack Overflow</a></p> 
 </div>
 
 ### **Sobre o site**
-O [Stack Overflow](https://stackoverflow.com) é um setor da Universidade Estadual de Goiás (UEG) encarregado de planejar, executar e coordenar processos seletivos e concursos públicos tanto para instituições públicas quanto privadas. Possui responsabilidades de aprimorar continuamente os meios, métodos e suporte tecnológico para suas atividades, visando garantir segurança especializada, informação e profissionais qualificados.
+O [Stack Overflow](https://stackoverflow.com) é uma plataforma online de perguntas e respostas voltada para desenvolvedores e profissionais de tecnologia. Criado como um espaço colaborativo, permite que usuários façam perguntas sobre programação, desenvolvimento de software, sistemas de computador e outros tópicos relacionados à tecnologia.
 
 
 ### **Critérios avaliados**
+Na avaliação heurística, foram encontradas as seguintes violações:
 
+- *Projeto estético e minimalista*: .
 
+[Link da avaliação detalhada]()
 
 ***
+
 
 
 
