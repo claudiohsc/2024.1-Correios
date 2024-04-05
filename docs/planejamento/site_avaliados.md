@@ -104,7 +104,9 @@ O [Portal NFS-e](https://www.nfse.gov.br/EmissorNacional/Login) é um sistema on
 
 ### **Critérios avaliados**
 
+- *Projeto estético e minimalista*: Recursos de login podem não ficar acessíveis ao usuário, por exemplo, quando se coloca a tela do navegador em modo dividido as outras opções de login não ficam acessíveis.
 
+- *Consistência e padronização*: durante o cadastro que não é possível ser feito através do aplicativo, dificultando quem utiliza o sistema mobile.
 
 ***
 
@@ -168,4 +170,4 @@ Na avaliação heurística, foram encontradas as seguintes violações:
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   |Versão Inicial |   [Claudio Henrique](https://github.com/claudiohsc)   |   05/04/2024   | [Nome do Revisor ](https://github.com)   |       xx/xx/xxxx      |
+|  1.0   |Versão Inicial |   [Claudio Henrique](https://github.com/claudiohsc)   |   05/04/2024   | [Elias Faria](https://github.com/EliasOliver21)   |       05/04/2024      |
