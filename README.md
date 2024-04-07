@@ -1,6 +1,6 @@
 # 2024.1-Correios
 
-![Correios logo](/docs/assets/correios-logo.png)
+![Correios logo](/docs/assets/correios-logo-readme.png)
 
 ## Introdução
 
