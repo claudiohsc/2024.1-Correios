@@ -40,13 +40,15 @@ do projeto (BARBOSA e SILVA, 2021, p.116). A lista abaixo apresenta as atividade
 
 
 ### Engenharia de Usabilidade de Mayhew
-<p style="text-align: justify;">&emsp;&emsp;Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Esse ciclo de vida está ilustrado na figura 1 e logo após há uma descrição de suas fases:</p>
+<p style="text-align: justify;">&emsp;&emsp;Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Esse ciclo de vida está melhor ilustrado na figura 1:</p>
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
-![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-de-design/figura3.png#only-light){width: 300}
-![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-de-design/figura3e.png#only-dark){width: 300}
-<figcaption><font size="3">Fonte: BARBOSA e SILVA, 2011, p.110.</font></figcaption>
+
+![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-design/processo-mayhew.png)
+
+
+<figcaption><font size="3">Fonte: BARBOSA e SILVA, 2021, p.120.</font></figcaption>
 </figure>
 
 #### Análise de requisitos
@@ -59,10 +61,10 @@ do projeto (BARBOSA e SILVA, 2021, p.116). A lista abaixo apresenta as atividade
 <p style="text-align: justify;">&emsp;&emsp;Essa fase envolve a coleta de feedback dos usuários que já usaram o sistema por algum tempo, de forma a melhorar versões futuras deste ou demonstrar a necessidade de desenvolvimento de novos sistemas.</p>
 
 ## Motivações para a escolha
-<p style="text-align: justify;">&emsp;&emsp;Após a análise dos modelos citados anteriormente, o grupo discutiu suas vantagens e desvantagens para chegar a um consenso de qual seria o melhor processo para o projeto. A conclusão foi que o Ciclo de Vida de Mayhew seria o melhor candidato por alguns motivos, como o fato de suas etapas serem detalhadas e bem definidas, deixando menos espaço para a subjetividade do que o ciclo de vida simples, por exemplo. Pelo fato do grupo não ter experiência na área de IHC, um modelo mais robusto e detalhado seria mais condizente com nossa situação, pois nos serviria de guia.</p>
-<p style="text-align: justify;">&emsp;&emsp;No contexto do projeto da disciplina, como o sistema escolhido já está em produção, iniciaremos na etapa de instalação do Ciclo de Vida de Mayhew, identificando algumas problemas e respectivas melhorias que possam ser aplicadas ao sistema, para depois ir para a fase de análise de requisitos e assim seguir o fluxo previsto no modelo.</p>
+<p style="text-align: justify;">&emsp;&emsp;O grupo fez uma análise dos modelos citados anteriormente, e foi discutido suas vantagens e desvantagens para a aplicação no projeto. A conclusão foi que o Ciclo de Vida de Mayhew seria o melhor modelo por conta de suas etapas serem detalhadas e bem definidas, assim servindo de guia para uma maior assertividade no desenvolvimento do projeto.</p>
+<p style="text-align: justify;">&emsp;&emsp;Como o sistema do projeto já está ativo, iniciaremos pela etapa de instalação do Ciclo de Vida de Mayhew, identificando os problemas e respectivas melhorias que possam ser feitas, e assim progredirmos para a fase de análise de requisitos seguindo fluxo previsto no modelo.</p>
 
-## Referências Bibliográficas
+## Bibliografia
 > <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2021.
 
 > <a id="REF2" href="#anchor_2">2.</a>Sharp, Helen, Preece, Jennifer, e Rogers, Yvonne (2019). Interaction Design: Beyond Human-Computer
