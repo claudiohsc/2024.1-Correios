@@ -1,4 +1,8 @@
-# 2024.1-Grupo03
+# 2024.1-Correios
+
+![Correios logo](/docs/assets/correios-logo.png)
+
+## Introdução
 
 Repositório destinado a documentação dos projetos da disciplina Interação Humano-Computador, no semestre 2024.1, na Faculdade do Gama da Universidade de Brasília.
 
