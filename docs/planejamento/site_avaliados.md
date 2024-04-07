@@ -28,7 +28,13 @@ O site da [Biblioteca Nacional Digital](https://bndigital.bn.gov.br) (BNDigital)
 
 ### Critérios avaliados
 
+- *Consistência e padronização*: Acontece alguns erros na busca dentro do acervo digital da biblioteca nacional, onde existem muitas opções de busca quando só precisaria de uma. Isso causa uma confusão na hora de pesquisar, sem saber por qual filtro está sendo
+feita a pesquisa.
 
+- *Prevenção de erros*: A tela para de funcionar assim que seleciona a opção de download ou de leitura quase
+sempre. Isso faz com que o usuário perca o interesse em ver novas funções dentro do site, e por fim a tarefa não é realizada. Existem outros erros também envolvendo a visualização e leitura do acervo.
+
+[Link da avaliação detalhada](../assets/avaliacoes/biblioteca%20-%20AtividadeAvaliacaoIHC.pdf)
 
 ***
 
@@ -56,7 +62,7 @@ candidatos de processos passados - os botões não se encontram de forma alinhad
 Na página de inscrição, a cor que delimita o campo de texto não possui contraste suficiente para
 distinguir onde o mesmo começa e acaba
 
-[Link da avaliação detalhada]()
+[Link da avaliação detalhada](../assets/avaliacoes/Cebraspe%20-%20ProjetoParteIndividualMetodoeAvalição.pdf)
 
 ***
 
@@ -86,7 +92,7 @@ em uma ineficiência de uso por não está em localidade habitual e sim outra fu
 mesmo utilizando uma rede de 800Mb. Durante esse carregamento não há feedback algum.
 
 
-[Link da avaliação detalhada]()
+[Link da avaliação detalhada](../assets/avaliacoes/Consumidor%20-%20ProjetoParteIndividualMetodoeAvalição.pdf)
 
 ***
 
@@ -107,6 +113,9 @@ O [Portal NFS-e](https://www.nfse.gov.br/EmissorNacional/Login) é um sistema on
 - *Projeto estético e minimalista*: Recursos de login podem não ficar acessíveis ao usuário, por exemplo, quando se coloca a tela do navegador em modo dividido as outras opções de login não ficam acessíveis.
 
 - *Consistência e padronização*: durante o cadastro que não é possível ser feito através do aplicativo, dificultando quem utiliza o sistema mobile.
+
+
+[Link da avaliação detalhada](../assets/avaliacoes/NFSE%20-%20ProjetoParteIndividualMetodoeAvalição.pdf)
 
 ***
 
@@ -139,7 +148,7 @@ O [Núcleo de Seleção UEG](https://www.nucleodeselecao.ueg.br) é um setor da 
  se tornar um grande ou pequeno problema. O sistema poderia oferecer um checkbox para manter o login
  ou lembrar os dados de acesso
 
-[Link da avaliação detalhada]()
+[Link da avaliação detalhada](../assets/avaliacoes/)
 
 ***
 
@@ -159,7 +168,7 @@ Na avaliação heurística, foram encontradas as seguintes violações:
 
 - *Projeto estético e minimalista*: a tela principal possui muitas informações que muitos usuários podem não estar buscando, o que pode fazer com que o usuário se perca um pouco nesse começo.
 
-[Link da avaliação detalhada]()
+[Link da avaliação detalhada](../assets/avaliacoes/StackOverflow%20-%20ProjetoParteIndividualMetodoeAvalição%20(1).pdf)
 
 ***
 
