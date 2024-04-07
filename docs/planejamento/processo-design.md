@@ -27,16 +27,16 @@ Para um novo sistema, é comum iniciar pela análise de tarefas, usuários e fun
 do projeto (BARBOSA e SILVA, 2021, p.116). A lista abaixo apresenta as atividades definidas por Nielsen em seu ciclo de vida:</p>
 
 
-- 1. Conheça seu usuário
-- 2. Realize uma análise competitiva
-- 3. Defina as metas de usabilidade
-- 4. Faça designs paralelos
-- 5. Adote o design participativo
-- 6. Faça o design coordenado da interface como um todo
-- 7. Aplique diretrizes e análise heurística
-- 8. Faça protótipos
-- 9. Realize testes empíricos
-- 10. Pratique design iterativo
+- 1 - Conheça seu usuário
+- 2 - Realize uma análise competitiva
+- 3 - Defina as metas de usabilidade
+- 4 - Faça designs paralelos
+- 5 - Adote o design participativo
+- 6 - Faça o design coordenado da interface como um todo
+- 7 - Aplique diretrizes e análise heurística
+- 8 - Faça protótipos
+- 9 - Realize testes empíricos
+- 10 - Pratique design iterativo
 
 
 ### Engenharia de Usabilidade de Mayhew
