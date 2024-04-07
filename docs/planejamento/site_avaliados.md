@@ -9,7 +9,7 @@ Para aplicar os conhecimentos da disciplina de Interação Humano computador, av
 | Consumidor | Site para contato direto entre consumidor e empresas do Brasil |
 | NFS-e | Site para emissão de notas fiscais |
 | Núcleo de Seleção UEG| Site para coordenar os Processos Seletivos da UEG  |
-| Stack Overflow| Site para coordenar os Processos Seletivos da UEG  |
+| Stack Overflow| Site de perguntas e respostas na área de programação de computadores. |
 
 ***
 ## **Biblioteca Nacional Digital**
@@ -173,3 +173,4 @@ Na avaliação heurística, foram encontradas as seguintes violações:
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   |Versão Inicial |   [Claudio Henrique](https://github.com/claudiohsc)   |   05/04/2024   | [Elias Faria](https://github.com/EliasOliver21)   |       05/04/2024      |
+|  1.1   |Modificação dos sites e links |   [Claudio Henrique](https://github.com/claudiohsc)   |   05/04/2024   | [Nome do Revisor](https://github.com/)   |       07/04/2024      |
