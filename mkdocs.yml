@@ -15,7 +15,7 @@ theme:
   language: pt-BR
   name: material
   favicon: assets/correios_icon.svg
-  logo: assets/correios_icon.svg
+  logo: assets/correios.svg
   features:
     - navigation.tabs
   palette:
