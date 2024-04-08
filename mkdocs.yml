@@ -7,6 +7,9 @@ nav:
   - Inicio: "index.md"
   - Atas: 
     - Ata1: "atas/ata1.md"
+    - Ata2: "atas/ata2.md"
+  - Apresentações:
+    - Apresentação 01: apresentações/apresentação-01.md
   - Planejamento:
       - Heatmap: planejamento/heatmap.md
       - Cronograma : planejamento/cronograma.md
