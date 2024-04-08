@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Cronograma
 
 ## Sobre o cronograma
@@ -266,3 +267,57 @@ Na Tabela 19, temos o cronograma planejado para as atividades da última entrega
 | --- | --- | --- | --- | --- |
 | 1.0 | 07/04/2024 | Criar cronograma planejado para entregas 2, 3 e 8 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika)  |
 | 1.1 | 08/04/2024 | Criar cronograma planejado para entregas 1 e final | [Pablo S. Costa](https://github.com/pabloheika) | [Gabriel F. J. Silva](https://github.com/MMcLovin)  |
+=======
+
+## Entrega 4 - Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas.
+
+### Planejado
+
+Na Tabela 7, tem-se o planejado para todas as atividades previstas da quarta entrega.
+
+<font size="2"><p style="text-align: center;">
+    <b>Tabela 7</b> - Planejamento do Projeto 
+</p></font>
+
+| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores |
+| ----- | ----- | ----- | ----- | ----- |
+| Planejamento e confecção dos storyboards | Início: 01/05 <br>Fim: 03/05 | Gabriel B. Bertolazi e Elias | Início: 03/05 Fim: 04/05 | Pablo e Ricardo |
+| Avaliação dos storyboards | Início: 04/05 <br>Fim: 06/05  | Pablo e Ricardo | Início: 06/05 Fim: 07/05 | Cláudio e Gabriel F. J. Silva |
+| Análise das tarefas | Início: 01/05 <br>Fim: 03/05 | Cláudio e Gabriel F. J. Silva | Início: 03/05 Fim: 04/05 | Gabriel B. Bertolazi e Elias |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 06/05 <br>Fim: 07/05 | Cláudio e Gabriel F. J. Silva | Início: 07/05 Fim: 07/05 |  Pablo e Ricardo |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas | Início: 04/05 <br>Fim: 06/05 | Gabriel B. Bertolazi e Elias | Início: 06/05 Fim: 07/05 |  Pablo e Ricardo |
+| Gravação da apresentação | Início: 07/05 <br>Fim: 07/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 08/05 Fim: 08/05 |  Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo|
+| Correção pós apresentação | Início: 09/05 <br>Fim: 15/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 15/05 Fim: 20/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+
+font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+
+### Executado 
+
+Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta entrega.
+
+<font size="2"><p style="text-align: center;">
+    <b>Tabela 7</b> - Planejamento do Projeto 
+</p></font>
+
+*EM BREVE...*
+
+## Entrega 6.1 - Verificação dos artefatos I
+
+### Planejado
+
+Na Tabela 11, tem-se o planejado para todas as atividades previstas da primeira parte da sexta entrega.
+
+### Executado
+
+Na Tabela 12, tem-se o executado para todas as atividades previstas da primeira parte da sexta entrega.
+
+## Entrega 7: Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade
+
+### Planejado
+
+Na Tabela 13, tem-se o planejado para todas as atividades previstas da sétima entrega.
+
+### Executado
+
+Na Tabela 14, tem-se o Executado para todas as atividades previstas da sétima entrega.
+>>>>>>> 9d0f6f4 (Planejmaneto entrega 4)
