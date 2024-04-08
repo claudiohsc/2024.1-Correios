@@ -54,14 +54,16 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
 | Definição do Perfil do usuário | Início: 09/04 <br> Fim: 13/04 | Cláudio, Elias | Início: 13/04 <br> Fim: 13/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
+| Ata de Reunião | Início: 10/04 <br>Fim: 10/04 | Ricardo | Início: 10/04   <br>Fim: 10/04 | Claúdio |
 | Consideração dos aspectos Éticos | Início: 13/04  <br> Fim: 14/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 14/04 <br> Fim: 14/04 | Pablo e Ricardo |
 | Termo de Consentimento | Início: 14/04 <br> Fim: 15/04 | Pablo e Ricardo | Início: 15/04 <br> Fim: 15/04 | Cláudio e Elias |
 | Elicitação: Brainstorm | Início: 15/04 <br> Fim: 18/04 | Cláudio e Elias | Início: 18/04 <br> Fim: 18/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
 | Elicitação: Questionário | Início: 15/04 <br> Fim: 18/04  | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 18/04 <br> Fim: 18/04 | Pablo e Ricardo |
 | Elicitação: Estudos de campo | Início: 15/04 <br> Fim: 18/04  | Pablo e Ricardo | Início: 18/04 <br> Fim: 18/04 | Cláudio e Elias |
-| Cenários | Início: 18/04 <br> Fim: 19/04 | Cláudio e Elias | Início: 19/04 <br> Fim: 19/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
-| Análise de Tarefas: CPM-GOMS | Início: 20/04 <br> Fim: 21/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 21/04 <br> Fim: 21/04 | Pablo e Ricardo |
-| Análise de Tarefas: HTA | Início: 20/04 <br> Fim: 21/04 | Pablo e Ricardo | Início: 21/04 <br> Fim: 21/04 | Cláudio e Elias |
+| Ata de Reunião | Início: 17/04 <br>Fim: 17/04 | Ricardo | Início: 17/04   <br>Fim: 17/04 | Claúdio |
+| Análise de Tarefas: CPM-GOMS | Início: 19/04 <br> Fim: 20/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 20/04 <br> Fim: 20/04 | Pablo e Ricardo |
+| Análise de Tarefas: HTA | Início: 19/04 <br> Fim: 20/04 | Pablo e Ricardo | Início: 20/04 <br> Fim: 20/04 | Cláudio e Elias |
+| Cenários | Início: 20/04 <br> Fim: 21/04 | Cláudio e Elias | Início: 21/04 <br> Fim: 21/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
 | Gravação da Apresentação | Início: 21/04 <br> Fim: 22/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 22/04 <br> Fim: 22/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Correções | Início: 23/04 <br> Fim: 24/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 24/04 <br> Fim: 24/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
@@ -81,9 +83,14 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-|  | Início:  <br> Fim:  |  | Início:  <br> Fim:  |  |
+| Elaborar princípios gerais do projeto | Início: 22/04 <br> Fim: 28/04 | Cláudio e Elias | Início: 28/04 <br> Fim: 28/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
+| Estabelecer metas de usabilidade | Início: 22/04  <br> Fim: 28/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 28/04 <br> Fim: 28/04 | Pablo e Ricardo |
+| Elaborar guia de estilo | Início: 22/04 <br> Fim: 28/04 | Pablo e Ricardo | Início: 28/04 <br> Fim: 28/04 | Cláudio e Elias |
+| Ata de Reunião | Início: 24/05 <br>Fim: 24/05 | Ricardo | Início: 24/05   <br>Fim: 24/05 | Claúdio |
+| Gravação da Apresentação | Início: 29/04 <br> Fim: 30/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 30/04 <br> Fim: 30/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Correções | Início: 30/04 <br> Fim: 01/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 01/05 <br> Fim: 01/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
-<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ### Executado
 
@@ -93,26 +100,35 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 *EM BREVE...*
 
-
-## Entrega 4
+## Entrega 4 
 
 ### Planejado
 
-<font size="2"><p style="text-align: center;">
-    <b>Tabela 7</b> - Planejamento da entrega 4
-</p></font> 
-
-| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
-| --- | --- | --- | --- | --- |
-|  | Início:  <br> Fim:  |  | Início:  <br> Fim:  |  |
-
-<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
-
-### Executado
+Na Tabela 7, tem-se o planejado para todas as atividades previstas da quarta entrega.
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 8</b> - Executado da entrega 4
-</p></font> 
+    <b>Tabela 7</b> - Planejamento do Projeto 
+</p></font>
+
+| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores |
+| ----- | ----- | ----- | ----- | ----- |
+| Planejamento e confecção dos storyboards | Início: 01/05 <br>Fim: 03/05 | Gabriel B. Bertolazi e Elias | Início: 03/05 Fim: 04/05 | Pablo e Ricardo |
+| Avaliação dos storyboards | Início: 04/05 <br>Fim: 06/05  | Pablo e Ricardo | Início: 06/05 Fim: 07/05 | Cláudio e Gabriel F. J. Silva |
+| Análise das tarefas | Início: 01/05 <br>Fim: 03/05 | Cláudio e Gabriel F. J. Silva | Início: 03/05 Fim: 04/05 | Gabriel B. Bertolazi e Elias |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 06/05 <br>Fim: 07/05 | Cláudio e Gabriel F. J. Silva | Início: 07/05 Fim: 07/05 |  Pablo e Ricardo |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas | Início: 04/05 <br>Fim: 06/05 | Gabriel B. Bertolazi e Elias | Início: 06/05 Fim: 07/05 |  Pablo e Ricardo |
+| Gravação da apresentação | Início: 07/05 <br>Fim: 07/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 08/05 Fim: 08/05 |  Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo|
+| Correção pós apresentação | Início: 09/05 <br>Fim: 15/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 15/05 Fim: 20/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+
+### Executado 
+
+Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta entrega.
+
+<font size="2"><p style="text-align: center;">
+    <b>Tabela 7</b> - Planejamento do Projeto 
+</p></font>
 
 *EM BREVE...*
 
@@ -148,16 +164,30 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 ### Planejado
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 11</b> - 
+    <b>Na tabela 11, tem-se o planejado das atividades previstas para a primeira parte da sexta entrga</b> - 
 </p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-|  | Início:  <br> Fim:  |  | Início:  <br> Fim:  |  |
+| Verificação artefatos etapa 1 | Início: 21/05 <br> Fim: 22/05 | Gabriel B. Bertolazi | Início: 22/05 Fim: 23/05 | Cláudio |
+| Verificação artefatos etapa 2 | Início: 21/05 <br> Fim: 22/05 | Gabriel F. J. Silva | Início: 22/05 Fim: 23/05 | Cláudio |
+| Verificação artefatos etapa 3 | Início: 21/05 <br> Fim: 22/05 | Elias | Início: 22/05 Fim: 23/05 | Cláudio |
+| Verificação artefatos etapa 4 | Início: 21/05 <br> Fim: 22/05 | Ricardo | Início: 22/05 Fim: 23/05 | Cláudio |
+| Verificação artefatos etapa 5 | Início: 21/05 <br> Fim: 22/05 | Pablo | Início: 22/05 Fim: 23/05 | Cláudio |
+| Ajustes dos artefatos etapa 1 | Início: 22/05 <br> Fim: 24/05 | Cláudio | Início: 24/05 Fim: 25/05 | Pablo |
+| Ajustes dos artefatos etapa 2 | Início: 22/05 <br> Fim: 24/05 | Ricardo | Início: 24/05 Fim: 25/05 | Pablo |
+| Ajustes dos artefatos etapa 3 | Início: 22/05 <br> Fim: 24/05 | Gabriel B. Bertolazi | Início: 24/05 Fim: 25/05 | Pablo |
+| Ajustes dos artefatos etapa 4 | Início: 22/05 <br> Fim: 24/05 | Gabriel F. J. Silva | Início: 24/05 Fim: 25/05 | Pablo |
+| Ajustes dos artefatos etapa 5 | Início: 22/05 <br> Fim: 24/05 | Elias | Início: 24/05 Fim: 25/05 | Pablo |
+| Gravação da apresentação | Início: 25/05 <br>Fim: 25/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 26/05 Fim: 27/05 |  Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo|
+| Correção pós apresentação | Início: 27/05 <br>Fim: 02/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 02/06 Fim: 07/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
-<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ### Executado
+<font size="2"><p style="text-align: center;">
+    <b>Na tabela 12, tem-se o executado das atividades previstas para a primeira parte da sexta entrga</b> - 
+</p></font> 
 
 *EM BREVE...*
 
@@ -166,7 +196,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 ### Planejado
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 13 </b> - 
+    <b>Tabela 13</b> - 
 </p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -195,24 +225,28 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 ### Planejado
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 15</b> - 
+    <b>Na tabela 15, tem-se o planejado das atividades previstas para sétima entrega</b> - 
 </p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-|  | Início:  <br> Fim:  |  | Início:  <br> Fim:  |  |
+| Análise do resultados do protótipo em papel | Início: 25/05 <br> Fim: 25/05 | Gabriel B. Bertolazi e Ricardo | Início: 26/05 Fim: 27/05 | Pablo e Elias |
+| Planejamento do protótipo de alta fidelidade | Início: 25/05 <br> Fim: 27/05 | Pablo e Elias | Início: 28/05 Fim: 28/05 | Gabriel F. J. Silva e Cláudio |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 28/05 <br>Fim: 01/06 | Cláudio e Gabriel F. J. Silva  | Início: 02/06 Fim: 03/06 | Gabriel B. Bertolazi e Ricardo |
+| Gravação da apresentação | Início: 04/06 <br>Fim: 04/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 05/05 Fim: 05/05 |  Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo|
+| Correção pós apresentação | Início: 07/06 <br>Fim: 10/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 10/06 Fim: 12/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
-<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ### Executado
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 16</b> - Executado da entrega 6
+    <b>Na tabela 15, tem-se o executado das atividades previstas para sétima entrega</b> - 
 </p></font> 
 
 *EM BREVE...*
 
-## Entrega 8
+## Entrega 8 
  
 ### Planejado
 
@@ -222,9 +256,14 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-|  | Início:  <br> Fim:  |  | Início:  <br> Fim:  |  |
+| Desenvolvimento do protótipo de alta fidelidade | Início: 06/06 <br> Fim: 10/06 | Pablo e Ricardo | Início: 10/06 <br> Fim: 10/06 | Cláudio e Elias |
+| Avaliação do protótipo de alta fidelidade | Início: 11/06 <br> Fim: 15/06 | Cláudio e Elias | Início: 15/06 <br> Fim: 15/06 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
+| Ata de Reunião | Início: 12/06 <br>Fim: 12/06 | Ricardo | Início: 12/06   <br>Fim: 12/06 | Claúdio |
+| Relatos da avaliação do protótipo de alta fidelidade | Início: 16/06 <br> Fim: 17/06 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 17/06 <br> Fim: 17/06 | Pablo e Ricardo |
+| Gravação da Apresentação | Início: 18/06 <br> Fim: 19/06 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 19/06 <br> Fim: 19/06 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Correções | Início: 20/06 <br> Fim: 21/06 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 21/06 <br> Fim: 21/06 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
-<font size="2"><p style="text-align: center">Fonte:, 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ### Executado
 
@@ -241,7 +280,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 Na Tabela 19, temos o cronograma planejado para as atividades da última entrega.
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 19</b> - 
+    <b>Tabela 19</b> - Entrega final
 </p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -256,13 +295,17 @@ Na Tabela 19, temos o cronograma planejado para as atividades da última entrega
 
 ## Bibliografia
 
-> - https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital
-
+> - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: https://aprender3.unb.br/pluginfile.php/2844913/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf. Acesso em: 26/03/2024.
+> - Sommerville, Ian. Engenharia de Software 9ª Edição. Pearson 2017.
+Disponível em:
+<https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 30 de Março de 2024
+> - SALES, André Barros de. Ambientação - Plano de ensino. **Aprender 3**. Distrito Federal, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf. Acesso em: 26/03/2024.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 1.0 | 07/04/2024 | Criar cronograma planejado para entregas 2 e 8 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika)  |
+| 1.0 | 07/04/2024 | Criar cronograma planejado para entregas 2, 3 e 8 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika)  |
 | 1.1 | 08/04/2024 | Criar cronograma planejado para entregas 1 e final | [Pablo S. Costa](https://github.com/pabloheika) | [Gabriel F. J. Silva](https://github.com/MMcLovin)  |
-| 1.1 | 08/04/2024 | Criar cronograma planejado para entregas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | []()  |
+| 1.2 | 08/04/2024 | Criar cronograma planejado para entregas 4, 6.1 e 7 | [Gabriel B. Bertolazi](https://github.com/Bertolazi)|[Elias Oliveira](https://github.com/EliasOliver21) |
+| 1.3 | 08/04/2024 | Criar cronograma planejado para entregas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Gabriel B. Bertolazi](https://github.com/Bertolazi)  |
