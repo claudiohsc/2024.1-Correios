@@ -1,6 +1,6 @@
 # **Sites Avaliados**
 ## **Introdução** 
-Para aplicar os conhecimentos da disciplina de Interação Humano computador, avaliamos previamente alguns sites de software livre ou governamentais para compor o nosso projeto. As avaliações foram baseadas nas heurísticas de [Nielsen](https://www.nngroup.com/people/jakob-nielsen/) e estudadas a partir de Barbosa e Silva(2011)<a id="anchor_1" href="#REF1"><sup>1</sup></a>.
+Para aplicar os conhecimentos da disciplina de Interação Humano computador, avaliamos previamente alguns sites de software livre ou governamentais para compor o nosso projeto. As avaliações foram baseadas nas heurísticas de [Nielsen](https://www.nngroup.com/people/jakob-nielsen/) e estudadas a partir de Barbosa e Silva(2021)<a id="anchor_1" href="#REF1"><sup>1</sup></a>.
 
 | Aplicativo       | Descrição                                       |
 |------------------|---------------------------------------------------|
@@ -130,7 +130,7 @@ O [Portal NFS-e](https://www.nfse.gov.br/EmissorNacional/Login) é um sistema on
 ## **Núcleo de Seleção UEG**
 
 <center>
-<p> Figura 4: Portal NFS-e.</p> 
+<p> Figura 5: Núcleo de Seleção UEG.</p> 
 ![Nsueg](../assets/sites-avaliados/Logo-N_cleo_Sele__o_400x400.jpg)
 <p>Fonte: <a href="https://www.nucleodeselecao.ueg.br">Núcleo de Seleção UEG</a></p>
 </center>
@@ -185,7 +185,7 @@ Na avaliação heurística, foram encontradas as seguintes violações:
 
 ## Bibliografia
 
-> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.(2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 
 ## **Histórico de Versões**
@@ -194,3 +194,4 @@ Na avaliação heurística, foram encontradas as seguintes violações:
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   |Versão Inicial |   [Claudio Henrique](https://github.com/claudiohsc)   |   05/04/2024   | [Elias Faria](https://github.com/EliasOliver21)   |       05/04/2024      |
 |  1.1   |Modificação dos sites e links |   [Claudio Henrique](https://github.com/claudiohsc)   |   07/04/2024   | [Ricardo Augusto](https://github.com/avmricardo)  |       07/04/2024      |
+|  1.1   |Modificação da Bibliografia |   [Claudio Henrique](https://github.com/claudiohsc)   |   08/04/2024   | [Pablo S. Costa](https://github.com/pabloheika)  |       08/04/2024      |
