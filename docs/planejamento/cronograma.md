@@ -1,5 +1,3 @@
-## Cronograma
-
 ## Sobre o cronograma
 
 O cronograma tem como objetivo organizar todas as tarefas que devem ser realizadas durante a disciplina de Interação Humano Computador. As atividades foram classificadas de acordo com suas etapas específicas. Além disso, os cronogramas de execultado serão atualizados ao longo do tempo.
