@@ -60,4 +60,4 @@ Utilizando o método da avaliação heurística, guiada pelo framework DECIDE, e
 
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 08 / 04 / 2024 | [Ricardo Augusto](https://www.github.com/avmricardo) | Criação do documento | 
+|`1.0`| 08 / 04 / 2024 | [Ricardo Augusto](https://www.github.com/avmricardo) | Criação do documento | [Claudio Henrique](https://github.com/claudiohsc)
