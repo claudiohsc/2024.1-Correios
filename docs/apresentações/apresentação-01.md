@@ -15,4 +15,4 @@ Esta página tem como foco o vídeo de apresentação da etapa 01 do projeto. A 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 08/04/2024 | Criação do artefato | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Ricardo Augusto](https://www.github.com/avmricardo)
-`1.1` | 08/04/2024 | Adiciona link para apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | 
+`1.1` | 08/04/2024 | Adiciona link para apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://www.github.com/pabloheika)
