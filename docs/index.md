@@ -1,4 +1,19 @@
-# Grupo 3: Interação Humano-Computador
+# Correios
+
+## Introdução
+
+<div style="text-align: center">
+<p> Tabela 1: Logo dos Correios. </p>
+</div>
+
+<center><br><img style="border: 1px solid white; border-radius: 10%" src="assets/correios-logo.png" width = 40%></center>
+
+<div style="text-align: center">
+<p> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa.</a> </p>
+</div>
+
+Esta página possui o objetivo de armazenar a documentação dos artefatos estudados pelo grupo 3 na disciplina Interação Humano Computador da Faculdade do Gama da Universidade de Brasília (FGA-UnB) durante o 1º semestre de 2024, ministrada pelo professor André Barros. O site que será avaliado é o site dos Correios, uma plataforma online oficial que oferece uma variedade de serviços postais, incluindo rastreamento de encomendas, cálculo de preços de envio e informações sobre agências e produtos disponíveis.
+
 
 ## Integrantes
 
@@ -13,7 +28,12 @@
   </tr>
 </table>
 
+## Bibliografia
+
+> CORREIOS. Identidade Corporativa. Disponível em: <https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa>. Acesso em: 7 de Abril de 2024.
+
 ## Histórico de versões
 | Versão | Data | Descrição | Autor | Revisor
 | :-: | :-: | :-: | :-: | :-:
 |`1.0`| 02 / 04 / 2024 | Criação do documento | [Ricardo Augusto](https://github.com/avmricardo) | [Elias Oliveira](https://github.com/EliasOliver21)
+|`1.1`| 07 / 04 / 2024 | Adicionando site escolhido | [Ricardo Augusto](https://github.com/avmricardo) | [Claudio Henrique](https://github.com/claudiohsc)
