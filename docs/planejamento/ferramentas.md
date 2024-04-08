@@ -62,5 +62,5 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | -------------------- | ----------------------------------------------- | ----------- |
-| `1.0`  | 08/04/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) | - |  
+| `1.0`  | 08/04/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) | [Ricardo Augusto](https://www.github.com/avmricardo) |  
 
