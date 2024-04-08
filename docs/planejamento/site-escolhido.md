@@ -54,10 +54,13 @@ Utilizando o método da avaliação heurística, guiada pelo framework DECIDE, e
 ## Bibliografia
 
 > 1. CORREIOS. Correios. Disponível em: <https://www.correios.com.br/>. Acesso em: 8 de Abril de 2024.
-> 2. BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. [S. l.]: Elsevier Brasil, 2010. 
+> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) 
+Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-
+19677-1.
 
 ## Histórico de versão
 
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 08 / 04 / 2024 | [Ricardo Augusto](https://www.github.com/avmricardo) | Criação do documento | [Claudio Henrique](https://github.com/claudiohsc)
+|`1.1`| 08 / 04 / 2024 | [Ricardo Augusto](https://www.github.com/avmricardo) | Ajuste de bibliografia |  [Pablo S. Costa](https://www.github.com/pabloheika)
