@@ -27,7 +27,7 @@
 ### Ciclo de Vida em Estrela
 
 <center>
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Ciclo de Vida em Estrela.</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - Ciclo de Vida em Estrela.</p></font>
 
 ![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-design/ciclo-estrela.png)
 
@@ -57,12 +57,12 @@ do projeto (BARBOSA e SILVA, 2021, p.116). A lista abaixo apresenta as atividade
 
 ### Engenharia de Usabilidade de Mayhew
 <p style="text-align: justify;">&emsp;&emsp;
-A Engenharia de Usabilidade de Mayhew é um modelo estruturado para projetar e avaliar a usabilidade de sistemas interativos, esse ciclo de vida está representado na figura 1.
+A Engenharia de Usabilidade de Mayhew é um modelo estruturado para projetar e avaliar a usabilidade de sistemas interativos, esse ciclo de vida está representado na figura 3.
 
 </p>
 
 <center>
-<font size="3"><p style="text-align: center"><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
 
 ![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-design/processo-mayhew.png)
 
