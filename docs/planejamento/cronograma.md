@@ -263,5 +263,6 @@ Na Tabela 19, temos o cronograma planejado para as atividades da última entrega
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 1.0 | 07/04/2024 | Criar cronograma planejado para entregas 2 e 5 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika)  |
+| 1.0 | 07/04/2024 | Criar cronograma planejado para entregas 2 e 8 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika)  |
 | 1.1 | 08/04/2024 | Criar cronograma planejado para entregas 1 e final | [Pablo S. Costa](https://github.com/pabloheika) | [Gabriel F. J. Silva](https://github.com/MMcLovin)  |
+| 1.1 | 08/04/2024 | Criar cronograma planejado para entregas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | []()  |
