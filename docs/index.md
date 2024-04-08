@@ -28,6 +28,10 @@ Esta página possui o objetivo de armazenar a documentação dos artefatos estud
   </tr>
 </table>
 
+## Bibliografia
+
+> CORREIOS. Identidade Corporativa. Disponível em: <https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa>. Acesso em: 7 de Abril de 2024.
+
 ## Histórico de versões
 | Versão | Data | Descrição | Autor | Revisor
 | :-: | :-: | :-: | :-: | :-:
