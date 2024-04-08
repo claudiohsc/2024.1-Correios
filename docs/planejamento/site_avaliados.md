@@ -14,11 +14,12 @@ Para aplicar os conhecimentos da disciplina de Interação Humano computador, av
 ***
 ## **Biblioteca Nacional Digital**
 
+
 <div align="center">
-    <img src="../assets/sites-avaliados/BnDigitalLogo.png" width = 170/>
+    ![Biblioteca](../assets/sites-avaliados/BnDigitalLogo.png)
     <p> Figura 1: Imagem Biblioteca Nacional Digital. Fonte: 
         <a href="https://bndigital.bn.gov.br">Biblioteca Nacional Digital</a>
-    </p> 
+    </p>
 </div>
 
 ### Sobre o site
@@ -41,7 +42,7 @@ sempre. Isso faz com que o usuário perca o interesse em ver novas funções den
 ## **Cebraspe**
 
 <div align="center">
-    <img src="../assets/sites-avaliados/logo-cebraspe.png" width = 170/>
+    ![Cebraspe](../assets/sites-avaliados/logo-cebraspe.png)
     <p> Figura 2: Imagem Cebraspe. Fonte: 
         <a href="https://www.cebraspe.org.br">Cebraspe</a>
     </p> 
@@ -69,7 +70,7 @@ distinguir onde o mesmo começa e acaba.
 ## **Consumidor.gov.br**
 
 <div align="center">
-    <img src="../assets/sites-avaliados/logo-nova-consumidor.png" width = 200px/>
+    ![Consumidor](../assets/sites-avaliados/logo-nova-consumidor.png)
     <p> Figura 3: Consumidor.gov.br. Fonte: <a href="https://www.consumidor.gov.br/">Consumidor.gov.br</a></p> 
 </div>
 
@@ -100,7 +101,7 @@ mesmo utilizando uma rede de 800Mb. Durante esse carregamento não há feedback 
 ## **NFS-e**
 
 <div align="center">
-    <img src="../assets/sites-avaliados/logo-nfse.png" width = 200px/>
+    ![Nsfe](../assets/sites-avaliados/logo-nfse.png)
     <p> Figura 4: Portal NFS-e. Fonte: <a href="https://www.nfse.gov.br/EmissorNacional/Login">NFS-e</a></p> 
 </div>
 
@@ -124,7 +125,7 @@ O [Portal NFS-e](https://www.nfse.gov.br/EmissorNacional/Login) é um sistema on
 ## **Núcleo de Seleção UEG**
 
 <div align="center">
-    <img src="../assets/sites-avaliados/Logo-N_cleo_Sele__o_400x400.jpg" width = 150px/>
+    ![Nsueg](../assets/sites-avaliados/Logo-N_cleo_Sele__o_400x400.jpg)
     <p> Figura 5: Núcleo de Seleção UEG. Fonte: <a href="https://www.nucleodeselecao.ueg.br">Núcleo de Seleção UEG</a></p> 
 </div>
 
@@ -155,7 +156,7 @@ O [Núcleo de Seleção UEG](https://www.nucleodeselecao.ueg.br) é um setor da 
 ## **Stack Overflow**
 
 <div align="center">
-    <img src="../assets/sites-avaliados/Stack_Overflow_logo.png" width = 200px/>
+    ![stackoverflow](../assets/sites-avaliados/Stack_Overflow_logo.png)
     <p> Figura 6: Stack Overflow. Fonte: <a href="https://stackoverflow.com">Stack Overflow</a></p> 
 </div>
 
