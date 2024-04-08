@@ -195,3 +195,4 @@ Na avaliação heurística, foram encontradas as seguintes violações:
 |`1.0`| 05/04/2024 | Versão Inicial | [Claudio Henrique](https://github.com/claudiohsc) | [Elias Faria](https://github.com/EliasOliver21) |
 |`1.1`| 07/04/2024 | Modificação dos sites e links | [Claudio Henrique](https://github.com/claudiohsc) |  [Ricardo Augusto](https://github.com/avmricardo)
 |`1.2`| 08/04/2024 | Modificação da Bibliografia | [Claudio Henrique](https://github.com/claudiohsc) | [Pablo S. Costa](https://github.com/pabloheika)
+|`1.3`| 08/04/2024 | Modificação do histórico de versões | [Claudio Henrique](https://github.com/claudiohsc) | [Pablo S. Costa](https://github.com/pabloheika)
