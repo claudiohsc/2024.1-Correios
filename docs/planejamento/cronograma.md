@@ -327,4 +327,4 @@ Disponível em:
 | 1.1 | 08/04/2024 | Criar cronograma planejado para entregas 1 e final | [Pablo S. Costa](https://github.com/pabloheika) | [Gabriel F. J. Silva](https://github.com/MMcLovin)  |
 | 1.2 | 08/04/2024 | Criar cronograma planejado para entregas 4, 6.1 e 7 | [Gabriel B. Bertolazi](https://github.com/Bertolazi)|[Elias Oliveira](https://github.com/EliasOliver21) |
 | 1.3 | 08/04/2024 | Criar cronograma planejado para entregas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Gabriel B. Bertolazi](https://github.com/Bertolazi), [Ricardo Augusto](https://www.github.com/avmricardo)  |
-| 1.1 | 08/04/2024 | Criar cronograma executado para entrega 1 | [Pablo S. Costa](https://github.com/pabloheika) | - |
+| 1.4 | 08/04/2024 | Criar cronograma executado para entrega 1 | [Pablo S. Costa](https://github.com/pabloheika) | - |
