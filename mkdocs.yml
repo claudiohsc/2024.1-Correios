@@ -15,6 +15,7 @@ nav:
       - Sites Avaliados: planejamento/site_avaliados.md
       - Site Escolhido: planejamento/site-escolhido.md
       - Ferramentas do projeto: planejamento/ferramentas.md
+      - Cronograma: planejamento/cronograma.md
       - Processo de Design: planejamento/processo-design.md
 extra_css:
   - stylesheets/extra.css
