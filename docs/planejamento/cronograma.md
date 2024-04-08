@@ -34,7 +34,7 @@ Na Tabela 1, tem-se o planejado para todas as atividades previstas da primeira e
 Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 2</b> - Planejamento do Projeto 
+    <b>Tabela 2</b> - Executado do projeto em planejamento. 
 </p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
