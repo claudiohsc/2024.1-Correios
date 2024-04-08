@@ -56,7 +56,10 @@ do projeto (BARBOSA e SILVA, 2021, p.116). A lista abaixo apresenta as atividade
 
 
 ### Engenharia de Usabilidade de Mayhew
-<p style="text-align: justify;">&emsp;&emsp;Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Esse ciclo de vida está melhor ilustrado na figura 1:</p>
+<p style="text-align: justify;">&emsp;&emsp;
+A Engenharia de Usabilidade de Mayhew é um modelo estruturado para projetar e avaliar a usabilidade de sistemas interativos, esse ciclo de vida está representado na figura 1.
+
+</p>
 
 <center>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
@@ -66,14 +69,31 @@ do projeto (BARBOSA e SILVA, 2021, p.116). A lista abaixo apresenta as atividade
 <figcaption><font size="3">Fonte: BARBOSA e SILVA, 2021, p.120.</font></figcaption>
 </center>
 
+Desenvolvido por Deborah Mayhew, esse modelo é composto por três etapas fundamentais:
+
 #### Análise de requisitos
-<p style="text-align: justify;">&emsp;&emsp;Nessa fase, são definidas as metas de usabilidade considerando aspectos como o perfil dos usuários, a análise das tarefas a serem realizadas, as possibilidades e limitações da plataforma em que o sistema será executado, e princípios gerais de design de IHC. Para facilitar a verificação dessas metas em etapas posteriores do processo de desenvolvimento, é comum apresentá-las em guias de estilo que incluem diretrizes relacionadas a diversos elementos da interface do usuário, como layout, cores, fontes, imagens, ícones e sons.</p>
+<p style="text-align: justify;">&emsp;&emsp;
+Nesta fase, os engenheiros de usabilidade identificam e definem as necessidades dos usuários finais do sistema. Isso é feito através de uma variedade de métodos, como entrevistas, observações, questionários e análise de tarefas. O objetivo é compreender quem são os usuários, quais são suas metas e como eles irão interagir com o sistema. 
+</p>
+<p style="text-align: justify;">&emsp;&emsp;
+Além disso, nesta etapa, são identificadas as restrições e os requisitos técnicos e de negócios que influenciarão o design do sistema. Isso pode incluir restrições de hardware e software, prazos, orçamentos e considerações de marca.
+</p>
 
 #### Design, avaliação, desenvolvimento
-<p style="text-align: justify;">&emsp;&emsp;Essa fase busca criar uma interface que atenda às metas de usabilidade definidas na fase anterior. Esse processo envolve a criação da solução em três níveis de detalhe. No primeiro nível, o designer deve repensar a execução das tarefas e criar protótipos de baixa fidelidade para avaliação. No segundo nível, designer estabelece padrões de design e constrói protótipos de média fidelidade para avaliação. Já no terceiro nível, o designer faz o projeto detalhado da interface, com alta fidelidade, para implementação.</p>
+<p style="text-align: justify;">&emsp;&emsp;
+Após compreender as necessidades e os requisitos dos usuários, os engenheiros de usabilidade passam para a fase de design, avaliação e desenvolvimento. Nesta etapa, são criados os artefatos de design, como protótipos e interfaces.
+</p>
+<p style="text-align: justify;">&emsp;&emsp;
+Durante o processo de design, os engenheiros de usabilidade se concentram em criar uma interface que seja fácil de usar, eficiente e satisfatória para os usuários. Eles também garantem que o design seja consistente com as expectativas dos usuários e com as melhores práticas de design de interação.
+</p>
 
 #### Instalação
-<p style="text-align: justify;">&emsp;&emsp;Essa fase envolve a coleta de feedback dos usuários que já usaram o sistema por algum tempo, de forma a melhorar versões futuras deste ou demonstrar a necessidade de desenvolvimento de novos sistemas.</p>
+<p style="text-align: justify;">&emsp;&emsp;
+Na fase final, o sistema interativo é submetido a testes de usabilidade para avaliar sua eficácia, eficiência e satisfação do usuário. Isso pode ser feito através de métodos como testes de usabilidade, análise heurística, avaliação de especialistas e feedback dos usuários.
+</p>
+<p style="text-align: justify;">&emsp;&emsp;
+Com base nos resultados da avaliação de usabilidade, são feitas modificações no design do sistema, se necessário, para melhorar sua usabilidade. Esse ciclo de avaliação e melhoria pode ser repetido várias vezes até que o sistema atinja os padrões desejados de usabilidade.
+</p>
 
 ## Motivações para a escolha
 <p style="text-align: justify;">&emsp;&emsp;O grupo fez uma análise dos modelos citados anteriormente, e foi discutido suas vantagens e desvantagens para a aplicação no projeto. A conclusão foi que o Ciclo de Vida de Mayhew seria o melhor modelo por conta de suas etapas serem detalhadas e bem definidas, assim servindo de guia para uma maior assertividade no desenvolvimento do projeto.</p>
