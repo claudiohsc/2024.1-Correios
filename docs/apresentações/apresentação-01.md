@@ -14,4 +14,4 @@ Esta página tem como foco o vídeo de apresentação da etapa 01 do projeto. A 
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 08/04/2024 | Criação do artefato | [Gabriel F. J. Silva](https://github.com/MMcLovin) | 
+`1.0` | 08/04/2024 | Criação do artefato | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Ricardo Augusto](https://www.github.com/avmricardo)
