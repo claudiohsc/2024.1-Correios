@@ -8,10 +8,13 @@ nav:
   - Atas: 
     - Ata1: "atas/ata1.md"
     - Ata2: "atas/ata2.md"
+  - Apresentações:
+    - Apresentação 01: apresentações/apresentação-01.md
   - Planejamento:
-      - Heatmap: planejamento/heatmap.md
-      - Sites Avaliados: planejamento/site_avaliados.md
-      - Processo de Design: planejamento/processo-design.md
+    - Heatmap: planejamento/heatmap.md
+    - Sites Avaliados: planejamento/site_avaliados.md
+    - Site Escolhido: planejamento/site-escolhido.md
+    - Processo de Design: planejamento/processo-design.md
 theme:
   language: pt-BR
   name: material
