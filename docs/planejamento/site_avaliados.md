@@ -60,7 +60,7 @@ não recebe nenhum alerta de erro.
 - *Estética e design minimalista*: na página de acesso aos boletins informativos - com informações dos
 candidatos de processos passados - os botões não se encontram de forma alinhada. 
 Na página de inscrição, a cor que delimita o campo de texto não possui contraste suficiente para
-distinguir onde o mesmo começa e acaba
+distinguir onde o mesmo começa e acaba.
 
 [Link da avaliação detalhada](../assets/avaliacoes/Cebraspe%20-%20ProjetoParteIndividualMetodoeAvalição.pdf)
 
@@ -148,7 +148,7 @@ O [Núcleo de Seleção UEG](https://www.nucleodeselecao.ueg.br) é um setor da 
  se tornar um grande ou pequeno problema. O sistema poderia oferecer um checkbox para manter o login
  ou lembrar os dados de acesso
 
-[Link da avaliação detalhada](../assets/avaliacoes/)
+[Link da avaliação detalhada](../assets/avaliacoes/NSUEG-ProjetoParteIndividualMetodoeAvalição.pdf)
 
 ***
 
