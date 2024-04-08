@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Artefato destinado a explicar o site escolhido para o grupo para o projeto da dsciplina, descrevendo suas principais funcionalidades, o motivo da escolha do site, os critérios avaliados, os termos de uso e o histórico de versão do artefato.
+Artefato destinado a explicar o site escolhido pelo o grupo para o projeto da disciplina, descrevendo suas principais funcionalidades, o motivo da escolha do site, os critérios avaliados, os termos de uso e o histórico de versão do artefato.
 
 ## Correios
 
@@ -22,7 +22,6 @@ O site dos Correios é uma plataforma digital que oferece uma gama de serviços 
 ## Critérios de decisão
 
 - Não ter sido utilizado na disciplina Interação Humano Computador;
-- Não possuir restrições para sua utilização no projeto;
 - Acesso fácil aos usuários do site;
 - Disponibilidade de informações.
 
@@ -35,10 +34,6 @@ O site dos Correios é uma plataforma digital que oferece uma gama de serviços 
 - Solicitação de serviços de entrega expressa: Os usuários podem solicitar serviços de entrega rápida, como Sedex e PAC, diretamente pelo site;
 
 - Localização de agências: Os usuários podem encontrar agências dos Correios próximas a sua localização, facilitando o acesso aos serviços oferecidos pela empresa.
-
-## Termos de uso
-
-Para que o projeto seja realizado de acordo com as normas éticas, foi necessário fazer uma verificação dos [termos de uso](termodeuso.md) do site, para garantir que a análise que será feita ao longo do projeto não viole alguma diretriz do site escolhido.
 
 ## Bibliografia
 
