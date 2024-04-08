@@ -128,7 +128,13 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-|  | Início:  <br> Fim:  |  | Início:  <br> Fim:  |  |
+| Relato dos resultados do Story Board | Início: 09/05  <br> Fim: 11/05 | Claúdio, Elias | Início: 12/05 <br> Fim: 12/05 | Gabriel F. J. Silva |
+| Relato da Análise de tarefas | Início: 14/05 <br> Fim: 16/05 | Gabriel F. J. Silva, Pablo | Início: 17/05 <br> Fim: 17/05 | Pablo |
+| Planejamento da Avaliação do Protótipo de Papel | Início: 12/05 <br> Fim: 14/05 | Ricardo, Gabriel B. Bertolazi | Início: 15/05 <br> Fim: 15/05 | Ricardo |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: 14/05 <br> Fim: 16/05 | Claúdio, Elias | Início: 17/05 <br> Fim: 17/05 |  Gabriel B. Bertolazi  |
+| Gravação da Apresentação | Início: 18/05 <br> Fim: 18/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 19/05 <br> Fim: 20/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Correção pós apresentação | Início: 22/05 <br> Fim: 23/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 24/05 <br> Fim: 24/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+
 
 <font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
 
@@ -245,7 +251,7 @@ Na Tabela 19, temos o cronograma planejado para as atividades da última entrega
 
 ## Bibliografia
 
->
+> - https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital
 
 
 ## Histórico de Versões
