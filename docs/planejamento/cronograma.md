@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Cronograma
 
 ## Sobre o cronograma
@@ -204,6 +203,14 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
+| Verificação de artefato: Início | Início: 29/05 <br> Fim: 30/05 | Claúdio, Elias | Início: 30/05 <br> Fim: 30/05 | Gabriel F. J. Silva |
+| Verificação de artefato: Apresentação | Início: 30/05 <br> Fim: 01/06 | Gabriel F. J. Silva, Pablo | Início: 01/06 <br> Fim: 01/06 | Ricardo |
+| Verificação de artefato: Ferramentas| Início: 31/05 <br> Fim: 01/06 | Ricardo, Gabriel B. Bertolazi | Início: 02/06 <br> Fim: 02/06 | Claúdio |
+| Verificação de artefato: Processo de design| Início: 02/06 <br> Fim: 04/06 | Claúdio, Elias | Início: 04/06 <br> Fim: 04/06 | Gabriel B. Bertolazi |
+| Verificação de artefato: Cronograma| Início: 04/06 <br> Fim: 06/06 | Gabriel F. J. Silva, Pablo | Início: 07/06 <br> Fim: 07/06 | Claúdio |
+| Verificação de artefato: Atas| Início: 06/06 <br> Fim: 07/06 | Ricardo, Gabriel B. Bertolazi | Início: 08/06 <br> Fim: 08/06 | Elias |
+| Gravação da apresentação | Início: 10/06 <br> Fim: 10/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 11/06 <br> Fim: 11/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Correção pós apresentação | Início: 14/06 <br> Fim: 15/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 15/06 <br> Fim: 15/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
 <font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
 

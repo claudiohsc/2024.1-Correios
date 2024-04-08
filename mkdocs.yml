@@ -9,6 +9,7 @@ nav:
     - Ata1: "atas/ata1.md"
   - Planejamento:
       - Heatmap: planejamento/heatmap.md
+      - Cronograma : planejamento/cronograma.md
       - Sites Avaliados: planejamento/site_avaliados.md
       - Processo de Design: planejamento/processo-design.md
       - Cronograma: "planejamento/cronograma.md"
