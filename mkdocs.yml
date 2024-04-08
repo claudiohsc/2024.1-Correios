@@ -7,12 +7,12 @@ nav:
   - Inicio: "index.md"
   - Atas: 
     - Ata1: "atas/ata1.md"
+  - Apresentações:
+      - Apresentação 01: apresentações/apresentação-01.md
   - Planejamento:
       - Heatmap: planejamento/heatmap.md
       - Sites Avaliados: planejamento/site_avaliados.md
       - Processo de Design: planejamento/processo-design.md
-  - Apresentações:
-      - Apresentação 01: apresentações/apresentação-01.md
 theme:
   language: pt-BR
   name: material
