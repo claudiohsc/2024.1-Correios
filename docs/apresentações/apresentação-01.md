@@ -1,7 +1,7 @@
 # Apresentação 01:
 
 ## Objetivo
-Esta página tem como foco o vídeo de apresentação da etapa 01 do projeto. A apresentação ocorreu no dia 01/04/2024.
+Esta página tem como foco o vídeo de apresentação da etapa 01 do projeto. A gravação da apresentação ocorreu no dia 08/04/2024.
 
 ## Apresentação
 
