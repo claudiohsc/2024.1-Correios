@@ -185,7 +185,7 @@ Na avaliação heurística, foram encontradas as seguintes violações:
 
 ## Bibliografia
 
-> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2021.
+> <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J.(2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 
 ## **Histórico de Versões**
@@ -194,3 +194,4 @@ Na avaliação heurística, foram encontradas as seguintes violações:
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   |Versão Inicial |   [Claudio Henrique](https://github.com/claudiohsc)   |   05/04/2024   | [Elias Faria](https://github.com/EliasOliver21)   |       05/04/2024      |
 |  1.1   |Modificação dos sites e links |   [Claudio Henrique](https://github.com/claudiohsc)   |   07/04/2024   | [Ricardo Augusto](https://github.com/avmricardo)  |       07/04/2024      |
+|  1.1   |Modificação da Bibliografia |   [Claudio Henrique](https://github.com/claudiohsc)   |   08/04/2024   | [Pablo Heika](https://github.com/pabloheika)  |       08/04/2024      |
