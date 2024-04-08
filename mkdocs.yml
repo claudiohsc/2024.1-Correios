@@ -2,11 +2,13 @@ repo_url: https://github.com/Interacao-Humano-Computador/2024.1-Grupo03
 repo_name: 2024.1-Grupo_03
 site_url: https://github.com/Interacao-Humano-Computador/2024.1-Grupo03
 
-site_name: Interação Humano Computador
+site_name: Correios
 nav: 
   - Inicio: "index.md"
   - Atas: 
     - Ata1: "atas/ata1.md"
+  - Apresentações:
+      - Apresentação 01: apresentações/apresentação-01.md
   - Planejamento:
       - Heatmap: planejamento/heatmap.md
       - Sites Avaliados: planejamento/site_avaliados.md
@@ -14,23 +16,20 @@ nav:
 theme:
   language: pt-BR
   name: material
-  logo: imagens/inss-logo.png
+  favicon: assets/correios_icon.svg
+  logo: assets/correios.svg
   features:
     - navigation.tabs
   palette:
-
-    # Palette toggle for light mode
-    
+  
     - scheme: default
-      primary: orange
+      primary: amber
       toggle:
-        icon: material/lightbulb
+        icon: material/eye
         name: Mudar para o modo escuro
 
-    # Palette toggle for dark mode
-        
     - scheme: slate
-      primary: teal
+      primary: blue
       toggle:
-        icon: material/lightbulb
+        icon: material/eye-outline
         name: Mudar para o modo claro
