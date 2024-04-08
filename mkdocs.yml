@@ -1,15 +1,19 @@
 repo_url: https://github.com/Interacao-Humano-Computador/2024.1-Grupo03
-repo_name: 2024.1-Grupo_03
+repo_name: 2024.1-Correios
 site_url: https://github.com/Interacao-Humano-Computador/2024.1-Grupo03
 
 site_name: Correios
 nav: 
-  - Inicio: "index.md"
+  - Equipe: "index.md"
   - Atas: 
     - Ata1: "atas/ata1.md"
+    - Ata2: "atas/ata2.md"
+  - Apresentações:
+    - Apresentação 01: apresentações/apresentação-01.md
   - Planejamento:
       - Heatmap: planejamento/heatmap.md
       - Sites Avaliados: planejamento/site_avaliados.md
+      - Site Escolhido: planejamento/site-escolhido.md
       - Ferramentas do projeto: planejamento/ferramentas.md
       - Processo de Design: planejamento/processo-design.md
 extra_css:
