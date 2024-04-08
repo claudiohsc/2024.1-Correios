@@ -61,9 +61,9 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | Elicitação: Brainstorm | Início: 15/04 <br> Fim: 18/04 | Cláudio e Elias | Início: 18/04 <br> Fim: 18/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
 | Elicitação: Questionário | Início: 15/04 <br> Fim: 18/04  | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 18/04 <br> Fim: 18/04 | Pablo e Ricardo |
 | Elicitação: Estudos de campo | Início: 15/04 <br> Fim: 18/04  | Pablo e Ricardo | Início: 18/04 <br> Fim: 18/04 | Cláudio e Elias |
-| Cenários | Início: 18/04 <br> Fim: 19/04 | Cláudio e Elias | Início: 19/04 <br> Fim: 19/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
-| Análise de Tarefas: CPM-GOMS | Início: 20/04 <br> Fim: 21/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 21/04 <br> Fim: 21/04 | Pablo e Ricardo |
-| Análise de Tarefas: HTA | Início: 20/04 <br> Fim: 21/04 | Pablo e Ricardo | Início: 21/04 <br> Fim: 21/04 | Cláudio e Elias |
+| Análise de Tarefas: CPM-GOMS | Início: 19/04 <br> Fim: 20/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 20/04 <br> Fim: 20/04 | Pablo e Ricardo |
+| Análise de Tarefas: HTA | Início: 19/04 <br> Fim: 20/04 | Pablo e Ricardo | Início: 20/04 <br> Fim: 20/04 | Cláudio e Elias |
+| Cenários | Início: 20/04 <br> Fim: 21/04 | Cláudio e Elias | Início: 21/04 <br> Fim: 21/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
 | Gravação da Apresentação | Início: 21/04 <br> Fim: 22/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 22/04 <br> Fim: 22/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Correções | Início: 23/04 <br> Fim: 24/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 24/04 <br> Fim: 24/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
@@ -83,9 +83,13 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-|  | Início:  <br> Fim:  |  | Início:  <br> Fim:  |  |
+| Elaborar princípios gerais do projeto | Início: 22/04 <br> Fim: 28/04 | Cláudio e Elias | Início: 28/04 <br> Fim: 28/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
+| Estabelecer metas de usabilidade | Início: 22/04  <br> Fim: 28/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 28/04 <br> Fim: 28/04 | Pablo e Ricardo |
+| Elaborar guia de estilo | Início: 22/04 <br> Fim: 28/04 | Pablo e Ricardo | Início: 28/04 <br> Fim: 28/04 | Cláudio e Elias |
+| Gravação da Apresentação | Início: 29/04 <br> Fim: 30/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 30/04 <br> Fim: 30/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Correções | Início: 30/04 <br> Fim: 01/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 01/05 <br> Fim: 01/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
-<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ### Executado
 
