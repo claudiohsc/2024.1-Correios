@@ -15,12 +15,12 @@ Para aplicar os conhecimentos da disciplina de Interação Humano computador, av
 ## **Biblioteca Nacional Digital**
 
 
-<div align="center">
-    ![Biblioteca](../assets/sites-avaliados/BnDigitalLogo.png)
-    <p> Figura 1: Imagem Biblioteca Nacional Digital. Fonte: 
-        <a href="https://bndigital.bn.gov.br">Biblioteca Nacional Digital</a>
-    </p>
-</div>
+<center>
+<p> Figura 1: Imagem Biblioteca Nacional Digital.</p> 
+![Biblioteca](../assets/sites-avaliados/BnDigitalLogo.png)
+<p>Fonte: <a href="https://bndigital.bn.gov.br">Biblioteca Nacional Digital</a></p>
+</center>
+
 
 ### Sobre o site
 
@@ -41,12 +41,13 @@ sempre. Isso faz com que o usuário perca o interesse em ver novas funções den
 
 ## **Cebraspe**
 
-<div align="center">
-    ![Cebraspe](../assets/sites-avaliados/logo-cebraspe.png)
-    <p> Figura 2: Imagem Cebraspe. Fonte: 
-        <a href="https://www.cebraspe.org.br">Cebraspe</a>
-    </p> 
-</div>
+<center>
+<p> Figura 2: Imagem Cebraspe.</p> 
+![Cebraspe](../assets/sites-avaliados/logo-cebraspe.png)
+<p>Fonte: <a href="https://www.cebraspe.org.br">Cebraspe</a></p>
+</center>
+
+
 
 ### Sobre o site
 
@@ -69,10 +70,12 @@ distinguir onde o mesmo começa e acaba.
 
 ## **Consumidor.gov.br**
 
-<div align="center">
-    ![Consumidor](../assets/sites-avaliados/logo-nova-consumidor.png)
-    <p> Figura 3: Consumidor.gov.br. Fonte: <a href="https://www.consumidor.gov.br/">Consumidor.gov.br</a></p> 
-</div>
+<center>
+<p> Figura 3: Consumidor.gov.br.</p> 
+![Consumidor](../assets/sites-avaliados/logo-nova-consumidor.png)
+<p>Fonte: <a href="https://www.consumidor.gov.br/">Consumidor.gov.br</a></p>
+</center>
+
 
 ### **Sobre o site**
 O [Consumidor.gov.br](https://www.consumidor.gov.br/) é um serviço público que facilita a comunicação direta entre consumidores e empresas para resolver conflitos de consumo pela internet. Administrado pela Secretaria Nacional do Consumidor (Senacon) do Ministério da Justiça, é monitorado por diversos órgãos, como Procons, Defensorias e Ministérios Públicos, além da sociedade em geral. Baseado na transparência, controle social e acesso à informação, promove uma nova dinâmica nas relações entre consumidores, fornecedores e o Estado. A participação das empresas é condicionada à adesão formal, comprometendo-se a resolver os problemas apresentados. 
@@ -100,10 +103,12 @@ mesmo utilizando uma rede de 800Mb. Durante esse carregamento não há feedback 
 
 ## **NFS-e**
 
-<div align="center">
-    ![Nsfe](../assets/sites-avaliados/logo-nfse.png)
-    <p> Figura 4: Portal NFS-e. Fonte: <a href="https://www.nfse.gov.br/EmissorNacional/Login">NFS-e</a></p> 
-</div>
+<center>
+<p> Figura 4: Portal NFS-e.</p> 
+![Nsfe](../assets/sites-avaliados/logo-nfse.png)
+<p>Fonte: <a href="https://www.nfse.gov.br/EmissorNacional/Login">NFS-e</a></p>
+</center>
+
 
 ### **Sobre o site**
 O [Portal NFS-e](https://www.nfse.gov.br/EmissorNacional/Login) é um sistema online para geração de Nota Fiscal de Serviços Eletrônica (NFS-e) que é um documento digital gerado e armazenado eletronicamente em Ambiente Nacional pela Receita Federal do Brasil (RFB). É utilizada para registrar operações de prestação de serviços. A geração da NFS-e é automatizada através do Portal disponibilizado aos contribuintes. Os dados necessários são informados, analisados, processados e validados, resultando no documento.
@@ -124,10 +129,13 @@ O [Portal NFS-e](https://www.nfse.gov.br/EmissorNacional/Login) é um sistema on
 
 ## **Núcleo de Seleção UEG**
 
-<div align="center">
-    ![Nsueg](../assets/sites-avaliados/Logo-N_cleo_Sele__o_400x400.jpg)
-    <p> Figura 5: Núcleo de Seleção UEG. Fonte: <a href="https://www.nucleodeselecao.ueg.br">Núcleo de Seleção UEG</a></p> 
-</div>
+<center>
+<p> Figura 4: Portal NFS-e.</p> 
+![Nsueg](../assets/sites-avaliados/Logo-N_cleo_Sele__o_400x400.jpg)
+<p>Fonte: <a href="https://www.nucleodeselecao.ueg.br">Núcleo de Seleção UEG</a></p>
+</center>
+
+
 
 ### **Sobre o site**
 O [Núcleo de Seleção UEG](https://www.nucleodeselecao.ueg.br) é um setor da Universidade Estadual de Goiás (UEG) encarregado de planejar, executar e coordenar processos seletivos e concursos públicos tanto para instituições públicas quanto privadas. Possui responsabilidades de aprimorar continuamente os meios, métodos e suporte tecnológico para suas atividades, visando garantir segurança especializada, informação e profissionais qualificados.
@@ -155,10 +163,12 @@ O [Núcleo de Seleção UEG](https://www.nucleodeselecao.ueg.br) é um setor da 
 
 ## **Stack Overflow**
 
-<div align="center">
-    ![stackoverflow](../assets/sites-avaliados/Stack_Overflow_logo.png)
-    <p> Figura 6: Stack Overflow. Fonte: <a href="https://stackoverflow.com">Stack Overflow</a></p> 
-</div>
+<center>
+<p> Figura 6: Stack Overflow.</p> 
+![stackoverflow](../assets/sites-avaliados/Stack_Overflow_logo.png)
+<p>Fonte: <a href="https://stackoverflow.com">Stack Overflow</a></p>
+</center>
+
 
 ### **Sobre o site**
 O [Stack Overflow](https://stackoverflow.com) é uma plataforma online de perguntas e respostas voltada para desenvolvedores e profissionais de tecnologia. Criado como um espaço colaborativo, permite que usuários façam perguntas sobre programação, desenvolvimento de software, sistemas de computador e outros tópicos relacionados à tecnologia.
