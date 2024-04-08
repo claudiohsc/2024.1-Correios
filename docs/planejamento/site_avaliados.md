@@ -130,7 +130,7 @@ O [Portal NFS-e](https://www.nfse.gov.br/EmissorNacional/Login) é um sistema on
 ## **Núcleo de Seleção UEG**
 
 <center>
-<p> Figura 4: Portal NFS-e.</p> 
+<p> Figura 5: Núcleo de Seleção UEG.</p> 
 ![Nsueg](../assets/sites-avaliados/Logo-N_cleo_Sele__o_400x400.jpg)
 <p>Fonte: <a href="https://www.nucleodeselecao.ueg.br">Núcleo de Seleção UEG</a></p>
 </center>
