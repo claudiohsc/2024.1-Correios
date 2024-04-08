@@ -113,4 +113,4 @@ Interaction. John Wiley & Sons.
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
 | `1.0`  | 05/04/2023 | Criação da página de Processo de Design. | [Claudio Henrique](https://github.com/claudiohsc) | [Elias](https://github.com/EliasOliver21) |
 | `1.1`  | 08/04/2023 | Atualização sobre Processo de Design. | [Claudio Henrique](https://github.com/claudiohsc), [Ricardo Augusto](https://github.com/avmricardo) | [Elias](https://github.com/EliasOliver21) |
-| `1.2`  | 08/04/2023 | Ajuste de bibliografia | [Ricardo Augusto](https://github.com/avmricardo) | 
+| `1.2`  | 08/04/2023 | Ajuste de bibliografia | [Ricardo Augusto](https://github.com/avmricardo) | [Pablo S. Costa](https://github.com/pabloheika)
