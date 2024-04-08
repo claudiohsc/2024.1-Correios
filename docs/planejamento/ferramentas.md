@@ -35,21 +35,21 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 
 ## Bibliografia
 
-> - GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 30 de set. de 2024.
+> - GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 08 de abr. de 2024.
 >
-> - Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](). Acesso em: 30 de set. de 2024.
+> - Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](). Acesso em: 08 de abr. de 2024.
 >
-> - Mkdocs for material. Disponível em: [https://squidfunk.github.io/mkdocs-material/](). Acesso em: 30 de set. de 2024.
+> - Mkdocs for material. Disponível em: [https://squidfunk.github.io/mkdocs-material/](). Acesso em: 08 de abr. de 2024.
 >
-> - Visual Studio Code. Disponível em: [https://code.visualstudio.com/](). Acesso em: 30 de set. de 2024.
+> - Visual Studio Code. Disponível em: [https://code.visualstudio.com/](). Acesso em: 08 de abr. de 2024.
 >
-> - Telegram. Disponível em: [https://telegram.org/](). Acesso em: 30 de set. de 2024.
+> - Telegram. Disponível em: [https://telegram.org/](). Acesso em: 08 de abr. de 2024.
 >
-> - YouTube. Disponível em: [https://about.youtube/](). Acesso em: 30 de set. de 2024.
+> - YouTube. Disponível em: [https://about.youtube/](). Acesso em: 08 de abr. de 2024.
 >
 > - This person does not exist. Disponível em: [https://thispersondoesnotexist.com/](). Acesso em: 08 de abr. de 2024.
 >
-> - Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](). Acesso em: 30 de set. de 2024.
+> - Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](). Acesso em: 08 de abr. de 2024.
 >
 > - Google Planilhas. Disponível em: [https://www.google.com/sheets/about/](). Acesso em: 08 de abr. de 2024.
 >
