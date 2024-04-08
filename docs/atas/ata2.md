@@ -40,7 +40,7 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 03 / 04 / 2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | 
+|`1.0`| 03 / 04 / 2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Claudio Henrique][ClaudioGH]
 
 
 
