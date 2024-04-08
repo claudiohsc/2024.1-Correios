@@ -16,8 +16,20 @@ Na Tabela 1, tem-se o planejado para todas as atividades previstas da primeira e
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
+| Selecionar site | Início: 18/03 <br>Fim: 29/03 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 29/03 <br>Fim: 29/03 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Heatmap | Início: 18/03 <br>Fim: 25/03 | Pablo | Início: 25/03 <br>Fim: 29/03 | Elias |
+| Sites avaliados | Início: 01/04 <br>Fim: 08/04 | Claudio  | Início: 08/04 <br>Fim: 08/04 | Gabriel B. Bertolazi |
+| Site selecionado  | Início: 03/04 <br>Fim: 08/04 | Ricardo | Início: 08/04 <br>Fim: 08/04 | Pablo |
+| Selecionar ferramentas do projeto | Início: 25/03 <br>Fim: 29/03 | Pablo | Início: 29/03 <br>Fim: 08/04 | Claudio |
+| Realização do cronograma | Início: 18/03 <br>Fim: 08/04 | Elias, Gabriel F. J. Silva, Pablo, Gabriel B. Bertolazi | Início: 08/04 <br>Fim: 08/04 | Elias, Gabriel F. J. Silva, Pablo, Gabriel B. Bertolazi |
+| Processo de Design | Início: 01/04 <br>Fim: 07/04 | Claudio, Ricardo | Início: 07/04 <br>Fim: 08/04 | Gabriel F. J. Silva |
+| Documentar Equipe | Início: 28/03 <br>Fim: 31/03 | Ricardo | Início: 29/03 <br>Fim: 31/03 | Claudio |
+| Gravar apresentação | Início: 08/04 <br>Fim: 08/04 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 08/04 <br>Fim: 08/04 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Artefato de apresentação  | Início: 05/04 <br>Fim: 08/04 | Gabriel F. J. Silva | Início: 08/04 <br>Fim: 08/04 | Ricardo |
+| Implementar Git Page | Início: 25/03 <br>Fim: 29/03 | Ricardo | Início: 29/03 <br>Fim: 31/03 | Pablo  |
+| Correção pós apresentação | Início: 09/04 <br>Fim: 20/04 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 09/04 <br>Fim: 22/04 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-<font size="2"><p style="text-align: center">Fonte: [](), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
 ### Executado
 
