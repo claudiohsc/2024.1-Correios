@@ -127,7 +127,7 @@ Na Tabela 7, tem-se o planejado para todas as atividades previstas da quarta ent
 Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta entrega.
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 7</b> - Planejamento do Projeto 
+    <b>Tabela 8</b> - Planejamento do Projeto 
 </p></font>
 
 *EM BREVE...*
@@ -163,8 +163,10 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
  
 ### Planejado
 
+Na tabela 11, tem-se o planejado das atividades previstas para a primeira parte da sexta entrega
+
 <font size="2"><p style="text-align: center;">
-    <b>Na tabela 11, tem-se o planejado das atividades previstas para a primeira parte da sexta entrga</b> - 
+    <b>Tabela 11</b> - 
 </p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -185,8 +187,11 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ### Executado
+
+Na tabela 12, tem-se o executado das atividades previstas para a primeira parte da sexta entrga
+
 <font size="2"><p style="text-align: center;">
-    <b>Na tabela 12, tem-se o executado das atividades previstas para a primeira parte da sexta entrga</b> - 
+    <b>Tabela 12</b> - 
 </p></font> 
 
 *EM BREVE...*
@@ -224,8 +229,10 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
  
 ### Planejado
 
+Na tabela 15, tem-se o planejado das atividades previstas para sétima entrega
+
 <font size="2"><p style="text-align: center;">
-    <b>Na tabela 15, tem-se o planejado das atividades previstas para sétima entrega</b> - 
+    <b>Tabela 15 - </b> - 
 </p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
