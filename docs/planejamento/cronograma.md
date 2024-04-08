@@ -235,9 +235,13 @@ Na Tabela 19, temos o cronograma planejado para as atividades da última entrega
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-|  | Início:  <br> Fim:  |  | Início:  <br> Fim:  |  |
+| Planejamento de verificação dos artefatos da Etapa 8 | Início: 20/06 <br>Fim: 22/06 | Claúdio, Pablo, Ricardo | Início: 22/06 <br>Fim: 23/06 | Elias, Gabriel F. J. Silva, Gabriel B. Bertolazi |
+| Relato da verificação da Etapa 8 e ajustes nos artefatos | Início: 23/06 <br>Fim: 24/06 | Elias, Gabriel F. J. Silva, Gabriel B. Bertolazi | Início: 24/06 <br>Fim: 24/06 | Claúdio, Pablo, Ricardo |
+| Gravação da apresentação | Início: 03/07 <br>Fim: 03/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 04/07 <br>Fim: 05/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Artefato de apresentação  | Início: 24/06 <br>Fim: 24/06 | Ricardo | Início: 24/06 <br>Fim: 24/06 | Elias |
+| Correção pós apresentação | Início: 25/06 <br>Fim: 09/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 25/06 <br>Fim: 11/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
 ## Bibliografia
 
@@ -248,4 +252,5 @@ Na Tabela 19, temos o cronograma planejado para as atividades da última entrega
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 1.0 | 07/04/2024 | Criar cronograma planejado para entregas 2 e 5 | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  |
+| 1.0 | 07/04/2024 | Criar cronograma planejado para entregas 2 e 5 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika)  |
+| 1.1 | 08/04/2024 | Criar cronograma planejado para entregas 1 e final | [Pablo S. Costa](https://github.com/pabloheika) | [Gabriel F. J. Silva](https://github.com/MMcLovin)  |
