@@ -302,11 +302,11 @@ Na Tabela 19, temos o cronograma planejado para as atividades da última entrega
 
 ## Bibliografia
 
-> - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: https://aprender3.unb.br/pluginfile.php/2844913/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf. Acesso em: 26/03/2024.
+> - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844913/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>. Acesso em: 26 de Março 2024.
 > - Sommerville, Ian. Engenharia de Software 9ª Edição. Pearson 2017.
 Disponível em:
 <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 30 de Março de 2024
-> - SALES, André Barros de. Ambientação - Plano de ensino. **Aprender 3**. Distrito Federal, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf. Acesso em: 26/03/2024.
+> - SALES, André Barros de. Ambientação - Plano de ensino. **Aprender 3**. Distrito Federal, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf.> Acesso em: 26 de Março 2024.
 
 ## Histórico de Versões
 
