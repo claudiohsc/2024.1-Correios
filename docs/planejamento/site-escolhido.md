@@ -4,6 +4,8 @@
 
 Artefato destinado a explicar o site escolhido pelo o grupo para o projeto da disciplina, descrevendo suas principais funcionalidades, o motivo da escolha do site, os critérios avaliados, os termos de uso e o histórico de versão do artefato.
 
+No começo da disciplina, os integrantes fizeram avaliações de alguns sites, presentes nesse [link](site_avaliados.md), e foi discutido qual site seria o escolhido para o andamento do projeto. Porém o grupo optou por pegar um site novo, o site dos Correios, viu-se que o site possui várias funcionalidades e interfaces que podem ser analisadas pelos integrantes da equipe ao longo da disciplina.
+
 ## Correios
 
 <div style="text-align: center">
@@ -23,7 +25,8 @@ O site dos Correios é uma plataforma digital que oferece uma gama de serviços 
 
 - Não ter sido utilizado na disciplina Interação Humano Computador;
 - Acesso fácil aos usuários do site;
-- Disponibilidade de informações.
+- Disponibilidade de informações;
+- Site com funcionalidades que podem ser analisadas por vários integrantes.
 
 ## Principais funcionalidades
 
@@ -35,9 +38,23 @@ O site dos Correios é uma plataforma digital que oferece uma gama de serviços 
 
 - Localização de agências: Os usuários podem encontrar agências dos Correios próximas a sua localização, facilitando o acesso aos serviços oferecidos pela empresa.
 
+## Inspeção de Interfaces
+
+Utilizando o método da avaliação heurística, guiada pelo framework DECIDE, e o conjunto inicial de heurísticas, ambos propostos por Nielsen, o grupo destacou alguns pontos que podem ser melhorados no sistema:
+
+- Visibilidade do estado do sistema: Algumas ações levam o usuário a outra tela sem saber se ela foi executada comêxito ou não;
+
+- Reconhecimento em vez de memorização: Algumas telas do sistema são acessadas apenas em áreas como "Veja Mais", podendo aparecer em alguns casos ou não;
+
+- Projeto estético e minimalista: Tela inicial carregada de informações, algumas até aparecem mais de uma vez na mesma tela;
+
+- Consistência e padronização: Algumas telas do sistema são muito diferentes do usual do site, que por vezes mostram funcionalidades que não podem ser acessadas.
+
+
 ## Bibliografia
 
-> CORREIOS. Correios. Disponível em: <https://www.correios.com.br/>. Acesso em: 8 de Abril de 2024.
+> 1. CORREIOS. Correios. Disponível em: <https://www.correios.com.br/>. Acesso em: 8 de Abril de 2024.
+> 2. BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. [S. l.]: Elsevier Brasil, 2010. 
 
 ## Histórico de versão
 
