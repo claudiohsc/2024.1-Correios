@@ -127,7 +127,7 @@ Na Tabela 7, tem-se o planejado para todas as atividades previstas da quarta ent
 Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta entrega.
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 7</b> - Planejamento do Projeto 
+    <b>Tabela 8</b> - Planejamento do Projeto 
 </p></font>
 
 *EM BREVE...*
@@ -163,8 +163,10 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
  
 ### Planejado
 
+Na tabela 11, tem-se o planejado das atividades previstas para a primeira parte da sexta entrega
+
 <font size="2"><p style="text-align: center;">
-    <b>Na tabela 11, tem-se o planejado das atividades previstas para a primeira parte da sexta entrga</b> - 
+    <b>Tabela 11</b> - 
 </p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -185,8 +187,11 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ### Executado
+
+Na tabela 12, tem-se o executado das atividades previstas para a primeira parte da sexta entrga
+
 <font size="2"><p style="text-align: center;">
-    <b>Na tabela 12, tem-se o executado das atividades previstas para a primeira parte da sexta entrga</b> - 
+    <b>Tabela 12</b> - 
 </p></font> 
 
 *EM BREVE...*
@@ -224,8 +229,10 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
  
 ### Planejado
 
+Na tabela 15, tem-se o planejado das atividades previstas para sétima entrega
+
 <font size="2"><p style="text-align: center;">
-    <b>Na tabela 15, tem-se o planejado das atividades previstas para sétima entrega</b> - 
+    <b>Tabela 15 - </b> - 
 </p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -280,7 +287,7 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
 Na Tabela 19, temos o cronograma planejado para as atividades da última entrega.
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 19</b> - 
+    <b>Tabela 19</b> - Entrega final
 </p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -295,8 +302,11 @@ Na Tabela 19, temos o cronograma planejado para as atividades da última entrega
 
 ## Bibliografia
 
-> - https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital
-
+> - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844913/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>. Acesso em: 26 de Março 2024.
+> - Sommerville, Ian. Engenharia de Software 9ª Edição. Pearson 2017.
+Disponível em:
+<https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 30 de Março de 2024
+> - SALES, André Barros de. Ambientação - Plano de ensino. **Aprender 3**. Distrito Federal, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf.> Acesso em: 26 de Março 2024.
 
 ## Histórico de Versões
 
@@ -305,4 +315,4 @@ Na Tabela 19, temos o cronograma planejado para as atividades da última entrega
 | 1.0 | 07/04/2024 | Criar cronograma planejado para entregas 2, 3 e 8 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika)  |
 | 1.1 | 08/04/2024 | Criar cronograma planejado para entregas 1 e final | [Pablo S. Costa](https://github.com/pabloheika) | [Gabriel F. J. Silva](https://github.com/MMcLovin)  |
 | 1.2 | 08/04/2024 | Criar cronograma planejado para entregas 4, 6.1 e 7 | [Gabriel B. Bertolazi](https://github.com/Bertolazi)|[Elias Oliveira](https://github.com/EliasOliver21) |
-| 1.3 | 08/04/2024 | Criar cronograma planejado para entregas 4, 6.1 e 7 | [Gabriel B. Bertolazi](https://github.com/Bertolazi)|[Gabriel B. Bertolazi](https://github.com/Bertolazi) |
+| 1.3 | 08/04/2024 | Criar cronograma planejado para entregas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Gabriel B. Bertolazi](https://github.com/Bertolazi), [Ricardo Augusto](https://www.github.com/avmricardo)  |
