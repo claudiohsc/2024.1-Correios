@@ -10,7 +10,10 @@ nav:
   - Planejamento:
       - Heatmap: planejamento/heatmap.md
       - Sites Avaliados: planejamento/site_avaliados.md
+      - Ferramentas do projeto: planejamento/ferramentas.md
       - Processo de Design: planejamento/processo-design.md
+extra_css:
+  - stylesheets/extra.css
 theme:
   language: pt-BR
   name: material
