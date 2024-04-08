@@ -193,4 +193,4 @@ Na avaliação heurística, foram encontradas as seguintes violações:
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   |Versão Inicial |   [Claudio Henrique](https://github.com/claudiohsc)   |   05/04/2024   | [Elias Faria](https://github.com/EliasOliver21)   |       05/04/2024      |
-|  1.1   |Modificação dos sites e links |   [Claudio Henrique](https://github.com/claudiohsc)   |   07/04/2024   | [Nome do Revisor](https://github.com/)   |       07/04/2024      |
+|  1.1   |Modificação dos sites e links |   [Claudio Henrique](https://github.com/claudiohsc)   |   07/04/2024   | [Ricardo Augusto](https://github.com/avmricardo)  |       07/04/2024      |
