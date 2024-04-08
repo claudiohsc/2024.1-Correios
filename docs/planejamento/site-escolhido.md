@@ -9,10 +9,10 @@ No começo da disciplina, os integrantes fizeram avaliações de alguns sites, p
 ## Correios
 
 <div style="text-align: center">
-<p> Tabela 1: Logo dos Correios. </p>
+<p> Figura 1: Logo dos Correios. </p>
 </div>
 
-<center><br><img style="border: 1px solid white; border-radius: 10%" src="../../assets/correios-logo.png" width = 40%></center>
+<center><br><img style="border: 1px solid white; border-radius: 10%" src="../../assets/correios.svg" width = 40%></center>
 
 <div style="text-align: center">
 <p> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa.</a> </p>
@@ -54,7 +54,9 @@ Utilizando o método da avaliação heurística, guiada pelo framework DECIDE, e
 ## Bibliografia
 
 > 1. CORREIOS. Correios. Disponível em: <https://www.correios.com.br/>. Acesso em: 8 de Abril de 2024.
-> 2. BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. [S. l.]: Elsevier Brasil, 2010. 
+> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) 
+Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-
+19677-1.
 
 ## Histórico de versão
 
