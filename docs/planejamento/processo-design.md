@@ -14,9 +14,25 @@
 
 <p style="text-align: justify;">&emsp;&emsp;Proposto por Preece, Sharp e Rogers<a id="anchor_2" href="#REF2"><sup>2<sup></a>. Esse modelo tem o foco em duas atividades: design (ou redesign) e na construção de uma versão interativa.</p>
 
+<center>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Ciclo de Vida Simples.</p></font>
+
+![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-design/ciclo-simples.png)
+
+<figcaption><font size="3">Fonte: Preece	et	al., 2002</font></figcaption>
+</center>
+
 <p style="text-align: justify;">&emsp;&emsp;Durante o processo de (re)design da interação e interface, o designer explora várias ideias para criar uma solução que atenda às necessidades identificadas na análise (BARBOSA e SILVA, 2021, p.114). Esse processo resulta em descrições textuais, esboços de interface ou qualquer representação do sistema. Para avaliar o design, são criadas versões interativas que simulam a interface, facilitando a participação dos usuários na avaliação de IHC.</p>
 
 ### Ciclo de Vida em Estrela
+
+<center>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Ciclo de Vida em Estrela.</p></font>
+
+![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-design/ciclo-estrela.png)
+
+<figcaption><font size="3">Fonte: Hix & Hartson, 1993</font></figcaption>
+</center>
 
 <p style="text-align: justify;">&emsp;&emsp;No ciclo de vida em estrela, o designer decide a ordem das atividades com base no contexto do projeto. Pode começar pela avaliação da versão atual para projetar uma nova versão do sistema, ou pela implementação em uma plataforma similar. 
 Para um novo sistema, é comum iniciar pela análise de tarefas, usuários e funcionalidades, seguindo uma sequência iterativa. Após cada atividade, o designer avalia os resultados para garantir que está no caminho certo, sendo a avaliação uma etapa interligada entre todas as atividades.</p>
@@ -42,14 +58,13 @@ do projeto (BARBOSA e SILVA, 2021, p.116). A lista abaixo apresenta as atividade
 ### Engenharia de Usabilidade de Mayhew
 <p style="text-align: justify;">&emsp;&emsp;Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Esse ciclo de vida está melhor ilustrado na figura 1:</p>
 
-<figure markdown>
+<center>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
 
 ![Diagrama do Modelo de Ciclo de Vida de Mayhew](../assets/processo-design/processo-mayhew.png)
 
-
 <figcaption><font size="3">Fonte: BARBOSA e SILVA, 2021, p.120.</font></figcaption>
-</figure>
+</center>
 
 #### Análise de requisitos
 <p style="text-align: justify;">&emsp;&emsp;Nessa fase, são definidas as metas de usabilidade considerando aspectos como o perfil dos usuários, a análise das tarefas a serem realizadas, as possibilidades e limitações da plataforma em que o sistema será executado, e princípios gerais de design de IHC. Para facilitar a verificação dessas metas em etapas posteriores do processo de desenvolvimento, é comum apresentá-las em guias de estilo que incluem diretrizes relacionadas a diversos elementos da interface do usuário, como layout, cores, fontes, imagens, ícones e sons.</p>
@@ -75,4 +90,4 @@ Interaction. John Wiley & Sons.
 | Versão |    Data    |                Descrição                 |                    Autor(es)                     |                 Revisor(es)                  |
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
 | `1.0`  | 05/04/2023 | Criação da página de Processo de Design. | [Claudio Henrique](https://github.com/claudiohsc) | [Elias](https://github.com/EliasOliver21) |
-| `1.1`  | 06/04/2023 | Atualização sobre Processo de Design. | [Claudio Henrique](https://github.com/claudiohsc) | [Elias](https://github.com/EliasOliver21) |
+| `1.1`  | 06/04/2023 | Atualização sobre Processo de Design. | [Claudio Henrique](https://github.com/claudiohsc), [Ricardo Augusto](https://github.com/avmricardo) | [Elias](https://github.com/EliasOliver21) |
