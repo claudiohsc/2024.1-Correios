@@ -2,9 +2,9 @@
 
 ## Introdução
 
-Artefato destinado a explicar o site escolhido pelo o grupo para o projeto da disciplina, descrevendo suas principais funcionalidades, o motivo da escolha do site, os critérios avaliados, os termos de uso e o histórico de versão do artefato.
+Artefato destinado a explicar o site escolhido pelo o grupo para o projeto da disciplina, descrevendo suas principais funcionalidades, o motivo da escolha do site, os critérios avaliados e o histórico de versão do artefato.
 
-No começo da disciplina, os integrantes fizeram avaliações de alguns sites, presentes nesse [link](site_avaliados.md), e foi discutido qual site seria o escolhido para o andamento do projeto. Porém o grupo optou por pegar um site novo, o site dos Correios, viu-se que o site possui várias funcionalidades e interfaces que podem ser analisadas pelos integrantes da equipe ao longo da disciplina.A avaliação do site dos correios pode ser conferida neste [link](../assets/avaliacoes/Correios.pdf).
+No começo da disciplina, os integrantes fizeram avaliações de alguns sites, presentes nesse [link](site_avaliados.md), e foi discutido qual site seria o escolhido para o andamento do projeto, porém o grupo optou por pegar um site novo, o site dos Correios, viu-se que o site possui várias funcionalidades e interfaces que podem ser analisadas pelos integrantes da equipe ao longo da disciplina. A avaliação do site dos Correios pode ser conferida neste [link](../assets/avaliacoes/Correios.pdf).
 
 ## Correios
 
