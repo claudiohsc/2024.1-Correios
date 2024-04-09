@@ -2,9 +2,9 @@
 
 ## Introdução
 
-Artefato destinado a explicar o site escolhido pelo o grupo para o projeto da disciplina, descrevendo suas principais funcionalidades, o motivo da escolha do site, os critérios avaliados, os termos de uso e o histórico de versão do artefato.
+Artefato destinado a explicar o site escolhido pelo o grupo para o projeto da disciplina, descrevendo suas principais funcionalidades, o motivo da escolha do site, os critérios avaliados e o histórico de versão do artefato.
 
-No começo da disciplina, os integrantes fizeram avaliações de alguns sites, presentes nesse [link](site_avaliados.md), e foi discutido qual site seria o escolhido para o andamento do projeto. Porém o grupo optou por pegar um site novo, o site dos Correios, viu-se que o site possui várias funcionalidades e interfaces que podem ser analisadas pelos integrantes da equipe ao longo da disciplina.
+No começo da disciplina, os integrantes fizeram avaliações de alguns sites, presentes nesse [link](site_avaliados.md), e foi discutido qual site seria o escolhido para o andamento do projeto, porém o grupo optou por pegar um site novo, o site dos Correios, viu-se que o site possui várias funcionalidades e interfaces que podem ser analisadas pelos integrantes da equipe ao longo da disciplina. A avaliação do site dos Correios pode ser conferida neste [link](../assets/avaliacoes/Correios.pdf).
 
 ## Correios
 
@@ -64,3 +64,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 08 / 04 / 2024 | [Ricardo Augusto](https://www.github.com/avmricardo) | Criação do documento | [Claudio Henrique](https://github.com/claudiohsc)
 |`1.1`| 08 / 04 / 2024 | [Ricardo Augusto](https://www.github.com/avmricardo) | Ajuste de bibliografia |  [Pablo S. Costa](https://www.github.com/pabloheika)
+|`1.2`| 08 / 04 / 2024 | [Elias Oliveira](https://www.github.com/EliasOliver21) | Adição da avaliação do Site dos correios | [Claudio Henrique](https://github.com/claudiohsc)
