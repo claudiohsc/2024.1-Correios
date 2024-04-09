@@ -5,7 +5,7 @@ Esta página tem como foco o vídeo de apresentação da etapa 01 do projeto. A 
 
 ## Apresentação
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/embed/V_irKnFe6BY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V_irKnFe6BY?si=zGdQlrHftvRi3giB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Bibliografia
 
@@ -16,4 +16,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 08/04/2024 | Criação do artefato | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Ricardo Augusto](https://www.github.com/avmricardo)
 `1.1` | 08/04/2024 | Adiciona link para apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://www.github.com/pabloheika)
-`1.2` | 08/04/2024 | Conserta link para apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | 
+`1.2` | 08/04/2024 | Conserta link para apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Ricardo Augusto](https://www.github.com/avmricardo)
