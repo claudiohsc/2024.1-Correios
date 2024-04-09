@@ -34,14 +34,25 @@ Na Tabela 1, tem-se o planejado para todas as atividades previstas da primeira e
 Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 2</b> - Planejamento do Projeto 
+    <b>Tabela 2</b> - Executado do projeto em planejamento. 
 </p></font>
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-|  | Início:  <br> Fim:  |  | Início:  <br> Fim:  |  |
+| Selecionar site | Início: 18/03 <br>Fim: 29/03 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 29/03 <br>Fim: 29/03 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Heatmap | Início: 18/03 <br>Fim: 30/03 | Pablo | Início: 30/03 <br>Fim: 30/03 | Claudio |
+| Sites avaliados | Início: 05/04 <br>Fim: 07/04 | Claudio | Início: 06/04 <br>Fim: 07/04 | Elias, Ricardo |
+| Site selecionado | Início: 08/04 <br>Fim: 08/04 | Ricardo | Início: 08/04 <br>Fim: 08/04 | Claudio |
+| Selecionar ferramentas do projeto | Início: 08/04 <br>Fim: 08/04 | Pablo | Início: 08/04 <br>Fim: 08/04 | Ricardo |
+| Realização do cronograma | Início: 07/04 <br>Fim: 08/04 | Elias, Gabriel F. J. Silva, Pablo, Gabriel B. Bertolazi | Início: 07/04 <br>Fim: 08/04 | Elias, Gabriel F. J. Silva, Pablo, Gabriel B. Bertolazi |
+| Processo de Design | Início: 05/04 <br>Fim: 08/04 | Claudio, Ricardo | Início: 05/04 <br>Fim: 08/04 | Elias |
+| Documentar Equipe | Início: 02/04 <br>Fim: 07/04 | Ricardo | Início: 29/03 <br>Fim: 31/03 | Elias, Claudio |
+| Gravar apresentação | Início: 08/04 <br>Fim: 08/04 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 08/04 <br>Fim: 08/04 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Artefato de apresentação | Início: 08/04 <br>Fim: 08/04 | Gabriel F. J. Silva | Início: 08/04 <br>Fim: 08/04 | Ricardo, Pablo |
+| Implementar Git Page | Início: 21/03 <br>Fim: 29/03 | Ricardo | Início: 29/03 <br>Fim: 31/03 | Pablo |
+| Correção pós apresentação | Início: - <br>Fim: - | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: - <br>Fim: - | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://www.github.com/pabloheika), 2024.</p></font>
 
 ## Entrega 2
  
@@ -316,3 +327,4 @@ Disponível em:
 | 1.1 | 08/04/2024 | Criar cronograma planejado para entregas 1 e final | [Pablo S. Costa](https://github.com/pabloheika) | [Gabriel F. J. Silva](https://github.com/MMcLovin)  |
 | 1.2 | 08/04/2024 | Criar cronograma planejado para entregas 4, 6.1 e 7 | [Gabriel B. Bertolazi](https://github.com/Bertolazi)|[Elias Oliveira](https://github.com/EliasOliver21) |
 | 1.3 | 08/04/2024 | Criar cronograma planejado para entregas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Gabriel B. Bertolazi](https://github.com/Bertolazi), [Ricardo Augusto](https://www.github.com/avmricardo)  |
+| 1.4 | 08/04/2024 | Criar cronograma executado para entrega 1 | [Pablo S. Costa](https://github.com/pabloheika) | [Claudio Henrique](https://github.com/claudiohsc) |

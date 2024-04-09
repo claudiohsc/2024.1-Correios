@@ -9,10 +9,10 @@ No começo da disciplina, os integrantes fizeram avaliações de alguns sites, p
 ## Correios
 
 <div style="text-align: center">
-<p> Tabela 1: Logo dos Correios. </p>
+<p> Figura 1: Logo dos Correios. </p>
 </div>
 
-<center><br><img style="border: 1px solid white; border-radius: 10%" src="../../assets/correios-logo.png" width = 40%></center>
+<center><br><img style="border: 1px solid white; border-radius: 10%" src="../../assets/correios.svg" width = 40%></center>
 
 <div style="text-align: center">
 <p> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa.</a> </p>
