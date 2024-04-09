@@ -63,4 +63,5 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | Versão | Data | Autor | Descrição | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 08 / 04 / 2024 | [Ricardo Augusto](https://www.github.com/avmricardo) | Criação do documento | [Claudio Henrique](https://github.com/claudiohsc)
-|`1.1`| 08 / 04 / 2024 | [Elias Oliveira](https://www.github.com/EliasOliver21) | Adição da avaliação do Site dos correios | [Claudio Henrique](https://github.com/claudiohsc)
+|`1.1`| 08 / 04 / 2024 | [Ricardo Augusto](https://www.github.com/avmricardo) | Ajuste de bibliografia |  [Pablo S. Costa](https://www.github.com/pabloheika)
+|`1.2`| 08 / 04 / 2024 | [Elias Oliveira](https://www.github.com/EliasOliver21) | Adição da avaliação do Site dos correios | [Claudio Henrique](https://github.com/claudiohsc)

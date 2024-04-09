@@ -100,7 +100,9 @@ Com base nos resultados da avaliação de usabilidade, são feitas modificaçõe
 <p style="text-align: justify;">&emsp;&emsp;Como o sistema do projeto já está ativo, iniciaremos pela etapa de instalação do Ciclo de Vida de Mayhew, identificando os problemas e respectivas melhorias que possam ser feitas, e assim progredirmos para a fase de análise de requisitos seguindo fluxo previsto no modelo.</p>
 
 ## Bibliografia
-> <a id="REF1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2021.
+> <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) 
+Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-
+19677-1.
 
 > <a id="REF2" href="#anchor_2">2.</a>Sharp, Helen, Preece, Jennifer, e Rogers, Yvonne (2019). Interaction Design: Beyond Human-Computer
 Interaction. John Wiley & Sons.
@@ -111,3 +113,4 @@ Interaction. John Wiley & Sons.
 | ------ | ---------- | ------------------------------------------- | ------------------------------------------------ | ------------------------------------------- |
 | `1.0`  | 05/04/2023 | Criação da página de Processo de Design. | [Claudio Henrique](https://github.com/claudiohsc) | [Elias](https://github.com/EliasOliver21) |
 | `1.1`  | 08/04/2023 | Atualização sobre Processo de Design. | [Claudio Henrique](https://github.com/claudiohsc), [Ricardo Augusto](https://github.com/avmricardo) | [Elias](https://github.com/EliasOliver21) |
+| `1.2`  | 08/04/2023 | Ajuste de bibliografia | [Ricardo Augusto](https://github.com/avmricardo) | [Pablo S. Costa](https://github.com/pabloheika)
