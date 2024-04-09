@@ -16,3 +16,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 08/04/2024 | Criação do artefato | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Ricardo Augusto](https://www.github.com/avmricardo)
 `1.1` | 08/04/2024 | Adiciona link para apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://www.github.com/pabloheika)
+`1.2` | 08/04/2024 | Conserta link para apresentação | [Gabriel F. J. Silva](https://github.com/MMcLovin) | 
