@@ -160,8 +160,7 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
 | Gravação da Apresentação | Início: 18/05 <br> Fim: 18/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 19/05 <br> Fim: 20/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 | Correção pós apresentação | Início: 22/05 <br> Fim: 23/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 24/05 <br> Fim: 24/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-
-<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 ### Executado
 <font size="2"><p style="text-align: center;">
@@ -226,7 +225,7 @@ Na tabela 12, tem-se o executado das atividades previstas para a primeira parte 
 | Gravação da apresentação | Início: 10/06 <br> Fim: 10/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 11/06 <br> Fim: 11/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 | Correção pós apresentação | Início: 14/06 <br> Fim: 15/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 15/06 <br> Fim: 15/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
-<font size="2"><p style="text-align: center">Fonte: , 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 ### Executado
 
@@ -328,3 +327,4 @@ Disponível em:
 | 1.2 | 08/04/2024 | Criar cronograma planejado para entregas 4, 6.1 e 7 | [Gabriel B. Bertolazi](https://github.com/Bertolazi)|[Elias Oliveira](https://github.com/EliasOliver21) |
 | 1.3 | 08/04/2024 | Criar cronograma planejado para entregas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Gabriel B. Bertolazi](https://github.com/Bertolazi), [Ricardo Augusto](https://www.github.com/avmricardo)  |
 | 1.4 | 08/04/2024 | Criar cronograma executado para entrega 1 | [Pablo S. Costa](https://github.com/pabloheika) | [Claudio Henrique](https://github.com/claudiohsc) |
+| 1.5 | 09/04/2024 | Reajuste em fontes das tabelas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Pablo S. Costa](https://github.com/pabloheika) |
