@@ -52,6 +52,8 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 ## Gravação da reunião
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ScYU8t1zqqw?si=45EkfER94ofnU0-W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
