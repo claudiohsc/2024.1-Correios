@@ -20,16 +20,18 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 ## Informações da reunião
 
-<div style="text-align: center">
-<p> Tabela 1: Informações da reunião. </p>
-</div>
-
-| Data | Início | Fim | Local
+<font size="2" >
+<p style="text-align: center"> Tabela 1: Informações da reunião. </p>
+</font>
+<center>
+ 
+| Data | Início | Fim | Local |
 |:-:|:-:|:-:|:-:|
-| 10 / 04 / 2024 | 19:37 | 20:40 | Teams
-<div style="text-align: center">
-<p> Fonte: Ricardo Augusto, 2024. </p>
-</div>
+| 10 / 04 / 2024 | 19:37 | 20:40 | Teams |
+</center>
+<font size="2" >
+<p style="text-align: center"> Fonte: Ricardo Augusto, 2024. </p>
+</font>
 
 ## Resultados da reunião
  
@@ -43,12 +45,21 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 2. Cronograma para a semana:
 
+<font size="2" >
+<p style="text-align: center"> Tabela 2: Cronograma para a semana. </p>
+</font>
+<center>
+ 
 | Descrição | Início | Fim |
 |:-:|:-:|:-:|
 | Seleção de perguntas pelos integrantes para suas funcionalidades | 10/04/2024 | 11/04/2024
 | Definição das perguntas para o questionário | 11/04/2024 | 11/04/2024
 | Criação do termo de consentimento | 10/04/2024 | 11/04/2024
 | Criação do questionário | 11/04/2024 | 12/04/2024
+</center>
+<font size="2">
+<p style="text-align: center"> Fonte: Ricardo Augusto, 2024. </p>
+</font>
 
 ## Gravação da reunião
 
@@ -58,7 +69,7 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 10 / 04 / 2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | 
+|`1.0`| 10 / 04 / 2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Pablo S. Costa][PabloGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
