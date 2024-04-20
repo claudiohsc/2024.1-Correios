@@ -18,6 +18,8 @@ nav:
     - Ferramentas do projeto: planejamento/ferramentas.md
     - Cronograma: planejamento/cronograma.md
     - Processo de Design: planejamento/processo-design.md
+  - Análise de Requisitos:
+    - Perfil de Usuário: analise_de_requisitos/perfil_de_usuario/perfil_de_usuario.md
 extra_css:
   - stylesheets/extra.css
 theme:
