@@ -20,7 +20,7 @@ Adiquirimos os dados que foram analisados para a definição do perfil de usuár
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-
+Em sua maioria o público que participou do questionário possui idade de 18 a 25 anos com outra pequena parte dos 26 aos 35 e a minoria sendo pessoas com idade acima de 35, 40 anos.
 
 <!-- Gráfico 02 -->
 
