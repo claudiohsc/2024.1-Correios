@@ -108,15 +108,17 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 
 ## Definição do Perfil
 
-Tendo em vista os gráficos e as análises dos mesmos constatamos que o pefil de um usuário dos correios possui as 
+Apartir dos resultados obtidos do formulário e os gráficos e as análises do mesmo apresentados acima constatamos que o pefil de um usuário dos correios possui os seguintes aspectos:
 
-- **Idade:** 18 - 25 anos.
-- **Gênero:** Em sua maioria masculino.
-- **Experiência:** Experiente.
-- **Escolaridade:** Superior Incompleto.
-- **Tarefas primárias:** Rastreio.
-- **Atitudes:** Tecnófilos.
-- **Expectativa:** Apetecem uma melhor descrição e atualização da entrega.
+|Característica|Descrição|
+|---|---|
+**Idade:** |18 - 25 anos.
+**Gênero:** |Em sua maioria masculino.
+**Experiência:** |Experiente.
+**Escolaridade:** |Superior Incompleto.
+**Tarefas primárias:** |Rastreio.
+**Atitudes:** |Tecnófilos.
+**Expectativas:** |Melhor atualização e descrição da entrega.
 
 ## Bibliografia
 
