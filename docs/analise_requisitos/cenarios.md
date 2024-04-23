@@ -1,8 +1,10 @@
 # Cénarios
     
 ## Introdução
-Os cenários na Interação Humano-Computador são essencialmente histórias que descrevem pessoas realizando uma atividade específica relacionada ao uso de uma aplicação. Eles são uma ferramenta poderosa no processo de design de IHC, pois requerem muito menos recursos que outras ferramentas como, por exemplo, modelos e protótipos complexos. Cada cenário descreve um caminho possível em um caso de uso, narrando as ações dos usuários, eventos que ocorrem e mudanças no ambiente, como podemos ver na descrição das características de um cenário na tabela 1. Ao serem utilizados em conjunto com personas, os atores dos cenários são as próprias personas, o que facilita a compreensão das necessidades e motivações dos usuários. É importante ressaltar que não é necessário criar cenários para todas as tarefas e situações possíveis, mas sim focar inicialmente nas tarefas principais e abordar as tarefas secundárias conforme o tempo permitir.
- <a id="anchor_1" href="#REF1"> [1] </a>.
+Os cenários na Interação Humano-Computador são essencialmente histórias que descrevem pessoas realizando uma atividade específica relacionada ao uso de uma aplicação. Eles são uma ferramenta poderosa no processo de design de IHC, pois requerem muito menos recursos que outras ferramentas como, por exemplo, modelos e protótipos complexos. Cada cenário descreve um caminho possível em um caso de uso, narrando as ações dos usuários, eventos que ocorrem e mudanças no ambiente, como podemos ver na descrição das características de um cenário na tabela 1. Ao serem utilizados em conjunto com personas, os atores dos cenários são as próprias personas, o que facilita a compreensão das necessidades e motivações dos usuários. 
+
+É importante ressaltar que não é necessário criar cenários para todas as tarefas e situações possíveis, mas sim focar inicialmente nas tarefas principais e abordar as tarefas secundárias conforme o tempo permitir
+ <a id="anchor_1" href="#REF1"> <sup>1</sup> </a>.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Características de um cenário </p></font> 
 | Característica | Descrição|
