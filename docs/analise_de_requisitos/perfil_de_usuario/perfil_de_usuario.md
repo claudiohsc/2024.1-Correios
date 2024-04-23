@@ -1,10 +1,10 @@
 ## Introdução
 
-Segundo Barbosa e silva: "O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado".Este documento revela qual o perfil de usuário os usuários do site dos correios possuem com base em dados que podem ser adquiridos por diferentes meios e técnicas também descritos por Barbosa e silva.
+Segundo Barbosa e Silva: "O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado". Este documento revela qual o perfil dos usuários do site dos Correios, com base em dados que foram adquiridos por diferentes meios e técnicas também descritos por Barbosa e Silva.
 
 ## Metodologia
 
-Adiquirimos os dados que foram analisados para a definição do perfil de usuário por meio de formulários distribuidos entre os dias 10 e 21 do mês de abril de 2024, eles foram disseminados em chats nas redes sociais nos fornecendo uma base de dados para a formulação de gráficos, que nos mostram as características, hábitos, tipos de uso do usuário no site entre outras informações e sugestões sobre dos usuários que estão descritas abaixo.
+Adquirimos os dados que foram analisados por meio de formulários distribuidos entre os dias 10 e 21 do mês de abril de 2024. Os questionários foram disseminados em chats nas redes sociais nos fornecendo uma base de dados para a formulação de gráficos para a melhor visualização das características, hábitos e ações do usuário no site.
 
 ## Gráficos
 
@@ -132,4 +132,4 @@ Apartir dos resultados obtidos do formulário e os gráficos e as análises do m
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 20/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) | [Revisor](https://www.github.com/) |
+| `1.0`  | 20/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| [Revisor](https://www.github.com/) |
