@@ -1,6 +1,6 @@
 ## Introdução
 
-Segundo Barbosa e Silva: "O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado". Este documento revela qual o perfil dos usuários do site dos Correios, com base em dados que foram adquiridos por diferentes meios e técnicas também descritos por Barbosa e Silva.
+O conjunto de características detalhadas definem o perfil do usuário: "O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado" (BARBOSA e SILVA, 2021, p.276). Este documento revela qual o perfil dos usuários do site dos Correios, com base em dados que foram adquiridos por diferentes meios e técnicas também descritos por Barbosa e Silva.
 
 ## Metodologia
 
@@ -20,7 +20,7 @@ Adquirimos os dados que foram analisados por meio de formulários distribuidos e
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-Tendo em vista a figura 01 percebe-se que a maioria do público que participou do questionário possui idade de 18 a 25 anos com outra pequena parte dos 26 aos 35 e a minoria sendo pessoas com idade acima de 35 anos.
+Analisando a figura 01 percebe-se que a maioria do público que participou do questionário possui idade de 18 a 25 anos com outra pequena parte dos 26 aos 35, e a minoria sendo pessoas com idade acima de 35 anos.
 
 <!-- Gráfico 02 -->
 
@@ -34,7 +34,7 @@ Tendo em vista a figura 01 percebe-se que a maioria do público que participou d
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-Analisando a figura 02 vemos que a maioria dos usuários que utilizam o site dos correios são do sexo masculino compondo quase três quartos do total dos participantes da pesquisa/formulário.
+Analisando a figura 02 é perceptível que a maioria dos usuários que utilizam o site dos correios são do sexo masculino, compondo quase três quartos do total dos participantes do questionário.
 
 <!-- Gráfico 03 -->
 
@@ -48,7 +48,7 @@ Analisando a figura 02 vemos que a maioria dos usuários que utilizam o site dos
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-Percebe-se analisando a figura 03 que os participantes da pesquisa em sua maioria são universitários, outra parte com ensino médio completo e a minoria somente com ensino fundamenta completo ou já pós graduados, sendo um pouco previsíveis esses resultados pois os formulários foram disseminados principalmente em grupos de alunos universitários da UnB.
+Percebe-se analisando a figura 03 que os participantes do questionário, em sua maioria, são universitários, outra parte com ensino médio completo e a minoria somente com ensino fundamental completo ou pós-graduados. Esses resultados foram um pouco previsíveis, pois os formulários foram disseminados principalmente em grupos de alunos universitários da UnB.
 
 <!-- Gráfico 04 -->
 
@@ -62,7 +62,7 @@ Percebe-se analisando a figura 03 que os participantes da pesquisa em sua maiori
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-Vemos na figura 04 que a maior parte dos participantes possui muita ou média experiência com a tecnologia e a minoria tendo uma menor habilidade e experiência com a tecnologia.
+Observando na figura 04 é percebido que a maior parte dos participantes possui muita ou média experiência com a tecnologia, e a minoria tendo uma menor habilidade e experiência com a tecnologia.
 
 <!-- Gráfico 05 -->
 
@@ -90,7 +90,7 @@ Com a figura 05 em foco percebemos que em suma a maior parte dos participantes d
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-Analisando a figura 06 vemos que os usuários em sua maioria utilizam o site dos correios raramente ou quase nunca, e uma pequena fração possui uma alta frequência de uso.
+Analisando a figura 06 observamos que os usuários em sua maioria utilizam o site dos Correios raramente ou quase nunca, e uma pequena fração possui uma alta frequência de uso.
 
 <!-- Gráfico 07 -->
 
@@ -104,11 +104,11 @@ Analisando a figura 06 vemos que os usuários em sua maioria utilizam o site dos
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua principal tarefa o rastreamento de encomendas e em segundo a verificação dos prazos e valores para envio de encomendas também há outras funções que são menos utilizadas como por exemplo a compra de produtos na loja online dos correios.
+Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua principal tarefa o rastreamento de encomendas e em segundo a verificação dos prazos e valores para envio de encomendas. Também há outras funções que são menos utilizadas como, por exemplo, a compra de produtos na loja online dos correios.
 
 ## Definição do Perfil
 
-Apartir dos resultados obtidos do formulário e os gráficos e as análises do mesmo apresentados acima constatamos que o pefil de um usuário dos correios possui os seguintes aspectos:
+A partir dos resultados obtidos do formulário e pelas análises dos gráficos apresentados, constatamos que o pefil de um usuário dos correios possui os seguintes aspectos:
 
 |Característica|Descrição|
 |---|---|
@@ -120,9 +120,13 @@ Apartir dos resultados obtidos do formulário e os gráficos e as análises do m
 **Atitudes:** |Tecnófilos.
 **Expectativas:** |Melhor atualização e descrição da entrega.
 
+## Referências Bibliográficas
+
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. p. 166.
+
 ## Bibliografia
 
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em 20 de abr. de 2024.
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 > 2. 2023.1-BilheteriaDigital. Disponível em :  <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em 20 de abr. de 2024.
 > 3. 2020.1-BCE Biblioteca central. Disponível em: <https://interacao-humano-computador.github.io/2020.1-BCE/#/>. Acesso em 20 de abr. de 2024.
 > 4. 2023.2-PlataformaLattes. Disponível em: <https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/>Acesso em 20 de abr. de 2024.
