@@ -1,6 +1,6 @@
 ## Introdução
 
-O conjunto de características detalhadas definem o perfil do usuário: "O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado" (BARBOSA e SILVA, 2021, p.276). Este documento revela qual o perfil dos usuários do site dos Correios, com base em dados que foram adquiridos por diferentes meios e técnicas também descritos por Barbosa e Silva.
+O conjunto de características detalhadas definem o perfil do usuário: "O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado" (BARBOSA e SILVA, 2021, p.166). Este documento revela qual o perfil dos usuários do site dos Correios, com base em dados que foram adquiridos por diferentes meios e técnicas também descritos por Barbosa e Silva.
 
 ## Metodologia
 
