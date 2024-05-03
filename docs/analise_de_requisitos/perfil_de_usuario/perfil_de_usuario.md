@@ -6,8 +6,10 @@ O conjunto de características detalhadas definem o perfil do usuário: "O perfi
 
 Adquirimos os dados que foram analisados por meio de formulários distribuidos entre os dias 10 e 21 do mês de abril de 2024. Os questionários foram disseminados em chats nas redes sociais nos fornecendo uma base de dados para a formulação de gráficos para a melhor visualização das características, hábitos e ações do usuário no site.
 
-## Gráficos
-
+Além da técnica de questionários utilizamos a técnica de reuniões de brainstorm para uma confirmação e validação do perfil de usuário já obtido pelas informações estraídas dos resultados do formulário distribuído.
+<center>
+## Resultados do Formulário
+</center>
 <!-- Gráfico 01 -->
 
 <font size="3"><p style="text-align: center">**Figura 01:** Gráfico 01</p></font>
@@ -106,9 +108,122 @@ Analisando a figura 06 observamos que os usuários em sua maioria utilizam o sit
 
 Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua principal tarefa o rastreamento de encomendas e em segundo a verificação dos prazos e valores para envio de encomendas. Também há outras funções que são menos utilizadas como, por exemplo, a compra de produtos na loja online dos correios.
 
+<center>
+## BrainStorm
+</center>
+
+## Participantes
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes.</p></font>
+
+<center>
+
+| Nome | Função | 
+|:-----:|:--------:|
+| [Claudio Henrique](https://github.com/claudiohsc)|Moderador |
+| [Elias F. Oliveira](https://github.com/EliasOliver21) |Secretário|
+| Henrique Camelo Quenino |Usuário|
+| Renato Medeiros |Usuário|
+</center>
+
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
+
+## Perguntas/Respostas
+
+<!-- Pergunta 1 -->
+
+#### ?
+
+
+<span> Heitor </span>- 
+
+<span> Henrique </span>-
+
+<span> Renato </span>- 
+
+<!-- Pergunta 2 -->
+
+## Perguntas/Respostas
+
+#### ?
+
+
+<span> Heitor </span>- 
+
+<span> Henrique </span>-
+
+<span> Renato </span>- 
+
+<!-- Pergunta 3 -->
+## Perguntas/Respostas
+
+#### ?
+
+
+<span> Heitor </span>- 
+
+<span> Henrique </span>-
+
+<span> Renato </span>- 
+
+<!-- Pergunta 4 -->
+## Perguntas/Respostas
+
+#### ?
+
+
+<span> Heitor </span>- 
+
+<span> Henrique </span>-
+
+<span> Renato </span>- 
+
+<!-- Pergunta 5 -->
+## Perguntas/Respostas
+
+#### ?
+
+
+<span> Heitor </span>- 
+
+<span> Henrique </span>-
+
+<span> Renato </span>- 
+
+<!-- Pergunta 6 -->
+## Perguntas/Respostas
+
+#### ?
+
+
+<span> Heitor </span>- 
+
+<span> Henrique </span>-
+
+<span> Renato </span>- 
+
+<!-- Pergunta 7 -->
+## Perguntas/Respostas
+
+#### ?
+
+
+<span> Heitor </span>- 
+
+<span> Henrique </span>-
+
+<span> Renato </span>- 
+
+
+
 ## Definição do Perfil
 
 A partir dos resultados obtidos do formulário e pelas análises dos gráficos apresentados, constatamos que o pefil de um usuário dos correios possui os seguintes aspectos:
+
+<font size="3"><p style="text-align: center">Tabela 2: Perfil de Usuário.</p></font>
+
+<center>
 
 |Característica|Descrição|
 |---|---|
@@ -119,6 +234,11 @@ A partir dos resultados obtidos do formulário e pelas análises dos gráficos a
 **Tarefas primárias:** |Rastreio.
 **Atitudes:** |Tecnófilos.
 **Expectativas:** |Melhor atualização e descrição da entrega.
+
+</center>
+
+
+<font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 ## Referências Bibliográficas
 
