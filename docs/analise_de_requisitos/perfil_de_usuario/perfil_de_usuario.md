@@ -133,7 +133,7 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 
 <!-- Pergunta 1 -->
 
-#### ?
+#### Quais são as principais tarefas que você realiza ao usar o site do Correios? Dentre elas, quais você tem alguma dificuldade em usar?
 
 
 <span> Heitor </span>- 
@@ -144,9 +144,9 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 
 <!-- Pergunta 2 -->
 
-## Perguntas/Respostas
 
-#### ?
+
+#### Ja encontrou alguma agência utilizando o serviço de "Encontrar Agências" do site?
 
 
 <span> Heitor </span>- 
@@ -156,9 +156,9 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 <span> Renato </span>- 
 
 <!-- Pergunta 3 -->
-## Perguntas/Respostas
 
-#### ?
+
+#### De acordo com a sua utilização do site você atingiu seus objetivos desejados?
 
 
 <span> Heitor </span>- 
@@ -168,9 +168,9 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 <span> Renato </span>- 
 
 <!-- Pergunta 4 -->
-## Perguntas/Respostas
 
-#### ?
+
+#### Ja utilizou a loja online dos Correios? Se sim, como foi a experiência?
 
 
 <span> Heitor </span>- 
@@ -180,9 +180,9 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 <span> Renato </span>- 
 
 <!-- Pergunta 5 -->
-## Perguntas/Respostas
 
-#### ?
+
+#### Sente falta de alguma funcionalidade do site? Se sim qual?
 
 
 <span> Heitor </span>- 
@@ -192,9 +192,9 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 <span> Renato </span>- 
 
 <!-- Pergunta 6 -->
-## Perguntas/Respostas
 
-#### ?
+
+#### Como você avaliaria a sua experiência com o site do Correios?
 
 
 <span> Heitor </span>- 
@@ -204,9 +204,9 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 <span> Renato </span>- 
 
 <!-- Pergunta 7 -->
-## Perguntas/Respostas
 
-#### ?
+
+#### Encontrou algum problema no uso do site?E quais seriam algumas sugestões de mudança ou melhoria?
 
 
 <span> Heitor </span>- 
