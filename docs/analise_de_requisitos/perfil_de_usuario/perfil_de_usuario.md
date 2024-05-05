@@ -108,9 +108,9 @@ Analisando a figura 06 observamos que os usuários em sua maioria utilizam o sit
 
 Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua principal tarefa o rastreamento de encomendas e em segundo a verificação dos prazos e valores para envio de encomendas. Também há outras funções que são menos utilizadas como, por exemplo, a compra de produtos na loja online dos correios.
 
-<center>
-## BrainStorm
-</center>
+
+## Grupo de Foco
+
 
 ## Participantes
 
@@ -136,22 +136,18 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 #### Quais são as principais tarefas que você realiza ao usar o site do Correios? Dentre elas, quais você tem alguma dificuldade em usar?
 
 
-<span> Heitor </span>- 
+<span> **Henrique** </span>- Rastreio de encomendas, busca por informações no site. Sente dificuldade em como realizar o envio e como receber encomendas.
 
-<span> Henrique </span>- Rastreio de encomendas, busca por informações no site, Como realizar envio e como receber encomendas.
-
-<span> Renato </span>- Acompanhamento de encomendas de compras online entre outras funcionalidades e informações contidas no rastreio de objetos, verificação do valor do envio e fornecendo as dimensões de objetos a enviar.
+<span> **Renato** </span>- Acompanhamento de encomendas de compras online entre outras funcionalidades e informações contidas no rastreio de objetos, verificação do valor do envio e fornecendo as dimensões de objetos a enviar.
 
 <!-- Pergunta 2 -->
 
 #### Ja encontrou alguma agência utilizando o serviço de "Encontrar Agências" do site?
 
 
-<span> Heitor </span>- 
+<span> **Henrique** </span>-Já se fez o uso dessa funcionalidade buscando a agência mais próxima para o recolhimento de uma encomenda. A funcionalidade foi bem simples e intuitiva para o usuário.
 
-<span> Henrique </span>-Já se fez o uso dessa funcionalidade buscando a agência mais próxima para o recolhimento de uma encomenda. A funcionalidade foi bem simples e intuitiva para o usuário.
-
-<span> Renato </span>- Fez-se também o uso da funcionalidade para buscar agências próximas.
+<span> **Renato** </span>- Também já utilizou a funcionalidade para buscar agências próximas.
 
 <!-- Pergunta 3 -->
 
@@ -159,11 +155,9 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 #### De acordo com a sua utilização do site você atingiu seus objetivos desejados?
 
 
-<span> Heitor </span>- 
+<span> **Henrique** </span>- Sim, completou todos os objetivos ao realizar a utilização do site.
 
-<span> Henrique </span>- Sim, completou-se todos os objetivos ao realizar a utilização do site.
-
-<span> Renato </span>- Sim com facilidade, mas destaca-se que usuários com menor experiência talvez terão dificuldades para utilizar o site e suas funcionalidade.
+<span> **Renato** </span>- Sim com facilidade, mas destacou que usuários com menor experiência talvez terão dificuldades para utilizar o site e suas funcionalidades.
 
 <!-- Pergunta 4 -->
 
@@ -173,9 +167,9 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 
 <span> Heitor </span>- 
 
-<span> Henrique </span>-Não, mas obteve-se uma péssima experiência ao abrir a página da loja, em decorrência do seu design e interatividade ultrapassados para os dias atuais e fora do mínimo exigido para os dias atuais.
+<span> **Henrique** </span>-Não, mas obteve-se uma péssima experiência ao abrir a página da loja, em decorrência do seu design e interatividade ultrapassados para os dias atuais e fora do mínimo exigido para os dias atuais.
 
-<span> Renato </span>- Não, mas ao abrir a página da loja o usuário reagir com estranhamento devido ao design e interatividade 
+<span> **Renato** </span>- Não, mas ao abrir a página da loja o usuário pode reagir com estranhamento devido ao design e interatividade do site.
 
 <!-- Pergunta 5 -->
 
@@ -183,11 +177,10 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 #### Sente falta de alguma funcionalidade do site? Se sim qual?
 
 
-<span> Heitor </span>- 
+<span> **Henrique** </span>- Não sente falta, porém alertou sobre funcionalidades excessivas apresentadas na tela inicial.
 
-<span> Henrique </span>-
+<span> **Renato** </span>- Site com uma enorme poluição visual e com funcionalidades e/ou informações que a maioria dos usuários não utilizam.
 
-<span> Renato </span>- 
 
 <!-- Pergunta 6 -->
 
@@ -195,29 +188,37 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 #### Como você avaliaria a sua experiência com o site do Correios?
 
 
-<span> Heitor </span>- 
+<span> **Henrique** </span>-Funcionalidades rápidas e tranquilas de fácil acesso.
 
-<span> Henrique </span>-
 
-<span> Renato </span>- 
+<span> **Renato** </span>- Usabilidade do site como um ponto negativo.
+
 
 <!-- Pergunta 7 -->
 
 
-#### Encontrou algum problema no uso do site?E quais seriam algumas sugestões de mudança ou melhoria?
+#### Encontrou algum problema no uso do site? E quais seriam algumas sugestões de mudança ou melhoria?
 
 
-<span> Heitor </span>- 
+<span> **Henrique** </span>- Não encontrou, recomendou cores menos vivas, diminuir quantidade de imagens e exposição excessiva de opções.
 
-<span> Henrique </span>-
+Citou uma dúvida sobre: 'Onde encontrar o código de rastreio?'
 
-<span> Renato </span>- 
+Adicionar tutorial e explicação sobre a utilização do código para rastreio.
 
+<span> **Renato** </span>- Adicionar mais contraste no site focando nas informações e funções essenciais. Poderia ter uma função de alterar o contraste e aumentar a fonte; ter menos informações desnecessárias.
+Com relação ao rastreamento, adicionar um tutorial para os usuários, e deixá-lo de forma mais simplificada. Acessibilidade para pessoas daltônicas.
+
+## Gravação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/agInGWloafU?si=dKW31sSMPZisjUlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Link direto para o vídeo](https://www.youtube.com/watch?v=agInGWloafU)
 
 
 ## Definição do Perfil
 
-A partir dos resultados obtidos do formulário e pelas análises dos gráficos apresentados, constatamos que o pefil de um usuário dos correios possui os seguintes aspectos:
+A partir dos resultados obtidos do formulário e pelas análises dos gráficos apresentados juntamente com as respostas do Grupo de Foco, constatamos que o pefil de um usuário dos Correios possui os seguintes aspectos:
 
 <font size="3"><p style="text-align: center">Tabela 2: Perfil de Usuário.</p></font>
 
