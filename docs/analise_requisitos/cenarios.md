@@ -25,15 +25,13 @@ Os cenários na Interação Humano-Computador são essencialmente histórias que
 
 ### Certificados digitais do correio certifica
 
-### Procura por agências na região
+### Realização de Pré-postagem
 
 Atores: José Ricardo [LINK PRA PAGINA DE PERSONA]() (Cliente dos Correios)
 
-José Ricardo acorda animado para começar mais um dia de trabalho como influenciador digital. Ele lembra que precisa enviar um produto importante para um dos seus parceiros. Este produto faz parte de uma parceria que pode trazer bastante visibilidade para suas redes, ele decide usar o aplicativo dos Correios para encontrar a agência mais próxima e realizar o envio.
-
-Ele abre o site pelo o navegador de seu notebook, procura por alguma informação sobre a localização de agências e acha, ao final da página, em uma seção de acesso rápido, o que parece ser uma opção de busca pelo nome de “Encontre sua agência”. Ele entra na seção e se depara com a opção de procurar por agências com base em proximidade, usando sua localização atual, ou procurar por regiões, e acaba escolhendo a última. 
-
-José então insere os dados de “Estado”, “Município” e “Bairro”, descobrindo que há apenas 1 agência para o local inserido, mas fica satisfeito ao ver que o site exibe informações detalhadas, como endereço, horário de funcionamento, serviços disponíveis e até mesmo um botão com o ícone de uma seta, que quando clicado o redireciona para o google maps com uma rota até a agência, vendo que essa está bem próxima de sua casa, José se prepara para ir até lá.
+José Ricardo Gomes, influenciador digital, recebe um produto para sua nova campanha publicitária, porém, descobre que o produto está danificado de tal forma que impede o seu uso, impossibilitando a divulgação de sua experiência em suas redes. José entra em contato com a marca, que se prontificou a mandar um novo produto, mas pede que, caso seja possível, José retorne o produto danificado para que eles possam examiná-lo.
+José lembra que há uma agência dos correios perto de sua casa e, com pressa, opta por realizar a pré-postagem pelo site para evitar filas. Ao acessar a seção de pré-postagem e fazer o login, ele preenche os dados do remetente e destinatário, garantindo que as informações obrigatórias estejam corretas. Em seguida, ele insere os detalhes do objeto, como formato, peso e dimensões, além de declarar o valor do produto. Como parte das informações complementares, José decide informar a NF-e, fornecendo o respectivo número e chave.
+Em seguida José marca a caixa de checagem do termo de conhecimento ao final da página, satisfeito com todas as informações inseridas, ele adiciona o objeto ao carrinho de compras. Ao revisar o carrinho, José confirma que todas as informações estão corretas e prossegue para realizar o pagamento. Entra as opções disponíveis, ele opta por pagar com cartão de crédito e completa o processo e se prepara para ir à agência dos correios.
 
 ### Minhas importações
 
@@ -45,11 +43,11 @@ José então insere os dados de “Estado”, “Município” e “Bairro”, d
 
 ## Bibliografia
 
-> * CORREIOS. Correios. Disponível em: <https://www.correios.com.br/>. Acesso em: 21 de Abril de 2024.
-> * Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: <https://leanpub.com/ihc-ux>. Acesso em: 21 de Abril de 2024.
+> 1. CORREIOS. Correios. Disponível em: <https://www.correios.com.br/>. Acesso em: 21 de Abril de 2024.
+> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: <https://leanpub.com/ihc-ux>. Acesso em: 21 de Abril de 2024.
 
 ## Histórico de versão
 
-| Versão | Data | Autor | Descrição | Revisor
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 21/04/2024 | [Gabriel F. J. Silva](https://www.github.com/MMcLovin) | Criação do documento | 
+|`1.0`| 21/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://www.github.com/MMcLovin) | 
