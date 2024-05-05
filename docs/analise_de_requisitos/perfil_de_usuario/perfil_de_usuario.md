@@ -209,6 +209,12 @@ Adicionar tutorial e explicação sobre a utilização do código para rastreio.
 <span> **Renato** </span>- Adicionar mais contraste no site focando nas informações e funções essenciais. Poderia ter uma função de alterar o contraste e aumentar a fonte; ter menos informações desnecessárias.
 Com relação ao rastreamento, adicionar um tutorial para os usuários, e deixá-lo de forma mais simplificada. Acessibilidade para pessoas daltônicas.
 
+### Perfil dos usuários entrevistados
+
+**Henrique Quenino**: Universitário / 20 anos de idade / Sexo masculino
+
+**Renato Medeiros**: Universitário / 26 anos de idade / Sexo masculino
+
 ## Gravação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agInGWloafU?si=dKW31sSMPZisjUlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
