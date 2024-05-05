@@ -34,8 +34,7 @@
 
 ### 4. Realizar pré-postagem
 
-
-### 5. Gerenciar minhas importações
+    Temos abaixo a análise em formato de pseudocódigo da tarefa em que um usuário realiza o cadastro e pagamento de uma pré postagem pelo site dos correios
 ```
 GOAL 0: Realizar uma pré-postagem nos Correios 
     OP. 0.1: Abrir o site dos correios em um navegador web
@@ -50,46 +49,61 @@ GOAL 0: Realizar uma pré-postagem nos Correios
             OP. 0.1.B.2: Efetuar cadastro
 
     GOAL 2: Preencher os dados da pré-postagem 
-        METHOD 1.A: Preencher os dados do remetente
-        OP. 1.A.1: Clicar no botão "Remetente" para inserir os dados
-        OP. 1.A.2: Preencher os campos obrigatórios: Nome, CPF/CNPJ, Endereço, CEP, Telefone, Celular e E-mail
-        OP. 1.A.3: Opcionalmente, editar informações automáticas fornecidas pelo sistema
-        METHOD 1.B: Preencher os dados do destinatário
-        OP. 1.B.1: Clicar no botão "Destinatário" para inserir os dados
-        OP. 1.B.2: Preencher os campos obrigatórios: Nome, CPF/CNPJ, Endereço, CEP, Telefone, Celular e E-mail
-        METHOD 1.C: Preencher os dados do objeto
-        OP. 1.C.1: Selecionar o formato do objeto: envelope, caixa ou cilindro
-        OP. 1.C.2: Inserir peso e dimensões conforme solicitado
-        OP. 1.C.3: Opcionalmente, declarar o valor do produto
-        METHOD 1.D: Selecionar o serviço de entrega
-        OP. 1.D.1: Escolher o tipo de serviço: SEDEX, PAC, Mini Envios ou Carta
-        OP. 1.D.2: Se necessário, selecionar serviços adicionais associados ao serviço principal
-        METHOD 1.E: Adicionar dados complementares
-        OP. 1.E.1: Inserir informações adicionais, se aplicável, como NCM, RFID, Nota Fiscal ou Declaração de Conteúdo
-        METHOD 1.F: Solicitar coleta e concordar com os termos
-        OP. 1.F.1: Marcar a opção de solicitar coleta em domicílio, se desejado
-        OP. 1.F.2: Marcar a caixa de concordância com o termo de conhecimento
-        OP. 1.F.3: Marcar a declaração de que não será encaminhado objeto proibido
+        Goal 3: Preencher os dados do remetente
+            OP 3: Clicar no botão "Remetente" para inserir os dados
+            OP 3.1: Preencher os campos obrigatórios: Nome, CPF/CNPJ, Endereço, CEP, Telefone, Celular e E-mail
+            OP 3.2: Opcionalmente, editar informações automáticas fornecidas pelo sistema
+        
+        Goal 4: Preencher os dados do destinatário
+            OP 4.1: Clicar no botão "Destinatário" para inserir os dados
+            OP 4.2: Preencher os campos obrigatórios: Nome, CPF/CNPJ, Endereço, CEP, Telefone, Celular e E-mail
+        
+        Goal 5: Preencher os dados do objeto
+            OP 5.1: Selecionar o formato do objeto: envelope, caixa ou cilindro
+            OP 5.2: Inserir peso e dimensões conforme solicitado
+            OP 5.3: Opcionalmente, declarar o valor do produto
+        
+        Goal 6: Selecionar o serviço de entrega
+            OP 6.1: Escolher o tipo de serviço: SEDEX, PAC, Mini Envios ou Carta
+            OP 6.2: Se necessário, selecionar serviços adicionais associados ao serviço principal
+        
+        Goal 7: Adicionar dados complementares
+            OP 7.1: Inserir informações adicionais, se aplicável, como NCM, RFID, Nota Fiscal ou Declaração de Conteúdo
+            OP 7.2: Marcar a caixa de concordância com o termo de conhecimento
+            OP 7.3: Marcar a declaração de que não será encaminhado objeto proibido
 
-    GOAL 2: Gerenciar o carrinho de compras METHOD 2.A: Visualizar e gerenciar itens no carrinho
-        OP. 2.A.1: Acessar o carrinho de compras
-        METHOD 2.A: Prosseguir com o pagamento
-            OP 2.A.1: Clicar no botão “Pagar” no canto esquerdo da tela
-        METHOD 2.B: Limpar o carrinho
-            OP 2.B.1: Clicar no botão “Limpar Carrinho” no canto esquerdo da tela
-        METHOD 2.C: Inserir nova pré-postagem
+    GOAL 8: Gerenciar o carrinho de compras 
+        METHOD 8.A: Prosseguir com o pagamento
+            OP 8.A.1: Clicar no botão “Pagar” no canto esquerdo da tela
+        
+        METHOD 8.B: Limpar o carrinho
+            OP 8.B.1: Clicar no botão “Limpar Carrinho” no canto esquerdo da tela
+        
+        METHOD 8.C: Inserir nova pré-postagem
+            OP 8.C.1: Criar uma nova pré-postagem
+            OP 8.C.2: Prosseguir com pagamento
+        
+        METHOD 8.A: Selecionar e excluir pré-postagem
+            OP 8.A.1: Selecionar pré-postagens na tabela de pré-postagens do carrinho
+            OP 8.A.2: Excluir itens selecionados 
+            OP 8.A.3: Prosseguir com pagamento
 
-        METHOD 2.A: Selecionar e excluir pré-postagem
-            OP. 2.A.1: Acessar o carrinho de compras
-            OP. 2.A.2: Excluir item do carrinho, se necessário
-            OP. 2.A.3: Continuar criando pré-postagens ou limpar o carrinho
-
-    GOAL 3: Realizar o pagamento 
-        METHOD 3.A: Efetuar o pagamento
-            OP. 3.A.1: Selecionar a opção de pagamento com cartão de crédito
-            OP. 3.A.2: Concluir o pagamento
-
+    GOAL 9: Realizar o pagamento 
+        METHOD 9.A: Pagar com pix
+            OP 9.A.1: Selecionar a opção de pagamento com pix
+            OP 9.A.2: Concluir o pagamento
+        
+        METHOD 9.B: Pagar com boleto
+            OP 9.B.1: Selecionar a opção de pagamento com boleto
+            OP 9.B.2: Concluir o pagamento
+        
+        METHOD 9.C: Pagar com cartão de crédito
+            OP 9.C.1: Selecionar a opção de pagamento com cartão de crédito
+            OP 9.C.2: Concluir o pagamento
 ```
+
+### 5. Gerenciar minhas importações
+
 
 ### 6. Rastrear encomendas
 
