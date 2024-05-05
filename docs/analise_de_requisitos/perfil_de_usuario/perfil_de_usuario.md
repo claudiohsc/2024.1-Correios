@@ -138,22 +138,20 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 
 <span> Heitor </span>- 
 
-<span> Henrique </span>-
+<span> Henrique </span>- Rastreio de encomendas, busca por informações no site, Como realizar envio e como receber encomendas.
 
-<span> Renato </span>- 
+<span> Renato </span>- Acompanhamento de encomendas de compras online entre outras funcionalidades e informações contidas no rastreio de objetos, verificação do valor do envio e fornecendo as dimensões de objetos a enviar.
 
 <!-- Pergunta 2 -->
-
-
 
 #### Ja encontrou alguma agência utilizando o serviço de "Encontrar Agências" do site?
 
 
 <span> Heitor </span>- 
 
-<span> Henrique </span>-
+<span> Henrique </span>-Já se fez o uso dessa funcionalidade buscando a agência mais próxima para o recolhimento de uma encomenda. A funcionalidade foi bem simples e intuitiva para o usuário.
 
-<span> Renato </span>- 
+<span> Renato </span>- Fez-se também o uso da funcionalidade para buscar agências próximas.
 
 <!-- Pergunta 3 -->
 
@@ -163,9 +161,9 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 
 <span> Heitor </span>- 
 
-<span> Henrique </span>-
+<span> Henrique </span>- Sim, completou-se todos os objetivos ao realizar a utilização do site.
 
-<span> Renato </span>- 
+<span> Renato </span>- Sim com facilidade, mas destaca-se que usuários com menor experiência talvez terão dificuldades para utilizar o site e suas funcionalidade.
 
 <!-- Pergunta 4 -->
 
@@ -175,9 +173,9 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 
 <span> Heitor </span>- 
 
-<span> Henrique </span>-
+<span> Henrique </span>-Não, mas obteve-se uma péssima experiência ao abrir a página da loja, em decorrência do seu design e interatividade ultrapassados para os dias atuais e fora do mínimo exigido para os dias atuais.
 
-<span> Renato </span>- 
+<span> Renato </span>- Não, mas ao abrir a página da loja o usuário reagir com estranhamento devido ao design e interatividade 
 
 <!-- Pergunta 5 -->
 
