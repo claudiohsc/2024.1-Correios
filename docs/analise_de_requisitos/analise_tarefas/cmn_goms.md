@@ -28,7 +28,39 @@ Cada integrante realizou a análise de tarefas das funcionalidades previamente d
 ## Análise das tarefas
 
 ### 1. Calcular preços e prezos de entrega
+Abaixo está a análise da funcionalidade de cálculo de preços e prazos de entrega, em formato de pseudocódigo, do site dos Correios.
 
+```
+GOAL 0: Calcular preços e prazos de entrega
+    OP. 0.1: Abrir o site dos correios em um navegador web
+    OP. 0.2: Ir até a opção “Preços e Prazos” na primeira seção do site
+
+    GOAL 1: Informar Data da Postagem
+        METHOD 1.A: Preencher Data da Postagem
+        (SEL. RULE: O campo de data da postagem está visível na tela.)
+        METHOD 1.A.A: Digitar a Data
+        (SEL. RULE: O campo de data está vazio.)
+            OP. 1.A.A.1: Clicar no campo de data.
+            OP. 1.A.A.2: Digitar a data desejada.
+            OP. 1.A.A.3: Confirmar a data digitada.
+
+    GOAL 2: Informar CEP de Origem e Destino
+        METHOD 2.A: Informar CEPs Utilizando Entrada de Texto
+        (SEL. RULE: Os campos de CEP de origem e destino estão visíveis na tela.)
+        METHOD 2.A.A: Preencher CEPs
+        (SEL. RULE: Os campos de CEP estão vazios.)
+            OP. 2.A.A.1: Clicar nos campos de CEP de origem e destino.
+            OP. 2.A.A.2: Digitar os CEPs de origem e destino.
+            OP. 2.A.A.3: Confirmar os CEPs digitados.
+        METHOD 2.A.B: Não sei o CEP
+        (SEL. RULE: o usuário não conhece o CEP de destino ou de origem)
+            OP. 2.A.B.1: Clicar no campo "Não sei o CEP".
+            OP. 2.A.B.2: Digitar um CEP ou um Endereço.
+            OP. 2.A.B.3: Informar tipo do CEP.
+            OP. 2.A.B.4: Clicar em "Buscar".
+            OP. 2.A.B.5: verificar resultados de busca.
+        
+```
 
 ### 2. Realizar compras na loja online
 
