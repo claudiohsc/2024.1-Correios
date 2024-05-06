@@ -22,7 +22,7 @@ O modelo escolhido da HTA foi o de diagrama hierárquico, que de acordo com Barb
 
 | Tarefa | Responsável |
 | --- | --- |
-| Calcular preços e prezos de entrega | Cláudio |
+| Calcular preços e prazos de entrega | Cláudio |
 | Realizar compras na loja online | Elias |
 | Emitir certificados digitais | Gabriel B. Bertolazi |
 | Realizar pré-postagem | Gabriel F. J. Silva|
