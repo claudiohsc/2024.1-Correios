@@ -51,11 +51,11 @@ Abaixo, na Tabela 2, temos a representação da HTA em forma de tabela e na figu
 | 2.2 Não sei o CEP 1 > 2 |**input**: Endereço de origem ou destino, e tipo do CEP <br>**plano**: Informar endereço e tipo do CEP, e encontrar o CEP <br> **feedback**: Abre um pop-up para encontrar o CEP com base no endereço  |
 | 2.2.1 Informar endereço e tipo do CEP | |
 | 2.2.2 Encontrar CEP | |
-| 3. Informar dados do objeto 1 > 2| **plano**: Escolher tipo de serviço e informar formato do objeto <br>**feedback**: os campos variam conforme o tipo de escolha do usuário <br>**recomendação**: avisar o usuário que é necessário clicar em "adicionar" para registrar as informções inseridas nos campos|
-| 1.2.2.1 Número e chave da NF-e | |
-| 1.2.2.2 Informar descrição, quantidade e valor do objeto | |
-| 1.2.2.3 Confirmar e adicionar informações | |
-| 1.3 Escolher o tipo do serviço 1 / 2| **plano**: escolher entre o serviço SEDEX e PAC <br>**feedback**: o serviço escolhido é salvo e disponibilizado para vizualização e edição pelo usuário <br>**recomendação**: avisar o usuário caso um dos serviços não esteja disponível na região |
+| 3. Informar dados do objeto 1 > 2| **input**:tipo  de serviço, formato e dimensões do objeto<br>**plano**: Escolher tipo de serviço e informar formato do objeto <br>**feedback**: os campos variam conforme o tipo de escolha do usuário|
+| 3.1 Escolher tipo de serviço |**feedback**: novos campos de informações aparecem dependendo da escolha do serviço |
+| 3.2 Informar Formato do Objeto 1 / 2 | **input**: selecionar caixa/pacote ou rolo/cilindro ou esfera<br> **plano**: informar formato e tipo da embalagem<br> **feedback**: os campos variam conforme o tipo de escolha do usuário |
+| 3.2.1 Informar Caixa/Pacote e tipo da embalagem 1 / 2 |**input**: selecionar caixa/pacote, tipo da embalagem e dimensões<br>**plano**: Escolher tipo da embalagem, peso e dimensões<br>**feedback**: os campos variam conforme o tipo de escolha do usuário|
+| 3.2.1.1 Escolher embalagem dos Correios e o peso |**recomendação**: apresentar peso máximo para cada embalagem |
 | 1.3.1 Escolher SEDEX | |
 | 1.3.2 Escolher PAC | |
 | 1.4 Adicionar pré-postagem ao carrinho | |
