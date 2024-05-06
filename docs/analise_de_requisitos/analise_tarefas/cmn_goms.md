@@ -102,8 +102,6 @@ GOAL 0: Calcular preços e prazos de entrega
             OP. 6.2: Aguardar o resultado do cálculo.
 ```
 
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
-
 ### 2. Realizar compras na loja online
 
 
@@ -171,8 +169,6 @@ GOAL 0: Realizar Compra na loja online
                             OP 5.A.3: Verifique a forma de pagamento.
                             OP 5.A.4: Clique em Finalizar Compra.
 ```
-
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 ### 3. Emitir certificados digitais
 
@@ -257,27 +253,81 @@ GOAL 0: Realizar uma pré-postagem nos Correios
             OP 9.C.2: Concluir o pagamento
 ```
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
-
-
 ### 5. Gerenciar minhas importações
 
+Abaixo está a análise da funcionalidade minhas importações, em formato de pseudocódigo, do site dos Correios.
+
+```
+GOAL 0: Gerenciar minhas importações 
+    OP. 0.1: Abrir o site dos correios em um navegador web
+    GOAL 1: Acessar “Meu Correios“
+        OP. 1.1: Deslocar cursor do mouse para  Faça Login ou Cadastre-se 
+        OP. 1.2: Deslocar cursor do mouse para  Meu Correios 
+        OP. 1.3: Clicar com o botão esquerdo do mouse
+        METHOD 1.A: Fazer login 
+        (SEL. RULE: O usuário já possui uma conta)
+            OP. 1.A.1: Fornecer usuário e senha
+            OP. 1.A.2: Efetuar login
+        METHOD 1.B: Fazer cadastro 
+        (SEL. RULE: O usuário ainda não possui uma conta)
+            OP. 1.B.1: Fornecer dados pessoais
+            OP. 1.B.2: Efetuar cadastro
+            OP. 1.B.3: Confirmar cadastro
+            OP. 1.B.4: voltar a method 1.a
+        METHOD 1.C: Esqueci minha senha
+        (SEL. RULE: O usuário possui uma conta, porém não recorda da autenticação)
+            OP. 1.C.1: Selecionar meio de recuperação
+            OP. 1.C.2: Selecionar tipo de usuário
+            OP. 1.C.3: Informar nº do documento ou idCorreios
+            OP. 1.C.4: Clicar em prosegruir
+            OP. 1.C.5: Confirmar código recebido
+            OP. 1.C.6: Inserir nova senha
+            OP. 1.C.7: Confirmar
+            OP. 1.C.8: voltar a method 1.a
+    GOAL 2: Acessar “Minhas Importações“
+        OP. 2.1: Rola o scroll do mouse ate Acesso rápido
+        OP. 2.2: Deslocar cursor do mouse para  Minhas Importações
+        OP. 2.3: Clicar com o botão esquerdo do mouse
+        OP. 2.4: Deslocar cursor do mouse para  Entendi na caixa de noticia importante
+        OP. 2.5: Clicar com o botão esquerdo do mouse
+    GOAL 3: Busca importação
+        METHOD 3.A: Registro de importação no sistema
+        (SEL. RULE: Importação já listada)
+            OP. 3.A.1: Deslocar cursor do mouse para ícone detalhar
+            OP. 3.A.2: Clicar com o botão esquerdo do mouse
+            OP. 3.A.3: Ler situação alfandegaria
+        METHOD 3.B: Registro de importação ausente
+        (SEL. RULE: Importação não listada na tabela)
+            OP. 3.B.1: Deslocar cursor do mouse para input Pesquisar Encomenda
+            OP. 3.B.2: Clicar com o botão esquerdo do mouse
+            OP. 3.B.3: Inserir código da encomenda
+            OP. 3.B.4: Deslocar cursor do mouse para botão pesquisar
+            OP. 3.B.5: Clicar com o botão esquerdo do mouse
+            OP. 3.B.6: voltar a method 3.a
+    GOAL 4: Emitir boleto
+        OP. 4.1: Deslocar cursor do mouse para ícone Visualizar DIS
+        OP. 4.2: Clicar com o botão esquerdo do mouse
+
+```
 
 ### 6. Rastrear encomendas
 
 
 ## Referências
 
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: <https://leanpub.com/ihc-ux>. Acesso em: 05 de Maio de 2024.
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. 
 
 ## Bibliografia
 
 > 1. Alves, Douglas; Maciel, Geovanna. Análise de Tarefas. Repositório do Grupo Bilheteria Digital de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/goms/#bibliografia>. Acesso em: 05 de Maio 2023.
-> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: <https://leanpub.com/ihc-ux>. Acesso em: 05 de Maio de 2024.
-
+> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  |
+| `1.1`  | 05/05/2024 | Adiciona GOMS realizar pré-postagem | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  |
+| `1.2`  | 05/05/2024 | Adiciona GOMS calcular preços e prazos de entrega| [Claudio Henrique](https://github.com/claudiohsc) |  |
+| `1.3`  | 06/05/2024 | Adiciona GOMS realizar compras na loja online | [Elias F. Oliveira](https://github.com/EliasOliver21) |  |
+| `1.4`  | 06/05/2024 | Adiciona GOMS gerenciar minhas importações | [Pablo S. Costa](https://github.com/pabloheika) |  |
