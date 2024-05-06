@@ -52,8 +52,6 @@ Assim que o Gabriel entra no site, ele logo clica na opção de "Preços e Prazo
 
 Ao terminar de preencher todas as informações do objeto, Gabriel não necessita de Serviços opcionais e então clica no botão "Calcular", o que o leva a outra página do Correios com os valores estimados que Gabriel pagará na hora de enviar o seu produto. Satisfeito com os resultados, Gabriel informa o valor e as informações ao seu cliente e segue para a simulação do seu próximo produto.
 
-### Certificados digitais do correio certifica
-
 ### Realização de Pré-postagem
 
 Atores: [José Ricardo](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/personas/) (Cliente dos Correios)
@@ -104,5 +102,4 @@ João observa enquanto seu filho insere os códigos de rastreamento das encomend
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 21/04/2024 | Criação do documento e cenário de pré-postagem | [Gabriel F. J. Silva](https://www.github.com/MMcLovin) |  |
-|`1.1`| 06/05/2024 | Adiciona cenário de minhas importações | [Pablo S. Costa](https://www.github.com/pabloheika) |  |
+|`1.0`| 21/04/2024 | Criação do documento e cenário de pré-postagem | [Gabriel F. J. Silva](https://www.github.com/MMcLovin) | [Pablo S. Costa](https://www.github.com/pabloheika) |
