@@ -102,10 +102,73 @@ GOAL 0: Calcular preços e prazos de entrega
             OP. 6.2: Aguardar o resultado do cálculo.
 ```
 
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
-
 ### 2. Realizar compras na loja online
 
+
+```
+GOAL 0: Realizar Compra na loja online
+    OP. 0.1: Abrir o site dos correios em um navegador web.
+    OP. 0.2: selecionar a opção "Loja Online" localizada no menu suspenso comprar.
+
+    GOAL 1: Buscar um produto
+    METHOD 1.A: Encontre o produto.
+        (SEL. RULE: O campo busca se apresenta vazio na tela)
+        OP 1.A.1: Digite o nome do produto no campo Busca.
+        OP 1.A.2: Clique no botão buscar.
+        OP 1.A.3: Clique no produto encontrado.
+    METHOD 1.A.A: Adicione filtros
+        (SEL. RULE: O produto buscado é encontrado)
+        OP 1.A.B.1: Filtre as buscas para encontrar o produto desejado
+    METHOD 1.A.A.A: Receba notificação
+        (SEL. RULE: O produto buscado não é encontrado)
+        OP 1.A.B.C.1: Clique no botão "Clique aqui"
+        OP 1.A.B.C.2: Insira um email e um prazo.
+        OP 1.A.B.C.3: Clique em Confirmar.
+
+        GOAL 2: Recalcular Valor dos produtos
+                METHOD 2.A: Atualizar valor
+                    (SEL. RULE: Há produtos no carrinho)
+                    OP 2.A.1: Digite o um número no compo quantidade do produto desejado.
+                    OP 2.A.1: Clique em Recalcular para atualizar.
+
+            GOAL 3: Cálculo do frete
+                METHOD 3.A: Informar CEP.
+                    (SEL. RULE: o campo para inserir o CEP se encontra vazio)
+                    OP 3.A.1: Selecione o páis e insira o CEP de destino válido.
+                    OP 3.A.2: Clique em Calcular.
+                    OP 3.A.3: Clique em Fechar Pedido.
+                METHOD 3.A.A: Informar CEP.
+                    (SEL. RULE: o usuário desconhece o CEP)
+                    OP 3.A.B.1: Clique na opção "Busca CEP".
+                    OP 3.A.B.3: Digite um endereço ou cep.
+                    OP 3.A.B.3: Veja os resutados.
+                    OP 3.A.B.4: Insira o CEP no campo Cálculo e clique em calcular.
+                    OP 3.A.B.5: Clique em Fechar Pedido.
+
+            
+                GOAL 4: Identificação
+                    METHOD 4.A: Login
+                        (SEL. RULE: O usuário não se encontra logado)
+                        OP 4.A.1: Faça o Login.
+                        OP 4.A.2: Clique em loja Correios online.
+                        OP 4.A.3: Clique em ao Carrinho.
+                        OP 4.A.4: Clique em fechar pedido.
+                    METHOD 4.B: Cadastro
+                        (SEL. RULE: O usuário não possui cadastro)
+                        OP 4.A.B.1: Faça o Cadastro.
+                        OP 4.A.B.1: Faça o Login.
+                        OP 4.A.B.2: Clique em loja Correios online.
+                        OP 4.A.B.3: Clique em ao Carrinho.
+                        OP 4.A.B.4: Clique em fechar pedido.
+
+                    
+                    GOAL 5: Fechando Pedido
+                        METHOD 5.A: Finalizar Compra
+                            OP 5.A.1: Verifique o endereço de entrega.
+                            OP 5.A.2: Verifique a forma de entrega.
+                            OP 5.A.3: Verifique a forma de pagamento.
+                            OP 5.A.4: Clique em Finalizar Compra.
+```
 
 ### 3. Emitir certificados digitais
 
@@ -190,11 +253,62 @@ GOAL 0: Realizar uma pré-postagem nos Correios
             OP 9.C.2: Concluir o pagamento
 ```
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
-
-
 ### 5. Gerenciar minhas importações
 
+Abaixo está a análise da funcionalidade minhas importações, em formato de pseudocódigo, do site dos Correios.
+
+```
+GOAL 0: Gerenciar minhas importações 
+    OP. 0.1: Abrir o site dos correios em um navegador web
+    GOAL 1: Acessar “Meu Correios“
+        OP. 1.1: Deslocar cursor do mouse para  Faça Login ou Cadastre-se 
+        OP. 1.2: Deslocar cursor do mouse para  Meu Correios 
+        OP. 1.3: Clicar com o botão esquerdo do mouse
+        METHOD 1.A: Fazer login 
+        (SEL. RULE: O usuário já possui uma conta)
+            OP. 1.A.1: Fornecer usuário e senha
+            OP. 1.A.2: Efetuar login
+        METHOD 1.B: Fazer cadastro 
+        (SEL. RULE: O usuário ainda não possui uma conta)
+            OP. 1.B.1: Fornecer dados pessoais
+            OP. 1.B.2: Efetuar cadastro
+            OP. 1.B.3: Confirmar cadastro
+            OP. 1.B.4: voltar a method 1.a
+        METHOD 1.C: Esqueci minha senha
+        (SEL. RULE: O usuário possui uma conta, porém não recorda da autenticação)
+            OP. 1.C.1: Selecionar meio de recuperação
+            OP. 1.C.2: Selecionar tipo de usuário
+            OP. 1.C.3: Informar nº do documento ou idCorreios
+            OP. 1.C.4: Clicar em prosegruir
+            OP. 1.C.5: Confirmar código recebido
+            OP. 1.C.6: Inserir nova senha
+            OP. 1.C.7: Confirmar
+            OP. 1.C.8: voltar a method 1.a
+    GOAL 2: Acessar “Minhas Importações“
+        OP. 2.1: Rola o scroll do mouse ate Acesso rápido
+        OP. 2.2: Deslocar cursor do mouse para  Minhas Importações
+        OP. 2.3: Clicar com o botão esquerdo do mouse
+        OP. 2.4: Deslocar cursor do mouse para  Entendi na caixa de noticia importante
+        OP. 2.5: Clicar com o botão esquerdo do mouse
+    GOAL 3: Busca importação
+        METHOD 3.A: Registro de importação no sistema
+        (SEL. RULE: Importação já listada)
+            OP. 3.A.1: Deslocar cursor do mouse para ícone detalhar
+            OP. 3.A.2: Clicar com o botão esquerdo do mouse
+            OP. 3.A.3: Ler situação alfandegaria
+        METHOD 3.B: Registro de importação ausente
+        (SEL. RULE: Importação não listada na tabela)
+            OP. 3.B.1: Deslocar cursor do mouse para input Pesquisar Encomenda
+            OP. 3.B.2: Clicar com o botão esquerdo do mouse
+            OP. 3.B.3: Inserir código da encomenda
+            OP. 3.B.4: Deslocar cursor do mouse para botão pesquisar
+            OP. 3.B.5: Clicar com o botão esquerdo do mouse
+            OP. 3.B.6: voltar a method 3.a
+    GOAL 4: Emitir boleto
+        OP. 4.1: Deslocar cursor do mouse para ícone Visualizar DIS
+        OP. 4.2: Clicar com o botão esquerdo do mouse
+
+```
 
 ### 6. Rastrear encomendas
 
@@ -235,16 +349,19 @@ GOAL 0: Rastrear uma encomenda.
 
 ## Referências
 
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: <https://leanpub.com/ihc-ux>. Acesso em: 05 de Maio de 2024.
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. 
 
 ## Bibliografia
 
 > 1. Alves, Douglas; Maciel, Geovanna. Análise de Tarefas. Repositório do Grupo Bilheteria Digital de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/goms/#bibliografia>. Acesso em: 05 de Maio 2023.
-> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: <https://leanpub.com/ihc-ux>. Acesso em: 05 de Maio de 2024.
-
+> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  |
+| `1.1`  | 05/05/2024 | Adiciona GOMS realizar pré-postagem | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  |
+| `1.2`  | 05/05/2024 | Adiciona GOMS calcular preços e prazos de entrega| [Claudio Henrique](https://github.com/claudiohsc) |  |
+| `1.3`  | 06/05/2024 | Adiciona GOMS realizar compras na loja online | [Elias F. Oliveira](https://github.com/EliasOliver21) |  |
+| `1.4`  | 06/05/2024 | Adiciona GOMS gerenciar minhas importações | [Pablo S. Costa](https://github.com/pabloheika) |  |
