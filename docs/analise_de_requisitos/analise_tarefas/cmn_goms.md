@@ -59,7 +59,45 @@ GOAL 0: Calcular preços e prazos de entrega
             OP. 2.A.B.3: Informar tipo do CEP.
             OP. 2.A.B.4: Clicar em "Buscar".
             OP. 2.A.B.5: verificar resultados de busca.
-        
+
+    GOAL 3: Informar Dados do Objeto
+        METHOD 3.A: Escolher Tipo de Serviço e Formato do Objeto
+        (SEL. RULE: Os menus de escolha de tipo de serviço e formato do objeto estão visíveis na tela.)
+            METHOD 3.A.1: Selecionar Tipo de Serviço
+            (SEL. RULE: O campo de seleção de tipo de serviço está vazio.)
+                OP. 3.A.1.1: Clicar no campo de seleção de tipo de serviço.
+                OP. 3.A.1.2: Escolher o tipo de serviço desejado.
+            METHOD 3.A.2: Selecionar Formato do Objeto
+            (SEL. RULE: O campo de seleção de formato do objeto está visível e não está marcado.)
+                OP. 3.A.2.1: Marcar opção de formato de objeto.
+
+            GOAL 4: Preencher informações de acordo com o formato
+                METHOD 4.A: Escolher formato Caixa/Pacote.
+                (SEL. RULE: A opção está vísivel e desmarcada)
+                    METHOD 4.A.A: Escolher embalagem dos Correios
+                    (SEL. RULE: o campo de seleção está visível e vazio)
+                        OP. 4.A.A.1: Selecionar opção 'Embalagem dos Correios'
+                        OP. 4.A.A.2: Selecionar Caixa de encomenda.
+                        OP. 4.A.A.3: Preecher informação de peso em kilos.
+                    METHOD 4.A.B: Escolher outra embalagem.
+                    (SEL. RULE:  o campo de seleção está visível e vazio)
+                        OP. 4.A.B.1: Selecionar opção 'Outra embalagem'.
+                        OP. 4.A.B.2: Preecher informação de altura em centímetros.
+                        OP. 4.A.B.3: Preecher informação de largura em centímetros.
+                        OP. 4.A.B.4: Preecher informação de comprimento em centímetros.
+                        OP. 4.A.B.5: Preecher informação de peso em kilos.
+
+    GOAL 5: Escolher Serviços Opcionais
+        METHOD 5: Selecionar Serviços Opcionais
+        (SEL. RULE: Os serviços opcionais estão listados na tela e estão desmarcados.)
+            OP. 5.1: Clicar nas caixas de seleção dos serviços opcionais desejados.
+
+    GOAL 6: Calcular Preços e Prazos
+
+        METHOD 6: Calcular Preços e Prazos
+        (SEL. RULE: O botão de cálculo de preços e prazos está visível na tela.)
+            OP. 6.1: Clicar no botão de 'Calcular'.
+            OP. 6.2: Aguardar o resultado do cálculo.
 ```
 
 ### 2. Realizar compras na loja online
@@ -88,25 +126,25 @@ GOAL 0: Realizar uma pré-postagem nos Correios
             OP. 0.1.B.2: Efetuar cadastro
 
     GOAL 2: Preencher os dados da pré-postagem 
-        Goal 3: Preencher os dados do remetente
+        GOAL 3: Preencher os dados do remetente
             OP 3: Clicar no botão "Remetente" para inserir os dados
             OP 3.1: Preencher os campos obrigatórios: Nome, CPF/CNPJ, Endereço, CEP, Telefone, Celular e E-mail
             OP 3.2: Opcionalmente, editar informações automáticas fornecidas pelo sistema
         
-        Goal 4: Preencher os dados do destinatário
+        GOAL 4: Preencher os dados do destinatário
             OP 4.1: Clicar no botão "Destinatário" para inserir os dados
             OP 4.2: Preencher os campos obrigatórios: Nome, CPF/CNPJ, Endereço, CEP, Telefone, Celular e E-mail
         
-        Goal 5: Preencher os dados do objeto
+        GOAL 5: Preencher os dados do objeto
             OP 5.1: Selecionar o formato do objeto: envelope, caixa ou cilindro
             OP 5.2: Inserir peso e dimensões conforme solicitado
             OP 5.3: Opcionalmente, declarar o valor do produto
         
-        Goal 6: Selecionar o serviço de entrega
+        GOAL 6: Selecionar o serviço de entrega
             OP 6.1: Escolher o tipo de serviço: SEDEX, PAC, Mini Envios ou Carta
             OP 6.2: Se necessário, selecionar serviços adicionais associados ao serviço principal
         
-        Goal 7: Adicionar dados complementares
+        GOAL 7: Adicionar dados complementares
             OP 7.1: Inserir informações adicionais, se aplicável, como NCM, RFID, Nota Fiscal ou Declaração de Conteúdo
             OP 7.2: Marcar a caixa de concordância com o termo de conhecimento
             OP 7.3: Marcar a declaração de que não será encaminhado objeto proibido
@@ -125,11 +163,11 @@ GOAL 0: Realizar uma pré-postagem nos Correios
             OP 8.C.1: Criar uma nova pré-postagem
             OP 8.C.2: Prosseguir com pagamento
         
-        METHOD 8.A: Selecionar e excluir pré-postagem
+        METHOD 8.D: Selecionar e excluir pré-postagem
         (SEL. RULE: Há itens para serem selecionados e o usuário deseja editar o carrinho)
-            OP 8.A.1: Selecionar pré-postagens na tabela de pré-postagens do carrinho
-            OP 8.A.2: Excluir itens selecionados 
-            OP 8.A.3: Prosseguir com pagamento
+            OP 8.D.1: Selecionar pré-postagens na tabela de pré-postagens do carrinho
+            OP 8.D.2: Excluir itens selecionados 
+            OP 8.D.3: Prosseguir com pagamento
 
     GOAL 9: Realizar o pagamento 
         METHOD 9.A: Pagar com pix
