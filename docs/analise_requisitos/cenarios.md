@@ -40,7 +40,8 @@ Atores: [José Ricardo](https://interacao-humano-computador.github.io/2024.1-Cor
 
 José Ricardo Gomes, influenciador digital, recebe um produto para sua nova campanha publicitária, porém, descobre que o produto está danificado de tal forma que impede o seu uso, impossibilitando a divulgação de sua experiência em suas redes. José entra em contato com a marca, que se prontificou a mandar um novo produto, mas pede que, caso seja possível, José retorne o produto danificado para que eles possam examiná-lo.
 José lembra que há uma agência dos correios perto de sua casa e, com pressa, opta por realizar a pré-postagem pelo site para evitar filas. Ao acessar a seção de pré-postagem e fazer o login, ele preenche os dados do remetente e destinatário, garantindo que as informações obrigatórias estejam corretas. Em seguida, ele insere os detalhes do objeto, como formato, peso e dimensões, além de declarar o valor do produto. Como parte das informações complementares, José decide informar a NF-e, fornecendo o respectivo número e chave.
-Em seguida José marca a caixa de checagem do termo de conhecimento ao final da página, satisfeito com todas as informações inseridas, ele adiciona o objeto ao carrinho de compras. Ao revisar o carrinho, José confirma que todas as informações estão corretas e prossegue para realizar o pagamento. Entra as opções disponíveis, ele opta por pagar com cartão de crédito e completa o processo e se prepara para ir à agência dos correios.
+
+Em seguida José marca a caixa de checagem do termo de conhecimento ao final da página, satisfeito com todas as informações inseridas, ele adiciona o objeto ao carrinho de compras. Ao revisar o carrinho, José confirma que todas as informações estão corretas e prossegue para realizar o pagamento. EntrE as opções disponíveis, ele opta por pagar com cartão de crédito e completa o processo, se preparando para ir à agência dos correios.
 
 ### Minhas importações
 
@@ -66,5 +67,5 @@ Embora Gabriel tenha resolvido a questão, ele achou o processo exaustivo e buro
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 21/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://www.github.com/MMcLovin) |  |
-|`1.1`| 06/05/2024 | Adiciona cenario de minhas importações | [Pablo S. Costa](https://www.github.com/pabloheika) |  |
+|`1.0`| 21/04/2024 | Criação do documento e cenário de pré-postagem | [Gabriel F. J. Silva](https://www.github.com/MMcLovin) |  |
+|`1.1`| 06/05/2024 | Adiciona cenário de minhas importações | [Pablo S. Costa](https://www.github.com/pabloheika) |  |
