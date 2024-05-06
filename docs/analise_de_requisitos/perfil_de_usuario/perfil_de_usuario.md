@@ -167,8 +167,6 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 #### Ja utilizou a loja online dos Correios? Se sim, como foi a experiência?
 
 
-<span> Heitor </span>- 
-
 <span> **Henrique** </span>-Não, mas obteve-se uma péssima experiência ao abrir a página da loja, em decorrência do seu design e interatividade ultrapassados para os dias atuais e fora do mínimo exigido para os dias atuais.
 
 <span> **Renato** </span>- Não, mas ao abrir a página da loja o usuário pode reagir com estranhamento devido ao design e interatividade do site.
@@ -222,11 +220,12 @@ Com relação ao rastreamento, adicionar um tutorial para os usuários, e deixá
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agInGWloafU?si=dKW31sSMPZisjUlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Link direto para o vídeo](https://www.youtube.com/watch?v=agInGWloafU)
-Forms com o termo de Consentimento aceito pelos participantes neste [link](https://forms.gle/UHDje9nFTKWwgXbC6).
+
+Planilha com o termo de Consentimento aceito pelos participantes neste [link](https://docs.google.com/spreadsheets/d/1cB2vEc-IR7kdPN0Lbadnz_HQrrwaYQbDiWTTnRGqB0Q/edit?usp=sharing).
 
 ## Definição do Perfil
 
-A partir dos resultados obtidos do formulário e pelas análises dos gráficos apresentados juntamente com as respostas do Grupo de Foco, constatamos que o pefil de um usuário dos Correios possui os seguintes aspectos:
+A partir dos resultados obtidos do formulário e pelas análises dos gráficos apresentados juntamente com as respostas do Grupo de Foco, constatamos que o pefil de um usuário dos Correios possui os seguintes aspectos representados na Tabela 2:
 
 <font size="3"><p style="text-align: center">Tabela 2: Perfil de Usuário.</p></font>
 
