@@ -198,6 +198,40 @@ GOAL 0: Realizar uma pré-postagem nos Correios
 
 ### 6. Rastrear encomendas
 
+```
+GOAL 0: Rastrear uma encomenda.
+    OP. 0.1: Abrir o site doscorreios em um navegador web.
+    OP. 0.2: Ir para a seção "Acompanhe seu Objeto" no começo do site.
+
+    GOAL 1: Informar o código de rastreamento.
+        METHOD 1.A: Informar o código de rastreamento no campo abaixo de "Acompanhe seu Objeto".
+        (SEL. RULE: Rastreamento de encomendas nacionais)
+            OP. 1.A.1: Escrever o código de rastreamento.
+            OP. 1.A.2: Clicar na lupa ao lado do campo preenchido.
+
+        METHOD 1.B: Informar o código de rastreamento na tela de rastreamento.
+        (SEL. RULE: Rastreamento de encomendas em outros países)
+            OP. 1.B.1: Clicar na lupa embaixo do campo "Acompanhe seu Objeto".
+            OP. 1.B.2: Clicar em "Rastreamento em outros países" nos 3 traços do lado esquerdo da tela.
+            OP. 1.B.3: Digitar o código de rastreamento internacional no campo "Enter tracking number".
+
+    GOAL 2: Informar a captcha contida na imagem.
+        METHOD 2.A: Digitar o texto contido na imagem.
+        (SEL. RULE: Imagem possuir texto leǵivel para poder ser escrito)
+            OP. 2.A.1: Escrever com o teclado a captcha contida na imagem.
+
+        METHOD 2.B: Selecionar outra imagem.
+        (SEL. RULE: Texto da imagem não possui letras legíveis)
+            OP. 2.B.1: Clicar em recarregar imagem.
+            OP. 2.B.2: Caso o texto esteja legível, ir ao method 2.A, caso contrário, ir ao method 2.B.
+
+    GOALS 3: Verificar informações do objeto
+        METHOD 3.A: Ir até a consulta
+        (SEL. RULE: Os dados de código de rastreamento e captcha na imagem foram inseridos corretamente)
+            OP. 3.A.1: Clicar com o botão esquerdo do mouse no botão "Consultar".
+```
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 ## Referências
 
