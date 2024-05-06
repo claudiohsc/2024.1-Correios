@@ -38,7 +38,7 @@ O modelo escolhido da HTA foi o de diagrama hierárquico, que de acordo com Barb
 ### 1. Calcular preços e prazos de entrega
 Abaixo, na Tabela 2, temos a representação da HTA em forma de tabela e na figura 2, a HTA em forma de diagrama para a tarefa de calcular preços e prazos pelo site dos Correios.
 
-<font size="2"><p style="text-align: center">Tabela X: HTA em tabela para realizar uma pré-postagem.</p></font>
+<font size="2"><p style="text-align: center">Tabela 2: HTA em tabela para realizar cálculo de preços e prazos de entrega.</p></font>
 
 <center>
 
@@ -51,29 +51,35 @@ Abaixo, na Tabela 2, temos a representação da HTA em forma de tabela e na figu
 | 2.2 Não sei o CEP 1>2 |**input**: Endereço de origem ou destino, e tipo do CEP <br>**plano**: Informar endereço e tipo do CEP, e encontrar o CEP <br> **feedback**: Abre um pop-up para encontrar o CEP com base no endereço  |
 | 2.2.1 Informar endereço e tipo do CEP | |
 | 2.2.2 Encontrar CEP | |
-| 3. Informar dados do objeto 1>2| **input**:tipo  de serviço, formato e dimensões do objeto<br>**plano**: Escolher tipo de serviço e informar formato do objeto <br>**feedback**: os campos variam conforme o tipo de escolha do usuário|
+| 3. Informar dados do objeto 1>2| **input**: tipo  de serviço, formato e dimensões do objeto<br>**plano**: escolher tipo de serviço e informar formato do objeto <br>**feedback**: os campos variam conforme o tipo de escolha do usuário|
 | 3.1 Escolher tipo de serviço |**feedback**: novos campos de informações aparecem dependendo da escolha do serviço |
 | 3.2 Informar Formato do Objeto 1/2 | **input**: selecionar caixa/pacote, rolo/cilindro ou esfera<br> **plano**: informar formato e tipo da embalagem<br> **feedback**: os campos variam conforme o tipo de escolha do usuário |
 | 3.2.1 Informar Caixa/Pacote e tipo da embalagem 1/2 |**input**: selecionar caixa/pacote, tipo da embalagem e dimensões<br>**plano**: Escolher tipo da embalagem, peso e dimensões<br>**feedback**: os campos variam conforme o tipo de escolha do usuário|
-| 3.2.1.1 Escolher embalagem dos Correios e o peso |**recomendação**: apresentar peso máximo para cada embalagem |
+| 3.2.1.1 Escolher embalagem dos Correios e o peso |**problema 1**: o sistema apresenta somente um peso máximo para todo tipo de embalagem<br>**problema 2**: o sistema permite a finalização sem marcar uma embalagem gerando um valor errado<br>**recomendação 1**: apresentar peso máximo para cada embalagem <br>**recomendação 2**: apresentar os campos obrigatórios |
 | 3.2.1.2 Escolher Outra embalagem 1/2 | **input**: selecionar outra embalagem e informar dimensões e peso do objeto<br>**plano**: informar as dimensões e peso do objeto<br>**feedback**: apresenta um novo campo para inserir as dimensões e peso |
-| 3.2.1.2.1 Informar Dimensões e o peso | **recomendação**: informar quais campos são obrigatórios no início |
+| 3.2.1.2.1 Informar dimensões e o peso | **problema 1**: o sistema não apresenta quais campos são obrigatórios<br>**problema 2**: o sistema não trata dos mínimos e máximos permitidos no momento do input<br>**recomendação 1**: informar quais campos são obrigatórios no início<br>**recomendação 2**: apresentar os mínimos e máximos em tempo real |
 | 3.2.2 Informar Rolo/Cilindro ou Esfera 1/2 |**input**: selecionar Rolo/Cilindro ou Esfera, informar dimensões e peso<br>**plano**: informar dimensões e peso<br>**feedback**: apresenta os campos necessários |
-| 3.2.2.1 Informar dimensões e o peso| **plano**: Prosseguir com a conclusão do pagamento ou inserir uma nova pré-postagem ou editar limpar os itens do carrinho <br>**feedback**: a tabela de itens no carrinho é atualizada de acordo com as ações do usuário <br>**problema**: não é possível apagar 1 item do carrinho quando há apenas 1 item <br>**recomendação**: identificar e mostrar o erro de não exclusão para o usuário |
-| 2.1 Prosseguir com pagamento | |
-| 2.2 Inserir nova pré-postagem | |
-| 2.3 Limpar carrinho | |
-| 3 Escolher a forma de pagamento 1 / 2 / 3|  **input**: dados do cartão de crédito <br>**feedback**: a página é atualizada conforme o meio de pagamento escolhido<br>**plano**: escolher netre pagar com cartão de crédito, boleto ou PIX <br>**recomendação**: caso não seja possivel selecionar uma opção em específico explicar para o usuário o motivo |
-| 3.1 Pagar com cartão de crédito| |
-| 3.2 Pagar com boleto| |
-| 3.3 Pagar com PIX| |
+| 3.2.2.1 Informar dimensões e o peso|**problema 1**: o sistema não apresenta quais campos são obrigatórios<br>**problema 2**: o sistema não trata dos mínimos e máximos permitidos no momento do input<br>**recomendação 1**: informar quais campos são obrigatórios no início<br>**recomendação 2**: apresentar os mínimos e máximos em tempo real |
+| 4 Escolher Serviços opcionais | **problema**: o sistema não especifica qual o valor mínimo que pode ser declarado<br> **recomendação**: apresentar na descrição o valor mínimo permitido para declaração|
+| 5. Calcular preços e prazos | |
+
 
 </center>
 
 
-<font size="2"><p style="text-align: center">Figura 2: .</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Figura 2: HTA para calcular preços e prazos de entrega.</p></font>
+
+<center>
+
+![hta calcular precos e prazos](../../assets/analiseHTA/HTA-precos-prazos.png)
+
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
+
+Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/HTA-precos-prazos.png).
 
 ### 2. Realizar compras na loja online
 
