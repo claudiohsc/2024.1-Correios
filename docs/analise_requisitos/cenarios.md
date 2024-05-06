@@ -22,6 +22,25 @@ Os cenários na Interação Humano-Computador são essencialmente histórias que
 
 ## Cenários realizados
 
+Na tabela 2 está descrito qual funcionalidade cada integrante ficou resposnável para realizar os cenários presentes neste artefato.
+
+<font size="2"><p style="text-align: center">Tabela 2: Análises realizadas.</p></font>
+
+<center>
+
+| Tarefa | Responsável |
+| --- | --- |
+| Calcular preços e prazos de entrega | Cláudio |
+| Emitir certificados digitais | Gabriel B. Bertolazi |
+| Realizar pré-postagem | Gabriel F. J. Silva|
+| Realizar compras na loja online | Elias |
+| Gerenciar minhas importações| Pablo |
+| Rastrear encomendas | Ricardo |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+
 ### Cálculo de preços e prazos de entrega
 
 Atores: [Gabriel Anacleto Saraiva](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/personas/)
