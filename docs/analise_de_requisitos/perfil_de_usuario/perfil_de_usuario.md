@@ -6,10 +6,10 @@ O conjunto de características detalhadas definem o perfil do usuário: "O perfi
 
 Adquirimos os dados que foram analisados por meio de formulários distribuidos entre os dias 10 e 21 do mês de abril de 2024. Os questionários foram disseminados em chats nas redes sociais nos fornecendo uma base de dados para a formulação de gráficos para a melhor visualização das características, hábitos e ações do usuário no site.
 
-Além da técnica de questionários utilizamos a técnica de reuniões de brainstorm para uma confirmação e validação do perfil de usuário já obtido pelas informações estraídas dos resultados do formulário distribuído.
-<center>
+Além da técnica de questionários utilizamos a técnica de reuniões de Grupo de Foco para uma confirmação e validação do perfil de usuário já obtido pelas informações extraídas dos resultados do formulário distribuído.
+
 ## Resultados do Formulário
-</center>
+
 <!-- Gráfico 01 -->
 
 <font size="3"><p style="text-align: center">**Figura 01:** Gráfico 01</p></font>
@@ -111,6 +111,7 @@ Tendo a figura 07 em foco percebe-se que a maioria dos usuários tem como sua pr
 
 ## Grupo de Foco
 
+Para realizar a técnica de Grupo de Foco se fez necessário executar uma reunião via Google Meet, no dia **01/05/2024**, das **18:31 ás 18:50**. Os papéis de moderador e secretário fora representados, respectivamente, pelos alunos Claudio Henrique e Elias Faria, como mostrado na tabela 1. As respostas dos usuários estão apresentadas abaixo, assim como a gravação da reunião.
 
 ## Participantes
 
@@ -238,7 +239,7 @@ A partir dos resultados obtidos do formulário e pelas análises dos gráficos a
 **Escolaridade:** |Superior Incompleto.
 **Tarefas primárias:** |Rastreio.
 **Atitudes:** |Tecnófilos.
-**Expectativas:** |Melhor atualização e descrição da entrega.
+**Expectativas:** |Melhor atualização, tutoriais e descrição da entrega.
 
 </center>
 
