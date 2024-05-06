@@ -19,6 +19,7 @@ nav:
     - Cronograma: planejamento/cronograma.md
     - Processo de Design: planejamento/processo-design.md
   - Análise de Requisitos:
+    - Aspectos Éticos: analise_de_requisitos/aspectos-eticos.md
     - Perfil de Usuário: analise_de_requisitos/perfil_de_usuario/perfil_de_usuario.md
     - Personas: analise_de_requisitos/personas.md
 extra_css:
