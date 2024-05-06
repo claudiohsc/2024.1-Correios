@@ -48,18 +48,18 @@ Abaixo, na Tabela 2, temos a representação da HTA em forma de tabela e na figu
 | 1. Informar Data da postagem |  |
 | 2. Informar CEP de origem e destino 1 / 2 | **input**: CEP de origem e destino <br>**plano**: informar CEP de origem e destino e encontrar CEP (não sei o CEP) |
 | 2.1 Informar CEP de origem e destino | |
-| 2.2 Não sei o CEP 1 > 2 |**input**: Endereço de origem ou destino, e tipo do CEP <br>**plano**: Informar endereço e tipo do CEP, e encontrar o CEP <br> **feedback**: Abre um pop-up para encontrar o CEP com base no endereço  |
+| 2.2 Não sei o CEP 1>2 |**input**: Endereço de origem ou destino, e tipo do CEP <br>**plano**: Informar endereço e tipo do CEP, e encontrar o CEP <br> **feedback**: Abre um pop-up para encontrar o CEP com base no endereço  |
 | 2.2.1 Informar endereço e tipo do CEP | |
 | 2.2.2 Encontrar CEP | |
-| 3. Informar dados do objeto 1 > 2| **input**:tipo  de serviço, formato e dimensões do objeto<br>**plano**: Escolher tipo de serviço e informar formato do objeto <br>**feedback**: os campos variam conforme o tipo de escolha do usuário|
+| 3. Informar dados do objeto 1>2| **input**:tipo  de serviço, formato e dimensões do objeto<br>**plano**: Escolher tipo de serviço e informar formato do objeto <br>**feedback**: os campos variam conforme o tipo de escolha do usuário|
 | 3.1 Escolher tipo de serviço |**feedback**: novos campos de informações aparecem dependendo da escolha do serviço |
-| 3.2 Informar Formato do Objeto 1 / 2 | **input**: selecionar caixa/pacote ou rolo/cilindro ou esfera<br> **plano**: informar formato e tipo da embalagem<br> **feedback**: os campos variam conforme o tipo de escolha do usuário |
-| 3.2.1 Informar Caixa/Pacote e tipo da embalagem 1 / 2 |**input**: selecionar caixa/pacote, tipo da embalagem e dimensões<br>**plano**: Escolher tipo da embalagem, peso e dimensões<br>**feedback**: os campos variam conforme o tipo de escolha do usuário|
+| 3.2 Informar Formato do Objeto 1/2 | **input**: selecionar caixa/pacote, rolo/cilindro ou esfera<br> **plano**: informar formato e tipo da embalagem<br> **feedback**: os campos variam conforme o tipo de escolha do usuário |
+| 3.2.1 Informar Caixa/Pacote e tipo da embalagem 1/2 |**input**: selecionar caixa/pacote, tipo da embalagem e dimensões<br>**plano**: Escolher tipo da embalagem, peso e dimensões<br>**feedback**: os campos variam conforme o tipo de escolha do usuário|
 | 3.2.1.1 Escolher embalagem dos Correios e o peso |**recomendação**: apresentar peso máximo para cada embalagem |
-| 1.3.1 Escolher SEDEX | |
-| 1.3.2 Escolher PAC | |
-| 1.4 Adicionar pré-postagem ao carrinho | |
-| 2 Gerenciar carrinho 1 / 2 / 3| **plano**: Prosseguir com a conclusão do pagamento ou inserir uma nova pré-postagem ou editar limpar os itens do carrinho <br>**feedback**: a tabela de itens no carrinho é atualizada de acordo com as ações do usuário <br>**problema**: não é possível apagar 1 item do carrinho quando há apenas 1 item <br>**recomendação**: identificar e mostrar o erro de não exclusão para o usuário |
+| 3.2.1.2 Escolher Outra embalagem 1/2 | **input**: selecionar outra embalagem e informar dimensões e peso do objeto<br>**plano**: informar as dimensões e peso do objeto<br>**feedback**: apresenta um novo campo para inserir as dimensões e peso |
+| 3.2.1.2.1 Informar Dimensões e o peso | **recomendação**: informar quais campos são obrigatórios no início |
+| 3.2.2 Informar Rolo/Cilindro ou Esfera 1/2 |**input**: selecionar Rolo/Cilindro ou Esfera, informar dimensões e peso<br>**plano**: informar dimensões e peso<br>**feedback**: apresenta os campos necessários |
+| 3.2.2.1 Informar dimensões e o peso| **plano**: Prosseguir com a conclusão do pagamento ou inserir uma nova pré-postagem ou editar limpar os itens do carrinho <br>**feedback**: a tabela de itens no carrinho é atualizada de acordo com as ações do usuário <br>**problema**: não é possível apagar 1 item do carrinho quando há apenas 1 item <br>**recomendação**: identificar e mostrar o erro de não exclusão para o usuário |
 | 2.1 Prosseguir com pagamento | |
 | 2.2 Inserir nova pré-postagem | |
 | 2.3 Limpar carrinho | |
