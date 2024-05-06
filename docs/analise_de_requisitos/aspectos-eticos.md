@@ -49,11 +49,13 @@ Na figura 1 temos com base nas diretrizes estabelecidas par IHC um termo de cons
 
 <center>
 
-![Termo de Consentimento](../assets/)
+![Termo de Consentimento](../assets/termo-consentimento.png)
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+
+No termo acima foi descrito que o uso será para as disciplinas de Interação Humano Computador e Requisitos de Software, como a avaliação de ambas as disciplinas está sendo sobre os Correios, uma para o site e outra para o aplicativo, utilizamos o mesmo questionário e o mesmo termo de consentimento para as duas matérias. Dentro do questionário, existem partes específicas para cada matéria, focando nos assuntos abordados e estudados por cada disciplina.
 
 ## Conclusão
 
@@ -68,4 +70,4 @@ Ao seguir estes princípios éticos, os pesquisadores podem garantir que suas pe
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 03/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  |  |
+| `1.0`  | 03/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika), [Ricardo Augusto](https://www.github.com/avmricardo)  |  |
