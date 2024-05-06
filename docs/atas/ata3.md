@@ -28,6 +28,7 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 | Data | Início | Fim | Local |
 |:-:|:-:|:-:|:-:|
 | 10 / 04 / 2024 | 19:37 | 20:40 | Teams |
+
 </center>
 <font size="2" >
 <p style="text-align: center"> Fonte: Ricardo Augusto, 2024. </p>
@@ -56,6 +57,7 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 | Definição das perguntas para o questionário | 11/04/2024 | 11/04/2024
 | Criação do termo de consentimento | 10/04/2024 | 11/04/2024
 | Criação do questionário | 11/04/2024 | 12/04/2024
+
 </center>
 <font size="2">
 <p style="text-align: center"> Fonte: Ricardo Augusto, 2024. </p>
