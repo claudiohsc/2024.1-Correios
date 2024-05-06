@@ -47,6 +47,19 @@ Na tabela 1 está descrito as tarefas analisadas pelos integrantes do grupo.
 ### 1. Calcular preços e prazos de entrega
 Abaixo, na Tabela 2, temos a representação da HTA em forma de tabela e na figura 2, a HTA em forma de diagrama para a tarefa de calcular preços e prazos pelo site dos Correios.
 
+
+<font size="2"><p style="text-align: center">Figura 2: HTA para calcular preços e prazos de entrega.</p></font>
+
+<center>
+
+![hta calcular precos e prazos](../../assets/analiseHTA/HTA-precos-prazos.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
+
+Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/HTA-precos-prazos.png).
+
 <font size="2"><p style="text-align: center">Tabela 2: HTA em tabela para realizar cálculo de preços e prazos de entrega.</p></font>
 
 <center>
@@ -78,24 +91,12 @@ Abaixo, na Tabela 2, temos a representação da HTA em forma de tabela e na figu
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
-<font size="2"><p style="text-align: center">Figura 2: HTA para calcular preços e prazos de entrega.</p></font>
-
-<center>
-
-![hta calcular precos e prazos](../../assets/analiseHTA/HTA-precos-prazos.png)
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
-
-Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/HTA-precos-prazos.png).
-
 ### 2. Realizar compras na loja online
 
 Nesta tarefa o usuário deve fazer a utilização da loja online dos correios e realizar uma compra. Para esta análise foi tido como base algumas heurísticas de Nielsen como: 
 Prevenção de erros, estética, design minimalista, ajuda para a recuperação de erros e controle e liberdade para o usuário.
 
-<font size="2"><p style="text-align: center">Figura 3: .</p></font>
+<font size="2"><p style="text-align: center">Figura 3: Diagrama HTA da utilização da loja online.</p></font>
 
 ![Loja HTA](../../assets/analiseHTA/Análise%20loja%20HTA.png)
 
@@ -135,16 +136,44 @@ Prevenção de erros, estética, design minimalista, ajuda para a recuperação 
 ### 3. Emitir certificados digitais
 
 
-<font size="2"><p style="text-align: center">Figura 4: .</p></font>
+<font size="2"><p style="text-align: center">Figura 4: Figura da realização do HTA da emição de certificados.</p></font>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+![Emição certificado](../../assets/analiseHTA/novodiagramabertolazi.jpg)
 
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 4: Tabela da realização do HTA da emição de certificados.</p></font>
+
+| objetivos | operações **problema**s e recomendações |
+| --- | --- |
+| 0. Emitir certificados digitais | **Plano:** levar a pessoa para a escolha do certificado. |
+| 1. Escolher certificado desejado | **Problemas:** Não interativo tendo que colocar duas vezes o certificado desejado. |
+| 1.1 Validar dados | **Input:** Digitar CPF e clicar se tem CNH ou não. |
+| 2. Comprar certificado desejado | **Input:** Clicar o certificado desejado <br>**Problemas:** De novo não-interativo sendo a terceira vez que tem que escolher. |
+| 3. Dados pessoais para compra | **Input:** Dados pessoais para compra CEP, CPF, nome e email. |
+| 4. Receber certificado | |
+| 5. Consultar andamento da sua solicitação | **Input:** CPF |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ### 4. Realizar pré-postagem
 
 Abaixo, na Tabela 5, temos a representação da HTA em forma de tabela e na figura 5, a HTA em forma de diagrama para a tarefa de realizar uma pré-postagem pelo site dos correios.
 
-<font size="2"><p style="text-align: center">Tabela X: HTA em tabela para realizar uma pré-postagem.</p></font>
+
+<font size="2"><p style="text-align: center">Figura 5: HTA para realizar uma pré-postagem.</p></font>
+
+<center>
+
+![legenda](../../assets/analiseHTA/Pre-postagemHTA.jpg)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
+Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/Pre-postagemHTA.jpg).
+
+<font size="2"><p style="text-align: center">Tabela 5: HTA em tabela para realizar uma pré-postagem.</p></font>
 
 <center>
 
@@ -177,18 +206,6 @@ Abaixo, na Tabela 5, temos a representação da HTA em forma de tabela e na figu
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
-
-<font size="2"><p style="text-align: center">Figura 5: HTA para realizar uma pré-postagem.</p></font>
-
-<center>
-
-![legenda](../../assets/analiseHTA/Pre-postagemHTA.jpg)
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
-
-Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/Pre-postagemHTA.jpg).
 
 ### 5. Gerenciar minhas importações
 
