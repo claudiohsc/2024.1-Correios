@@ -9,7 +9,7 @@ Esta página tem como foco o vídeo de apresentação da etapa 01 do projeto. A 
 
 ## Bibliografia
 
->YouTube. Disponível em: [YouTube](https://www.youtube.com/). Acesso em: 08 de Abril de 2024.
+> 1. YouTube. Disponível em: [YouTube](https://www.youtube.com/). Acesso em: 08 de Abril de 2024.
 
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
