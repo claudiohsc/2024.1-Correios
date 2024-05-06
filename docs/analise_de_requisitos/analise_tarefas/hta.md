@@ -4,17 +4,26 @@
 A Análise Hierárquica de Tarefas (HTA) é uma metodologia desenvolvida na década de 1960, com o intuito de compreender a execução de tarefas complexas e não repetitivas, examinando primeiramente objetivos de alto nível e os decompondo até o nível mais baixo, que é uma operação. De acordo com Barbosa et al. (2021), ao se basear na psicologia funcional, a HTA é capaz de relacionar os objetivos, motivações e consequências do que as pessoas fazem. Dessa forma, a HTA permite uma compreensão detalhada das atividades humanas, auxiliando na identificação de dificuldades e na proposição de melhorias tanto em sistemas quanto em procedimentos operacionais. Essa análise pode ser feita em forma de diagrama de hierarquia entre os objetivos ou em forma de tabela, ainda seguindo uma sequência, especificando problemas e recomendações para cada objetivo ou operação. 
 
 ## Metodologia
-O modelo escolhido da HTA foi o de diagrama hierárquico, que de acordo com Barbosa et. al (2021) temos a respectiva legenda na figura 1 abaixo, também temos listadas na tabela 1 Na as tarefas analisadas e os respectivos integrantes do grupo que as realizaram.  
 
-<font size="2"><p style="text-align: center">Figura 1: Legenda do diagrama.</p></font>
+Nessa técnica de análise de tarefas, a análise é feita a partir de um diagrama, os elementos desse diagrama são classificados como objetivos e operações, cada objetivo pode ser dividido entre subobjetivos e outras operações. Além dos elementos, o diagrama de HTA também possui relações entre os subobjetivos. A descrição está representada na figura 1.
 
-<center>
+As relções entre os subobjetivos formam um plano, esse plano é utilizado para definiar a ordem em que os subobjetivos devem ser realizados. A descrição das ordens é definida por:
 
-![legenda](../../assets/analiseHTA/legendaDiagramaHTA.jpeg)
+- **1>2**: Significa que os subobjetivos e operações devem ser realizados de forma sequencial, uma após o outro;
+- **1/2**: Significa que deve haver uma escolha entre os subobjetivos e operações, fazendo com que o usuário realize a ação escolhida por ele;
+- **1+2**: Significa que os subobjetivos e operações podem ser realizados em qualquer ordem, de forma paralela.
 
-</center>
+<div style="text-align: center">
+<p> Tabela 1: Elementos e relações em um diagrama HTA. </p>
+</div>
 
-<font size="2"><p style="text-align: center">Fonte: Barbosa et. al, 2021.</p></font>
+![Elementos do diagrama HTA](../../assets/analiseHTA/legendaDiagramaHTA.jpeg)
+
+<div style="text-align: center">
+<p> Fonte: Barbosa e Silva, 2021. </p>
+</div>
+
+Na tabela 1 está descrito as tarefas analisadas pelos integrantes do grupo.
 
 <font size="2"><p style="text-align: center">Tabela 1: Análises realizadas.</p></font>
 
@@ -191,10 +200,29 @@ Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA
 ### 6. Rastrear encomendas
 
 
-<font size="2"><p style="text-align: center">Figura 7: .</p></font>
+<font size="2"><p style="text-align: center">Figura 7: Diagrama HTA para rastreamento de encomendas.</p></font>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+![Rastreamento](../../assets/analiseHTA/rastreamento-hta.png)
 
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 7: Especificação do diagrama da análise HTA .</p></font>
+
+| Objetivos / Operações | Problemas e recomendações |
+| --- | --- |
+|0. Rastrear encomendas 1/2|**input**: Código de rastremanto nacional ou internacional e texto fornecido em imagem.<br>**feedback**: Informações sobre a localização do objeto rastreado.<br>**plano**: Acessar link fornecido **ou** navegar pelo site.|
+|1. Acessar link fornecido 1>2 | |
+|1.1 Visualizar informaçoes | **feedback**: Visualizar dados de posição do objeto.|
+| 2. Selecionar tipo de objeto 1/2 | **input**: Ir para a página específica do objeto selecionado para rastrear.<br>**plano**: Selecionar o tipo de rastreamento nacional ou internacional.|
+|2.1 Selecionar rastreamento nacional 1+2 | **plano**: Informar código de rastreamento e digitar texto da imagem, independente da ordem. <br> **feedback**: Padronizar tela com cores e identidade visual do restante do site |
+| 2.1.1 Informar código de rastreio | |
+| 2.1.2 Digitar texto contido na imagem |  |
+| 2.2 Selecionar rastreamnto em outros países 1+2 | **plano**: Digitar captcha da imagem e informar tracking number do objeto, independente da ordem. <br> **feedback**: Padronizar tela com cores e identidade visual do restante do site |
+| 2.2.1 Digitar captcha |  |
+| 2.2.2 Informar tracking number |  |
+
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 ## Bibliografia
 
@@ -205,4 +233,4 @@ Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  |
+| `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin), [Ricardo Augusto](https://www.github.com/avmricardo) |  |
