@@ -35,19 +35,25 @@ Em seguida José marca a caixa de checagem do termo de conhecimento ao final da 
 
 ### Minhas importações
 
+Gabriel Anacleto Saraiva, um comerciante de 20 anos, enfrentou um contratempo quando uma peça de sua valiosa máquina de sublimação quebrou. Dada a complexidade e o custo do equipamento, ele empreendeu uma busca detalhada pela peça de reposição, resultando na necessidade de importá-la. Durante os dias seguintes, Gabriel monitorou incessantemente o site dos Correios, ansioso pela chegada da peça, já que a ausência de um sistema de notificação dos Correios o deixava no escuro sobre possíveis problemas com a entrega.
+
+Para verificar o status da encomenda, Gabriel navegava até o site dos Correios, fazia login em "Meu Correios" e selecionava "Minhas Importações", onde inseria o código de rastreamento, pois nem sempre é incluso de forma automática pelo documento cadastrado. Esse acompanhamento era essencial, pois qualquer contratempo poderia atrasar ou até impedir a entrega, acarretando mais prejuízos. Em caso de problemas, ele tinha um prazo de quinze dias para resolvê-los antes que o pacote fosse retornado ao remetente. Nesta ocasião, sua encomenda foi inspecionada pela alfândega e taxada pela entrega e pela Receita Federal. Gabriel gerou um boleto no site dos Correios e, após a confirmação do pagamento, seu pedido foi liberado e finalmente entregue.
+
+Embora Gabriel tenha resolvido a questão, ele achou o processo exaustivo e burocrático, deixando-o insatisfeito com a solução oferecida pelos Correios.
+
 ### Rastreamento de encomendas
 
 ## Referências Bibliográficas
-> <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: <https://leanpub.com/ihc-ux>. Acesso em: 21 de Abril de 2024.
-
+> <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Bibliografia
 
 > 1. CORREIOS. Correios. Disponível em: <https://www.correios.com.br/>. Acesso em: 21 de Abril de 2024.
-> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: <https://leanpub.com/ihc-ux>. Acesso em: 21 de Abril de 2024.
+> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. 
 
 ## Histórico de versão
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 21/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://www.github.com/MMcLovin) | 
+|`1.0`| 21/04/2024 | Criação do documento | [Gabriel F. J. Silva](https://www.github.com/MMcLovin) |  |
+|`1.1`| 06/05/2024 | Adiciona cenario de minhas importações | [Pablo S. Costa](https://www.github.com/pabloheika) |  |
