@@ -107,6 +107,73 @@ GOAL 0: Calcular preços e prazos de entrega
 ### 2. Realizar compras na loja online
 
 
+```
+GOAL 0: Realizar Compra na loja online
+    OP. 0.1: Abrir o site dos correios em um navegador web.
+    OP. 0.2: selecionar a opção "Loja Online" localizada no menu suspenso comprar.
+
+    GOAL 1: Buscar um produto
+    METHOD 1.A: Encontre o produto.
+        (SEL. RULE: O campo busca se apresenta vazio na tela)
+        OP 1.A.1: Digite o nome do produto no campo Busca.
+        OP 1.A.2: Clique no botão buscar.
+        OP 1.A.3: Clique no produto encontrado.
+    METHOD 1.A.A: Adicione filtros
+        (SEL. RULE: O produto buscado é encontrado)
+        OP 1.A.B.1: Filtre as buscas para encontrar o produto desejado
+    METHOD 1.A.A.A: Receba notificação
+        (SEL. RULE: O produto buscado não é encontrado)
+        OP 1.A.B.C.1: Clique no botão "Clique aqui"
+        OP 1.A.B.C.2: Insira um email e um prazo.
+        OP 1.A.B.C.3: Clique em Confirmar.
+
+        GOAL 2: Recalcular Valor dos produtos
+                METHOD 2.A: Atualizar valor
+                    (SEL. RULE: Há produtos no carrinho)
+                    OP 2.A.1: Digite o um número no compo quantidade do produto desejado.
+                    OP 2.A.1: Clique em Recalcular para atualizar.
+
+            GOAL 3: Cálculo do frete
+                METHOD 3.A: Informar CEP.
+                    (SEL. RULE: o campo para inserir o CEP se encontra vazio)
+                    OP 3.A.1: Selecione o páis e insira o CEP de destino válido.
+                    OP 3.A.2: Clique em Calcular.
+                    OP 3.A.3: Clique em Fechar Pedido.
+                METHOD 3.A.A: Informar CEP.
+                    (SEL. RULE: o usuário desconhece o CEP)
+                    OP 3.A.B.1: Clique na opção "Busca CEP".
+                    OP 3.A.B.3: Digite um endereço ou cep.
+                    OP 3.A.B.3: Veja os resutados.
+                    OP 3.A.B.4: Insira o CEP no campo Cálculo e clique em calcular.
+                    OP 3.A.B.5: Clique em Fechar Pedido.
+
+            
+                GOAL 4: Identificação
+                    METHOD 4.A: Login
+                        (SEL. RULE: O usuário não se encontra logado)
+                        OP 4.A.1: Faça o Login.
+                        OP 4.A.2: Clique em loja Correios online.
+                        OP 4.A.3: Clique em ao Carrinho.
+                        OP 4.A.4: Clique em fechar pedido.
+                    METHOD 4.B: Cadastro
+                        (SEL. RULE: O usuário não possui cadastro)
+                        OP 4.A.B.1: Faça o Cadastro.
+                        OP 4.A.B.1: Faça o Login.
+                        OP 4.A.B.2: Clique em loja Correios online.
+                        OP 4.A.B.3: Clique em ao Carrinho.
+                        OP 4.A.B.4: Clique em fechar pedido.
+
+                    
+                    GOAL 5: Fechando Pedido
+                        METHOD 5.A: Finalizar Compra
+                            OP 5.A.1: Verifique o endereço de entrega.
+                            OP 5.A.2: Verifique a forma de entrega.
+                            OP 5.A.3: Verifique a forma de pagamento.
+                            OP 5.A.4: Clique em Finalizar Compra.
+```
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
+
 ### 3. Emitir certificados digitais
 
 
