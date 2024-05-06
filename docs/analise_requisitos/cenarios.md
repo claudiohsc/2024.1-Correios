@@ -7,6 +7,7 @@ Os cenários na Interação Humano-Computador são essencialmente histórias que
  <a id="anchor_1" href="#REF1"> <sup>1</sup> </a>.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Características de um cenário </p></font> 
+
 | Característica | Descrição|
 | -------------- | ---------|
 | ambiente ou contexto | detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário |
@@ -63,6 +64,14 @@ Para verificar o status da encomenda, Gabriel navegava até o site dos Correios,
 Embora Gabriel tenha resolvido a questão, ele achou o processo exaustivo e burocrático, deixando-o insatisfeito com a solução oferecida pelos Correios.
 
 ### Rastreamento de encomendas
+
+Atores: [João Victor Ribeiro](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/personas/)
+
+João Victor Ribeiro, um porteiro de 55 anos, chega em casa após um longo dia de trabalho. Depois de tomar um banho e jantar, ele se prepara para relaxar um pouco antes de ir dormir. Enquanto assiste TV, ele se lembra de que fez algumas compras online recentemente e decide verificar o status de suas encomendas nos Correios, já que ele espera ansiosamente por algumas ferramentas e artigos para casa que comprou para melhorar suas tarefas diárias.
+
+Ele pega seu notebook e pede ao seu filho para ajudá-lo a rastrear as encomendas. Seu filho, familiarizado com o procedimento, acessa o site dos Correios e, junto com João, entra na seção de rastreamento de encomendas.
+
+João observa enquanto seu filho insere os códigos de rastreamento das encomendas que ele fez. O site dos Correios exibe então o status de cada pacote. João fica aliviado ao ver que a maioria das suas encomendas está a caminho e deve chegar em breve. No entanto, uma das encomendas apresenta um status de "Objeto não encontrado", o que deixa João um pouco preocupado. Ele decide clicar no código de rastreamento para obter mais detalhes e descobrir o motivo pelo qual a encomenda não está sendo localizada. Após analisar as informações adicionais, João percebe que a encomenda ainda não foi postada pelo vendedor e, portanto, não há informações disponíveis sobre o seu trajeto.
 
 ## Referências Bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
