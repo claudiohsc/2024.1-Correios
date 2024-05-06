@@ -23,17 +23,23 @@ Os cenários na Interação Humano-Computador são essencialmente histórias que
 
 ### Cálculo de preços e prazos de entrega
 
+Gabriel Anacleto Saraiva, um comerciante de 20 anos, logo pela manhã vai para a empresa de camisetas e canecas personalizadas e já separa as encomendas que devem ser enviadas ainda no horário limite daquele dia. Ele recebeu um total de 5 pedidos durante o período que estava fora do seu posto de trabalho, dessa forma ele precisa ter uma previsão de quanto irá pagar para realizar o envio dos seus produtos. Nessa parte da manhã ele organiza e atualiza o estoque de todos os produtos, e logo em seguida entra no site do Correios para realizar o cálculo de preços e do prazo de entrega, e assim informar aos seus clientes.
+
+Assim que o Gabriel entra no site, ele logo clica na opção de "Preços e Prazos" onde visualiza uma nova página para começar o preenchimento das informações do objeto.
+
 ### Certificados digitais do correio certifica
 
 ### Realização de Pré-postagem
 
-Atores: José Ricardo [LINK PRA PAGINA DE PERSONA]() (Cliente dos Correios)
+Atores: José Ricardo [Link para as personas](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/personas/) (Cliente dos Correios)
 
 José Ricardo Gomes, influenciador digital, recebe um produto para sua nova campanha publicitária, porém, descobre que o produto está danificado de tal forma que impede o seu uso, impossibilitando a divulgação de sua experiência em suas redes. José entra em contato com a marca, que se prontificou a mandar um novo produto, mas pede que, caso seja possível, José retorne o produto danificado para que eles possam examiná-lo.
 José lembra que há uma agência dos correios perto de sua casa e, com pressa, opta por realizar a pré-postagem pelo site para evitar filas. Ao acessar a seção de pré-postagem e fazer o login, ele preenche os dados do remetente e destinatário, garantindo que as informações obrigatórias estejam corretas. Em seguida, ele insere os detalhes do objeto, como formato, peso e dimensões, além de declarar o valor do produto. Como parte das informações complementares, José decide informar a NF-e, fornecendo o respectivo número e chave.
 Em seguida José marca a caixa de checagem do termo de conhecimento ao final da página, satisfeito com todas as informações inseridas, ele adiciona o objeto ao carrinho de compras. Ao revisar o carrinho, José confirma que todas as informações estão corretas e prossegue para realizar o pagamento. Entra as opções disponíveis, ele opta por pagar com cartão de crédito e completa o processo e se prepara para ir à agência dos correios.
 
 ### Minhas importações
+
+Atores: Gabriel Anacleto Saraiva [Link para as personas](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/personas/)
 
 Gabriel Anacleto Saraiva, um comerciante de 20 anos, enfrentou um contratempo quando uma peça de sua valiosa máquina de sublimação quebrou. Dada a complexidade e o custo do equipamento, ele empreendeu uma busca detalhada pela peça de reposição, resultando na necessidade de importá-la. Durante os dias seguintes, Gabriel monitorou incessantemente o site dos Correios, ansioso pela chegada da peça, já que a ausência de um sistema de notificação dos Correios o deixava no escuro sobre possíveis problemas com a entrega.
 
