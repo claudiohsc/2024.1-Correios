@@ -14,7 +14,7 @@ As relções entre os subobjetivos formam um plano, esse plano é utilizado para
 - **1+2**: Significa que os subobjetivos e operações podem ser realizados em qualquer ordem, de forma paralela.
 
 <div style="text-align: center">
-<p> Tabela 1: Elementos e relações em um diagrama HTA. </p>
+<p> Figura 1: Elementos e relações em um diagrama HTA. </p>
 </div>
 
 ![Elementos do diagrama HTA](../../assets/analiseHTA/legendaDiagramaHTA.jpeg)
