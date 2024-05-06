@@ -43,6 +43,15 @@ José lembra que há uma agência dos correios perto de sua casa e, com pressa, 
 
 Em seguida José marca a caixa de checagem do termo de conhecimento ao final da página, satisfeito com todas as informações inseridas, ele adiciona o objeto ao carrinho de compras. Ao revisar o carrinho, José confirma que todas as informações estão corretas e prossegue para realizar o pagamento. EntrE as opções disponíveis, ele opta por pagar com cartão de crédito e completa o processo, se preparando para ir à agência dos correios.
 
+### Loja dos Correios
+
+Atores: [Erivaldo Virginio Silva](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/personas/)
+
+Erivaldo Virginio Silva, com 30 anos é um advogado habilidoso e muito capacitado que tabalha em um escritório de advocacia juntamente com outros advogados seus colegas. Na sua rotina diária o mesmo necessita de utilizar envelopes e papéis que ele adquiri dos correios, em uma certa manhã comum de trabalho Erivaldo precisa de alguns envelopes e decide dar uma rápida passada em uma agência dos correios mais próxima, mas quando chega lá descobre que o estoque de envelopes da agência esta vazio em e não há previsão de chegada em menos de 20 dias úteis, então o mesmo decide entrar na loja online dos correios para adquirir alguns e chegarem via sedex ao escritório.
+Quando Erivaldo entra no site dos correios ele entra nas opções de compra e navega até a loja online dos correios, o mesmo então faz uma busca e encontra o que precisa seleciona a quantidade e adiciona ao carrinho, logo após realiza o seu cadastro para adicionar suas informações pessoas como endereço e cpf dentre outros, Erivaldo então segue para a etapa de pagamento seleciona a opção de compra com cartão de crédito para uma maior agilidade do processo e sua compra então é finalizada rapidamente,após finalizar a compra Erivaldo ve que os envelopes chegarão ao escritório em 3 dias úteis resolvendo seu problema, pois não poderia esperar 20 dias.
+
+Erivaldo ao conclui ao final de tudo que o serviço da loja online o auxiliou, mas o mesmo não ficou muito satisfeito quanto a usabilidade e visual da página, pois a mesma tem um estilo ultrapassado, itens mal dispostos, recursos que não funcioman, redirecionamentos desnecessários, falta liberdade para o usuário nas etapas de finalização de compra. Devido a experiência que Erivaldo obteve com o site da loja o mesmo se ve totalmente contrário ao pensamento de voltar a utilizar o site.
+
 ### Minhas importações
 
 Atores: [Gabriel Anacleto Saraiva](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/personas/)
