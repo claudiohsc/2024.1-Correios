@@ -35,29 +35,31 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 
 ## Bibliografia
 
-> - GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 08 de abr. de 2024.
+> 1. GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 08 de abr. de 2024.
 >
-> - Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](). Acesso em: 08 de abr. de 2024.
+> 2. Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](). Acesso em: 08 de abr. de 2024.
 >
-> - Mkdocs for material. Disponível em: [https://squidfunk.github.io/mkdocs-material/](). Acesso em: 08 de abr. de 2024.
+> 3. Mkdocs for material. Disponível em: [https://squidfunk.github.io/mkdocs-material/](). Acesso em: 08 de abr. de 2024.
 >
-> - Visual Studio Code. Disponível em: [https://code.visualstudio.com/](). Acesso em: 08 de abr. de 2024.
+> 4. Visual Studio Code. Disponível em: [https://code.visualstudio.com/](). Acesso em: 08 de abr. de 2024.
 >
-> - Telegram. Disponível em: [https://telegram.org/](). Acesso em: 08 de abr. de 2024.
+> 5. Telegram. Disponível em: [https://telegram.org/](). Acesso em: 08 de abr. de 2024.
 >
-> - YouTube. Disponível em: [https://about.youtube/](). Acesso em: 08 de abr. de 2024.
+> 6. YouTube. Disponível em: [https://about.youtube/](). Acesso em: 08 de abr. de 2024.
 >
-> - This person does not exist. Disponível em: [https://thispersondoesnotexist.com/](). Acesso em: 08 de abr. de 2024.
+> 7. This person does not exist. Disponível em: [https://thispersondoesnotexist.com/](). Acesso em: 08 de abr. de 2024.
 >
-> - Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](). Acesso em: 08 de abr. de 2024.
+> 8. Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](). Acesso em: 08 de abr. de 2024.
 >
-> - Google Planilhas. Disponível em: [https://www.google.com/sheets/about/](). Acesso em: 08 de abr. de 2024.
+> 9. Google Planilhas. Disponível em: [https://www.google.com/sheets/about/](). Acesso em: 08 de abr. de 2024.
 >
-> - Canva. Disponível em: [https://www.canva.com/](). Acesso em: 08 de abr. de 2024.
+> 10. Canva. Disponível em: [https://www.canva.com/](). Acesso em: 08 de abr. de 2024.
 > 
-> - Draw.io. Disponível em: [https://app.diagrams.net/](). Acesso em: 08 de abr. de 2024.
+> 11. Draw.io. Disponível em: [https://app.diagrams.net/](). Acesso em: 08 de abr. de 2024.
 >
-> - Figma. Disponível em: [https://www.figma.com/about/](). Acesso em: 08 de abr. de 2024.
+> 12. Figma. Disponível em: [https://www.figma.com/about/](). Acesso em: 08 de abr. de 2024.
+>
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
