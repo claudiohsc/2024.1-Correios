@@ -100,11 +100,11 @@ Com base nos resultados da avaliação de usabilidade, são feitas modificaçõe
 <p style="text-align: justify;">&emsp;&emsp;Como o sistema do projeto já está ativo, iniciaremos pela etapa de instalação do Ciclo de Vida de Mayhew, identificando os problemas e respectivas melhorias que possam ser feitas, e assim progredirmos para a fase de análise de requisitos seguindo fluxo previsto no modelo.</p>
 
 ## Bibliografia
-> <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) 
+> <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) 
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-
 19677-1.
 
-> <a id="REF2" href="#anchor_2">2.</a>Sharp, Helen, Preece, Jennifer, e Rogers, Yvonne (2019). Interaction Design: Beyond Human-Computer
+> <a id="REF2" href="#anchor_2">2.</a> Sharp, Helen, Preece, Jennifer, e Rogers, Yvonne (2019). Interaction Design: Beyond Human-Computer
 Interaction. John Wiley & Sons.
 
 ## Histórico de Versão

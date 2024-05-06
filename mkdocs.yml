@@ -23,25 +23,29 @@ nav:
     - Análise de tarefas:
       - Análise Hierárquica: analise_de_requisitos/analise_tarefas/hta.md
       - CMN-GOMS: analise_de_requisitos/analise_tarefas/cmn_goms.md
+    - Personas: analise_de_requisitos/personas.md
 extra_css:
   - stylesheets/extra.css
 theme:
   language: pt-BR
   name: material
   favicon: assets/correios_icon.svg
-  logo: assets/correios.svg
+  logo: assets/correios-icon-black.svg
   features:
     - navigation.tabs
+    - navigation.top
   palette:
-  
-    - scheme: default
+    - scheme : default
       primary: amber
+      accent: custom
       toggle:
-        icon: material/eye
-        name: Mudar para o modo escuro
+        icon: material/toggle-switch
+        name: Mudar para o modo escuro 
 
     - scheme: slate
-      primary: blue
+      primary: amber
+      accent: custom
       toggle:
-        icon: material/eye-outline
+        icon: material/toggle-switch-off-outline
         name: Mudar para o modo claro
+
