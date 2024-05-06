@@ -167,8 +167,6 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 #### Ja utilizou a loja online dos Correios? Se sim, como foi a experiência?
 
 
-<span> Heitor </span>- 
-
 <span> **Henrique** </span>-Não, mas obteve-se uma péssima experiência ao abrir a página da loja, em decorrência do seu design e interatividade ultrapassados para os dias atuais e fora do mínimo exigido para os dias atuais.
 
 <span> **Renato** </span>- Não, mas ao abrir a página da loja o usuário pode reagir com estranhamento devido ao design e interatividade do site.
