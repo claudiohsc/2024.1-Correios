@@ -14,7 +14,7 @@ Cada integrante realizou a análise de tarefas das funcionalidades previamente d
 
 | Tarefa | Responsável |
 | --- | --- |
-| Calcular preços e prezos de entrega | Cláudio |
+| Calcular preços e prazos de entrega | Cláudio |
 | Realizar compras na loja online | Elias |
 | Emitir certificados digitais | Gabriel B. Bertolazi |
 | Realizar pré-postagem | Gabriel F. J. Silva|
@@ -27,7 +27,7 @@ Cada integrante realizou a análise de tarefas das funcionalidades previamente d
 
 ## Análise das tarefas
 
-### 1. Calcular preços e prezos de entrega
+### 1. Calcular preços e prazos de entrega
 Abaixo está a análise da funcionalidade de cálculo de preços e prazos de entrega, em formato de pseudocódigo, do site dos Correios.
 
 ```
@@ -86,6 +86,11 @@ GOAL 0: Calcular preços e prazos de entrega
                         OP. 4.A.B.3: Preecher informação de largura em centímetros.
                         OP. 4.A.B.4: Preecher informação de comprimento em centímetros.
                         OP. 4.A.B.5: Preecher informação de peso em kilos.
+                METHOD 4.B: Escolher Formato Rolo/Cilindro ou Esfera.
+                (SEL. RULE: a opção está visível e desmarcada)
+                    OP. 4.B.1: Preecher informação de comprimento em centímetros.
+                    OP. 4.B.2: Preecher informação de diâmetro em centímetros.
+                    OP. 4.B.3: Preecher informação de peso em kilos.
 
     GOAL 5: Escolher Serviços Opcionais
         METHOD 5: Selecionar Serviços Opcionais
@@ -93,12 +98,11 @@ GOAL 0: Calcular preços e prazos de entrega
             OP. 5.1: Clicar nas caixas de seleção dos serviços opcionais desejados.
 
     GOAL 6: Calcular Preços e Prazos
-
-        METHOD 6: Calcular Preços e Prazos
-        (SEL. RULE: O botão de cálculo de preços e prazos está visível na tela.)
             OP. 6.1: Clicar no botão de 'Calcular'.
             OP. 6.2: Aguardar o resultado do cálculo.
 ```
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 ### 2. Realizar compras na loja online
 
@@ -185,6 +189,9 @@ GOAL 0: Realizar uma pré-postagem nos Correios
             OP 9.C.1: Selecionar a opção de pagamento com cartão de crédito
             OP 9.C.2: Concluir o pagamento
 ```
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
 
 ### 5. Gerenciar minhas importações
 
