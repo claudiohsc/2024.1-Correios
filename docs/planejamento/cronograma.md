@@ -50,7 +50,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | Gravar apresentação | Início: 08/04 <br>Fim: 08/04 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 08/04 <br>Fim: 08/04 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 | Artefato de apresentação | Início: 08/04 <br>Fim: 08/04 | Gabriel F. J. Silva | Início: 08/04 <br>Fim: 08/04 | Ricardo, Pablo |
 | Implementar Git Page | Início: 21/03 <br>Fim: 29/03 | Ricardo | Início: 29/03 <br>Fim: 31/03 | Pablo |
-| Correção pós apresentação | Início: - <br>Fim: - | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: - <br>Fim: - | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Correção pós apresentação | Início: 09/04 <br>Fim: 05/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 09/04 <br>Fim: 05/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://www.github.com/pabloheika), 2024.</p></font>
 
@@ -312,19 +312,19 @@ Na Tabela 19, temos o cronograma planejado para as atividades da última entrega
 
 ## Bibliografia
 
-> - SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844913/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>. Acesso em: 26 de Março 2024.
-> - Sommerville, Ian. Engenharia de Software 9ª Edição. Pearson 2017.
+> 1. SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Distrito Federal, 2016. Disponível em: <https://aprender3.unb.br/pluginfile.php/2844913/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>. Acesso em: 26 de Março 2024.
+> 2. Sommerville, Ian. Engenharia de Software 9ª Edição. Pearson 2017.
 Disponível em:
 <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 30 de Março de 2024
-> - SALES, André Barros de. Ambientação - Plano de ensino. **Aprender 3**. Distrito Federal, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf.> Acesso em: 26 de Março 2024.
+> 3. SALES, André Barros de. Ambientação - Plano de ensino. **Aprender 3**. Distrito Federal, 2024. Disponível em: <https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf.> Acesso em: 26 de Março 2024.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 1.0 | 07/04/2024 | Criar cronograma planejado para entregas 2, 3 e 8 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika)  |
-| 1.1 | 08/04/2024 | Criar cronograma planejado para entregas 1 e final | [Pablo S. Costa](https://github.com/pabloheika) | [Gabriel F. J. Silva](https://github.com/MMcLovin)  |
-| 1.2 | 08/04/2024 | Criar cronograma planejado para entregas 4, 6.1 e 7 | [Gabriel B. Bertolazi](https://github.com/Bertolazi)|[Elias Oliveira](https://github.com/EliasOliver21) |
-| 1.3 | 08/04/2024 | Criar cronograma planejado para entregas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Gabriel B. Bertolazi](https://github.com/Bertolazi), [Ricardo Augusto](https://www.github.com/avmricardo)  |
-| 1.4 | 08/04/2024 | Criar cronograma executado para entrega 1 | [Pablo S. Costa](https://github.com/pabloheika) | [Claudio Henrique](https://github.com/claudiohsc) |
-| 1.5 | 09/04/2024 | Reajuste em fontes das tabelas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Pablo S. Costa](https://github.com/pabloheika) |
+| `1.0` | 07/04/2024 | Criar cronograma planejado para entregas 2, 3 e 8 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika)  |
+| `1.1` | 08/04/2024 | Criar cronograma planejado para entregas 1 e final | [Pablo S. Costa](https://github.com/pabloheika) | [Gabriel F. J. Silva](https://github.com/MMcLovin)  |
+| `1.2` | 08/04/2024 | Criar cronograma planejado para entregas 4, 6.1 e 7 | [Gabriel B. Bertolazi](https://github.com/Bertolazi)|[Elias Oliveira](https://github.com/EliasOliver21) |
+| `1.3` | 08/04/2024 | Criar cronograma planejado para entregas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Gabriel B. Bertolazi](https://github.com/Bertolazi), [Ricardo Augusto](https://www.github.com/avmricardo)  |
+| `1.4` | 08/04/2024 | Criar cronograma executado para entrega 1 | [Pablo S. Costa](https://github.com/pabloheika) | [Claudio Henrique](https://github.com/claudiohsc) |
+| `1.5` | 09/04/2024 | Reajuste em fontes das tabelas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Pablo S. Costa](https://github.com/pabloheika) |
