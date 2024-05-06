@@ -83,10 +83,45 @@ Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA
 
 ### 2. Realizar compras na loja online
 
+Nesta tarefa o usuário deve fazer a utilização da loja online dos correios e realizar uma compra. Para esta análise foi tido como base algumas heurísticas de Nielsen como: 
+Prevenção de erros, estética, design minimalista, ajuda para a recuperação de erros e controle e liberdade para o usuário.
 
 <font size="2"><p style="text-align: center">Figura 3: .</p></font>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+![Loja HTA](../../assets/analiseHTA/Análise%20loja%20HTA.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 3: Especificação do diagrama da análise HTA .</p></font>
+
+<center>
+
+| objetivos / operações | problemas e recomendações |
+| --- | --- |
+|0. Acessando Página Inicial 1>2|**feedback:** Página a ser mostrado quando o usuário acessa o site. <br>**Problemas:** Design, interatividade e disposição do site não é agradável e não traz uma interface simples e minimalista.|
+| 1. A Loja 1+2|**feedback:**É apresentada uma breve descrição do site.|
+|1.1 Descrição do Site 1+2||
+|2. Cesta de Compras1+2||
+|2.1 Itens adicionados a cesta/Carrinho de compras|**Input:** Selecione um produto e adicione-o ao carrinho caso não esteja logado insira um CEP válido.<br>**feedback:** É mostrado os itens adicionados ao carrinho/cesta. <br>**Problemas:**Ao Fechar um pedido mas não ir até a etapa final de confirmação e retornar a página inicial o produto desaparece do carrinho de compras.|
+|2.1.1 Fechar Pedido|**feedback:** O usuário é redirecionado para a finalização da compra e etapas de verificação de dados e pagamento.<br> <br>**Problemas:** Ao inicar o processo de finalização de uma compra caso queira editar depois de selecionar uma opção de pagamento, mesmo não cheganda a etapa de confirmação final não é possível retornar as etapas anteriores.|
+|2.1.2 Recalcular Frete|**Input:** Insira um CEP válido no campo. <br>**feedback:**É verificado o valor do frete com outro cep adicionado.|
+|2.1.2.1 Informar e Calcular valor do frete|**Input:** Insira um Cep válido para calcular o valor da entrega.|
+|2.1.2.2 Buscar Cep|**Plano:** Descobrir o CEP do usuário.<br>**feedback:**O usuário é redirecionado para o site dos correios na página busca CEP.|
+|2.1.3 Excluir Item|**Plano:**Retirar um item do carrinho de compras.<br>**Input:**Clicar em excluir no item que deseja remover.<br>**feedback:**Item é removido do carrinho.|
+|3. Atendimento 1+2||
+|3.1 Contatos de suporte ao usuário|**Plano:**Suporte ao usuário.<br>**feedback:**É mostrado diferentes forma de contato com o suporte do correios.|
+|4. Meus Dados 1+2||
+|4.1 Login/Cadastro||
+|4.1.1 Informações pessoais|**Plano:**Visualizar informações do cadastro.<br>**feedback:**É apresentada as informações do usuário.<br>**Problemas:** Não possui uma opção para sair do perfil de usuário que esta logado apenas apresentando essa opção na etapa final de fechamento de uma compra na página de cesta de compras.|
+|4.1.2 Editar dados pessoais|**Plano:**Alterar dados pessoais.<br>**Input:** O usuário deve inserir ou alterar os dados desejados e confirmar.<br>**feedback:**É apresentado todos os dados e ao final da tela uma opção de recuperação de senha.|
+|5. Buscar Produtos 1+2||
+|5.1 Aplicar filtro/preferência|**Input:** Digite o nome de algum priduto que deseja visualizar e filtre o resultado caso deseje.<br>**feedback:**É apresentado os produtos que coincidem com a pesquisa, ou caso não seja encontrado o usuário pode inserir um email e selecionar um prazo para receber uma notificação quando aquela pesquisa retorne algum produto no site. |
+|5.2 Escolher Produto|**Plano:**Selecionar um produto.<br>**Input:**Clique em um produto desejado. <br>**feedback:**É mostrado a descrição com nome foto e informações detalhadas sobre o produto e a opção de compra para adicionar ao carrinho.|
+|5.3 Comprar Produto||
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
+
+</center>
 
 ### 3. Emitir certificados digitais
 
