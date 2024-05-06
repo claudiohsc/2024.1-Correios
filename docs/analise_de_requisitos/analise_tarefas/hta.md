@@ -35,12 +35,45 @@ O modelo escolhido da HTA foi o de diagrama hierárquico, que de acordo com Barb
 
 ## Análise das tarefas
 
-### 1. Calcular preços e prezos de entrega
+### 1. Calcular preços e prazos de entrega
+Abaixo, na Tabela 2, temos a representação da HTA em forma de tabela e na figura 2, a HTA em forma de diagrama para a tarefa de calcular preços e prazos pelo site dos Correios.
+
+<font size="2"><p style="text-align: center">Tabela X: HTA em tabela para realizar uma pré-postagem.</p></font>
+
+<center>
+
+| objetivos / operações | problemas e recomendações |
+| --- | --- |
+| 0. Cálcular preços e prazos de entrega 1 > 2 | **input**: data da postagem, CEP, dados gerais do objeto e serviços opcionais <br>**plano**: preencher data da postagem, informar CEP de origem e destino, preencher dados do objeto e escolher serviços opcionais |
+| 1. Informar Data da postagem |  |
+| 2. Informar CEP de origem e destino 1 / 2 | **input**: CEP de origem e destino <br>**plano**: informar CEP de origem e destino e encontrar CEP (não sei o CEP) |
+| 2.1 Informar CEP de origem e destino | |
+| 2.2 Não sei o CEP 1 > 2 |**input**: Endereço de origem ou destino, e tipo do CEP <br>**plano**: Informar endereço e tipo do CEP, e encontrar o CEP <br> **feedback**: Abre um pop-up para encontrar o CEP com base no endereço  |
+| 2.2.1 Informar endereço e tipo do CEP | |
+| 2.2.2 Encontrar CEP | |
+| 3. Informar dados do objeto 1 > 2| **plano**: Escolher tipo de serviço e informar formato do objeto <br>**feedback**: os campos variam conforme o tipo de escolha do usuário <br>**recomendação**: avisar o usuário que é necessário clicar em "adicionar" para registrar as informções inseridas nos campos|
+| 1.2.2.1 Número e chave da NF-e | |
+| 1.2.2.2 Informar descrição, quantidade e valor do objeto | |
+| 1.2.2.3 Confirmar e adicionar informações | |
+| 1.3 Escolher o tipo do serviço 1 / 2| **plano**: escolher entre o serviço SEDEX e PAC <br>**feedback**: o serviço escolhido é salvo e disponibilizado para vizualização e edição pelo usuário <br>**recomendação**: avisar o usuário caso um dos serviços não esteja disponível na região |
+| 1.3.1 Escolher SEDEX | |
+| 1.3.2 Escolher PAC | |
+| 1.4 Adicionar pré-postagem ao carrinho | |
+| 2 Gerenciar carrinho 1 / 2 / 3| **plano**: Prosseguir com a conclusão do pagamento ou inserir uma nova pré-postagem ou editar limpar os itens do carrinho <br>**feedback**: a tabela de itens no carrinho é atualizada de acordo com as ações do usuário <br>**problema**: não é possível apagar 1 item do carrinho quando há apenas 1 item <br>**recomendação**: identificar e mostrar o erro de não exclusão para o usuário |
+| 2.1 Prosseguir com pagamento | |
+| 2.2 Inserir nova pré-postagem | |
+| 2.3 Limpar carrinho | |
+| 3 Escolher a forma de pagamento 1 / 2 / 3|  **input**: dados do cartão de crédito <br>**feedback**: a página é atualizada conforme o meio de pagamento escolhido<br>**plano**: escolher netre pagar com cartão de crédito, boleto ou PIX <br>**recomendação**: caso não seja possivel selecionar uma opção em específico explicar para o usuário o motivo |
+| 3.1 Pagar com cartão de crédito| |
+| 3.2 Pagar com boleto| |
+| 3.3 Pagar com PIX| |
+
+</center>
 
 
 <font size="2"><p style="text-align: center">Figura 2: .</p></font>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 ### 2. Realizar compras na loja online
 
@@ -74,7 +107,7 @@ Abaixo, na Tabela 5, temos a representação da HTA em forma de tabela e na figu
 | 1.1.2 informar dados do destinatario | |
 | 1.2 informar dados do objeto 1 + 2 | **input**: formato e dimensões da embalagem e informações adiconais sobre o objeto <br>**plano**: selecionar o tipo da embalagem (carta, caixa ou cilindro) e as respectivas dimensões |
 | 1.2.1 selecionar a embalagem do objeto e inserir dimensões | |
-| 1.2.2 fornecer informações adicionais (1 / 2) > 3| **plano**: Informar dados da nota fiscal ou descrição do objeto, quantidade ou valor e clicar em inserir informações <br>**feedback**: os campos de dimensão variam conforme o tipo de embalagem escolhida e as informações adicionais são salvas em uma tabela ao final da página <br>**recomendação**: avisar o usuário que é necessário clicar em "adicionar" para registrar as informções inseridas nos campos|
+| 1.2.2 fornecer informações adicionais (1 / 2) > 3| **plano**: Informar dados da nota fiscal ou descrição do objeto, quantidade ou valor e clicar em inserir informações <br>**feedback**: os campos de dimensão variam conforme o tipo de embalagem escolhida e as informações adicionais são salvas em uma tabela ao final da página <br>**recomendação**: avisar o usuário que é necessário clicar em "adicionar" para registrar as informações inseridas nos campos|
 | 1.2.2.1 Número e chave da NF-e | |
 | 1.2.2.2 Informar descrição, quantidade e valor do objeto | |
 | 1.2.2.3 Confirmar e adicionar informações | |
