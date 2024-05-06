@@ -221,7 +221,7 @@ Com relação ao rastreamento, adicionar um tutorial para os usuários, e deixá
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agInGWloafU?si=dKW31sSMPZisjUlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Link direto para o vídeo](https://www.youtube.com/watch?v=agInGWloafU)
-
+Forms com o termo de Consentimento aceito pelos participantes neste [link](https://forms.gle/UHDje9nFTKWwgXbC6).
 
 ## Definição do Perfil
 
