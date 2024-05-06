@@ -172,6 +172,50 @@ GOAL 0: Realizar Compra na loja online
 
 ### 3. Emitir certificados digitais
 
+```
+GOAL 0: Obter certificados digitais.
+   OP. 0.1: Abrir o site dos correios em um navegador web
+   OP. 0.2: Ir até a opção “Atendimento" na página principal do site
+   Op. 0.3: Escolher a opção “Certificados digitais” na aba de “Atendimento”
+  
+
+   GOAL 1: Escolher o certificado desejado.
+      	 METHOD 1.A: Buscar o certificado desejado.
+       	(SEL. RULE: O certificado está sendo mostrado na tela.)
+       	METHOD 1.B: Selecione o certificado desejado.
+           		OP 1.A.1: Clicar em comprar.
+           		OP 1.A.2: Escolher qual tipo de mídia (física ou nuvem) deseja.
+
+   GOAL 2: Comprar o certificado desejado.      
+ 	METHOD 2.A: Digitar seu CPF.
+         	(SEL. RULE: Enquanto digita o CPF aparece na tela.)
+        		OP 2.A.1.: Selecionar se possui CNH.
+        			(SEL. RULE: Aparecer as opções “sim” e “não” para a questão “Possui CNH?”.)
+	METHOD 2.B: Colocar dados.
+        		OP 2.B.1: Escolher a forma de atendimento “videoconferência” ou “presencial”.
+      			(SEL. RULE: Aparecer as opções na tela.)
+        		OP 2.B.2: Confirmar a escolha do certificado.
+
+GOAL 3: Dados do titular para efetuar a compra.
+	METHOD 3.A: Colocar dados do usuário.
+		OP 3.A.1: Escolher a forma de pagamento.
+		OP 3.A.2: Escolher dados de pessoa física ou jurídica.
+		OP 3.A.3: Digitar seus dados pessoais.
+		OP 3.A.4: Aceitar os termos do site
+	METHOD 3.B: Efetuar pagamento:
+		OP 3.B.1: Cadastrar seu cartão de crédito para efetuar o pagamento.
+
+GOAL 4: Agendar o atendimento para emissão dos certificados:
+	METHOD 4.A: Selecionar uma das datas disponíveis.
+		OP 4.A.1: Colocar no calendário incluso no site a data e a hora disponível.
+		OP 4.A.2: Clicar em agendar atendimento.
+
+GOAL 5: Consultar solicitação de certificados:
+	METHOD 5.A: Acompanhar o pedido.
+		OP 5.A.1: Clique novamente no certificado comprado.
+		OP 5.A.2: Na aba “Consultar pedido”, digite seu CPF.
+		OP 5.A.3: Veja como está correndo sua solicitação.
+```
 
 ### 4. Realizar pré-postagem
 
