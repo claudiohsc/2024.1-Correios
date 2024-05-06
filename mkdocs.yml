@@ -18,6 +18,10 @@ nav:
     - Ferramentas do projeto: planejamento/ferramentas.md
     - Cronograma: planejamento/cronograma.md
     - Processo de Design: planejamento/processo-design.md
+  - Análise de Requisitos:
+    - Aspectos Éticos: analise_de_requisitos/aspectos-eticos.md
+    - Perfil de Usuário: analise_de_requisitos/perfil_de_usuario/perfil_de_usuario.md
+    - Personas: analise_de_requisitos/personas.md
   - Análise de Requisitos: 
     - Cenários: "analise_requisitos/cenarios.md"
 extra_css:
@@ -26,19 +30,22 @@ theme:
   language: pt-BR
   name: material
   favicon: assets/correios_icon.svg
-  logo: assets/correios.svg
+  logo: assets/correios-icon-black.svg
   features:
     - navigation.tabs
+    - navigation.top
   palette:
-  
-    - scheme: default
+    - scheme : default
       primary: amber
+      accent: custom
       toggle:
-        icon: material/eye
-        name: Mudar para o modo escuro
+        icon: material/toggle-switch
+        name: Mudar para o modo escuro 
 
     - scheme: slate
-      primary: blue
+      primary: amber
+      accent: custom
       toggle:
-        icon: material/eye-outline
+        icon: material/toggle-switch-off-outline
         name: Mudar para o modo claro
+
