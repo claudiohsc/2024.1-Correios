@@ -17,7 +17,7 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 | Logo | Ferramenta | Finalidade |
 | :--: | ---------- | ---------- |
 | ![Logo Github](../assets/ferramentas/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
-| ![]() ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
+| ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
 | ![Logo do Mfdocs](../assets/ferramentas/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
 | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
 | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |

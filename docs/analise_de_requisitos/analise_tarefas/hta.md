@@ -192,10 +192,30 @@ Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA
 
 ### 5. Gerenciar minhas importações
 
+Na Tabela 6 apresentada a seguir, é possível visualizar a representação da HTA (Hierarchical Task Analysis) em formato tabular. Já na Figura 6, a mesma HTA é exibida em formato de diagrama, ilustrando o processo de gerenciar minhas importações no site dos Correios.
 
-<font size="2"><p style="text-align: center">Figura 6: .</p></font>
+<font size="2"><p style="text-align: center">Figura 6: Diagrama HTA para gerenciar minhas importações.</p></font>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+![Rastreamento](../../assets/analiseHTA/importacoes.svg)
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 6: Especificação do diagrama da análise HTA .</p></font>
+
+| Objetivos / Operações | Problemas e recomendações |
+| --- | --- |
+| 0. Gerenciar minhas importações 1>2>(3+4) | **plano**: Acessar o site dos correios para obter os status das importações realizadas. |
+| 1. Acessar meus correios (2/3)>1 | **feedback:** Página a ser mostrado quando o usuário acessa o site.<br> **input**: Ir para a página específica da autenticação.<br> **plano**: Ter acesso a área restrita. |
+| 1.1 Realizar a autenticação | **input**: Entrar com usuário e senha.<br> **feedback**: Encaminhado para sistema Meus Correios. |
+| 1.2 Cadastrar | **input**: Entrar com dados pessoas em formulário.<br> **feedback**: Cadastro realizado valide seu usuário. |
+| 1.3 Recuperar a senha | **input**: Entrar com meio de recuperação, documento, código de verificação e nova senha.<br> **plano**: Recuperar credenciais esquecidas.<br> **feedback**: Senha alterada com sucesso, realize o login. |
+| 2. Acessar minhas importações | **feedback**: Informações importantes sobre prazos e consequências. |
+| 3. Buscar importação 1/2 | **plano**: Ver o status da importação e tomar providencias. |
+| 3.1 Inserir código da encomenda | **input**: Código da encomenda.<br> **feedback**: Importação atrelado ao usuário.<br> **problema:** O sistema nem sempre atrela o documento pessoal, sendo necessários realizar a mão. |
+| 3.2 Selecionar importação | **feedback**: Ver status e andamentos. |
+| 4. Emitir boleto | **plano**: Gerar boleto de cobrança para liberar a encomenda.<br>  **feedback**: DIS emitido aguardando pagamento. |
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
 ### 6. Rastrear encomendas
 
