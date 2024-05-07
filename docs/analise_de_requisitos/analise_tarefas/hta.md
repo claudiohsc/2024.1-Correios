@@ -138,21 +138,27 @@ Prevenção de erros, estética, design minimalista, ajuda para a recuperação 
 
 <font size="2"><p style="text-align: center">Figura 4: Figura da realização do HTA da emição de certificados.</p></font>
 
-![Emição certificado](../../assets/analiseHTA/novodiagramabertolazi.jpg)
+![Emição certificado](../../assets/analiseHTA/Bertolazihta.drawio.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+
+Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/Bertolazihta.drawio.png).
 
 <font size="2"><p style="text-align: center">Tabela 4: Tabela da realização do HTA da emição de certificados.</p></font>
 
 | objetivos | operações **problema**s e recomendações |
 | --- | --- |
 | 0. Emitir certificados digitais | **Plano:** levar a pessoa para a escolha do certificado. |
-| 1. Escolher certificado desejado | **Problemas:** Não interativo tendo que colocar duas vezes o certificado desejado. |
-| 1.1 Validar dados | **Input:** Digitar CPF e clicar se tem CNH ou não. |
-| 2. Comprar certificado desejado | **Input:** Clicar o certificado desejado <br>**Problemas:** De novo não-interativo sendo a terceira vez que tem que escolher. |
-| 3. Dados pessoais para compra | **Input:** Dados pessoais para compra CEP, CPF, nome e email. |
-| 4. Receber certificado | |
-| 5. Consultar andamento da sua solicitação | **Input:** CPF |
+| 1. Escolher certificado desejado | **Input:** Escolher o certificado que quer emitir <br>**Problemas:** Não interativo tendo que colocar duas vezes o certificado desejado. |
+| 1.1 Buscar certificado desejado | **Input:** Escolher o tipo de certificado com o tipo de emissão desejado |
+| 2. Comprar certificado desejado | |
+| 2.1 Dados de compra | **Input:** Forma de pagamento <br> ****Problemas:** ele te manda escolher entre as opções e se tem somente a opção de pagamento por crédito | 
+| 2.1.1 Pessoa jurídica | **Input:** Inserir dados da empresa como: CNPJ, nome da empresa e email para contato |
+| 2.1.2 Pessoa Física | **Input:** Inserir dados pessoais como nome do usuário, email, e CPF |
+| 4. Agendar atendimento para emissão do certificado | **Input:** Escolher uma data dentre as opções que o site te fornece |
+| 6. Emissão do certificado | |
+| 2.2 Digitar CPF | **Input:** Digitar seu CPF |
+| 5. Consultar solicitação de certificados | |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
@@ -263,13 +269,11 @@ Na Tabela 6 apresentada a seguir, é possível visualizar a representação da H
 
 ## Bibliografia
 
-> 1. Alves, Douglas; Maciel, Geovanna. Análise de Tarefas. Repositório do Grupo Bilheteria Digital de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/analise-de-tarefas/hta/>. Acesso em: 05 de Maio 2023.
-> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
-
+> - 
 
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin), [Ricardo Augusto](https://www.github.com/avmricardo) | [Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+| `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin), [Ricardo Augusto](https://www.github.com/avmricardo) |  |
