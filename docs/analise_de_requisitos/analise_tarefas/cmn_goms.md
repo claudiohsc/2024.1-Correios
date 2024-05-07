@@ -215,6 +215,9 @@ GOAL 5: Consultar solicitação de certificados:
 		OP 5.A.1: Clique novamente no certificado comprado.
 		OP 5.A.2: Na aba “Consultar pedido”, digite seu CPF.
 		OP 5.A.3: Veja como está correndo sua solicitação.
+
+GOAL 6: Emissão do certificado 
+    METHOD6.A: Receber seu certificado
 ```
 
 ### 4. Realizar pré-postagem
