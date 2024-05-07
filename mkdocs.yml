@@ -19,11 +19,13 @@ nav:
     - Cronograma: planejamento/cronograma.md
     - Processo de Design: planejamento/processo-design.md
   - Análise de Requisitos:
+    - Aspectos Éticos: analise_de_requisitos/aspectos-eticos.md
     - Perfil de Usuário: analise_de_requisitos/perfil_de_usuario/perfil_de_usuario.md
-    - Análise de tarefas:
-      - Análise Hierárquica: analise_de_requisitos/analise_tarefas/hta.md
-      - CMN-GOMS: analise_de_requisitos/analise_tarefas/cmn_goms.md
     - Personas: analise_de_requisitos/personas.md
+    - Cenários: analise_requisitos/cenarios.md
+    - Análise de tarefas:
+      - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_tarefas/hta.md
+      - CMN-GOMS: analise_de_requisitos/analise_tarefas/cmn_goms.md
 extra_css:
   - stylesheets/extra.css
 theme:
