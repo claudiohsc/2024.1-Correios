@@ -102,4 +102,4 @@ João observa enquanto seu filho insere os códigos de rastreamento das encomend
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 21/04/2024 | Criação do documento e cenário de pré-postagem | [Gabriel F. J. Silva](https://www.github.com/MMcLovin) | [Pablo S. Costa](https://www.github.com/pabloheika) |
+|`1.0`| 21/04/2024 | Criação do documento e adição cenários | [Claudio Henrique](https://www.github.com/claudiohsc) | [Pablo S. Costa](https://www.github.com/pabloheika) |
