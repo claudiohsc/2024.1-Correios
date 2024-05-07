@@ -70,6 +70,15 @@ Quando Erivaldo entra no site dos correios ele entra nas opções de compra e na
 
 Erivaldo ao conclui ao final de tudo que o serviço da loja online o auxiliou, mas o mesmo não ficou muito satisfeito quanto a usabilidade e visual da página, pois a mesma tem um estilo ultrapassado, itens mal dispostos, recursos que não funcioman, redirecionamentos desnecessários, falta liberdade para o usuário nas etapas de finalização de compra. Devido a experiência que Erivaldo obteve com o site da loja o mesmo se ve totalmente contrário ao pensamento de voltar a utilizar o site.
 
+### Emitir certificados 
+
+Atores: [Erivaldo Virginio Silva](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/personas/)
+
+Erivaldo, um advogado de 30 anos, precisava obter um certificado digital para acessar alguns serviços online relacionados ao seu trabalho. Ele decidiu ir até uma agência dos Correios para solicitar o documento. Na agência, o atendente informou a Erivaldo que, para obter o certificado, ele precisaria realizar o processo pelo site dos Correios. Seguindo as orientações, Erivaldo acessou o site e iniciou o procedimento. Ao navegar pelo site, Erivaldo se sentiu um pouco frustrado. Ele achou a interface não muito intuitiva e o processo para obter o certificado muito demorado e complicado. Erivaldo precisou preencher vários formulários, fazer uploads de documentos e seguir uma série de etapas antes de concluir a solicitação.
+
+Durante todo o processo, Erivaldo ficou impaciente, pois esperava que o site fosse mais fácil de usar e que o procedimento fosse mais ágil. Após alguns minutos de navegação e preenchimento de informações, ele finalmente conseguiu realizar a solicitação do certificado digital. Mesmo tendo concluído a operação, Erivaldo não ficou totalmente satisfeito com a experiência. Ele acreditava que o site dos Correios poderia ser mais intuitivo e simplificar o processo de obtenção do certificado digital, tornando-o mais eficiente e acessível para os usuários.
+
+
 ### Minhas importações
 
 Atores: [Gabriel Anacleto Saraiva](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/personas/)
