@@ -404,4 +404,4 @@ GOAL 0: Rastrear uma encomenda.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) e  [Gabriel B. Bertolazi](https://github.com/https://github.com/Bertolazi)|  |
+| `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) e  [Gabriel B. Bertolazi](https://github.com/https://github.com/Bertolazi)| [Elias F. Oliveira](https://www.github.com/EliasOliver21) |
