@@ -404,8 +404,4 @@ GOAL 0: Rastrear uma encomenda.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  |
-| `1.1`  | 05/05/2024 | Adiciona GOMS realizar pré-postagem | [Gabriel F. J. Silva](https://github.com/MMcLovin) |  |
-| `1.2`  | 05/05/2024 | Adiciona GOMS calcular preços e prazos de entrega| [Claudio Henrique](https://github.com/claudiohsc) |  |
-| `1.3`  | 06/05/2024 | Adiciona GOMS realizar compras na loja online | [Elias F. Oliveira](https://github.com/EliasOliver21) |  |
-| `1.4`  | 06/05/2024 | Adiciona GOMS gerenciar minhas importações | [Pablo S. Costa](https://github.com/pabloheika) |  |
+| `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) e  [Gabriel B. Bertolazi](https://github.com/https://github.com/Bertolazi)| [Elias F. Oliveira](https://www.github.com/EliasOliver21) |
