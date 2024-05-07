@@ -82,7 +82,25 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 ### Executado
 
-*EM BREVE...*
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Ata de Reunião | Início: 10/04 <br>Fim: 10/04 | Ricardo Augusto | Início: 10/04   Fim: 10/04 | Cláudio Henrique |
+| Aspectos Éticos | Início: 02/05 <br>Fim: 04/05 | Pablo S. Costa e Ricardo Augusto | Início: 06/05/04   Fim: 06/05 | Gabriel B. Bertolazi |
+| Termo de Consentimento | Início: 11/04 <br>Fim: 11/04 | Ricardo Augusto | Início: 11/04  Fim: 11/04 | Cláudio Henrique, Elias Oliveira, Gabriel F. J. Silva, Ricardo Augusto |
+| Elaboração do questionário | Início: 11/04 <br>Fim: 12/04 | Cláudio Henrique, Elias Oliveira, Gabriel F. J. Silva, Pablo, Ricardo Augusto | Início: 12/04 Fim: 12/04 | Cláudio Henrique, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto |
+| Elicitação: Questionário | Início: 10/04 <br> Fim: 21/04  | Cláudio Henrique e Elias Oliveira | Início: 06/05 Fim: 06/05 | Gabriel F. J. Silva e Ricardo Augusto |
+| Elicitação: Grupo de foco | Início:  01/05<br>Fim:  01/05| Cláudio Henrique  e Elias Oliveira | Início: 06/05 Fim: 06/05 | Gabriel F. J. Silva e Ricardo Augusto | 
+| Reunião com o usuário: Grupo de foco | Início:  01/05 <br>Fim: 01/05 | Cláudio Henrique  e Elias Oliveira | Início: 06/05 Fim: 06/05 | Gabriel F. J. Silva e Ricardo Augusto | 
+| Perfil do usuário | Início: 22/04 <br>Fim: 05/05 | Cláudio Henrique, Elias Oliveira | Início: 22/04 Fim: 05/06 | Gabriel F. J. Silva e Ricardo Augusto | 
+| Elaboração das personas | Início: 16/04 <br> Fim: 05/05  | Pablo S. Costa | Início: 05/05 Fim: 05/05 | Cláudio Henrique |
+| Análise de tarefas: CMN-GOMS: | Início: 04/06 <br> Fim: 06/05 | Cláudio Henrique, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto | Início: 06/05 <br> Fim: 06/05 |  Gabriel F. J. Silva |
+| Artefato da análise CMN-GOMS: | Início: 04/06 <br> Fim: 06/05 | Gabriel B. Bertolazi Gabriel F. J. Silva | Início: 06/05 <br> Fim: 06/05 | Elias Oliveira |
+| Análise de tarefas: HTA: | Início: 01/06 <br> Fim: 06/05 | Cláudio Henrique, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto | Início: 06/05 <br> Fim: 06/05 | Pablo S. Costa e Ricardo Augusto |
+| Artefato da análise HTA: | Início: 30/04 <br> Fim: 06/05 | Gabriel F. J. Silva e Ricardo Aigusto | Início: 06/05 <br> Fim: 06/05 | Elias Oliveira |
+| Elaboração dos Cenários | Início: 21/04 <br> Fim: 06/05 | Cláudio Henrique, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto | Início: 06/05 <br> Fim: 06/05 | Cláudio Henrique e Elias Oliveira |
+| Artefato dos Cenários | Início: 21/04 <br> Fim: 06/05 | Cláudio Henrique e Gabriel F. J. Silva | Início: 06/05 <br> Fim: 06/05 | Pablo S. Costa |
+| Gravação da apresentação | Início: 06/05    <br>Fim: 06/06 | Cláudio Henrique, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto | Início: 06/05 <br>Fim: 06/05 | Cláudio Henrique, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto |
+| Correções pós apresentação |  | Cláudio Henrique, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto |  | Cláudio Henrique, Elias Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo Augusto |
 
 ## Entrega 3
 
@@ -328,3 +346,4 @@ Disponível em:
 | `1.3` | 08/04/2024 | Criar cronograma planejado para entregas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Gabriel B. Bertolazi](https://github.com/Bertolazi), [Ricardo Augusto](https://www.github.com/avmricardo)  |
 | `1.4` | 08/04/2024 | Criar cronograma executado para entrega 1 | [Pablo S. Costa](https://github.com/pabloheika) | [Claudio Henrique](https://github.com/claudiohsc) |
 | `1.5` | 09/04/2024 | Reajuste em fontes das tabelas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Pablo S. Costa](https://github.com/pabloheika) |
+| `1.6` | 06/05/2024 | Adiciona cronograma executado da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [](https://github.com/) |
