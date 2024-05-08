@@ -6,9 +6,10 @@ site_name: Correios
 nav: 
   - Equipe: "index.md"
   - Atas: 
-    - Ata1: "atas/ata1.md"
-    - Ata2: "atas/ata2.md"
-    - Ata3: "atas/ata3.md"
+    - Ata 1: atas/ata1.md
+    - Ata 2: atas/ata2.md
+    - Ata 3: atas/ata3.md
+    - Ata 4: atas/ata4.md
   - Apresentações:
     - Apresentação 01: apresentações/apresentação-01.md
     - Apresentação 02: apresentações/apresentação-02.md
