@@ -6,7 +6,7 @@ O conjunto de características detalhadas definem o perfil do usuário: "O perfi
 
 Adquirimos os dados que foram analisados por meio de formulários distribuidos entre os dias 10 e 21 do mês de abril de 2024. Os questionários foram disseminados em chats nas redes sociais nos fornecendo uma base de dados para a formulação de gráficos para uma melhor visualização das características, hábitos e ações do usuário no site.
 
-Além da técnica de questionários utilizamos a técnica de reuniões de Grupo de Foco para uma confirmação e validação do perfil de usuário já obtido pelas informações extraídas dos resultados do formulário distribuído.
+Além da técnica de questionários utilizamos a técnica de reuniões de Grupo de Foco para uma confirmação e validação do perfil de usuário já obtido pelas informações extraídas dos resultados do formulário distribuído.Uma observação para a realização do grupo de foco foi o terceiro participante de última hora não poder participar da reunião o que ocorreu na realização da mesma somente com os 2 participantes.
 
 ## Resultados do Formulário
 
