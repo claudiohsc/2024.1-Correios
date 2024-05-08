@@ -4,7 +4,7 @@ O conjunto de características detalhadas definem o perfil do usuário: "O perfi
 
 ## Metodologia
 
-Adquirimos os dados que foram analisados por meio de formulários distribuidos entre os dias 10 e 21 do mês de abril de 2024. Os questionários foram disseminados em chats nas redes sociais nos fornecendo uma base de dados para a formulação de gráficos para a melhor visualização das características, hábitos e ações do usuário no site.
+Adquirimos os dados que foram analisados por meio de formulários distribuidos entre os dias 10 e 21 do mês de abril de 2024. Os questionários foram disseminados em chats nas redes sociais nos fornecendo uma base de dados para a formulação de gráficos para uma melhor visualização das características, hábitos e ações do usuário no site.
 
 Além da técnica de questionários utilizamos a técnica de reuniões de Grupo de Foco para uma confirmação e validação do perfil de usuário já obtido pelas informações extraídas dos resultados do formulário distribuído.
 
@@ -224,6 +224,8 @@ Com relação ao rastreamento, adicionar um tutorial para os usuários, e deixá
 Planilha com o termo de Consentimento aceito pelos participantes neste [link](https://docs.google.com/spreadsheets/d/1cB2vEc-IR7kdPN0Lbadnz_HQrrwaYQbDiWTTnRGqB0Q/edit?usp=sharing).
 
 ## Definição do Perfil
+
+O formulário obteve um total de 32 respostas de usuários que aceitaram o termo de consentimento, mas apenas 28 desses responderam que utilizam o site dos correios. Também deve-se levar em conta ao analisar os resultados do formulário os grupos onde o formulário foi distribuído que em nosso caso em suma foram enviados links em diversos grupos de alunos da Universidade de Brasília/FGA, por isso quase todos os participantes são universitários.
 
 A partir dos resultados obtidos do formulário e pelas análises dos gráficos apresentados juntamente com as respostas do Grupo de Foco, constatamos que o pefil de um usuário dos Correios possui os seguintes aspectos representados na Tabela 2:
 
