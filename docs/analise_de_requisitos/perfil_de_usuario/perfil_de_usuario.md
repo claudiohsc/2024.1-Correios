@@ -266,3 +266,4 @@ A partir dos resultados obtidos do formulário e pelas análises dos gráficos a
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 20/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| [Gabriel F. J. Silva](https://www.github.com/MMcLovin) |
 | `1.1`  | 02/05/2024 | Adicionando Resultados do Grupo de Foco | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| [Gabriel F. J. Silva](https://www.github.com/MMcLovin), [Ricardo Augusto](https://www.github.com/avmricardo) |
+| `1.3`  | 08/05/2024 | Adicionando Resultados do Grupo de Foco | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| |
