@@ -173,12 +173,12 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-| Relato dos resultados do Story Board | Início: 09/05  <br> Fim: 11/05 | Claúdio, Elias | Início: 12/05 Fim: 12/05 | Gabriel F. J. Silva |
-| Relato da Análise de tarefas | Início: 14/05 <br> Fim: 16/05 | Gabriel F. J. Silva, Pablo | Início: 17/05 <br> Fim: 17/05 | Pablo |
-| Planejamento da Avaliação do Protótipo de Papel | Início: 12/05 <br> Fim: 14/05 | Ricardo, Gabriel B. Bertolazi | Início: 15/05 <br> Fim: 15/05 | Ricardo |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: 14/05 <br> Fim: 16/05 | Claúdio, Elias | Início: 17/05 <br> Fim: 17/05 |  Gabriel B. Bertolazi  |
-| Gravação da Apresentação | Início: 18/05 <br> Fim: 18/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 19/05 <br> Fim: 20/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
-| Correção pós apresentação | Início: 22/05 <br> Fim: 23/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 24/05 <br> Fim: 24/05 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Relato dos resultados do Story Board | Início: 24/05  <br> Fim: 27/05 | Claúdio, Elias | Início: 27/05 Fim: 27/05 | Gabriel F. J. Silva |
+| Relato da Análise de tarefas | Início: 27/05 <br> Fim: 30/05 | Gabriel F. J. Silva, Pablo | Início: 30/05 <br> Fim: 30/05 | Pablo |
+| Planejamento da Avaliação do Protótipo de Papel | Início: 12/05 <br> Fim: 14/05 | Ricardo, Gabriel B. Bertolazi | Início: 14/05 <br> Fim: 14/05 | Ricardo |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: 31/05 <br> Fim: 01/06 | Claúdio, Elias | Início: 01/06 <br> Fim: 01/06 |  Gabriel B. Bertolazi  |
+| Gravação da Apresentação | Início: 02/06 <br> Fim: 02/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 03/06 <br> Fim: 03/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Correção pós apresentação | Início: 05/06 <br> Fim: 06/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 06/06 <br> Fim: 06/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
 <font size="2"><p style="text-align: center">Fonte: [Elias Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
@@ -236,14 +236,14 @@ Na tabela 12, tem-se o executado das atividades previstas para a primeira parte 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-| Verificação de artefato: Início | Início: 29/05 <br> Fim: 30/05 | Claúdio, Elias | Início: 30/05 Fim: 30/05 | Gabriel F. J. Silva |
-| Verificação de artefato: Apresentação | Início: 30/05 <br> Fim: 01/06 | Gabriel F. J. Silva, Pablo | Início: 01/06 <br> Fim: 01/06 | Ricardo |
-| Verificação de artefato: Ferramentas| Início: 31/05 <br> Fim: 01/06 | Ricardo, Gabriel B. Bertolazi | Início: 02/06 <br> Fim: 02/06 | Claúdio |
-| Verificação de artefato: Processo de design| Início: 02/06 <br> Fim: 04/06 | Claúdio, Elias | Início: 04/06 <br> Fim: 04/06 | Gabriel B. Bertolazi |
-| Verificação de artefato: Cronograma| Início: 04/06 <br> Fim: 06/06 | Gabriel F. J. Silva, Pablo | Início: 07/06 <br> Fim: 07/06 | Claúdio |
-| Verificação de artefato: Atas| Início: 06/06 <br> Fim: 07/06 | Ricardo, Gabriel B. Bertolazi | Início: 08/06 <br> Fim: 08/06 | Elias |
-| Gravação da apresentação | Início: 10/06 <br> Fim: 10/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 11/06 <br> Fim: 11/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
-| Correção pós apresentação | Início: 14/06 <br> Fim: 15/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 15/06 <br> Fim: 15/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Verificação de artefato: Início | Início: 14/06 <br> Fim: 15/06 | Claúdio, Elias | Início: 30/05 Fim: 30/05 | Gabriel F. J. Silva |
+| Verificação de artefato: Apresentação | Início: 15/06 <br> Fim: 16/06 | Gabriel F. J. Silva, Pablo | Início: 16/06 <br> Fim: 16/06 | Ricardo |
+| Verificação de artefato: Ferramentas| Início: 16/06 <br> Fim: 17/06 | Ricardo, Gabriel B. Bertolazi | Início: 18/06 <br> Fim: 08/06 | Claúdio |
+| Verificação de artefato: Processo de design| Início: 17/06 <br> Fim: 18/06 | Claúdio, Elias | Início: 19/06 <br> Fim: 19/06 | Gabriel B. Bertolazi |
+| Verificação de artefato: Cronograma| Início: 18/06 <br> Fim: 19/06 | Gabriel F. J. Silva, Pablo | Início: 20/06 <br> Fim: 20/06 | Claúdio |
+| Verificação de artefato: Atas| Início: 19/06 <br> Fim: 20/06 | Ricardo, Gabriel B. Bertolazi | Início: 21/06 <br> Fim: 21/06 | Elias |
+| Gravação da apresentação | Início: 20/06 <br> Fim: 21/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 21/06 <br> Fim: 21/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Correção pós apresentação | Início: 26/06 <br> Fim: 27/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 28/06 <br> Fim: 28/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
 <font size="2"><p style="text-align: center">Fonte: [Elias Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
