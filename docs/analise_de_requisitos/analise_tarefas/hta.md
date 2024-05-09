@@ -113,9 +113,9 @@ Prevenção de erros, estética, design minimalista, ajuda para a recuperação 
 |1.1 Descrição do Site 1+2||
 |2. Cesta de Compras1+2||
 |2.1 Itens adicionados a cesta/Carrinho de compras|**Input:** Selecione um produto e adicione-o ao carrinho caso não esteja logado insira um CEP válido.<br>**feedback:** É mostrado os itens adicionados ao carrinho/cesta. <br>**Problemas:**Ao Fechar um pedido mas não ir até a etapa final de confirmação e retornar a página inicial o produto desaparece do carrinho de compras.|
-|2.1.1 Fechar Pedido|**feedback:** O usuário é redirecionado para a finalização da compra e etapas de verificação de dados e pagamento.<br> <br>**Problemas:** Ao inicar o processo de finalização de uma compra caso queira editar depois de selecionar uma opção de pagamento, mesmo não cheganda a etapa de confirmação final não é possível retornar as etapas anteriores.|
+|2.1.1 Fechar Pedido|**feedback:** O usuário é redirecionado para a finalização da compra e etapas de verificação de dados e pagamento.<br>**Problemas:** Ao inicar o processo de finalização de uma compra caso queira editar depois de selecionar uma opção de pagamento, mesmo não cheganda a etapa de confirmação final não é possível retornar as etapas anteriores.|
 |2.1.1.1 Pagar com boleto|**feedback:** É gerado o boleto e disponibilizado para impressão.|
-|2.1.1.2 Pagar com Cartão de crédito|**Input:** Insira o número do cartão data de vencimento e código de segurança <br>**feedback:**A compra é aprovada e gerado um comprovante de pagamento.|
+|2.1.1.2 Pagar com Cartão de crédito|**Input:** Insira o número do cartão data de vencimento e código de segurança <br>**feedback:** A compra é aprovada e gerado um comprovante de pagamento.|
 |2.1.2 Recalcular Frete|**Input:** Insira um CEP válido no campo. <br>**feedback:**É verificado o valor do frete com outro cep adicionado.|
 |2.1.2.1 Informar e Calcular valor do frete|**Input:** Insira um Cep válido para calcular o valor da entrega.|
 |2.1.2.2 Buscar Cep|**Plano:** Descobrir o CEP do usuário.<br>**feedback:**O usuário é redirecionado para o site dos correios na página busca CEP.|
