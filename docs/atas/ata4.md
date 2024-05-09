@@ -7,7 +7,8 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 ## Pautas da reunião:
 
 1. Adicionar características gerais da plataforma para o projeto no cronograma planejado da entrega 3 e definir quem ficará.responsável;
-2. Correções da apresentação 2.
+2. Correções da apresentação 2;
+3. Ajustes nos cronogramas planejados.
 
 ## Integrantes presentes:
 
@@ -44,12 +45,14 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
     - Arrumar resultados do questionário e grupos de foco - Cláudio e Elias;
     - Explicar como utilizamos os aspectos éticos - Pablo;
     - Explicar o que é termo de consentimento - Ricardo;
-    - Arrumar cronograma planejado - Gabriel B;
     - Arrumar fonte dos códigos GOMS - Gabriel F.
+3. Ajustes no cronograma:
+    - Responsável pelo cronograma planejado: Os responsáveis pelo cronograma arrumam o seu cronograma.
+    - Arrumar o histórico de versão: deixar todas as criações dos cronogramas planejados como versão 1.0; cada adição de cronograma executado aumenta o segundo número da versão; e nessa alteração dos cronogramas planejados, por conta da pausa da greve, aumentar versão para 2.0.
 
 ## Gravação da reunião
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GUolZ24OyR0?si=gvnBEtSa_sBkt-KB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Histórico de Versão
 
