@@ -28,6 +28,8 @@ nav:
     - Análise de tarefas:
       - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_tarefas/hta.md
       - CMN-GOMS: analise_de_requisitos/analise_tarefas/cmn_goms.md
+  - Análise de Requisitos II:
+    - Guia de Estilo: analise_de_requisitos2/guia_de_estilo.md
 extra_css:
   - stylesheets/extra.css
 theme:
