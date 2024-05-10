@@ -215,11 +215,27 @@ Com relação ao rastreamento, adicionar um tutorial para os usuários, e deixá
 
 **Renato Medeiros**: Universitário / 26 anos de idade / Sexo masculino
 
+**Heitor Simões**: Universitário / 22 anos de idade / Sexo masculino
+
 ## Gravação
+<center>
+<font size="3"><p style="text-align: center">**Vídeo 01:** Primeira reunião.</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agInGWloafU?si=dKW31sSMPZisjUlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Link direto para o vídeo](https://www.youtube.com/watch?v=agInGWloafU)
+<font size="3"><p style="text-align: center">**Fonte:** Autores,2024</p></font>
+
+[Link direto para o vídeo 01](https://www.youtube.com/watch?v=agInGWloafU)
+
+<br> <font size="3"><p style="text-align: center">**Vídeo 02:** Segunda reunião.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/crzjiZ6SQWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">**Fonte:** Autores,2024</p></font>
+
+[Link direto para o vídeo 02](https://youtu.be/crzjiZ6SQWs)
+
+</center>
 
 Planilha com o termo de Consentimento aceito pelos participantes neste [link](https://docs.google.com/spreadsheets/d/1cB2vEc-IR7kdPN0Lbadnz_HQrrwaYQbDiWTTnRGqB0Q/edit?usp=sharing).
 
