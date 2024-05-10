@@ -125,6 +125,7 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 | [Elias F. Oliveira](https://github.com/EliasOliver21) |Secretário|
 | Henrique Camelo Quenino |Usuário|
 | Renato Medeiros |Usuário|
+|Heitor Simões|Usuário|
 
 </center>
 
@@ -142,6 +143,8 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 
 <span> **Renato** </span>- Acompanhamento de encomendas de compras online entre outras funcionalidades e informações contidas no rastreio de objetos, verificação do valor do envio e fornecendo as dimensões de objetos a enviar.
 
+<span> **Heitor** </span>-
+
 <!-- Pergunta 2 -->
 
 #### Ja encontrou alguma agência utilizando o serviço de "Encontrar Agências" do site?
@@ -150,6 +153,8 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 <span> **Henrique** </span>-Já se fez o uso dessa funcionalidade buscando a agência mais próxima para o recolhimento de uma encomenda. A funcionalidade foi bem simples e intuitiva para o usuário.
 
 <span> **Renato** </span>- Também já utilizou a funcionalidade para buscar agências próximas.
+
+<span> **Heitor** </span>-
 
 <!-- Pergunta 3 -->
 
@@ -161,6 +166,8 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 
 <span> **Renato** </span>- Sim com facilidade, mas destacou que usuários com menor experiência talvez terão dificuldades para utilizar o site e suas funcionalidades.
 
+<span> **Heitor** </span>-
+
 <!-- Pergunta 4 -->
 
 
@@ -170,6 +177,8 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 <span> **Henrique** </span>-Não, mas obteve-se uma péssima experiência ao abrir a página da loja, em decorrência do seu design e interatividade ultrapassados para os dias atuais e fora do mínimo exigido para os dias atuais.
 
 <span> **Renato** </span>- Não, mas ao abrir a página da loja o usuário pode reagir com estranhamento devido ao design e interatividade do site.
+
+<span> **Heitor** </span>-
 
 <!-- Pergunta 5 -->
 
@@ -181,6 +190,7 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 
 <span> **Renato** </span>- Site com uma enorme poluição visual e com funcionalidades e/ou informações que a maioria dos usuários não utilizam.
 
+<span> **Heitor** </span>-
 
 <!-- Pergunta 6 -->
 
@@ -193,6 +203,7 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 
 <span> **Renato** </span>- Usabilidade do site como um ponto negativo.
 
+<span> **Heitor** </span>-
 
 <!-- Pergunta 7 -->
 
@@ -208,6 +219,8 @@ Adicionar tutorial e explicação sobre a utilização do código para rastreio.
 
 <span> **Renato** </span>- Adicionar mais contraste no site focando nas informações e funções essenciais. Poderia ter uma função de alterar o contraste e aumentar a fonte; ter menos informações desnecessárias.
 Com relação ao rastreamento, adicionar um tutorial para os usuários, e deixá-lo de forma mais simplificada. Acessibilidade para pessoas daltônicas.
+
+<span> **Heitor** </span>-
 
 ### Perfil dos usuários entrevistados
 
