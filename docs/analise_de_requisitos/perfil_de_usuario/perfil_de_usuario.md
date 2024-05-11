@@ -143,18 +143,19 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 
 <span> **Renato** </span>- Acompanhamento de encomendas de compras online entre outras funcionalidades e informações contidas no rastreio de objetos, verificação do valor do envio e fornecendo as dimensões de objetos a enviar.
 
-<span> **Heitor** </span>-
+<span> **Heitor** </span>- Acompanhar o pedido e fazer o cálculo do valor da entrega. Sinto dificuldade para realizar o calculo, na parte em saber o CEP específico. O usuário sente falta da busca do CEP pelo endereço.
+
 
 <!-- Pergunta 2 -->
 
 #### Ja encontrou alguma agência utilizando o serviço de "Encontrar Agências" do site?
 
 
-<span> **Henrique** </span>-Já se fez o uso dessa funcionalidade buscando a agência mais próxima para o recolhimento de uma encomenda. A funcionalidade foi bem simples e intuitiva para o usuário.
+<span> **Henrique** </span>- Já se fez o uso dessa funcionalidade buscando a agência mais próxima para o recolhimento de uma encomenda. A funcionalidade foi bem simples e intuitiva para o usuário.
 
 <span> **Renato** </span>- Também já utilizou a funcionalidade para buscar agências próximas.
 
-<span> **Heitor** </span>-
+<span> **Heitor** </span>- Nunca utilizou.
 
 <!-- Pergunta 3 -->
 
@@ -166,7 +167,8 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 
 <span> **Renato** </span>- Sim com facilidade, mas destacou que usuários com menor experiência talvez terão dificuldades para utilizar o site e suas funcionalidades.
 
-<span> **Heitor** </span>-
+<span> **Heitor** </span>- Sim, mas na parte de login do site, o usuário não conseguiu realizar o login e recorreu a assistente, e também não obteve sucesso. Não consegue acessar a conta, e quando tenta recuperar aparece um pop-up na tela e não consegue realizar a recuperação de conta.
+
 
 <!-- Pergunta 4 -->
 
@@ -178,7 +180,7 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 
 <span> **Renato** </span>- Não, mas ao abrir a página da loja o usuário pode reagir com estranhamento devido ao design e interatividade do site.
 
-<span> **Heitor** </span>-
+<span> **Heitor** </span>- Nunca comprou, teve uma aversão por parte do usuário pelo design antigo da página da loja.
 
 <!-- Pergunta 5 -->
 
@@ -190,7 +192,8 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 
 <span> **Renato** </span>- Site com uma enorme poluição visual e com funcionalidades e/ou informações que a maioria dos usuários não utilizam.
 
-<span> **Heitor** </span>-
+<span> **Heitor** </span>- Ao fazer um cálculo de preço de um serviço, o usuário sente falta de poder fazer esse cálculo somente com o endereço sem a necessidade do CEP.
+
 
 <!-- Pergunta 6 -->
 
@@ -200,10 +203,9 @@ Para realizar a técnica de Grupo de Foco se fez necessário executar uma reuni�
 
 <span> **Henrique** </span>-Funcionalidades rápidas e tranquilas de fácil acesso.
 
-
 <span> **Renato** </span>- Usabilidade do site como um ponto negativo.
 
-<span> **Heitor** </span>-
+<span> **Heitor** </span>- Tirando o login, o site satisfaz todas as suas necessidades.
 
 <!-- Pergunta 7 -->
 
@@ -220,7 +222,7 @@ Adicionar tutorial e explicação sobre a utilização do código para rastreio.
 <span> **Renato** </span>- Adicionar mais contraste no site focando nas informações e funções essenciais. Poderia ter uma função de alterar o contraste e aumentar a fonte; ter menos informações desnecessárias.
 Com relação ao rastreamento, adicionar um tutorial para os usuários, e deixá-lo de forma mais simplificada. Acessibilidade para pessoas daltônicas.
 
-<span> **Heitor** </span>-
+<span> **Heitor** </span>- A assistente poderia ter um suporte mais abrangente, pois o chat da assistente virtual apenas retorna ao usuário comandos genéricos e padrões.
 
 ### Perfil dos usuários entrevistados
 
@@ -230,21 +232,26 @@ Com relação ao rastreamento, adicionar um tutorial para os usuários, e deixá
 
 **Heitor Simões**: Universitário / 22 anos de idade / Sexo masculino
 
+## Resultados do Grupo de Foco
+
+Ao realizar o Grupo de Foco com os 3 usuários recebemos variadas respostas e pontos de vista sobre o site dos Correios.
+
 ## Gravação
 <center>
+
 <font size="3"><p style="text-align: center">**Vídeo 01:** Primeira reunião.</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/agInGWloafU?si=dKW31sSMPZisjUlz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">**Fonte:** Autores,2024</p></font>
+<font size="3"><p style="text-align: center">**Fonte:** [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc),2024</p></font>
 
 [Link direto para o vídeo 01](https://www.youtube.com/watch?v=agInGWloafU)
 
-<br> <font size="3"><p style="text-align: center">**Vídeo 02:** Segunda reunião.</p></font>
+<br><font size="3"><p style="text-align: center">**Vídeo 02:** Segunda reunião.</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/crzjiZ6SQWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">**Fonte:** Autores,2024</p></font>
+<font size="3"><p style="text-align: center">**Fonte:** [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc),2024</p></font>
 
 [Link direto para o vídeo 02](https://youtu.be/crzjiZ6SQWs)
 
@@ -254,7 +261,7 @@ Planilha com o termo de Consentimento aceito pelos participantes neste [link](ht
 
 ## Definição do Perfil
 
-O formulário obteve um total de 32 respostas de usuários que aceitaram o termo de consentimento, mas apenas 28 desses responderam que utilizam o site dos correios. Também deve-se levar em conta ao analisar os resultados do formulário os grupos onde o formulário foi distribuído que em nosso caso em suma foram enviados links em diversos grupos de alunos da Universidade de Brasília/FGA, por isso quase todos os participantes são universitários.
+O formulário obteve um total de 32 respostas de usuários que aceitaram o termo de consentimento, mas apenas 28 desses responderam que utilizam o site dos correios. Também deve-se levar em conta ao analisar os resultados do formulário os grupos onde o formulário foi distribuído, que em nosso caso foram enviados links em diversos grupos de alunos da Universidade de Brasília/FGA, por isso grande parte dos participantes são universitários.
 
 A partir dos resultados obtidos do formulário e pelas análises dos gráficos apresentados juntamente com as respostas do Grupo de Foco, constatamos que o pefil de um usuário dos Correios possui os seguintes aspectos representados na Tabela 2:
 
@@ -295,4 +302,4 @@ A partir dos resultados obtidos do formulário e pelas análises dos gráficos a
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 20/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| [Gabriel F. J. Silva](https://www.github.com/MMcLovin) |
 | `1.1`  | 02/05/2024 | Adicionando Resultados do Grupo de Foco | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| [Gabriel F. J. Silva](https://www.github.com/MMcLovin), [Ricardo Augusto](https://www.github.com/avmricardo) |
-| `1.3`  | 08/05/2024 | Adicionando Resultados do Grupo de Foco | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| |
+| `1.2`  | 08/05/2024 | Adicionando Resultados do Grupo de Foco | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)|  |
