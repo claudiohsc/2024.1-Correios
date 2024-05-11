@@ -234,7 +234,9 @@ Com relação ao rastreamento, adicionar um tutorial para os usuários, e deixá
 
 ## Resultados do Grupo de Foco
 
-Ao realizar o Grupo de Foco com os 3 usuários recebemos variadas respostas e pontos de vista sobre o site dos Correios.
+Ao realizar o Grupo de Foco com os 3 usuários recebemos variadas respostas e pontos de vista sobre o site dos Correios. Em suma, o site cumpre com seus objetivos, porém há itens que precisam de atenção para proporcionar uma boa usabilidade por parte do usuário. 
+
+Constatamos que os usuários sentem falta de ajuda para utilizar algumas funcionalidades, como as de rastreio e cálculo de preços e prazos. Os usuários entrevistados também relatam sobre a falta de acessibilidade e sobre páginas que não seguem o padrão de design reproduzido pelo site. Por fim, a assistente virtual que tem respostas padrões e soluções que não ajudam o usuário de fato.
 
 ## Gravação
 <center>
