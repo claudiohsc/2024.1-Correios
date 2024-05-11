@@ -9,9 +9,23 @@ De acordo com Norman(1988) os princípios e diretrizes devem proporcionar o dese
 
 Neste artefato iremos utilizar como base os princípios e diretrizes para o design de IHC, utilizando os conjuntos de diretrizes e princípios mais conhecidos de Norman(1988), Tognazzini(2003), Nielsen e as regras de ouuro de Shneiderman(1998). Será apresentado a definição de cada princípio e o não cumprimento dessa diretriz no site dos correios, mostrando a funcionalidade ou local do site que infringil a devida norma.
 
+### Correspondência com as Expectativas dos Usuários
+
+### Simplicidade nas Estruturas das Tarefas
+
+### Equilíbrio entre Controle e Liberdade do Usuário
+
+### Consistência e Padronização
+
+### Promovendo a Eficiência do Usuário
+
+### Antecipação
+
+### Visibilidade e Reconhecimento
+
 ## Referências Bibliográficas
 
->- 1. NORMAN, Don. The Psychology Of Everyday Things. Basic Books, New York, illustrated edition, 1988.
+> 1. NORMAN, Don. The Psychology Of Everyday Things. Basic Books, New York, illustrated edition, 1988.
 
 >-2. TOGNAZZINI, Bruce. First Principles of Interaction Design (Revised & Expanded), 2014.
 
