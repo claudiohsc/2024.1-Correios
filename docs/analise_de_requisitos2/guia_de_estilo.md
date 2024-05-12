@@ -44,8 +44,7 @@ Para manter o guia de estilos atualizado e eficaz, é fundamental estabelecer um
 
 ### Disposição espacial e grid
 
-Para o logo dos correios, existe uma definição clara acerca das dimensões do logo, podendo ter uma assinatura horizontal e centralizada. As figuras abaixo especificam essas definições.
-
+Os correios disponibilizam um documento que define os limites de dimensões da logo de seu site, esse logo pode ter uma assinatura horizontal ou centralizada. As figuras abaixo especificam essas definições.
 
 <font size="2"><p style="text-align: center">Figura 1: Representação da assinatura horizontal dos correios.</p></font>
 
@@ -91,6 +90,19 @@ Para o logo dos correios, existe uma definição clara acerca das dimensões do 
 
 ### Janelas
 
+Na figura abaixo está o link para o figma contendo prints do site dos correios das janelas de algumas funcionalidades, assim como a janela da tela inicial do site.
+
+<font size="2"><p style="text-align: center">Figura 5: Janelas das funcionalidades dos correios.</p></font>
+
+<center>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2F59ERkCNHvknsvOZFVYJExR%2Fguia_de_estilo%3Ft%3DDgRc9kCxhHcVEZ8C-1" allowfullscreen></iframe>
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://www.github.com/avmricardo), 2024.</p></font>
+
+
 ### Tipografia
 
 A tipografia do site dos correios, como fonte e tamanho, está descrita na figura abaixo. A mesma fonte é utilizada em todo o site, variando seu tamanho de acordo com o local em que o texto aparece.
@@ -120,7 +132,7 @@ A tipografia do site dos correios, como fonte e tamanho, está descrita na figur
 
 As cores utilizadas no site dos correios podem ser encontradas na figura 1.
 
-<font size="2"><p style="text-align: center">Figura 5: Cores utilizadas no site dos correios.</p></font>
+<font size="2"><p style="text-align: center">Figura 6: Cores utilizadas no site dos correios.</p></font>
 
 <center>
 
