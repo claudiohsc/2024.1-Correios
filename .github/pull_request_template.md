@@ -15,7 +15,7 @@
 - [ ] As referências (tabelas, imagens, bibliografia, referência bibliográfica) estão de acordo com as normas ABNT, por exemplo
 
 <div style="text-align: center">
-<p> Tabela 1: Descrição. </p>
+<p> Tabela 1 - Descrição. </p>
 </div>
 
 
