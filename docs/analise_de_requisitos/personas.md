@@ -1,6 +1,6 @@
 # Personas
 
-## O que é uma persona?
+## Introdução
 
 "Uma **persona** é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico" (Cooper et al., 2014; Pruitt e Adlin, 2006; Cooper, 1999). As personas são empregadas essencialmente para simbolizar um conjunto de usuários finais em debates de design, assegurando que a atenção de todos esteja voltada para o objetivo comum. Elas são caracterizadas sobretudo pelos seus propósitos, estabelecidos através de uma série de ajustes refinados durante a fase preliminar de pesquisa no campo de atuação do usuário. Normalmente, partimos de uma estimativa inicial sensata e avançamos em direção a um grupo convincente de personas.
 
@@ -8,7 +8,7 @@ Personas, apesar de serem entidades fictícias (ou seja, não são baseadas em i
 
 ## Sobre nossas personas
 
-As personas desenvolvidas refletem as propriedades delineadas na seção de perfis de usuários. Seis personas foram estabelecidas, conforme ilustrado nas tabelas e figuras de 1 a 6, compreendendo três personas primárias, duas secundárias e uma antipersona. A seleção desse número segue a recomendação de Courage e Baxter (2005), que sugere uma quantidade que assegura a representação de uma ampla gama de características distintas sem desviar o foco do usuário-chave do sistema. Após a elaboração das personas, recorreu-se ao uso da ferramenta This Person Doesn't Exist para criar uma imagem artificial que representasse cada persona.
+As personas desenvolvidas refletem as propriedades delineadas na seção de perfis de usuários. Seis personas foram estabelecidas, conforme ilustrado nas tabelas e figuras de 1 a 5, compreendendo três personas primárias e duas secundárias. A seleção desse número segue a recomendação de Courage e Baxter (2005), que sugere uma quantidade que assegura a representação de uma ampla gama de características distintas sem desviar o foco do usuário-chave do sistema. Após a elaboração das personas, recorreu-se ao uso da ferramenta This Person Doesn't Exist para criar uma imagem artificial que representasse cada persona.
 
 Para estabelecer as características das personas, adotei os critérios propostos por Courage e Baxter (2005), que destacam os seguintes aspectos distintivos:
 
@@ -23,7 +23,7 @@ Para estabelecer as características das personas, adotei os critérios proposto
 
 ## Elenco de personas
 
-Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas diferentes. Em nosso projeto elencamos as 6 seguintes personas.
+Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas diferentes. Em nosso projeto elencamos as 5 seguintes personas.
 
 <font size="2"><p style="text-align: center">Tabela 1: Persona primária José Ricardo Gomes.</p></font>
 
@@ -115,23 +115,9 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
-<font size="2"><p style="text-align: center">Tabela 6: Antipersona Maria das Graças dos Santos.</p></font>
+## Conclusão
 
-<center class="personas">
-
-| **Identidade** | <figure markdown><figcaption>Figura 6: Maria das Graças dos Santos.</figcaption> ![Maria](../assets/personas/maria.jpg)<figcaption>Fonte: [This Person Doesn't Exist][tpdne], 2024.</figcaption></figure> Maria das Graças dos Santos<br> 46 anos<br> Casada<br> Agricultora |
-| :---: | --- |
-| **Status** | Antipersona |
-| **Objetivos** | Maria das Graças tem como objetivo usar o serviço dos correios em agência física ter um bom atendimento eficiente e cordial. |
-| **Habilidades** | Organização, capacidade de observação, e conhecimento em plantio e cultivo. |
-| **Tarefas** | Maria acorda às 5h da manhã, passa um cafezinho e toma junto com a sua família, então vai trabalhar no plantio e cultivo de soja em uma plantação em Luís Eduardo de Magalhães, trabalhar o dia todo colhendo soja e volta pra casa para fazer janta come com sua família, faz sua marmita, dorme cedo para trabalhar no outro dia. |
-| **Relacionamentos** | Familiares, colegas de profissão, amigos de barzinho. |
-| **Requisitos** | Preferencialmente ela utiliza os serviços dos correios em uma agência física. |
-| **Expectativas** | Ela espera atendimento cordial do funcionário do espaço físico. |
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+Em nosso projeto, a definição de personas foi um passo crucial para otimizar a avaliação de Interação Humano-Computador (IHC). Essas personas foram fundamentais para a criação de cenas realistas nos artefatos de cenários. Além disso, elas serão continuamente empregadas ao longo do projeto, especialmente na elaboração de storyboards, para assegurar que nossas soluções estejam alinhadas com as necessidades e comportamentos dos usuários finais.
 
 ## Referências Bibliográficas
 
@@ -155,7 +141,13 @@ Cada projeto tem seu próprio elenco de personas, que tem de três a 12 personas
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 03/05/2024 | Criação do documento | [Pablo S. Costa][PabloGH]  | [Claudio Henrique](https://github.com/claudiohsc)  |
+| `1.0`  | 03/05/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [Claudio Henrique][ClaudioGH] |
+| `1.1`  | 10/05/2024 | Altera elenco, implementa padronizações e inclui conclusão. | [Pablo S. Costa][PabloGH]  | [][]  |
 
 [PabloGH]: https://github.com/pabloheika
+[ClaudioGH]: https://github.com/claudiohsc
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[RicardoGH]: https://www.github.com/avmricardo
 [tpdne]: https://this-person-does-not-exist.com/pt
