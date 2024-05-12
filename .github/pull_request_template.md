@@ -1,5 +1,7 @@
 ## Verifique se seu pull request satisfaz as condições abaixo:
 
+- [ ] O primeiro subtitulo é "Introdução?"
+
 - [ ] O histórico de versões satisfaz o padrão abaixo:
 
 | Versão | Data | Descrição | Autor | Revisor
