@@ -142,7 +142,7 @@ Em nosso projeto, a definição de personas foi um passo crucial para otimizar a
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 03/05/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [Claudio Henrique][ClaudioGH] |
-| `1.1`  | 10/05/2024 | Altera elenco, implementa padronizações e inclui conclusão. | [Pablo S. Costa][PabloGH]  | [][]  |
+| `1.1`  | 10/05/2024 | Altera elenco, implementa padronizações e inclui conclusão. | [Pablo S. Costa][PabloGH]  | [Ricardo Augusto][RicardoGH]  |
 
 [PabloGH]: https://github.com/pabloheika
 [ClaudioGH]: https://github.com/claudiohsc
