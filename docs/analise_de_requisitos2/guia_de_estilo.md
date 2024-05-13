@@ -128,11 +128,25 @@ A tipografia do site dos correios, como fonte e tamanho, está descrita na figur
 
 ### Símbolos não tipográficos
 
+Para acessar algumas funcionalidades, o site dos correios utiliza de símbolos não tipográficos, que são elementos gráficos que não são letras, números ou caracteres, mas que têm um significado específico dentro de um contexto de comunicação. Esses elementos ajudam o usuário a encontrar as funcionalidades do site de forma efeiciente e bastante acessível, além dessas vantagens de transmissão de informações, os elementos não tipográficos contribuem para a estética do site como um todo, eles podem ajudar a quebrar blocos de texto, criar pontos de foco e tornar a interface mais atraente e convidativa para os usuários.
+
+Alguns símbolos não tipográficos utilizados no site dos correios são mostrados na figura 6.
+
+<font size="2"><p style="text-align: center">Figura 6: Símbolos não tipográficos dos correios.</p></font>
+
+<center>
+
+![Símbolos não tipográficos](../assets/guia_de_estilo/simbolos_nao_tipograficos.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://www.github.com/avmricardo), 2024.</p></font>
+
 ### Cores
 
 As cores utilizadas no site dos correios podem ser encontradas na figura 1.
 
-<font size="2"><p style="text-align: center">Figura 6: Cores utilizadas no site dos correios.</p></font>
+<font size="2"><p style="text-align: center">Figura 7: Cores utilizadas no site dos correios.</p></font>
 
 <center>
 
@@ -141,9 +155,6 @@ As cores utilizadas no site dos correios podem ser encontradas na figura 1.
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2024.</p></font>
-
-
-### Animações
 
 ## Elementos de interação
 
@@ -176,6 +187,8 @@ As cores utilizadas no site dos correios podem ser encontradas na figura 1.
 > <a id = "REF2" href="#anchor_2"> 2.</a>  Correios. Manual de Identidade Visual. Correios, 2019. Disponível em: <https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/manual-da-marca-correios>. Acesso em: 10 maio 2024.
 
 > <a id = "REF3" href="#anchor_3"> 3.</a>   Correios. Arquivo da Marca Correios. Disponível em: <https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios>. Acesso em: 10 maio 2024.
+
+> <a id = "REF4" href="#anchor_4"> 4.</a>   Correios. Disponível em: <https://www.correios.com.br>. Acesso em: 12 maio 2024.
 
 ## Histórico de Versão
 
