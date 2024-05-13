@@ -87,7 +87,7 @@ Ao implementar essas melhorias, os Correios poderão oferecer um site mais moder
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 13/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika), <br>[Gabriel B. Bertolazi](https://github.com/Bertolazi) |  |
+| `1.0`  | 13/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika), <br>[Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
