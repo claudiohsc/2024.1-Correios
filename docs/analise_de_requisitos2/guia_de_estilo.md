@@ -20,7 +20,7 @@ A estrutura deste guia de estilo está sendo baseada nas definições de Marcus 
 
 ### Público-alvo do guia de estilos
 
-Este guia de estilo foi elaborado com a finalidade de auxilar alguns grupos de pessoas, como por exemplo:
+Este guia de estilo foi elaborado com a finalidade de auxiliar alguns grupos de pessoas, como por exemplo:
 
 - Usuários dos correios;
 - Empresas que dependem dos Correios para logística e entregas comerciais;
@@ -58,7 +58,6 @@ Os correios disponibilizam um documento que define os limites de dimensões da l
 
 <font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2024.</p></font>
 
-
 <font size="2"><p style="text-align: center">Figura 2 - Limites da assinatura horizontal dos correios.</p></font>
 
 <center>
@@ -79,7 +78,6 @@ Os correios disponibilizam um documento que define os limites de dimensões da l
 
 <font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2024.</p></font>
 
-
 <font size="2"><p style="text-align: center">Figura 4 - Limites da assinatura centralizada dos correios.</p></font>
 
 <center>
@@ -92,7 +90,7 @@ Os correios disponibilizam um documento que define os limites de dimensões da l
 
 ### Janelas
 
-Na figura abaixo está o link para o figma contendo prints do site dos correios das janelas de algumas funcionalidades, assim como a janela da tela inicial do site.
+Na figura abaixo está o link para o Figma contendo prints do site dos correios das janelas de algumas funcionalidades, assim como a janela da tela inicial do site.
 
 <font size="2"><p style="text-align: center">Figura 5 - Janelas das funcionalidades dos correios.</p></font>
 
@@ -103,7 +101,6 @@ Na figura abaixo está o link para o figma contendo prints do site dos correios 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://www.github.com/avmricardo), 2024.</p></font>
-
 
 ### Tipografia
 
@@ -127,10 +124,9 @@ A tipografia do site dos correios, como fonte e tamanho, está descrita na figur
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://www.github.com/avmricardo), 2024.</p></font>
 
-
 ### Símbolos não tipográficos
 
-Para acessar algumas funcionalidades, o site dos correios utiliza de símbolos não tipográficos, que são elementos gráficos que não são letras, números ou caracteres, mas que têm um significado específico dentro de um contexto de comunicação. Esses elementos ajudam o usuário a encontrar as funcionalidades do site de forma efeiciente e bastante acessível, além dessas vantagens de transmissão de informações, os símbolos não tipográficos contribuem para a estética do site como um todo, eles podem ajudar a quebrar blocos de texto, criar pontos de foco e tornar a interface mais atraente e convidativa para os usuários.
+Para acessar algumas funcionalidades, o site dos correios utiliza de símbolos não tipográficos, que são elementos gráficos que não são letras, números ou caracteres, mas que têm um significado específico dentro de um contexto de comunicação. Esses elementos ajudam o usuário a encontrar as funcionalidades do site de forma eficiente e bastante acessível, além dessas vantagens de transmissão de informações, os símbolos não tipográficos contribuem para a estética do site como um todo, eles podem ajudar a quebrar blocos de texto, criar pontos de foco e tornar a interface mais atraente e convidativa para os usuários.
 
 Alguns símbolos não tipográficos utilizados no site dos correios são mostrados na figura 6.
 
@@ -162,7 +158,7 @@ As cores utilizadas no site dos correios podem ser encontradas na figura 7.
 
 ### Estilos de interação
 
-No site dos Correios é oferecido uma variedade de serviços que facilitam a vida dos usuários, permitindo-lhes rastrear encomendas, enviar e receber correspondências, realizar compras, acessar soluções de logística, obter atendimento ao cliente e acesso à informação, utilizar acessos rapidos e pré-postagem .Os quais são feitos através de menus, botões, hiperlinks e campos de preenchimento (inputs).
+No site dos Correios é oferecido uma variedade de serviços que facilitam a vida dos usuários, permitindo-lhes rastrear encomendas, enviar e receber correspondências, realizar compras, acessar soluções de logística, obter atendimento ao cliente e acesso à informação, utilizar acessos rápidos e pré-postagem .Os quais são feitos através de menus, botões, hiperlinks e campos de preenchimento (inputs).
 
 ### Seleção de um estilo
 
@@ -172,7 +168,7 @@ O site dos Correios adota uma paleta de cores padronizadas, o que contribui para
 
 Ao analisar os recursos de navegação disponíveis no site dos Correios, observa-se a citação de aceleradores de teclado que são padrão em muitos navegadores contemporâneos. Os usuários têm à disposição as combinações Ctrl - e Ctrl +, que permitem ajustar o nível de zoom da página, facilitando a leitura e a visualização do conteúdo. Esses comandos são intuitivos e amplamente utilizados, o que contribui para uma experiência de usuário familiar e eficiente.
 
-No entanto, nota-se a ausência de atalhos de teclado específicos do site, o que poderia ser uma oportunidade de melhoria. A introdução de aceleradores personalizados poderia enriquecer a usabilidade do site, permitindo aos usuários realizar tarefas comuns de forma mais rápida e direta. 
+No entanto, nota-se a ausência de atalhos de teclado específicos do site, o que poderia ser uma oportunidade de melhoria. A introdução de aceleradores personalizados poderia enriquecer a usabilidade do site, permitindo aos usuários realizarem tarefas comuns de forma mais rápida e direta. 
 
 ## Elementos de ação
 
@@ -182,7 +178,7 @@ O site dos Correios disponibiliza campos de entrada que solicitam aos usuários 
 
 ### Seleção
 
-O site dos Correios oferece um leque de opções de seleção que finalidades para áreas específicas, atendendo às suas necessidades particulares. Entre deversos aspectos a serem selecionados podemos citar localidades, tipos de produtos, modalidades de entrega, meios de comunicação, linguagem, tipo de cliente, serviços entre outros. Levando, assim, o usuário a uma parte especifica de acordo com sua necessidade.
+O site dos Correios oferece um leque de opções de seleção que finalidades para áreas específicas, atendendo às suas necessidades particulares. Entre diversos aspectos a serem selecionados podemos citar localidades, tipos de produtos, modalidades de entrega, meios de comunicação, linguagem, tipo de cliente, serviços entre outros. Levando, assim, o usuário a uma parte específica de acordo com sua necessidade.
 
 ### Ativação
 
@@ -195,7 +191,7 @@ O site dos Correios está equipado com uma variedade de elementos interativos qu
 - **Menus**: Listas de opções que se expandem para navegação quando interagidos.
 - **Hyperlinks**: Textos ou imagens clicáveis que conectam diretamente a outras seções do site ou a recursos externos.
 
-Todos esses elementos são projetados para responder tanto ao toque quanto ao clique do mouse, alguns tambem respodem ao passar o mouse.
+Todos esses elementos são projetados para responder tanto ao toque quanto ao clique do mouse, alguns também respondem ao passar o mouse.
 
 ## Vocabulário e padrões
 
@@ -232,3 +228,4 @@ As sequências de diálogos no site dos Correios são projetadas para serem intu
 | Versão | Data | Descrição | Autor | Revisor
 | :-: | :-: | :-: | :-: | :-:
 |`1.0`| 10/05/2024 | Criação do documento | [Ricardo Augusto](https://www.github.com/avmricardo) & [Pablo S. Costa](https://www.github.com/pabloheika) | 
+
