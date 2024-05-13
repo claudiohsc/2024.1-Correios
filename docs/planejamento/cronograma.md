@@ -114,12 +114,12 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-| Elaborar princípios gerais do projeto | Início: 22/04 <br> Fim: 28/04 | Cláudio e Elias | Início: 28/04 Fim: 28/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
-| Estabelecer metas de usabilidade | Início: 22/04  <br> Fim: 28/04 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 28/04 <br> Fim: 28/04 | Pablo e Ricardo |
-| Elaborar guia de estilo | Início: 22/04 <br> Fim: 28/04 | Pablo e Ricardo | Início: 28/04 <br> Fim: 28/04 | Cláudio e Elias |
+| **Elaborar princípios gerais do projeto** | Início: 06/05 <br> Fim: 08/05 | Cláudio e Elias | Início: 08/05 <br> Fim: 08/05 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
+| **Estabelecer metas de usabilidade** | Início: 08/05  <br> Fim: 10/05 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 10/05 <br> Fim: 10/05 | Pablo e Ricardo |
+| **Elaborar guia de estilo** | Início: 10/05 <br> Fim: 12/05 | Pablo e Ricardo | Início: 12/05 <br> Fim: 12/05 | Cláudio e Elias |
 | Ata de Reunião | Início: 24/05 <br>Fim: 24/05 | Ricardo | Início: 24/05   <br>Fim: 24/05 | Claúdio |
-| Gravação da Apresentação | Início: 29/04 <br> Fim: 30/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 30/04 <br> Fim: 30/04 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
-| Correções | Início: 30/04 <br> Fim: 01/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 01/05 <br> Fim: 01/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| **Gravação da Apresentação** | Início: 12/05 <br> Fim: 13/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 13/05 <br> Fim: 13/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| **Correções** | Início: 14/05 <br> Fim: 21/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 21/05 <br> Fim: 21/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
