@@ -30,7 +30,7 @@ nav:
       - CMN-GOMS: analise_de_requisitos/analise_tarefas/cmn_goms.md
   - Análise de Requisitos II:
     - Características da plataforma para o projeto: analise_de_requisitos2/caracteristicas-da-plataforma.md
-    - Metas de Usabilidade: analise_de_requisitos_II/metas-usabilidade.md
+    - Metas de Usabilidade: analise_de_requisitos2/metas-usabilidade.md
 extra_css:
   - stylesheets/extra.css
 theme:
