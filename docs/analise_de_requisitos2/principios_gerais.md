@@ -9,7 +9,9 @@ De acordo com Norman(1988) os princípios e diretrizes devem proporcionar o dese
 
 ## Metodologia
 
-Neste artefato iremos utilizar como base os princípios e diretrizes para o design de IHC, utilizando os conjuntos de diretrizes e princípios mais conhecidos de Norman(1988), Tognazzini(2003), Nielsen e as regras de ouuro de Shneiderman(1998). Será apresentado a definição de cada princípio e o não cumprimento dessa diretriz no site dos correios, mostrando a funcionalidade ou local do site que infringil a devida norma.
+Neste artefato iremos utilizar como base os princípios e diretrizes para o design de IHC, utilizando os conjuntos de diretrizes e princípios mais conhecidos de Norman(1988), Tognazzini(2003), Nielsen e as regras de ouro de Shneiderman(1998). Será apresentado a definição de cada princípio e o não cumprimento dessa diretriz no site dos Correios, mostrando a funcionalidade ou local do site que ocorreu a violação da devida norma.
+
+Para essa análise os membros, [Claudio Henrique](https://github.com/claudiohsc) e [Elias Faria](https://github.com/EliasOliver21), realizaram uma observação das principais funcionalidades e telas do site, e assim foram pontuando as violações dos princípios e diretrizes do design de IHC.
 
 ### Correspondência com as Expectativas dos Usuários
 
@@ -38,17 +40,17 @@ Fonte: [Site dos Correios](https://www.correios.com.br/)
 
 ## Definição
 
-Segundo Gride(1975) a interação polidade leva em conta quatro máximas, que são : Quantidade, qualidade, relação e modo ou clareza.
+Segundo Gride(1975) a interação polida leva em conta quatro máximas, que são : Quantidade, qualidade, relação e modo ou clareza.
 
 * A máxima da qualidade diz respeito ao conteúdo da informação, ou seja, se mesma possui uma fonte confiável não sendo um texto baseado em achismo e especulação;
   
-* A máxima da quantidade é baseada na quantificação da informação, ou seja, se teremos um pequeno texto bem explicativo e de fácil entendimento ou um texto enorme para nos passar uma informação que não necessita de tanta explicação, Nielsen(1994c) defende o desenvlvimento dos projetos tendo uma forma estética e minimalista;
+* A máxima da quantidade é baseada na quantificação da informação, ou seja, se teremos um pequeno texto bem explicativo e de fácil entendimento ou um texto enorme para nos passar uma informação que não necessita de tanta explicação. Nielsen(1994) defende o desenvolvimento dos projetos tendo uma forma estética e minimalista;
   
 * A máxima da relação mostra que tudo o que for levantado no texto deve ter relação com o objetivo dos interlocutores;
   
 * A máxima do modo ou clareza define que as informações do sistema devem ser objetivas e diretas evitando a prolixidade e ambiguidade.
 
-Nielsen(1994b) mostra também sobre a máxima de quantidade que o projeto deve ser estético e minimalista, fazendo com que os textos e diálogos não contenham informações desnecessárias ou irrelevantes.
+Nielsen(1994) mostra também sobre a máxima de quantidade que o projeto deve ser estético e minimalista, fazendo com que os textos e diálogos não contenham informações desnecessárias ou irrelevantes.
 
 ## Violação
 
@@ -56,7 +58,6 @@ Na Figura 02, é evidente que, ao acessar a página "receber encomendas", um usu
 
 <p style="text-align: center">Figura 2 - Conteúdo Relevante</p>
 
-<!-- 2ª Opção -->
 ![](../assets/princípios_gerais/violacao_receber_encomenda_conteudo_relevante.png)
 
 <center>
@@ -65,35 +66,69 @@ Fonte: [Site dos Correios](https://www.correios.com.br/)
 
 </center>
 
-### Consistência e Padronização
 
-## Definição
+## Consistência e Padronização
 
-Com base nos princípios e diretrizes elencados por Norman(1988), um sistema deve possuir um sistema que apresente suas telas e páginas padronizadas e consistentes
+### Definição
 
-Tognazzini, Nielsen e Shneiderman recomendam padronizar as ações, os resultados das ações, o layout dos
-diálogos e as visualizações de informação. Ações relacionadas em situações semelhantes devem funcionar
-da mesma forma.
+Seguindo os princípios e diretrizes delineados por Norman (1988), um sistema deve apresentar telas e páginas padronizadas e consistentes.
 
-## Violação 
+Tognazzini, Nielsen e Shneiderman sugerem a padronização das ações, dos resultados dessas ações, do layout dos diálogos e das visualizações de informações. Ações relacionadas em situações similares devem operar de maneira uniforme.
 
-// Simulação preços e prazos e pré postagem
-Loja
+### Violação 
+
+Em primeiro plano, já se nota a diferença de layout dos inputs entre funcionalidades próximas como **Cálculo de preços e prazos** e a de **Pré-postagem**, como podemos observar nas figuras 03 e 04.
 
 
-### Equilíbrio entre Controle e Liberdade do Usuário
+<p style="text-align: center">Figura 03 - Painel Pré-postagem</p>
 
-## Definição
+![](../assets/princípios_gerais/violacao_pre_post_padrao.png)
+
+
+<center>
+
+Fonte: [Site dos Correios](https://www.correios.com.br/)
+
+</center>
+
+<p style="text-align: center">Figura 04 - Cálculo de preços e prazos</p>
+
+![](../assets/princípios_gerais/violacao_calc_precos_prazos_padrao.png)
+
+
+<center>
+
+Fonte: [Site dos Correios](https://www.correios.com.br/)
+
+</center>
+
+Outra página que foge totalmente dos padrões do site dos Correios, é a página da Loja Online dos Correios, como mostra a figura 05. A página além de fugir do design padrão do site, também está muito desatualizada para os padrões atuais de design, passando uma idéia de site antigo e abandonado.
+
+<p style="text-align: center">Figura 05 - Loja Online dos Correios</p>
+
+![](../assets/princípios_gerais/violacao_loja_padrao.png)
+
+
+<center>
+
+Fonte: [Site dos Correios](https://www.correios.com.br/)
+
+</center>
+
+
+## Equilíbrio entre Controle e Liberdade do Usuário
+
+### Definição
 
 Norman (1988), Nielsen (1994), Tognazzini (2014), Shneiderman (1998) e Cooper (1999) ressaltam a importância do controle do usuário. Tognazzini (2014) destaca que o usuário deve se sentir no comando para aprender e alcançar maestria, porém alerta para equilibrar isso com o excesso de opções. Norman (1988) sugere o uso de restrições para orientar o usuário na escolha correta. Tognazzini (2014) defende a flexibilidade dos caminhos de interação, priorizando o mais eficiente. A necessidade de uma saída clara e o equilíbrio entre liberdade e assistência variam conforme o perfil do usuário.
 
-## Violação
+### Violação
 
 A violação é observada quando o usuário, após fazer o login, entra na página de Pré-postagem e deseja voltar a página inicial, não consegue voltar, pois não existem setas ou botões que levem de volta para a página inicial do site.
 
-E mesmo clicando na logo dos Correios, como mostra a figura 04, o site somente recarrega e mantém a mesma tela.
+E mesmo clicando na logo dos Correios, como mostra a figura 06, o site somente recarrega e mantém a mesma tela.
 
-<p style="text-align: center">Figura 04 - Painel Pré-postagem</p>
+<p style="text-align: center">Figura 06 - Painel Pré-postagem</p>
 
 ![](../assets/princípios_gerais/violacao_pre_postagem.png)
 
@@ -105,20 +140,20 @@ Fonte: [Site dos Correios](https://www.correios.com.br/)
 </center>
 
 
-### Visibilidade e Reconhecimento
+## Visibilidade e Reconhecimento
 
-## Definição
+### Definição
 
 De acordo com Norman (1988), os designers têm a responsabilidade de criar sistemas que tornem os itens visíveis para os usuários. Isso implica que a interface deve apresentar claramente as opções disponíveis e relevantes aos interesses do usuário. Além disso, é crucial que, após o usuário realizar uma ação, o sistema forneça feedback sobre o estado atual da aplicação. Em suma, como afirmam Nielsen (1994), Shneiderman (1998) e Tognazzini (2014), o estado do sistema, os objetos, as ações e as opções devem ser mantidos atualizados e facilmente perceptíveis.
 
-## Violação
+### Violação
 
-Abaixo vemos na figura 05 ,06 e 07 que o usuário ao entrar em suas informações de login observa que existem algumas opções como: historico de tokens e permissões recebidas, que viola a diretriz de visibilidade e reconhecimento não mostrando o estado do sistema ao entrar na página. 
+Abaixo vemos na figura 07, 08 e 09 que o usuário ao entrar em suas informações de login observa que existem algumas opções como: historico de tokens e permissões recebidas, que viola a diretriz de visibilidade e reconhecimento não mostrando o estado do sistema ao entrar na página. 
 
-É observado também uma opção não muito intuitiva ao usuário para **retornar**, que é apenas uma seta pouco visível no canto superior esquerdo da tela. Outro ponto a destacar também é que o sistema não disponibiliza uma opção para o usuário retornar a página incial do site.
+É observado também uma opção não muito intuitiva ao usuário para **retornar**, que é apenas uma seta pouco visível no canto superior esquerdo da tela. Outro ponto a destacar é que o sistema não disponibiliza uma opção para o usuário retornar a página incial do site.
 
 
-<p style="text-align: center">Figura 05 - Painel Meu Correios</p>
+<p style="text-align: center">Figura 07 - Painel Meu Correios</p>
 
 ![](../assets/princípios_gerais/violacao_tela_login.png)
 
@@ -129,7 +164,7 @@ Fonte: [Site dos Correios](https://www.correios.com.br/)
 
 </center>
 
-<p style="text-align: center">Figura 06 - Página de Permissões Recebidas</p>
+<p style="text-align: center">Figura 08 - Página de Permissões Recebidas</p>
 
 
 ![](../assets/princípios_gerais/violacao_login_permissao.png)
@@ -141,7 +176,7 @@ Fonte: [Site dos Correios](https://www.correios.com.br/)
 
 </center>
 
-<p style="text-align: center">Figura 07 - Histórico de Tokens</p>
+<p style="text-align: center">Figura 09 - Histórico de Tokens</p>
 
 ![](../assets/princípios_gerais/violacao_login_tokens.png)
 
@@ -152,7 +187,10 @@ Fonte: [Site dos Correios](https://www.correios.com.br/)
 
 </center>
 
-<p style="text-align: center">Figura 08 - Página inicial</p>
+<br>
+Na Figura 10 observamos que quando o usuário realiza o login e retorna a página inicial do site dos Correios, ele não consegue ver o estado do sistema com relação ao login, mas ao clicar novamente na opção de login ele já estará logado. Acontece na parte superior, no canto direito.
+
+<p style="text-align: center">Figura 10 - Página inicial</p>
 
 ![](../assets/princípios_gerais/violacao_tela_inicial.png)
 
@@ -162,9 +200,6 @@ Fonte: [Site dos Correios](https://www.correios.com.br/)
 Fonte: [Site dos Correios](https://www.correios.com.br/)
 
 </center>
-
-Também na Figura 08 observamos que quando o usuário realiza o login e retorna a página inicial do site dos Correios, ele não consegue ver o estado do sistema com relação ao login, mas ao clicar novamente na opção de login ele já estará logado. Acontece na parte superior, no canto direito.
-
 
 ## Referências Bibliográficas
 
@@ -186,4 +221,4 @@ Também na Figura 08 observamos que quando o usuário realiza o login e retorna 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 20/04/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| |
+| `1.0`  | 12/05/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| |
