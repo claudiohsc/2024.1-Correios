@@ -2,9 +2,24 @@
 
 ## Introdução
 
-Este documento analisa o site dos Correios sob a ótica da Interação Humano-Computador, focando em um público-alvo de usuários tecnófilos. O objetivo é detalhar as características da plataforma, os principais fluxos de navegação, os pontos que limitam ou dificultam a experiência do usuário e propor soluções para otimizar a plataforma.
+Este documento analisa o site dos Correios sob a ótica da Interação Humano-Computador, focando em um público-alvo de usuários tecnófilos. O objetivo é detalhar as características da plataforma, os principais fluxos de navegação, os pontos que limitam ou dificultam a experiência do usuário e propor soluções para otimizar a plataforma. Para essa análise, utilizamos o ciclo de vida de Mayhew, onde primeiramente obtivemos as características da plataforma, suas possibilidades e limites, e por fim fizemos uma análise de algumas possíveis entraves no site dos Correios.
 
-## Características da Plataforma
+## Características da plataforma
+
+
+Ao criar um sistema, deve-se ter ciência de seus usuários, ou seja, devemos conhecer nosso usuário, desde seus conhecimento sobre as tecnologias até sua limitação tecnológica para executar o que deseja dentro do sistema. Sendo assim, temos os seguintes pré-requisitos para poder acessar o site dos Correios:
+
+* Processador de 800 MHz ou superior;
+* 128 MB de Memória RAM. Recomendamos 512 MB ou mais;
+* Placa de Vídeo de 32 MB de Memória com 16 milhões de cores;
+* Monitor colorido com resolução mínima de 800 x 600 pixels;
+* Mínimo de 150 MB de espaço livre no Disco Rígido;
+* Sistemas operacionais: Microsoft Windows 98/2000/Me/XP/Vista/7 ou Linux;
+* Internet Explorer 6 ou superior;
+* Opera GX (Todas versões);
+* Mozila firefox versão versão 1.0.1.
+
+## Possibilidades
 
 O site dos Correios oferece diversos serviços para seus usuários, incluindo:
 
@@ -14,12 +29,11 @@ O site dos Correios oferece diversos serviços para seus usuários, incluindo:
 * Serviços
 * Ajuda e Suporte
 * Conta
+* Recebimento de encomendas
+* Emissão e vizualização de certificados digitais
+* Calculo de preços e prazos
+* Loja online
 
-Apesar de oferecer funcionalidades úteis, o site apresenta diversas falhas que prejudicam a experiência do usuário, como:
-
-* **Interfaces poluídas e defasadas:** O design do site é ultrapassado, com elementos visuais desatualizados e interfaces que não seguem as melhores práticas de usabilidade. 
-* **Falta de responsividade:** O site não se adapta adequadamente a diferentes tamanhos de tela, o que dificulta a navegação em dispositivos móveis.
-* **Incoerência na interface e tecnologia:** O site apresenta inconsistências na interface e na tecnologia utilizada em diferentes seções, o que torna a navegação confusa e desajeitada.
 
 ## Limites
 
@@ -29,6 +43,10 @@ Além dos problemas de interface, o site dos Correios também apresenta os segui
 * **Informações incompletas:** Em alguns casos, as informações sobre serviços, prazos de entrega e valores de frete podem ser incompletas ou inconsistentes.
 * **Dificuldades na navegação:** A navegação em algumas seções do site pode ser complexa e confusa, especialmente para usuários iniciantes.
 * **Falta de recursos de acessibilidade:** O site não possui recursos de acessibilidade completos para pessoas com deficiências, como navegação por teclado.
+* **Interfaces poluídas e defasadas:** O design do site é ultrapassado, com elementos visuais desatualizados e interfaces que não seguem as melhores práticas de usabilidade. 
+* **Falta de responsividade:** O site não se adapta adequadamente a diferentes tamanhos de tela, o que dificulta a navegação em dispositivos móveis.
+* **Incoerência na interface e tecnologia:** O site apresenta inconsistências na interface e na tecnologia utilizada em diferentes seções, o que torna a navegação confusa e desajeitada.
+
 
 ## Entraves
 
@@ -58,18 +76,18 @@ Ao implementar essas melhorias, os Correios poderão oferecer um site mais moder
 
 ## Bibliografia
 
-> 1. Arthur de Melo, Matheus Henrique e Douglas Alves. Características Gerais. Repositório do Grupo Bilheteria Digital de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/caracteristicas/#historico-de-versoes>. Acesso em: 13 de Maio 2023.
+> 1. Arthur de Melo, Matheus Henrique e Douglas Alves. Características Gerais. Repositório do Grupo Bilheteria Digital de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/caracteristicas/#historico-de-versoes>. Acesso em: 13 de Maio 2024.
 >
 > 2. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 >
-> 3. Gabriel Barbosa e Caio Braga. Características Gerais. Repositório do Grupo Plataforma Lattes de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise_requisitos_2/caracteristicas_plataforma/#possibilidades>. Acesso em: 13 de Maio 2023.
+> 3. Gabriel Barbosa e Caio Braga. Características Gerais. Repositório do Grupo Plataforma Lattes de Interação Humano Computador da Universidade de Brasília, 2024. Disponível em: <https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise_requisitos_2/caracteristicas_plataforma/#possibilidades>. Acesso em: 13 de Maio 2024.
 >
-
+> 4. Manual de utilização do site dos correios e manual de instalação do sistema do correeios. <https://wiki.ufu.br/index.php?title=Manual_de_instala%C3%A7%C3%A3o_e_uso_do_SIGEP-CORREIOS&action=history>. Acesso em 13 de maio de 2024.
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 13/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  |  |
+| `1.0`  | 13/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika), <br>[Gabriel B. Bertolazi](https://github.com/Bertolazi) |  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
