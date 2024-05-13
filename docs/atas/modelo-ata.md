@@ -39,7 +39,8 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 ## Gravação da reunião
 
-
+<!--- Disponibilizar o video e o link para o video  --->
+[Link para a gravação]()
 
 ## Histórico de Versão
 
