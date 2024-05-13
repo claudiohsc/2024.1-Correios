@@ -1,5 +1,7 @@
 ## Verifique se seu pull request satisfaz as condições abaixo:
 
+- [ ] O primeiro subtitulo é "Introdução?"
+
 - [ ] O histórico de versões satisfaz o padrão abaixo:
 
 | Versão | Data | Descrição | Autor | Revisor
@@ -13,7 +15,7 @@
 - [ ] As referências (tabelas, imagens, bibliografia, referência bibliográfica) estão de acordo com as normas ABNT, por exemplo
 
 <div style="text-align: center">
-<p> Tabela 1: Descrição. </p>
+<p> Tabela 1 - Descrição. </p>
 </div>
 
 
