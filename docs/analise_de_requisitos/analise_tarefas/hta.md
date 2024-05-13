@@ -123,9 +123,8 @@ Prevenção de erros, estética, design minimalista, ajuda para a recuperação 
 |3. Atendimento 1+2||
 |3.1 Contatos de suporte ao usuário|**Plano:**Suporte ao usuário.<br>**feedback:**É mostrado diferentes forma de contato com o suporte do correios.|
 |4. Meus Dados 1+2||
-|4.1 Login/Cadastro||
-|4.1.1 Informações pessoais|**Plano:**Visualizar informações do cadastro.<br>**feedback:**É apresentada as informações do usuário.<br>**Problemas:** Não possui uma opção para sair do perfil de usuário que esta logado apenas apresentando essa opção na etapa final de fechamento de uma compra na página de cesta de compras.|
-|4.1.2 Editar dados pessoais|**Plano:**Alterar dados pessoais.<br>**Input:** O usuário deve inserir ou alterar os dados desejados e confirmar.<br>**feedback:**É apresentado todos os dados e ao final da tela uma opção de recuperação de senha.|
+|4.1 Login/Cadastro|**Problemas:** Não possui uma opção para sair do perfil de usuário que esta logado apenas apresentando essa opção na etapa final de fechamento de uma compra na página de cesta de compras.|
+|4.1.1 Editar dados pessoais|**Plano:**Alterar dados pessoais.<br>**Input:** O usuário deve inserir ou alterar os dados desejados e confirmar.<br>**feedback:**É apresentado todos os dados e ao final da tela uma opção de recuperação de senha.|
 |5. Buscar Produtos 1+2||
 |5.1 Aplicar filtro/preferência|**Input:** Digite o nome de algum priduto que deseja visualizar e filtre o resultado caso deseje.<br>**feedback:**É apresentado os produtos que coincidem com a pesquisa, ou caso não seja encontrado o usuário pode inserir um email e selecionar um prazo para receber uma notificação quando aquela pesquisa retorne algum produto no site. |
 |5.2 Escolher Produto|**Plano:**Selecionar um produto.<br>**Input:**Clique em um produto desejado. <br>**feedback:**É mostrado a descrição com nome foto e informações detalhadas sobre o produto e a opção de compra para adicionar ao carrinho.|
