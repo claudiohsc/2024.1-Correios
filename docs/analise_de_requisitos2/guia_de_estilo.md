@@ -184,6 +184,17 @@ O site dos Correios oferece um leque de opções de seleção que finalidades pa
 
 ### Ativação
 
+O site dos Correios está equipado com uma variedade de elementos interativos que são ativados pelo usuário para realizar ações específicas. Estes incluem:
+
+- **Botões**: Que iniciam funções ou comandos quando clicados.
+- **Ícones**: Símbolos gráficos que representam programas, funções ou serviços, e respondem ao clique do usuário.
+- **Imagens e Banners**: Elementos visuais que, ao serem selecionados, podem redirecionar o usuário ou exibir informações adicionais.
+- **Cards**: Blocos de conteúdo que, quando ativados, revelam detalhes ou levam a páginas de interesse.
+- **Menus**: Listas de opções que se expandem para navegação quando interagidos.
+- **Hyperlinks**: Textos ou imagens clicáveis que conectam diretamente a outras seções do site ou a recursos externos.
+
+Todos esses elementos são projetados para responder tanto ao toque quanto ao clique do mouse, alguns tambem respodem ao passar o mouse.
+
 ## Vocabulário e padrões
 
 ### Terminologia
