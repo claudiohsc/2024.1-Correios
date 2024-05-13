@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Segundo Barbosa e Silva (2021), um guia de estilo é um registro das principais decisões de design tomadas de modo que elas sejam incorporadas na versão final do produto. Este guia serve tem a finalidade de ser uma referência de consulta fácil e rápida, sendo também uma forma de comunicação entre a equipe de design e a equipe de desenvolvimento do projeto.
+Segundo Barbosa e Silva (2021), um guia de estilo é um registro das principais decisões de design tomadas de modo que elas sejam incorporadas na versão final do produto. Este guia tem a finalidade de ser uma referência de consulta fácil e rápida, sendo também uma forma de comunicação entre a equipe de design e a equipe de desenvolvimento do projeto.
 
 ### Objetivo do Guia de Estilo
 
@@ -128,7 +128,7 @@ A tipografia do site dos correios, como fonte e tamanho, está descrita na figur
 
 ### Símbolos não tipográficos
 
-Para acessar algumas funcionalidades, o site dos correios utiliza de símbolos não tipográficos, que são elementos gráficos que não são letras, números ou caracteres, mas que têm um significado específico dentro de um contexto de comunicação. Esses elementos ajudam o usuário a encontrar as funcionalidades do site de forma efeiciente e bastante acessível, além dessas vantagens de transmissão de informações, os elementos não tipográficos contribuem para a estética do site como um todo, eles podem ajudar a quebrar blocos de texto, criar pontos de foco e tornar a interface mais atraente e convidativa para os usuários.
+Para acessar algumas funcionalidades, o site dos correios utiliza de símbolos não tipográficos, que são elementos gráficos que não são letras, números ou caracteres, mas que têm um significado específico dentro de um contexto de comunicação. Esses elementos ajudam o usuário a encontrar as funcionalidades do site de forma efeiciente e bastante acessível, além dessas vantagens de transmissão de informações, os símbolos não tipográficos contribuem para a estética do site como um todo, eles podem ajudar a quebrar blocos de texto, criar pontos de foco e tornar a interface mais atraente e convidativa para os usuários.
 
 Alguns símbolos não tipográficos utilizados no site dos correios são mostrados na figura 6.
 
