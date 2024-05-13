@@ -11,6 +11,25 @@ Neste artefato iremos utilizar como base os princípios e diretrizes para o desi
 
 ### Correspondência com as Expectativas dos Usuários
 
+## Definição
+
+De acordo com Norman(1988), levando em consideração as variáveis pisicológicas e físicas que envolvem o sistema em questão o usuário deve perceber a relação entre suas intenções e ações possíveis; perceber a ralação entre o estado atual e o que é percebido pela visão; entre o estado percebido do sistema e as vontades, intenções e expectativas dos usuários.
+
+## Violação
+
+Na figura 01 abaixo é possível ver no site dos correios logo na página inicial uma violação de um dos princípios de Norman descrito acima. Com foco no chat bot nomeado de "Carol" localizado no canto inferior direito da tela, abrindo uma aba ao clicar e mostrando uma breve descrição sobre o chat e dando opções para o usuário, mas na parte inferior dessa aba há uma caixa de texto com a descrição "Faça uma pergunta", que obviamente induz o usuário a digitar algo que precise e gere uma expectativa no mesmo de que o chat irá retorná-lo opções relacionadas com aquilo, o que não acontece pois o chat bot apenas responde as opção genéricas já pré definidas e retorna uma mesnsagem informando que não encontrou nada relacionado, mas essa mensagem é retornada para todo tipo de pergunta enviada através da caixa de texto até mesmo temas já mostrados nas opções disponíveis, mostrando a ineficiência e não correspondencia de algo que é apresentado no site.
+
+<p style="text-align: center">Figura 1 - Violação Correspondência</p>
+
+<!-- 1ª opção -->
+<figure markdown>![correspondencia](../assets/princípios_gerais/Violacao_Chat.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte:[Site dos Correios](https://www.correios.com.br/).</figcaption></figure>
+
+<!-- 2ª Opção -->
+[![](../assets/princípios_gerais/Violacao_Chat.png)](../assets/princípios_gerais/Violacao_Chat.png)
+<center>
+Fonte: [Site dos Correios](https://www.correios.com.br/)
+</center>
+
 ### Simplicidade nas Estruturas das Tarefas
 
 ### Equilíbrio entre Controle e Liberdade do Usuário
