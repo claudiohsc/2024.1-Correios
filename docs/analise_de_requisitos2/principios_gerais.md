@@ -32,7 +32,7 @@ A violação ocorre na parte inferior, onde há um input que induz o usuário a 
 
 <center>
 
-Fonte: [Site dos Correios](https://www.correios.com.br/)
+Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
@@ -64,7 +64,7 @@ Na Figura 02, é evidente que, ao acessar a página "receber encomendas", um usu
 
 <center>
 
-Fonte: [Site dos Correios](https://www.correios.com.br/)
+Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
@@ -89,7 +89,7 @@ Em primeiro plano, já se nota a diferença de layout dos inputs entre funcional
 
 <center>
 
-Fonte: [Site dos Correios](https://www.correios.com.br/)
+Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
@@ -100,7 +100,7 @@ Fonte: [Site dos Correios](https://www.correios.com.br/)
 
 <center>
 
-Fonte: [Site dos Correios](https://www.correios.com.br/)
+Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
@@ -113,7 +113,7 @@ Outra página que foge totalmente dos padrões do site dos Correios, é a págin
 
 <center>
 
-Fonte: [Site dos Correios](https://www.correios.com.br/)
+Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
@@ -137,7 +137,7 @@ E mesmo clicando na logo dos Correios, como mostra a figura 06, o site somente r
 
 <center>
 
-Fonte: [Site dos Correios](https://www.correios.com.br/)
+Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
@@ -162,7 +162,7 @@ Abaixo vemos na figura 07, 08 e 09 que o usuário ao entrar em suas informaçõe
 
 <center>
 
-Fonte: [Site dos Correios](https://www.correios.com.br/)
+Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
@@ -174,7 +174,7 @@ Fonte: [Site dos Correios](https://www.correios.com.br/)
 
 <center>
 
-Fonte: [Site dos Correios](https://www.correios.com.br/)
+Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
@@ -185,7 +185,7 @@ Fonte: [Site dos Correios](https://www.correios.com.br/)
 
 <center>
 
-Fonte: [Site dos Correios](https://www.correios.com.br/)
+Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
@@ -199,7 +199,7 @@ Na Figura 10 observamos que quando o usuário realiza o login e retorna a págin
 
 <center>
 
-Fonte: [Site dos Correios](https://www.correios.com.br/)
+Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
@@ -223,4 +223,4 @@ Fonte: [Site dos Correios](https://www.correios.com.br/)
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 12/05/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| |
+| `1.0`  | 12/05/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| []() |
