@@ -79,6 +79,78 @@ Diz respeito a até que ponto o sistema fornece as funcionalidades certas para q
 
 **No sistema:** com base nos dados coletados durante a construção do [perfil do usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/), o sistema já oferece as funcionalidade e todas as informações necessárias, sendo relatado que a disposição e quantidade de funcionalidades e informações podem ser otimizadas.
 
+### 5. Aprendizagem
+Diz respeito a facilidade de um usuário em aprender a usar o sistema:
+
+**Pergunta:**O site dos Correios possui uma fácil aprendizagem? Os ícones de tarefas são intuitivos e estão a vista?
+
+
+**No sistema:**Em sua página principal temos a princípio uma fácil navegação como mostrado na figura abaixo:
+
+<font size="2"><p style="text-align: center">Figura 04: Tela de opções no menu sem login.</p></font>
+
+<center>
+
+![prepostagem2](../assets/metas-usabilidade/Sem%20login.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/),
+2024.</p></font>
+
+Mas ao entarrmos em sua área de login vemos que várias funções ficam implícitas como mostrado na figura abaixo:
+
+<font size="2"><p style="text-align: center">Figura 05: Tela de opções no menu com login.</p></font>
+
+<center>
+
+![prepostagem2](../assets/metas-usabilidade/Login.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/),
+2024.</p></font>
+ 
+Sendo assim a aprendizagem do site fica comprometida, tendo em vista a mudança dos locais de opção e a omissão de algumas funcionalidades vista na página sem login.
+
+### 6. Memorabilidade
+Diz respeito a facilidade que o usuário teria de memorizar como fazer as tarefas dentro do sistema.
+
+**Pergunta:**Consegue se lembrar como executa determinada tarefa? É fácil a memorizaçãoW
+
+**No sistema:**Pela tamanha diferença entre a tela com e sem login, temos uma dificuldade de memorização tendo em vista que teremos que memorizar 2 telas diferentes, complicando ainda mais o entendimento e com isso a memorização dos mesmos.
+
+### 7. Satisfação
+Diz respeito a satisfação do usuário em usar os sites dos correios.
+
+**Pergunta:**As pessoas gostam de usar o sitema? Tem uma boa responsividade?
+
+**No sistema:**Infelizmente a baixa qualidade entre tarefas e nem sempre ter um nexo claro entre os caminhos devidos para realização das mesmas, o site do Correios não agrada muito aos olhos do usuário, sua interface nada inovadora também não ajuda, como temos a página de login abaixo:
+
+<font size="2"><p style="text-align: center">Figura 06: Tela mostrando design da tela pré-login</p></font>
+
+<center>
+
+![prepostagem2](../assets/metas-usabilidade/login%201.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/),
+2024.</p></font>
+
+font size="2"><p style="text-align: center">Figura 06: Tela mostrando design da tela login</p></font>
+
+<center>
+
+![prepostagem2](../assets/metas-usabilidade/login%202.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/),
+2024.</p></font>
+
+## Conclusão 
+Devido todas as metas estabelecidas e analizadas, verificamos que o site do correios seus maiores problemas são em relaçãoa design e responsividade como já listado anteriormente, em todos os aspectos o site apresenta contínuas falhas, como já listado anteriormente.
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -98,7 +170,7 @@ ISBN 9781119901099; 111990109X. Disponível em: [Interaction Design: Beyond Huma
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 12/05/2024 | Criação do documento | [Gabriel F. J. Silva](GabrielfGH) | []() |
+| `1.0`  | 12/05/2024 | Criação do documento | [Gabriel F. J. Silva](GabrielfGH), <br> [Gabriel B. Bertolazi](https://github.com/Bertolazi) | []() |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
