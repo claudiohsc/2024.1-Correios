@@ -180,6 +180,8 @@ O site dos Correios disponibiliza campos de entrada que solicitam aos usuários 
 
 ### Seleção
 
+O site dos Correios oferece um leque de opções de seleção que finalidades para áreas específicas, atendendo às suas necessidades particulares. Entre deversos aspectos a serem selecionados podemos citar localidades, tipos de produtos, modalidades de entrega, meios de comunicação, linguagem, tipo de cliente, serviços entre outros. Levando, assim, o usuário a uma parte especifica de acordo com sua necessidade.
+
 ### Ativação
 
 ## Vocabulário e padrões
