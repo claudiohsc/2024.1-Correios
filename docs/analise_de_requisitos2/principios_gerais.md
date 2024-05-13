@@ -1,6 +1,8 @@
 ## Introdução
 
-Os princípios gerais e diretrizes de IHC são objetivos e regras que definem um caminho a ser seguido para se obter um design de alto nível e qualidade seguindo esses objetivos que envolveram  determinado ambiente, contexto, características, usuário e realização de tarefas específicas(Mayhew, 1999).Os princípios e diretrizes mais conhecidos são os de Norman(1988), Tognazzini(2003), Nielsen(1993) e as regras de ouuro de Shneiderman(1998). Os profissionais e pesquisadores também ressaltam que os princípios e diretrizes  ão substituem as tarefas de  análise, design e avaliação. Vendo isso tem-se em consideração que os princípios apenas auxiliam a análise de requisitos e o processo de avaliação de IHC, pois há diretrizes e princípios por exemplo que são criados para ambientes de operação específicos como: Windows, MacOS e Linux, também para plataformas diferentes como Desktops e Mobile. 
+Os princípios gerais e diretrizes de IHC são objetivos e regras que definem um caminho a ser seguido para se obter um design de alto nível e qualidade seguindo esses objetivos que envolveram  determinado ambiente, contexto, características, usuário e realização de tarefas específicas(Mayhew, 1999).
+
+Os princípios e diretrizes mais conhecidos são os de Norman(1988), Tognazzini(2003), Nielsen(1993) e as regras de ouro de Shneiderman(1998). Os profissionais e pesquisadores também ressaltam que os princípios e diretrizes  ão substituem as tarefas de  análise, design e avaliação. Vendo isso tem-se em consideração que os princípios apenas auxiliam a análise de requisitos e o processo de avaliação de IHC, pois há diretrizes e princípios por exemplo que são criados para ambientes de operação específicos como: Windows, MacOS e Linux, também para plataformas diferentes como Desktops e Mobile. 
 
 
 De acordo com Norman(1988) os princípios e diretrizes devem proporcionar o desenvolvimento de sistemas de fácil apredizagem de uso, auxiliar o usuário a entender melhor a ralação entre as atividades e ações realizadas e as informações no mundo,
@@ -19,20 +21,18 @@ De acordo com Norman(1988), levando em consideração as variáveis pisicológic
 
 Na figura 01 abaixo é possível ver no site dos correios logo na página inicial uma violação de um dos princípios de Norman descrito acima, tendo em foco o chat bot nomeado de "Carol" localizado no canto inferior direito da tela, abrindo uma aba ao clicar e mostrando uma breve descrição sobre o chat e dando opções para o usuário, mas na parte inferior dessa aba há uma caixa de texto com a descrição "Faça uma pergunta", que obviamente induz o usuário a digitar algo que precise e gere uma expectativa no mesmo de que o chat irá retorná-lo opções relacionadas com aquilo, o que não acontece pois o chat bot apenas responde as opção genéricas já pré definidas e retorna uma mesnsagem informando que não encontrou nada relacionado, mas essa mensagem é retornada para todo tipo de pergunta enviada através da caixa de texto até mesmo temas já mostrados nas opções disponíveis, mostrando a ineficiência e não correspondencia de algo que é apresentado no site.
 
-<p style="text-align: center">Figura 1 - Violação Correspondência</p>
+<p style="text-align: center">Figura 1 - Assistente Virtual</p>
 
-<!-- 1ª opção -->
-<figure markdown>
 
-![correspondencia](../assets/princípios_gerais/Violacao_Chat.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte:[Site dos Correios](https://www.correios.com.br/).
+![correspondencia](../assets/princípios_gerais/Violacao_Chat.png)
 
-</figcaption></figure>
-
-<!-- 2ª Opção -->
-[![](../assets/princípios_gerais/Violacao_Chat.png)](../assets/princípios_gerais/Violacao_Chat.png)
 <center>
+
 Fonte: [Site dos Correios](https://www.correios.com.br/)
+
 </center>
+
+
 
 ### Conteúdo Relevante e Expressão adequada
 
@@ -85,41 +85,54 @@ Loja
 ## Violação
 
 Ao entrar nas informações do usuário não é possível voltar a tela home sem colocar o link da página inicial do site
-da Pré postagem para a home
+da Pré postagem para a home.
 Ao clicar no logo dos correios, o usuário não e redirecionado a home ficando preso na página.
 
+
+
+<p style="text-align: center">Figura 04 - Painel Pré-postagem</p>
+
+![](../assets/princípios_gerais/violacao_pre_postagem.png)
 
 
 ### Visibilidade e Reconhecimento
 
 ## Definição
 
-Norman(1988) Afirma que os designer devem desenvolver um sistemas tornando as coisas visíveis no mesmo. A interface deve apresentar opções que estejam disponíveis para a utilização do usuário e que correspondam com os seus interesses, e após a utilização de uma funcionalidade pelo usuário o sistema deverá fornecer informações do estado atual da aplicação.Em outras palavras, o estado do sistema, os objetos, as ações e as opções devem estar atualizados e facilmente perceptíveis (Nielsen, 1994b; Shneiderman, 1998; Tognazzini, 2014).
+De acordo com Norman (1988), os designers têm a responsabilidade de criar sistemas que tornem os itens visíveis para os usuários. Isso implica que a interface deve apresentar claramente as opções disponíveis e relevantes aos interesses do usuário. Além disso, é crucial que, após o usuário realizar uma ação, o sistema forneça feedback sobre o estado atual da aplicação. Em suma, como afirmam Nielsen (1994), Shneiderman (1998) e Tognazzini (2014), o estado do sistema, os objetos, as ações e as opções devem ser mantidos atualizados e facilmente perceptíveis.
 
 ## Violação
 
-Abaixo vemos na figura 05 ,06 e 07 que o usuário ao entrar em suas informações de login tem existem algumas opções como historico de tokens e permissões recebidas, que viola a diretriz de visibilidade e reconhecimento não mostrando o estado do sistema ao entrar na página e também não mostrando uma opção muito intuitiva ao usuário para retornar, que é apenas uma seta pouco visível no canto superior esquerdo da tela.Outro ponto a destacar também é que o sistema não disponibiliza uma opção para o usuário retornar a página home do site.
-<br> Também na Figura 08 Vemos que quando o usuário realiza o login e retorna a página inicial do site dos correios o mesmo não consegue ver o estado do sistema com relação ao login, mas ao clicar novamente na opção de login ele já estará logado.
+Abaixo vemos na figura 05 ,06 e 07 que o usuário ao entrar em suas informações de login observa que existem algumas opções como: historico de tokens e permissões recebidas, que viola a diretriz de visibilidade e reconhecimento não mostrando o estado do sistema ao entrar na página. 
 
-<p style="text-align: center">Figura 05 - Visibilidade e Reconhecimento</p>
-
-[![](../assets/princípios_gerais/violacao_tela_login.png)](../assets/princípios_gerais/violacao_tela_login.png)
-
-<p style="text-align: center">Figura 06 - Visibilidade e Reconhecimento</p>
+É observado também uma opção não muito intuitiva ao usuário para **retornar**, que é apenas uma seta pouco visível no canto superior esquerdo da tela. Outro ponto a destacar também é que o sistema não disponibiliza uma opção para o usuário retornar a página incial do site.
 
 
-[![](../assets/princípios_gerais/violacao_login_permissao.png)](../assets/princípios_gerais/violacao_login_permissao.png)
+<p style="text-align: center">Figura 05 - Painel Meu Correios</p>
 
-<p style="text-align: center">Figura 07 - Visibilidade e Reconhecimento</p>
+![](../assets/princípios_gerais/violacao_tela_login.png)
 
-[![](../assets/princípios_gerais/violacao_login_tokens.png)](../assets/princípios_gerais/violacao_login_tokens.png)
+<p style="text-align: center">Figura 06 - Página de Permissões Recebidas</p>
 
-<p style="text-align: center">Figura 08 - Visibilidade e Reconhecimento</p>
 
-[![](../assets/princípios_gerais/violacao_tela_inicial.png)](../assets/princípios_gerais/violacao_tela_inicial.png)
+![](../assets/princípios_gerais/violacao_login_permissao.png)
+
+<p style="text-align: center">Figura 07 - Histórico de Tokens</p>
+
+![](../assets/princípios_gerais/violacao_login_tokens.png)
+
+
+<p style="text-align: center">Figura 08 - Página inicial</p>
+
+![](../assets/princípios_gerais/violacao_tela_inicial.png)
+
+Também na Figura 08 observamos que quando o usuário realiza o login e retorna a página inicial do site dos Correios, ele não consegue ver o estado do sistema com relação ao login, mas ao clicar novamente na opção de login ele já estará logado. Acontece na parte superior, no canto direito.
+
 
 <center>
+
 Fonte: [Site dos Correios](https://www.correios.com.br/)
+
 </center>
 
 ## Referências Bibliográficas
