@@ -17,7 +17,7 @@ Para essa análise os membros, [Claudio Henrique](https://github.com/claudiohsc)
 
 ## Definição
 
-De acordo com Norman(1988), levando em consideração as variáveis pisicológicas e físicas que envolvem o sistema em questão o usuário deve perceber a relação entre suas intenções e ações possíveis; perceber a ralação entre o estado atual e o que é percebido pela visão; entre o estado percebido do sistema e as vontades, intenções e expectativas dos usuários.
+De acordo com Norman(1988), levando em consideração as variáveis pisicológicas e físicas que envolvem o sistema em questão, o usuário deve perceber a relação entre suas intenções e ações possíveis; perceber a relação entre o estado atual e o que é percebido pela visão; entre o estado percebido do sistema e as vontades, intenções e expectativas dos usuários.
 
 ## Violação
 
@@ -79,7 +79,7 @@ Tognazzini, Nielsen e Shneiderman sugerem a padronização das ações, dos resu
 
 ### Violação 
 
-Em primeiro plano, já se nota a diferença de layout dos inputs entre funcionalidades próximas como **Cálculo de preços e prazos** e a de **Pré-postagem**, como podemos observar nas figuras 03 e 04.
+Em primeiro plano, já se nota a diferença de layout dos inputs entre funcionalidades próximas como **Cálculo de preços e prazos** e a de **Pré-postagem**, como podemos observar nas figuras 03 e 04. O layout deles deixa explícito que um está mais de acordo com o padrão do site (Figura 03) e a outra está desatualizada (Figura 04).
 
 
 <p style="text-align: center">Figura 03 - Painel Pré-postagem</p>
