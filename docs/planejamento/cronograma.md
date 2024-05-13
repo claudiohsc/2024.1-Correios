@@ -116,12 +116,13 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | --- | --- | --- | --- | --- |
 | **Elaborar princípios gerais do projeto** | Início: 06/05 <br> Fim: 08/05 | Cláudio e Elias | Início: 08/05 <br> Fim: 08/05 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
 | **Estabelecer metas de usabilidade** | Início: 08/05  <br> Fim: 10/05 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 10/05 <br> Fim: 10/05 | Pablo e Ricardo |
+|**Características da Plataforma**| Início: 08/05 <br> Fim: 09/05|Pablo e Gabriel B. Bertolazi|Início: 09/05 <br> Fim: 10/05|
 | **Elaborar guia de estilo** | Início: 10/05 <br> Fim: 12/05 | Pablo e Ricardo | Início: 12/05 <br> Fim: 12/05 | Cláudio e Elias |
-| Ata de Reunião | Início: 24/05 <br>Fim: 24/05 | Ricardo | Início: 24/05   <br>Fim: 24/05 | Claúdio |
+| **Ata de Reunião** | Início: 24/05 <br>Fim: 24/05 | Ricardo | Início: 24/05   <br>Fim: 24/05 | Claúdio |
 | **Gravação da Apresentação** | Início: 12/05 <br> Fim: 13/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 13/05 <br> Fim: 13/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | **Correções** | Início: 14/05 <br> Fim: 21/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 21/05 <br> Fim: 21/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 ### Executado
 
@@ -133,6 +134,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | --- | --- | --- | --- | --- |
 | **Elaborar princípios gerais do projeto** | Início: 11/05 <br> Fim: 13/05 | Cláudio e Elias | Início: 13/05 <br> Fim: 13/05 | Gabriel B. Bertolazi e Gabriel F. J. Silva |
 | **Estabelecer metas de usabilidade** | Início: 12/05  <br> Fim: 13/05 | Gabriel B. Bertolazi e Gabriel F. J. Silva | Início: 13/05 <br> Fim: 13/05 | Pablo e Ricardo |
+|**Características da Plataforma**| Início: 13/05 <br> Fim: 13/05|Pablo e Gabriel B. Bertolazi|Início: 13/05 <br> Fim: 13/05|
 | **Elaborar guia de estilo** | Início: 10/05 <br> Fim: 13/05 | Pablo e Ricardo | Início: 13/05 <br> Fim: 13/05 | Cláudio e Elias |
 | **Ata de Reunião** | Início: 08/05 <br>Fim: 08/05 | Ricardo | Início: 08/05   <br>Fim: 08/05 | Claúdio |
 | **Gravação da Apresentação** | Início: 13/05 <br> Fim: 13/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 13/05 <br> Fim: 13/05 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
@@ -357,10 +359,8 @@ Disponível em:
 | `1.2` | 08/04/2024 | Cria cronograma executado para entrega 1 | [Pablo S. Costa](https://github.com/pabloheika) | [Claudio Henrique](https://github.com/claudiohsc) |
 | `1.3` | 09/04/2024 | Reajuste em fontes das tabelas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Pablo S. Costa](https://github.com/pabloheika) |
 | `1.4` | 06/05/2024 | Adiciona cronograma executado da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [](https://github.com/) |
-| `2.0` |  | Reajusta datas do cronograma planejado para as entregas 3, 4, 5, 6.1, 6.2, 8 e entrega final e também corrigi espaçamento das tabelas | [Elias F. Oliveira](EliasGH), [Gabriel B. Bertolazi](Gabrielb), [Gabriel F. J. Silva](GabrielfGH) e  [Pablo S. Costa](PabloGH) | []() |
-| `2.1` | 13/05/2024 | Adiciona cronograma executado da entrega 3 |[Elias Oliveira](EliasGH) | [](https://github.com/) |
->>>>>>> c2dce3e (adding chronogram executed 3)
-
+| `2.0` |  | Reajusta datas do cronograma planejado para as entregas 3, 4, 5, 6.1, 6.2, 8 e entrega final e também corrigi espaçamento das tabelas | [Elias F. Oliveira](EliasGH), [Gabriel B. Bertolazi](Gabrielb), [Gabriel F. J. Silva](GabrielfGH) e  [Pablo S. Costa](PabloGH) | [Ricardo](RicardoGH) |
+| `2.1` | 13/05/2024 | Adiciona cronograma executado da entrega 3 |[Elias Oliveira](EliasGH) | [Ricardo](RicardoGH) |
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
 [ClaudioGH]: https://github.com/claudiohsc
