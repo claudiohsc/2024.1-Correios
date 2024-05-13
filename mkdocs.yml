@@ -30,6 +30,7 @@ nav:
       - CMN-GOMS: analise_de_requisitos/analise_tarefas/cmn_goms.md
   - Análise de Requisitos II:
     - Princípios Gerais: analise_de_requisitos2/principios_gerais.md
+    - Características da plataforma para o projeto: analise_de_requisitos2/caracteristicas-da-plataforma.md
 extra_css:
   - stylesheets/extra.css
 theme:
