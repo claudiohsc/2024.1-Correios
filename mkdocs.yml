@@ -29,7 +29,7 @@ nav:
       - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_tarefas/hta.md
       - CMN-GOMS: analise_de_requisitos/analise_tarefas/cmn_goms.md
   - Análise de Requisitos II:
-    - Metas de Usabilidade: analise_requisitos_II/metas-usabilidade.md
+    - Metas de Usabilidade: analise_de_requisitos_II/metas-usabilidade.md
 extra_css:
   - stylesheets/extra.css
 theme:
