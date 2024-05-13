@@ -170,7 +170,7 @@ ISBN 9781119901099; 111990109X. Disponível em: [Interaction Design: Beyond Huma
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 12/05/2024 | Criação do documento | [Gabriel F. J. Silva](GabrielfGH), <br> [Gabriel B. Bertolazi](https://github.com/Bertolazi) | []() |
+| `1.0`  | 12/05/2024 | Criação do documento | [Gabriel F. J. Silva](GabrielfGH), <br> [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Ricardo Augusto][RicardoGH] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
