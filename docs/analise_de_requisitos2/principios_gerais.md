@@ -223,4 +223,4 @@ Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 12/05/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| []() |
+| `1.0`  | 12/05/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| [Gabriel F. J. Silva](https://github.com/MMcLovin) |
