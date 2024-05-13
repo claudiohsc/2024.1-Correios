@@ -52,14 +52,17 @@ Nielsen(1994b) mostra também sobre a máxima de quantidade que o projeto deve s
 
 ## Violação
 
-Vemos na Figura 02 logo abaixo que um usuário ao entrar na página de receber encomendas buscando utilizar a funcionalidade para localizar sua encomenda ou procurar uma agência do correios para receber o seu pacote o mesmo se depara com algumas informações sobre o correios que não são tão relevantes para o usuário que apenas quer utilizar a funcionalidade, e que busca uma página o mais polida e simples possível assim como destaca Nielsen.
+Na Figura 02, é evidente que, ao acessar a página "receber encomendas", um usuário que procura utilizar a funcionalidade de localizar sua encomenda ou encontrar uma agência do correio para receber seu pacote se depara com informações sobre os Correios que podem não ser tão relevantes para sua necessidade imediata. Nielsen destaca a importância de uma página polida e simples, priorizando a experiência do usuário que busca uma funcionalidade específica.
 
 <p style="text-align: center">Figura 2 - Conteúdo Relevante</p>
 
 <!-- 2ª Opção -->
-[![](../assets/princípios_gerais/violacao_receber_encomenda_conteudo_relevante.png)](../assets/princípios_gerais/violacao_receber_encomenda_conteudo_relevante.png)
+![](../assets/princípios_gerais/violacao_receber_encomenda_conteudo_relevante.png)
+
 <center>
+
 Fonte: [Site dos Correios](https://www.correios.com.br/)
+
 </center>
 
 ### Consistência e Padronização
@@ -82,17 +85,24 @@ Loja
 
 ## Definição
 
+Norman (1988), Nielsen (1994), Tognazzini (2014), Shneiderman (1998) e Cooper (1999) ressaltam a importância do controle do usuário. Tognazzini (2014) destaca que o usuário deve se sentir no comando para aprender e alcançar maestria, porém alerta para equilibrar isso com o excesso de opções. Norman (1988) sugere o uso de restrições para orientar o usuário na escolha correta. Tognazzini (2014) defende a flexibilidade dos caminhos de interação, priorizando o mais eficiente. A necessidade de uma saída clara e o equilíbrio entre liberdade e assistência variam conforme o perfil do usuário.
+
 ## Violação
 
-Ao entrar nas informações do usuário não é possível voltar a tela home sem colocar o link da página inicial do site
-da Pré postagem para a home.
-Ao clicar no logo dos correios, o usuário não e redirecionado a home ficando preso na página.
+A violação é observada quando o usuário, após fazer o login, entra na página de Pré-postagem e deseja voltar a página inicial, não consegue voltar, pois não existem setas ou botões que levem de volta para a página inicial do site.
 
-
+E mesmo clicando na logo dos Correios, como mostra a figura 04, o site somente recarrega e mantém a mesma tela.
 
 <p style="text-align: center">Figura 04 - Painel Pré-postagem</p>
 
 ![](../assets/princípios_gerais/violacao_pre_postagem.png)
+
+
+<center>
+
+Fonte: [Site dos Correios](https://www.correios.com.br/)
+
+</center>
 
 
 ### Visibilidade e Reconhecimento
@@ -112,21 +122,17 @@ Abaixo vemos na figura 05 ,06 e 07 que o usuário ao entrar em suas informaçõe
 
 ![](../assets/princípios_gerais/violacao_tela_login.png)
 
+
+<center>
+
+Fonte: [Site dos Correios](https://www.correios.com.br/)
+
+</center>
+
 <p style="text-align: center">Figura 06 - Página de Permissões Recebidas</p>
 
 
 ![](../assets/princípios_gerais/violacao_login_permissao.png)
-
-<p style="text-align: center">Figura 07 - Histórico de Tokens</p>
-
-![](../assets/princípios_gerais/violacao_login_tokens.png)
-
-
-<p style="text-align: center">Figura 08 - Página inicial</p>
-
-![](../assets/princípios_gerais/violacao_tela_inicial.png)
-
-Também na Figura 08 observamos que quando o usuário realiza o login e retorna a página inicial do site dos Correios, ele não consegue ver o estado do sistema com relação ao login, mas ao clicar novamente na opção de login ele já estará logado. Acontece na parte superior, no canto direito.
 
 
 <center>
@@ -134,6 +140,31 @@ Também na Figura 08 observamos que quando o usuário realiza o login e retorna 
 Fonte: [Site dos Correios](https://www.correios.com.br/)
 
 </center>
+
+<p style="text-align: center">Figura 07 - Histórico de Tokens</p>
+
+![](../assets/princípios_gerais/violacao_login_tokens.png)
+
+
+<center>
+
+Fonte: [Site dos Correios](https://www.correios.com.br/)
+
+</center>
+
+<p style="text-align: center">Figura 08 - Página inicial</p>
+
+![](../assets/princípios_gerais/violacao_tela_inicial.png)
+
+
+<center>
+
+Fonte: [Site dos Correios](https://www.correios.com.br/)
+
+</center>
+
+Também na Figura 08 observamos que quando o usuário realiza o login e retorna a página inicial do site dos Correios, ele não consegue ver o estado do sistema com relação ao login, mas ao clicar novamente na opção de login ele já estará logado. Acontece na parte superior, no canto direito.
+
 
 ## Referências Bibliográficas
 
