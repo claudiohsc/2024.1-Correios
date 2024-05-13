@@ -29,6 +29,7 @@ nav:
       - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_tarefas/hta.md
       - CMN-GOMS: analise_de_requisitos/analise_tarefas/cmn_goms.md
   - Análise de Requisitos II:
+    - Princípios Gerais: analise_de_requisitos2/principios_gerais.md
     - Características da plataforma para o projeto: analise_de_requisitos2/caracteristicas-da-plataforma.md
     - Metas de Usabilidade: analise_de_requisitos2/metas-usabilidade.md
 extra_css:
