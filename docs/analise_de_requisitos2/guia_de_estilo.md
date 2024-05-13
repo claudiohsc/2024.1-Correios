@@ -228,5 +228,5 @@ As sequências de diálogos no site dos Correios são projetadas para serem intu
 
 | Versão | Data | Descrição | Autor | Revisor
 | :-: | :-: | :-: | :-: | :-:
-|`1.0`| 10/05/2024 | Criação do documento | [Ricardo Augusto](https://www.github.com/avmricardo) & [Pablo S. Costa](https://www.github.com/pabloheika) | 
+|`1.0`| 10/05/2024 | Criação do documento | [Ricardo Augusto](https://www.github.com/avmricardo) & [Pablo S. Costa](https://www.github.com/pabloheika) | [Claudio Henrique](https://github.com/claudiohsc) & [Elias Faria](https://github.com/EliasOliver21) |
 
