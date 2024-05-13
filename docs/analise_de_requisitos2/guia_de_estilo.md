@@ -166,6 +166,10 @@ No site dos Correios é oferecido uma variedade de serviços que facilitam a vid
 
 ### Aceleradores (teclas de atalho)
 
+Ao analisar os recursos de navegação disponíveis no site dos Correios, observa-se a citação de aceleradores de teclado que são padrão em muitos navegadores contemporâneos. Os usuários têm à disposição as combinações Ctrl - e Ctrl +, que permitem ajustar o nível de zoom da página, facilitando a leitura e a visualização do conteúdo. Esses comandos são intuitivos e amplamente utilizados, o que contribui para uma experiência de usuário familiar e eficiente.
+
+No entanto, nota-se a ausência de atalhos de teclado específicos do site, o que poderia ser uma oportunidade de melhoria. A introdução de aceleradores personalizados poderia enriquecer a usabilidade do site, permitindo aos usuários realizar tarefas comuns de forma mais rápida e direta. 
+
 ## Elementos de ação
 
 ### Preenchimento de campos
