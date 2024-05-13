@@ -322,11 +322,11 @@ Na Tabela 19, temos o cronograma planejado para as atividades da última entrega
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-| Planejamento de verificação dos artefatos da Etapa 8 | Início: 20/06 <br>Fim: 22/06 | Claúdio, Pablo, Ricardo | Início: 22/06 Fim: 23/06 | Elias, Gabriel F. J. Silva, Gabriel B. Bertolazi |
-| Relato da verificação da Etapa 8 e ajustes nos artefatos | Início: 23/06 <br>Fim: 24/06 | Elias, Gabriel F. J. Silva, Gabriel B. Bertolazi | Início: 24/06 <br>Fim: 24/06 | Claúdio, Pablo, Ricardo |
-| Gravação da apresentação | Início: 03/07 <br>Fim: 03/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 04/07 <br>Fim: 05/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
-| Artefato de apresentação  | Início: 24/06 <br>Fim: 24/06 | Ricardo | Início: 24/06 <br>Fim: 24/06 | Elias |
-| Correção pós apresentação | Início: 25/06 <br>Fim: 09/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 25/06 <br>Fim: 11/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Planejamento de verificação dos artefatos da Etapa 8 | Início: 26/06 <br>Fim: 29/06 | Claúdio, Pablo, Ricardo | Início: 28/06 Fim: 30/06 | Elias, Gabriel F. J. Silva, Gabriel B. Bertolazi |
+| Relato da verificação da Etapa 8 e ajustes nos artefatos | Início: 28/06 <br>Fim: 01/07 | Elias, Gabriel F. J. Silva, Gabriel B. Bertolazi | Início: 28/06 <br>Fim: 01/07 | Claúdio, Pablo, Ricardo |
+| Gravação da apresentação | Início: 28/06 <br>Fim: 01/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 28/06 <br>Fim: 01/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Artefato de apresentação  | Início: 24/06 <br>Fim: 24/06 | Ricardo | Início: 26/06 <br>Fim: 01/07 | Elias |
+| Correção pós apresentação | Início: 27/06 <br>Fim: 01/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 27/06 <br>Fim: 01/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
@@ -346,7 +346,7 @@ Disponível em:
 | `1.2` | 08/04/2024 | Cria cronograma executado para entrega 1 | [Pablo S. Costa](https://github.com/pabloheika) | [Claudio Henrique](https://github.com/claudiohsc) |
 | `1.3` | 09/04/2024 | Reajuste em fontes das tabelas 5 e 6.2 | [Elias Oliveira](https://github.com/EliasOliver21) | [Pablo S. Costa](https://github.com/pabloheika) |
 | `1.4` | 06/05/2024 | Adiciona cronograma executado da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [](https://github.com/) |
-| `2.0` |  | Reajusta datas do cronograma planejado para as entregas 3, 4, 5, 6.1, 6.2, 8 e entrega final e também corrigi espaçamento das tabelas | [Elias F. Oliveira](EliasGH), [Gabriel B. Bertolazi](Gabrielb), [Gabriel F. J. Silva](GabrielfGH) e  [Pablo S. Costa](PabloGH) | []() |
+| `2.0` |  | Reajusta datas do cronograma planejado para as entregas 3, 4, 5, 6.1, 6.2, 8 e entrega final e correçao do espaçamento das tabelas | [Elias F. Oliveira](EliasGH), [Gabriel B. Bertolazi](Gabrielb), [Gabriel F. J. Silva](GabrielfGH) e  [Pablo S. Costa](PabloGH) | []() |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
