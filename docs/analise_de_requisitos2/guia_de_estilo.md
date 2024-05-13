@@ -40,6 +40,8 @@ Para manter o guia de estilos atualizado e eficaz, é fundamental estabelecer um
 
 ### Descrição do ambiente de trabalho do usuário
 
+A análise do ambiente de trabalho do usuário revela a necessidade de uma interface responsiva que se adapte a diferentes dispositivos, especialmente computadores e dispositivos móveis. Para os usuários do site dos Correios, a experiência ideal é alcançada através de desktops ou notebooks, o que exige uma atenção especial ao design e desenvolvimento da interface do sistema. É crucial que a interface seja ajustada para diferentes tamanhos de tela, com elementos visuais apropriados e funcionalidades intuitivas. A responsividade é um aspecto fundamental para evitar que as páginas pareçam desatualizadas e poluídas. Portanto, é importante que o desenvolvimento contínuo do sistema priorize a modernização e a limpeza visual das páginas, garantindo assim uma navegação eficiente e agradável para todos os usuários.
+
 ## Elementos de interface
 
 ### Disposição espacial e grid
