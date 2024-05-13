@@ -160,6 +160,8 @@ As cores utilizadas no site dos correios podem ser encontradas na figura 1.
 
 ### Estilos de interação
 
+No site dos Correios é oferecido uma variedade de serviços que facilitam a vida dos usuários, permitindo-lhes rastrear encomendas, enviar e receber correspondências, realizar compras, acessar soluções de logística, obter atendimento ao cliente e acesso à informação, utilizar acessos rapidos e pré-postagem .Os quais são feitos através de menus, botões, hiperlinks e campos de preenchimento (inputs).
+
 ### Seleção de um estilo
 
 ### Aceleradores (teclas de atalho)
