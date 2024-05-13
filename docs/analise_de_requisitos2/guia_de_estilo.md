@@ -176,6 +176,8 @@ No entanto, nota-se a ausência de atalhos de teclado específicos do site, o qu
 
 ### Preenchimento de campos
 
+O site dos Correios disponibiliza campos de entrada que solicitam aos usuários a inserção manual de dados. Para facilitar esse processo, muitos desses campos são acompanhados de exemplos práticos. As categorias de campos de entrada incluem inputs de pesquisa, formulários, e-mails, quantitativos, autenticação, códigos, endereços entre outros elementos que demandam inserção de texto.
+
 ### Seleção
 
 ### Ativação
@@ -208,4 +210,4 @@ As sequências de diálogos no site dos Correios são projetadas para serem intu
 
 | Versão | Data | Descrição | Autor | Revisor
 | :-: | :-: | :-: | :-: | :-:
-|`1.0`| 10 / 05 / 2024 | Criação do documento | [Ricardo Augusto](https://www.github.com/avmricardo) | 
+|`1.0`| 10 / 05 / 2024 | Criação do documento | [Ricardo Augusto](https://www.github.com/avmricardo) & [Pablo S. Costa](https://www.github.com/pabloheika) | 
