@@ -9,7 +9,7 @@ Metas de usabilidade se referem a garantir que um produto seja fácil de aprende
 
 ## Metodologia
 
-Seguindo a estrutura proposta por Rogers et. al, (2023), as nossas metas de usabilidade estão separadas em 7 objetivos: eficacia, eficiencia, seguranca, utilidade, aprendizagem, memorização e satisfação. Também apresentando uma pergunta que permite analisar de maneira mais concreta o objetivo da respectiva meta de usabilidade.
+Seguindo a estrutura proposta por Rogers et. al, (2023), as nossas metas de usabilidade estão separadas em 7 objetivos: eficácia, eficiência, segurança, utilidade, aprendizagem, memorização e satisfação. Também apresentando tanto uma pergunta, que permite analisar de maneira mais concreta o objetivo da respectiva meta de usabilidade, quanto um exemplo, quando aplicável, no próprio site escolhido.
 
 ## Metas Estabelecidas
 
