@@ -2,10 +2,10 @@
 
 Os princípios gerais e diretrizes de IHC são objetivos e regras que definem um caminho a ser seguido para se obter um design de alto nível e qualidade seguindo esses objetivos que envolveram  determinado ambiente, contexto, características, usuário e realização de tarefas específicas(Mayhew, 1999).
 
-Os princípios e diretrizes mais conhecidos são os de Norman(1988), Tognazzini(2003), Nielsen(1993) e as regras de ouro de Shneiderman(1998). Os profissionais e pesquisadores também ressaltam que os princípios e diretrizes  ão substituem as tarefas de  análise, design e avaliação. Vendo isso tem-se em consideração que os princípios apenas auxiliam a análise de requisitos e o processo de avaliação de IHC, pois há diretrizes e princípios por exemplo que são criados para ambientes de operação específicos como: Windows, MacOS e Linux, também para plataformas diferentes como Desktops e Mobile. 
+Os princípios e diretrizes mais conhecidos são os de Norman(1988), Tognazzini(2003), Nielsen(1993) e as regras de ouro de Shneiderman(1998). Os profissionais e pesquisadores também ressaltam que os princípios e diretrizes não substituem as tarefas de  análise, design e avaliação. Compreendendo isso, tem-se em consideração que os princípios apenas auxiliam a análise de requisitos e o processo de avaliação de IHC, pois há diretrizes e princípios por exemplo que são criados para ambientes de operação específicos como: Windows, MacOS e Linux, também para plataformas diferentes como Desktops e Mobile. 
 
 
-De acordo com Norman(1988) os princípios e diretrizes devem proporcionar o desenvolvimento de sistemas de fácil apredizagem de uso, auxiliar o usuário a entender melhor a ralação entre as atividades e ações realizadas e as informações no mundo,
+De acordo com Norman(1988) os princípios e diretrizes devem proporcionar o desenvolvimento de sistemas de fácil apredizagem de uso, auxiliar o usuário a entender melhor a ralação entre as atividades e ações realizadas e as informações no mundo.
 
 ## Metodologia
 
@@ -21,7 +21,9 @@ De acordo com Norman(1988), levando em consideração as variáveis pisicológic
 
 ## Violação
 
-Na figura 01 abaixo é possível ver no site dos correios logo na página inicial uma violação de um dos princípios de Norman descrito acima, tendo em foco o chat bot nomeado de "Carol" localizado no canto inferior direito da tela, abrindo uma aba ao clicar e mostrando uma breve descrição sobre o chat e dando opções para o usuário, mas na parte inferior dessa aba há uma caixa de texto com a descrição "Faça uma pergunta", que obviamente induz o usuário a digitar algo que precise e gere uma expectativa no mesmo de que o chat irá retorná-lo opções relacionadas com aquilo, o que não acontece pois o chat bot apenas responde as opção genéricas já pré definidas e retorna uma mesnsagem informando que não encontrou nada relacionado, mas essa mensagem é retornada para todo tipo de pergunta enviada através da caixa de texto até mesmo temas já mostrados nas opções disponíveis, mostrando a ineficiência e não correspondencia de algo que é apresentado no site.
+Na figura 01 é possível ver no site dos Correios, logo na página inicial, a violação de um dos princípios de Norman descrito acima, tendo em foco o chat bot nomeado de "Carol" localizado no canto inferior direito da tela. Ao clicar, é aberto uma aba e o chat envia uma breve descrição sobre a ferramenta, e ao fim apresenta opções para o usuário.
+
+A violação ocorre na parte inferior, onde há um input que induz o usuário a digitar algo que precise e gere uma expectativa nele de que o chat irá retorná-lo respostas relacionadas com aquilo, o que não acontece, pois o chat bot apenas responde as opções genéricas já pré-definidas e retorna uma mesnsagem informando que não encontrou nada relacionado, mas essa mensagem é retornada para todo tipo de pergunta enviada, até mesmo temas já mostrados nas opções disponíveis, mostrando a ineficiência e não correspondencia de algo que é apresentado no site.
 
 <p style="text-align: center">Figura 1 - Assistente Virtual</p>
 
