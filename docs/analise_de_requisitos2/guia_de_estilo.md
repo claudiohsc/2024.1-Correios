@@ -178,9 +178,15 @@ No site dos Correios é oferecido uma variedade de serviços que facilitam a vid
 
 ### Terminologia
 
-### Tipos de tela (para tarefas comuns)
+A terminologia no site dos Correios é projetada para ser intuitiva e fácil de entender, mesmo para usuários que não estão familiarizados com os serviços postais. A linguagem usada é simples e direta, evitando o uso de jargões técnicos ou termos confusos. Isso ajuda a garantir que todos os usuários, independentemente de seu nível de experiência ou conhecimento, possam navegar e usar o site de maneira eficaz.
 
-### Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
+### Tipos de tela
+
+As telas do site dos correios no geral seguem a identidade visual presente na tela inicial, o que torna o design do site consistente e coerente. Porém algumas funcionalidades que são utilizadas com frequência, como o rastreamento de encomendas e o cálculo de preços e prazos, possuem telas com um design totalmente diferente do restante do site, como pode ser visto na seção de [janelas](#janelas).
+
+### Sequências de diálogos
+
+As sequências de diálogos no site dos Correios são projetadas para serem intuitivas e eficientes. Elas guiam o usuário através de cada etapa de uma tarefa, fornecendo feedback adequado e confirmações ao longo do caminho.
 
 ## Bibliografia
 
