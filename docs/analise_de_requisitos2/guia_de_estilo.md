@@ -207,6 +207,13 @@ As telas do site dos correios no geral seguem a identidade visual presente na te
 
 As sequências de diálogos no site dos Correios são projetadas para serem intuitivas e eficientes. Elas guiam o usuário através de cada etapa de uma tarefa, fornecendo feedback adequado e confirmações ao longo do caminho.
 
+## Referências Bibliográficas
+
+> <a> 1.</a>  Correios. Manual de Identidade Visual. Correios, 2019. Disponível em: <https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/manual-da-marca-correios>. Acesso em: 10 maio 2024.
+
+> <a> 2.</a>   Correios. Arquivo da Marca Correios. Disponível em: <https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios>. Acesso em: 10 maio 2024.
+
+
 ## Bibliografia
 
 > <a id = "REF1" href="#anchor_1"> 1.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
