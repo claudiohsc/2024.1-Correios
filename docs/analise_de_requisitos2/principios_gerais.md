@@ -40,20 +40,27 @@ Fonte: [Site dos Correios](https://www.correios.com.br/)
 
 Segundo Gride(1975) a interação polidade leva em conta quatro máximas, que são : Quantidade, qualidade, relação e modo ou clareza.
 
-* A máxima da qualidade diz respeito ao conteúdo da informação, ou seja, se mesma possui uma fonte confiável não sendo um texto baseado em achismo e especulação
+* A máxima da qualidade diz respeito ao conteúdo da informação, ou seja, se mesma possui uma fonte confiável não sendo um texto baseado em achismo e especulação;
   
-* A máxima da quantidade é baseada na quantificação da informação, ou seja, se teremos um pequeno texto bem explicativo e de fácil entendimento ou um texto enorme para nos passar uma informação que não necessita de tanta explicação, Nielsen(1994c) defende o desenvlvimento dos projetos tendo uma forma estética e minimalista
+* A máxima da quantidade é baseada na quantificação da informação, ou seja, se teremos um pequeno texto bem explicativo e de fácil entendimento ou um texto enorme para nos passar uma informação que não necessita de tanta explicação, Nielsen(1994c) defende o desenvlvimento dos projetos tendo uma forma estética e minimalista;
   
-* A máxima da relação mostra que tudo o que for levantado no texto deve ter relação com o objetivo dos interlocutores
+* A máxima da relação mostra que tudo o que for levantado no texto deve ter relação com o objetivo dos interlocutores;
   
-* A máxima do modo ou clareza define que as informações do sistema devem ser objetivas e diretas evitando a prolixidade e ambiguidade
+* A máxima do modo ou clareza define que as informações do sistema devem ser objetivas e diretas evitando a prolixidade e ambiguidade.
+
+Nielsen(1994b) mostra também sobre a máxima de quantidade que o projeto deve ser estético e minimalista, fazendo com que os textos e diálogos não contenham informações desnecessárias ou irrelevantes.
 
 ## Violação
 
+Vemos na Figura 02 logo abaixo que um usuário ao entrar na página de receber encomendas buscando utilizar a funcionalidade para localizar sua encomenda ou procurar uma agência do correios para receber o seu pacote o mesmo se depara com algumas informações sobre o correios que não são tão relevantes para o usuário que apenas quer utilizar a funcionalidade, e que busca uma página o mais polida e simples possível assim como destaca Nielsen.
 
+<p style="text-align: center">Figura 2 - Conteúdo Relevante</p>
 
-// Muitas informações são exibibidas ao usuário que busca apenas a funcionalidade.
-// Citar Nielsen Projeto estético e minimalista
+<!-- 2ª Opção -->
+[![](../assets/princípios_gerais/violacao_receber_encomenda_conteudo_relevante.png)](../assets/princípios_gerais/violacao_receber_encomenda_conteudo_relevante.png)
+<center>
+Fonte: [Site dos Correios](https://www.correios.com.br/)
+</center>
 
 ### Consistência e Padronização
 
@@ -81,15 +88,39 @@ Ao entrar nas informações do usuário não é possível voltar a tela home sem
 da Pré postagem para a home
 Ao clicar no logo dos correios, o usuário não e redirecionado a home ficando preso na página.
 
+
+
 ### Visibilidade e Reconhecimento
 
 ## Definição
 
+Norman(1988) Afirma que os designer devem desenvolver um sistemas tornando as coisas visíveis no mesmo. A interface deve apresentar opções que estejam disponíveis para a utilização do usuário e que correspondam com os seus interesses, e após a utilização de uma funcionalidade pelo usuário o sistema deverá fornecer informações do estado atual da aplicação.Em outras palavras, o estado do sistema, os objetos, as ações e as opções devem estar atualizados e facilmente perceptíveis (Nielsen, 1994b; Shneiderman, 1998; Tognazzini, 2014).
+
 ## Violação
 
-Telas de funcionalidades nas opções de usuário
+Abaixo vemos na figura 05 ,06 e 07 que o usuário ao entrar em suas informações de login tem existem algumas opções como historico de tokens e permissões recebidas, que viola a diretriz de visibilidade e reconhecimento não mostrando o estado do sistema ao entrar na página e também não mostrando uma opção muito intuitiva ao usuário para retornar, que é apenas uma seta pouco visível no canto superior esquerdo da tela.Outro ponto a destacar também é que o sistema não disponibiliza uma opção para o usuário retornar a página home do site.
+<br> Também na Figura 08 Vemos que quando o usuário realiza o login e retorna a página inicial do site dos correios o mesmo não consegue ver o estado do sistema com relação ao login, mas ao clicar novamente na opção de login ele já estará logado.
 
-Estado do login
+<p style="text-align: center">Figura 05 - Visibilidade e Reconhecimento</p>
+
+[![](../assets/princípios_gerais/violacao_tela_login.png)](../assets/princípios_gerais/violacao_tela_login.png)
+
+<p style="text-align: center">Figura 06 - Visibilidade e Reconhecimento</p>
+
+
+[![](../assets/princípios_gerais/violacao_login_permissao.png)](../assets/princípios_gerais/violacao_login_permissao.png)
+
+<p style="text-align: center">Figura 07 - Visibilidade e Reconhecimento</p>
+
+[![](../assets/princípios_gerais/violacao_login_tokens.png)](../assets/princípios_gerais/violacao_login_tokens.png)
+
+<p style="text-align: center">Figura 08 - Visibilidade e Reconhecimento</p>
+
+[![](../assets/princípios_gerais/violacao_tela_inicial.png)](../assets/princípios_gerais/violacao_tela_inicial.png)
+
+<center>
+Fonte: [Site dos Correios](https://www.correios.com.br/)
+</center>
 
 ## Referências Bibliográficas
 
