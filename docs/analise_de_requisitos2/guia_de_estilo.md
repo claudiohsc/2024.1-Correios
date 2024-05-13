@@ -46,7 +46,7 @@ Para manter o guia de estilos atualizado e eficaz, é fundamental estabelecer um
 
 Os correios disponibilizam um documento que define os limites de dimensões da logo de seu site, esse logo pode ter uma assinatura horizontal ou centralizada. As figuras abaixo especificam essas definições.
 
-<font size="2"><p style="text-align: center">Figura 1: Representação da assinatura horizontal dos correios.</p></font>
+<font size="2"><p style="text-align: center">Figura 1 - Representação da assinatura horizontal dos correios.</p></font>
 
 <center>
 
@@ -57,7 +57,7 @@ Os correios disponibilizam um documento que define os limites de dimensões da l
 <font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2024.</p></font>
 
 
-<font size="2"><p style="text-align: center">Figura 2: Limites da assinatura horizontal dos correios.</p></font>
+<font size="2"><p style="text-align: center">Figura 2 - Limites da assinatura horizontal dos correios.</p></font>
 
 <center>
 
@@ -67,7 +67,7 @@ Os correios disponibilizam um documento que define os limites de dimensões da l
 
 <font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2024.</p></font>
 
-<font size="2"><p style="text-align: center">Figura 3: Representação da assinatura centralizada dos correios.</p></font>
+<font size="2"><p style="text-align: center">Figura 3 - Representação da assinatura centralizada dos correios.</p></font>
 
 <center>
 
@@ -78,7 +78,7 @@ Os correios disponibilizam um documento que define os limites de dimensões da l
 <font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2024.</p></font>
 
 
-<font size="2"><p style="text-align: center">Figura 4: Limites da assinatura centralizada dos correios.</p></font>
+<font size="2"><p style="text-align: center">Figura 4 - Limites da assinatura centralizada dos correios.</p></font>
 
 <center>
 
@@ -92,7 +92,7 @@ Os correios disponibilizam um documento que define os limites de dimensões da l
 
 Na figura abaixo está o link para o figma contendo prints do site dos correios das janelas de algumas funcionalidades, assim como a janela da tela inicial do site.
 
-<font size="2"><p style="text-align: center">Figura 5: Janelas das funcionalidades dos correios.</p></font>
+<font size="2"><p style="text-align: center">Figura 5 - Janelas das funcionalidades dos correios.</p></font>
 
 <center>
 
@@ -107,7 +107,7 @@ Na figura abaixo está o link para o figma contendo prints do site dos correios 
 
 A tipografia do site dos correios, como fonte e tamanho, está descrita na figura abaixo. A mesma fonte é utilizada em todo o site, variando seu tamanho de acordo com o local em que o texto aparece.
 
-<font size="2"><p style="text-align: center">Tabela 1: Tipografia utilizada no site dos correios.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Tipografia utilizada no site dos correios.</p></font>
 
 <center>
 
@@ -132,7 +132,7 @@ Para acessar algumas funcionalidades, o site dos correios utiliza de símbolos n
 
 Alguns símbolos não tipográficos utilizados no site dos correios são mostrados na figura 6.
 
-<font size="2"><p style="text-align: center">Figura 6: Símbolos não tipográficos dos correios.</p></font>
+<font size="2"><p style="text-align: center">Figura 6 - Símbolos não tipográficos dos correios.</p></font>
 
 <center>
 
@@ -144,9 +144,9 @@ Alguns símbolos não tipográficos utilizados no site dos correios são mostrad
 
 ### Cores
 
-As cores utilizadas no site dos correios podem ser encontradas na figura 1.
+As cores utilizadas no site dos correios podem ser encontradas na figura 7.
 
-<font size="2"><p style="text-align: center">Figura 7: Cores utilizadas no site dos correios.</p></font>
+<font size="2"><p style="text-align: center">Figura 7 - Cores utilizadas no site dos correios.</p></font>
 
 <center>
 
@@ -223,4 +223,4 @@ As sequências de diálogos no site dos Correios são projetadas para serem intu
 
 | Versão | Data | Descrição | Autor | Revisor
 | :-: | :-: | :-: | :-: | :-:
-|`1.0`| 10 / 05 / 2024 | Criação do documento | [Ricardo Augusto](https://www.github.com/avmricardo) & [Pablo S. Costa](https://www.github.com/pabloheika) | 
+|`1.0`| 10/05/2024 | Criação do documento | [Ricardo Augusto](https://www.github.com/avmricardo) & [Pablo S. Costa](https://www.github.com/pabloheika) | 
