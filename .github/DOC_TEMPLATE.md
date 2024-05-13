@@ -18,6 +18,11 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Person](https://github.com/person), 2024.</p></font>
 
+## Referências Bibliográficas
+
+> 1. Cooper, Alan, Reimann, Robert, Cronin, David, e Noessel, Christopher (2014). About Face: The Essentials of Interaction Design. Wiley, Indianapolis, IN, 4th edition edition.
+>
+
 ## Bibliografia
 
 > 1. GitHub. Disponível em: [https://docs.github.com/pt](https://docs.github.com/pt). Acesso em: 29 de mar. de 2024.
