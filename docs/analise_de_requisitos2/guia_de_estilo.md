@@ -56,7 +56,7 @@ Os correios disponibilizam um documento que define os limites de dimensões da l
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2019.</p></font>
 
 <font size="2"><p style="text-align: center">Figura 2 - Limites da assinatura horizontal dos correios.</p></font>
 
@@ -66,7 +66,7 @@ Os correios disponibilizam um documento que define os limites de dimensões da l
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2019.</p></font>
 
 <font size="2"><p style="text-align: center">Figura 3 - Representação da assinatura centralizada dos correios.</p></font>
 
@@ -76,7 +76,7 @@ Os correios disponibilizam um documento que define os limites de dimensões da l
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2019.</p></font>
 
 <font size="2"><p style="text-align: center">Figura 4 - Limites da assinatura centralizada dos correios.</p></font>
 
@@ -86,7 +86,7 @@ Os correios disponibilizam um documento que define os limites de dimensões da l
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2019.</p></font>
 
 ### Janelas
 
@@ -152,7 +152,7 @@ As cores utilizadas no site dos correios podem ser encontradas na figura 7.
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios), 2019.</p></font>
 
 ## Elementos de interação
 
@@ -206,12 +206,6 @@ As telas do site dos correios no geral seguem a identidade visual presente na te
 ### Sequências de diálogos
 
 As sequências de diálogos no site dos Correios são projetadas para serem intuitivas e eficientes. Elas guiam o usuário através de cada etapa de uma tarefa, fornecendo feedback adequado e confirmações ao longo do caminho.
-
-## Referências Bibliográficas
-
-> <a id = "REF2" href="#anchor_2"> 1.</a>  Correios. Manual de Identidade Visual. Correios, 2019. Disponível em: <https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/manual-da-marca-correios>. Acesso em: 10 maio 2024.
-
-> <a id = "REF3" href="#anchor_3"> 2.</a>   Correios. Arquivo da Marca Correios. Disponível em: <https://www.correios.com.br/acesso-a-informacao/institucional/arquivos/arquivo-da-marca-correios>. Acesso em: 10 maio 2024.
 
 ## Bibliografia
 
