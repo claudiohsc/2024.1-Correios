@@ -9,40 +9,82 @@ Metas de usabilidade se referem a garantir que um produto seja fácil de aprende
 
 ## Metodologia
 
-Seguindo a estrutura proposta por Rogers et. al, (2023), as nossas metas de usabilidade estão separadas em 7 objetivos: eficácia, eficiência, segurança, utilidade, aprendizagem, memorização e satisfação. Também apresentando tanto uma pergunta, que permite analisar de maneira mais concreta o objetivo da respectiva meta de usabilidade, quanto um exemplo, quando aplicável, no próprio site escolhido.
+Seguindo a estrutura proposta por Rogers et. al, (2023), as nossas metas de usabilidade estão separadas em 7 objetivos: eficácia, eficiência, segurança, utilidade, aprendizagem, memorização e satisfação. Para cada meta nos apresentamos uma breve descrição e tanto uma pergunta, que permite analisar de maneira mais concreta o objetivo da respectiva meta, quanto um exemplo, quando aplicável, no próprio site escolhido.
 
 ## Metas Estabelecidas
 
 ### 1. Eficácia
-#### Pergunta:
-### 2. Eficiência
-#### Pergunta:
-### 3. Segurança
-#### Pergunta:
-### 4. Utilidade
-#### Pergunta:
-### 5. Aprendizagem
-#### Pergunta:
-### 6. Memorização
-#### Pergunta:
-### 7. Satisfação
-#### Pergunta:
+Se refere a uma meta mais geral, analisando o quão bom o produto é em fazer aquilo que se propõem
 
-<font size="2"><p style="text-align: center">Tabela 1: Tabela sobre isso.</p></font>
+**Pergunta:** o site permite que os usuários realizem as principais tarefas relacionadas aos Correios (descritas no [perfil do usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/)) de forma precisa e completa, atingindo seus objetivos sem dificuldades?
+
+**No sistema:** no geral, com base nas respostas do questionário e entrevistas com o usuário, o sistema atende bem as necessidades dos usuários, que cumprem seus objetivos com facilidade, porém, foi ressaltada a necessidade de possuir uma interface mais minimalista e mais intuitiva.
+
+
+
+### 2. Eficiência
+Trata-se de oferecer meios para os usuários realizarem tarefas de maneira rápida e com o mínimo de esforço, otimizando tempo e recursos 
+
+**Pergunta:** o sistema salva informações, do usuário, que são recorrentemente solicitadas? 
+
+**No sistema:** atualmente, o site já disponibiliza meios para autocompletar alguns campos recorrentes como, por exemplo, salvar informações de pagamento, visto na figura 01, e o endereço principal do usuário é usado para o preenchimento do campo de remetente ao realizar uma pré-postagem, como visto na figura 02, porém, essa funcionalidade poderia ser estendida para permitir que o usuário escolha entre um de seus endereços já cadastros e também permitir o cadastramento de destinatários recorrentes.
+
+<font size="2"><p style="text-align: center">Figura 01: Tela de pagamento de uma pré-postagem.</p></font>
 
 <center>
 
-| Coluna 1 | Coluna 2 | Coluna 3 |
-|:--------:|----------|---------:|
-|1.1|1.2|1.2|
-|2.1|2.2|2.3|
-|3.1|3.2|3.3|
+![cartao](../assets/metas-usabilidade/para%20realizar%20o%20pagamento.png)
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](GabrielfGH), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/),
+2024.</p></font>
+
+<font size="2"><p style="text-align: center">Figura 02: Tela do campo do destinatário ao realizar uma pré-postagem.</p></font>
+
+<center>
+
+![prepostagem](../assets/metas-usabilidade/Pré-postagem.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/),
+2024.</p></font>
+
+### 3. Segurança
+Se refere a proteger os usuários de condições perigosas e situações indesejáveis. Isso inclui prevenir erros graves ao reduzir o risco de ativação acidental de funções perigosas e fornecer mecanismos de recuperação.
+
+**Pergunta:** há meios que previnem erros graves pelo uso da confirmação de ações? São proporcionados mecanismos de reversão de ações durante a navegação?
+
+**No sistema:** em diversas partes do sistema estão presentes caixas de diálogos que previnem eventuais ações indesejadas por parte do usuário em ações importantes como, por exemplo, excluir itens do carrinho e definir meios de pagamento, que possuem caixas de diálogo que explicitam o que será feito e pedem a confirmação do usuário. Quanto a reversão de ações no sistema, foi observado durante a navegação que para certas funcionalidades, o sistema nos leva à uma espécie de portal específico, o que dificulta a ação de retornar à página inicial dos Correios, situação vísivel na figura 03, em que ao clicar na logo dos Correios, ocorre que apenas o recarregamento da página atual, ao invés do esperado, que seria voltar a página incial.   
+
+<font size="2"><p style="text-align: center">Figura 03: Tela do campo do destinatário ao realizar uma pré-postagem.</p></font>
+
+<center>
+
+![prepostagem2](../assets/metas-usabilidade/portalPrePostagem.png)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/),
+2024.</p></font>
+
+### 4. Utilidade
+Diz respeito a até que ponto o sistema fornece as funcionalidades certas para que os usuários façam o que precisam/querem.
+
+**Pergunta:**o site dos Correios oferece as funcionalidades necessárias para que os usuários realizem suas atividades e tenham acesso à informações úteis e relevantes? 
+
+**No sistema:**com base nos dados coletados durante a construção do [perfil do usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/), o sistema já oferece as funcionalidade e todas as informações necessárias, sendo relatado que a disposição e quantidade de funcionalidades e informações podem ser otimizadas.
+
 
 ## Bibliografia
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> 2. ROGERS HELEN SHARP, J. P. Y. Interaction Design: Beyond Human-Computer
+Interaction. 6. ed. John Wiley Sons, 2023. (Praise for Interaction Design).
+ISBN 9781119901099; 111990109X. Disponível em: [Interaction Design: Beyond Human-Computer Interaction, 6th Edition](https://www.wiley.com/en-us/Interaction+Design%3A+Beyond+Human-Computer+Interaction%2C+6th+Edition-p-9781119901099)
+> 3. Domínio Público. Metas de usabilidade. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/metas_de_usabilidade/. Acesso em: 12 de maio 2024.
+
+## Referências Bibliográficas
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 > 2. ROGERS HELEN SHARP, J. P. Y. Interaction Design: Beyond Human-Computer
 Interaction. 6. ed. John Wiley Sons, 2023. (Praise for Interaction Design).
