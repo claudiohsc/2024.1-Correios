@@ -104,7 +104,7 @@ Na figura abaixo está o link para o Figma contendo prints do site dos correios 
 
 ### Tipografia
 
-A tipografia do site dos correios, como fonte e tamanho, está descrita na figura abaixo. A mesma fonte é utilizada em todo o site, variando seu tamanho de acordo com o local em que o texto aparece.
+A tipografia do site dos correios, como fonte e tamanho, está descrita na tabela abaixo. A mesma fonte é utilizada em todo o site, variando seu tamanho de acordo com o local em que o texto aparece.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Tipografia utilizada no site dos correios.</p></font>
 
