@@ -22,7 +22,11 @@ Na figura 01 abaixo é possível ver no site dos correios logo na página inicia
 <p style="text-align: center">Figura 1 - Violação Correspondência</p>
 
 <!-- 1ª opção -->
-<figure markdown>![correspondencia](../assets/princípios_gerais/Violacao_Chat.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte:[Site dos Correios](https://www.correios.com.br/).</figcaption></figure>
+<figure markdown>
+
+![correspondencia](../assets/princípios_gerais/Violacao_Chat.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte:[Site dos Correios](https://www.correios.com.br/).
+
+</figcaption></figure>
 
 <!-- 2ª Opção -->
 [![](../assets/princípios_gerais/Violacao_Chat.png)](../assets/princípios_gerais/Violacao_Chat.png)
@@ -48,17 +52,44 @@ Segundo Gride(1975) a interação polidade leva em conta quatro máximas, que s�
 
 
 
-### Simplicidade nas Estruturas das Tarefas
-
-### Equilíbrio entre Controle e Liberdade do Usuário
+// Muitas informações são exibibidas ao usuário que busca apenas a funcionalidade.
+// Citar Nielsen Projeto estético e minimalista
 
 ### Consistência e Padronização
 
-### Promovendo a Eficiência do Usuário
+## Definição
 
-### Antecipação
+Com base nos princípios e diretrizes elencados por Norman(1988), um sistema deve possuir um sistema que apresente suas telas e páginas padronizadas e consistentes
+
+Tognazzini, Nielsen e Shneiderman recomendam padronizar as ações, os resultados das ações, o layout dos
+diálogos e as visualizações de informação. Ações relacionadas em situações semelhantes devem funcionar
+da mesma forma.
+
+## Violação 
+
+// Simulação preços e prazos e pré postagem
+Loja
+
+
+### Equilíbrio entre Controle e Liberdade do Usuário
+
+## Definição
+
+## Violação
+
+Ao entrar nas informações do usuário não é possível voltar a tela home sem colocar o link da página inicial do site
+da Pré postagem para a home
+Ao clicar no logo dos correios, o usuário não e redirecionado a home ficando preso na página.
 
 ### Visibilidade e Reconhecimento
+
+## Definição
+
+## Violação
+
+Telas de funcionalidades nas opções de usuário
+
+Estado do login
 
 ## Referências Bibliográficas
 
