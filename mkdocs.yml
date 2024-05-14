@@ -13,6 +13,7 @@ nav:
   - Apresentações:
     - Apresentação 01: apresentações/apresentação-01.md
     - Apresentação 02: apresentações/apresentação-02.md
+    - Apresentação 03: apresentações/apresentação-03.md
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
     - Sites Avaliados: planejamento/site_avaliados.md
@@ -29,8 +30,8 @@ nav:
       - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_tarefas/hta.md
       - CMN-GOMS: analise_de_requisitos/analise_tarefas/cmn_goms.md
   - Análise de Requisitos II:
-    - Princípios Gerais: analise_de_requisitos2/principios_gerais.md
     - Características da plataforma para o projeto: analise_de_requisitos2/caracteristicas-da-plataforma.md
+    - Princípios Gerais: analise_de_requisitos2/principios_gerais.md
     - Metas de Usabilidade: analise_de_requisitos2/metas-usabilidade.md
     - Guia de Estilo: analise_de_requisitos2/guia_de_estilo.md
 extra_css:
