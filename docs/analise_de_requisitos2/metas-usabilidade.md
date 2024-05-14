@@ -116,7 +116,7 @@ Sendo assim a aprendizagem do site fica comprometida, tendo em vista a mudança 
 ### 6. Memorabilidade
 Diz respeito a facilidade que o usuário teria de memorizar como fazer as tarefas dentro do sistema.
 
-**Pergunta:**Consegue se lembrar como executa determinada tarefa? É fácil a memorizaçãoW
+**Pergunta:**Consegue se lembrar como executa determinada tarefa? É fácil a memorização?
 
 **No sistema:**Pela tamanha diferença entre a tela com e sem login, temos uma dificuldade de memorização tendo em vista que teremos que memorizar 2 telas diferentes, complicando ainda mais o entendimento e com isso a memorização dos mesmos.
 
@@ -138,7 +138,7 @@ Diz respeito a satisfação do usuário em usar os sites dos correios.
 <font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/),
 2024.</p></font>
 
-font size="2"><p style="text-align: center">Figura 06: Tela mostrando design da tela login</p></font>
+<font size="2"><p style="text-align: center">Figura 07: Tela mostrando design da tela login</p></font>
 
 <center>
 
@@ -149,6 +149,8 @@ font size="2"><p style="text-align: center">Figura 06: Tela mostrando design da 
 <font size="2"><p style="text-align: center">Fonte: [Correios](https://www.correios.com.br/),
 2024.</p></font>
 
+Para reforçar nossa conclusão entramos no trustpilot, um sistema onde as pessoas avaliam sites, nele 69% das avaliações são de 1 estrela reclamando de serviços fornecidos pelo site.
+
 ## Conclusão 
 Devido todas as metas estabelecidas e analizadas, verificamos que o site do correios seus maiores problemas são em relaçãoa design e responsividade como já listado anteriormente, em todos os aspectos o site apresenta contínuas falhas, como já listado anteriormente.
 
@@ -158,6 +160,7 @@ Devido todas as metas estabelecidas e analizadas, verificamos que o site do corr
 Interaction. 6. ed. John Wiley Sons, 2023. (Praise for Interaction Design).
 ISBN 9781119901099; 111990109X. Disponível em: [Interaction Design: Beyond Human-Computer Interaction, 6th Edition](https://www.wiley.com/en-us/Interaction+Design%3A+Beyond+Human-Computer+Interaction%2C+6th+Edition-p-9781119901099)
 > 3. Domínio Público. Metas de usabilidade. Repositório do Grupo Domínio Público da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/analise_de_requisitos/metas_de_usabilidade/. Acesso em: 12 de maio 2024.
+> 4. Pesquisa de satidfação do site dos correios <https://br.trustpilot.com/review/www.correios.com.br>
 
 ## Referências Bibliográficas
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
