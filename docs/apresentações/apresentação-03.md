@@ -12,9 +12,9 @@ Esta página tem como foco o vídeo de apresentação da etapa 03 do projeto. A 
 
 ## Bibliografia
 
-> 1. YouTube. Disponível em: [YouTube](https://youtube.com/kU4T5trd2uM). Acesso em: 13 de Maio de 2024.
+> 1. YouTube. Disponível em: [YouTube](https://youtu.be/WN_XigQCYec). Acesso em: 13 de Maio de 2024.
 
 ## Histórico de versões
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-`1.0` | 13/05/2024 | Criação do artefato | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []()
+`1.0` | 13/05/2024 | Criação do artefato | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika)
