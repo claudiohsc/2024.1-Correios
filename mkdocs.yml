@@ -37,6 +37,7 @@ nav:
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
       - Storyboard:
+        - Storyboards Elaborados: design_avaliacao/storyboards.md
         - Planejamento da Avaliação do Storyboard: design_avaliacao/planej_storyboard.md
 extra_css:
   - stylesheets/extra.css
