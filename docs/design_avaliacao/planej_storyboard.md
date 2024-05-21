@@ -21,7 +21,7 @@ Para a avaliação do sotryboard, será utilizado o framework DECIDE, elaborado 
 
 ### D - Definir
 
-O propósito desta avaliação é validar o storyboard do site dos Correios, garantindo que ele represente adequadamente a estrutura e o fluxo de interação previstos, além de atender às necessidades e expectativas dos usuários. O objetivo da análise será avaliar os seguintes pontos:
+O propósito desta avaliação é validar o storyboard do site dos Correios, garantindo que ele represente adequadamente a estrutura e o fluxo de interação previstos, além de atender às necessidades e expectativas dos usuários. O objetivo da análise será avaliar a apropriação de tecnologia pelos usuários, buscando entender o contexto que o sistema avaliado se insere, necessidades e objetivos do usuário e como ele costuma alcançá-los. Para isso, a avaliação buscará compreender os seguintes aspectos:
 
 - Histórias de são de fácil compreensão;
 - Ações executadas estão de acordo com as funcionalidades propostas;
