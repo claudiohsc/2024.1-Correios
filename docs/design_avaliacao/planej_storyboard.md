@@ -6,7 +6,7 @@ Storyboard é um exemplo de protótipo de baixa fidelidade e pode ser utilizado 
 
 ## Objetivo
 
-Esse artefato busca documentar um roteiro claro e detalhado para a avaliação do storyboard, seguindo as diretrizes do framework DECIDE. Serão identificados os aspectos-chave a serem avaliados, delineados os métodos e técnicas a serem empregados durante o processo de avaliação, e definidos os critérios de sucesso para a análise. Ademais, busca-se compreender a experiência do usuário, identificar possíveis problemas de usabilidade e propor soluções para otimizar a interface, contribuindo para o desenvolvimento de sistemas interativos mais intuitivos e eficientes.
+Esse artefato busca documentar um roteiro claro e detalhado para a avaliação do storyboard, seguindo as diretrizes do framework DECIDE. Serão identificados os aspectos-chave a serem avaliados, definindo os métodos e técnicas a serem empregados durante o processo de avaliação. Com essa avaliação, busca-se garantir que o storyboard represente adequadamente a estrutura e o fluxo de interação previstos, além de atender às necessidades e expectativas dos usuários.
 
 ## Metodologia
 
@@ -21,7 +21,7 @@ Para a avaliação do sotryboard, será utilizado o framework DECIDE, elaborado 
 
 ### D - Definir
 
-O propósito desta avaliação é validar o storyboard do site dos Correios, garantindo que ele represente adequadamente a estrutura e o fluxo de interação previstos, além de atender às necessidades e expectativas dos usuários. O objetivo da análise será avaliar a apropriação de tecnologia pelos usuários, buscando entender o contexto que o sistema avaliado se insere, necessidades e objetivos do usuário e como ele costuma alcançá-los. Para isso, a avaliação buscará compreender os seguintes aspectos:
+O objetivo da análise será avaliar a apropriação de tecnologia pelos usuários, buscando entender o contexto que o sistema avaliado se insere, necessidades e objetivos do usuário e como ele costuma alcançá-los. Para isso, a avaliação buscará compreender os seguintes aspectos:
 
 - Histórias de são de fácil compreensão;
 - Ações executadas estão de acordo com as funcionalidades propostas;
