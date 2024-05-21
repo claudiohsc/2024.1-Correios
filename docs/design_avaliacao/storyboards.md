@@ -38,7 +38,7 @@ Abaixo está representado o storyboard de cáçculo de preços e prazos, assim c
 - Sequência:
 - Satisfação final do usuário:
 
-<font size="2"><p style="text-align: center">Figura 1 - .</p></font>
+<font size="2"><p style="text-align: center">Figura 2 - .</p></font>
 
 <center>
 
@@ -56,7 +56,7 @@ Abaixo está representado o storyboard de receber encomendas, assim como seu con
 - Sequência:
 - Satisfação final do usuário:
 
-<font size="2"><p style="text-align: center">Figura 1 - .</p></font>
+<font size="2"><p style="text-align: center">Figura 3 - .</p></font>
 
 <center>
 
@@ -74,7 +74,7 @@ Abaixo está representado o storyboard de rastreamento de encomendas, assim como
 - Sequência:
 - Satisfação final do usuário:
 
-<font size="2"><p style="text-align: center">Figura 1 - .</p></font>
+<font size="2"><p style="text-align: center">Figura 4 - .</p></font>
 
 <center>
 
@@ -92,7 +92,7 @@ Abaixo está representado o storyboard da loja online, assim como seu contexto, 
 - Sequência:
 - Satisfação final do usuário:
 
-<font size="2"><p style="text-align: center">Figura 1 - .</p></font>
+<font size="2"><p style="text-align: center">Figura 5 - .</p></font>
 
 <center>
 
@@ -110,7 +110,7 @@ Abaixo está representado o storyboard de minhas importações, assim como seu c
 - Sequência:
 - Satisfação final do usuário:
 
-<font size="2"><p style="text-align: center">Figura 1 - .</p></font>
+<font size="2"><p style="text-align: center">Figura 6 - .</p></font>
 
 <center>
 
