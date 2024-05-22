@@ -50,9 +50,7 @@ Os avaliadores devem seguir algumas perguntas gerais para cada avaliação, send
 |6 | Qual a frequência que você necessita rastrear alguma encomenda? | Diariamente, Semanalmente, Mensalmente, Raramente, Nunca  |  
 |7 |Qual a frequência que você necessita enviar alguma encomenda?  | Diariamente, Semanalmente, Mensalmente, Raramente, Nunca   |  
 |8 | Você costuma realizar importações?  | Sim, Não  |  
-|9 |  |   |  
-|10 |  |   |  
-|11 |  |   |  
+
 
 
 
