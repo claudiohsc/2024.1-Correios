@@ -1,41 +1,27 @@
-# Planejamento do Relato dos resultados da avaliação do Storyboard
+# Planejamento da Avaliação da Análise de Tarefas
 
 ## Introdução
 
-Nesta página, será descrito o procedimento para relatar os resultados da avaliação do Storyboard. O principal objetivo é padronizar a estrutura e a disposição dos dados coletados durante as avaliações dos storyboards. O foco do documento a seguir é o planejamento desse relato, e não apresentar os resultados propriamente ditos. Os resultados serão apresentados em uma página separada.
+
+## Objetivo
+
 
 ## Metodologia
-O relato dos resultados terá como base o documento de [Planejamento da Avaliação dos Storyboards](), e também seguirá alguns tópicos propostos por Barbosa e Silva (2021, p.279)<sup><a href=#ref1>1</a></sup>, onde os avaliadores que devem relatar os resultados consolidados, costumam incluir:
 
-- Os objetivos e escopo da avaliação;
-- Método de avaliação empregado;
-- Informações dos participantes;
-- Sumário dos dados coletados;
-- Interpretação e análise dos dados;
-- Lista dos problemas encontrados;
-- Sugestões de melhoria;
-- Planejamento para o reprojeto.
+Para a avaliação do sotryboard, será utilizado o framework DECIDE, elaborado por Preece et al. (2002) para orientar o planejamento, a execução e a análise de uma avaliação de IHC. Esse framework abrange as seguintes etapas:
 
+- D Definir os objetivos da avaliação;
+- E Explorar as perguntas a serem respondidas;
+- C (Choose) Escolher os métodos de avaliação;
+- I Identificar questões práticas;
+- D Decidir como lidar com questões éticas;
+- E (Evaluate) Avaliar os dados.
 
-## Tópicos
+### D - Definir
 
-#### Os objetivos e escopo da avaliação
+### E - Explorar
 
-#### Método de avaliação empregado
-
-#### Informações dos participantes
-
-#### Sumário dos dados coletados
-
-#### Interpretação e análise dos dados
-
-#### Lista dos problemas encontrados
-
-#### Sugestões de melhoria
-
-#### Planejamento para o reprojeto.
-
-
+Os avaliadores devem elaborar perguntas específicas para cada objetivo, que deverão ser respondidas durante a avaliação. De acordo com os objetivos citados no tópico anterior, as perguntas elaboradas estão descritas na tablea 1.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
@@ -43,19 +29,45 @@ O relato dos resultados terá como base o documento de [Planejamento da Avaliaç
 
 |Pergunta | Resposta |
 |-|-|
-| | |
+| <p>Foi fácil compreender as histórias descritas no storyboard?</p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label>  |
+| <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
+| <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
+| <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
+### C - Escolher
+
+O método de avaliação que será utilizado para avaliar o storyboard será o método de investigação, sendo guiado pelo uso de entrevistas utilizando as perguntas definidas no tópico [explorar](#e---explorar). A escolha deste método se justifica pela sua capacidade de fornecer insights qualitativos e detalhados sobre a percepção e os objetivos dos usuários.
+
+### I - Identificar
+
+#### Recrutamento
+
+Para selecionar as pessoas que irão ser chamadas para a entrevista, será levado em conta o [perfil de usuário](../analise_de_requisitos/perfil_de_usuario/perfil_de_usuario.md) elaborado pelo grupo, de forma que as pessoas se encaixem nesse perfil. Será necessário também que todos os participantes estejam cientes e tenham aceitado o termo de consentimento, para que a entrevista esteja de acordo com os aspectos éticos.
+
+#### Preparação e uso de equipamentos necessários
+
+Serão ao todo 6 entrevistas, cada uma será guiada por um integrante do grupo e abordará o storyboard feito por esse integrante. Os entrevistadores que guiarem as entrevistas poderão fazer anotações dos comentários dos entrevistados de modo a documentar e registrar as críticas e comentários dos particiapantes.
+
+Equipamentos para a entrevista:
+
+- O storyboard;
+- Questionário;
+- Microsoft teams;
+- Termo de consentimento.
+
+#### Prazos
+
+### D - Decidir
+
+### E - Avaliar
+
+## Teste Piloto
 
 ## Bibliografia
-
-## Referências bibliográficas
-
-> <a id="ref1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
-
 
 ## Histórico de Versões
 
