@@ -70,6 +70,23 @@ Equipamentos para a entrevista:
 
 #### Prazos
 
+<font size="2"><p style="text-align: center">Tabela 2 - Conograma das avaliações dos storysboards.</p></font>
+
+<center>
+
+| Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
+| :---: | :---: |:----:  | :---: |:----:  |:----:  | 
+| Calcular preços e prazos de entrega | Cláudio | Renato Medeiros |16:00 - 16:30  |25/05/2024  | Presencial | 
+| Realizar compras na loja online | Elias | A definir |  |  | Presencial | 
+| Emitir certificados digitais | Gabriel B. Bertolazi | A definir |  |  | Presencial | 
+| Realizar pré-postagem | Gabriel F. J. Silva| A definir |  |  | Presencial | 
+| Gerenciar minhas importações| Pablo | A definir |  |  | Presencial  | 
+| Rastrear encomendas | Ricardo | A definir |  |  | Presencial | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
 ### D - Decidir
 
 Para garantir uma pesquisa íntegra e responsável, nos basearemos nos princípios éticos estabelecidos no documento [Aspectos Éticos](../analise_de_requisitos/aspectos-eticos.md). O termo de consentimento, elaborado na seção homônima, será utilizado para obter autorização dos participantes para as atividades necessárias à criação deste artefato. O respeito aos participantes é fundamental, tanto durante quanto após a pesquisa. Para mais detalhes sobre o processo de consentimento, consulte o documento referente à entrevista, onde todas as etapas do procedimento estão descritas minuciosamente.
@@ -86,13 +103,40 @@ Uma vez concluída essa etapa, os dados serão apresentados à equipe de desenvo
 
 ## Teste Piloto
 
+Antes de mergulharmos nas entrevistas com os usuários, um passo crucial nos aguarda: o teste piloto. Essa etapa meticulosa visa simular uma sessão de avaliação real, garantindo que tudo esteja funcionando perfeitamente para a coleta de dados valiosos.
+
+Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando surpresas durante as entrevistas reais. Analisaremos a eficácia do nosso planejamento, ajustando-o para garantir um fluxo suave e eficiente durante as avaliações. Asseguraremos que a avaliação forneça os dados precisos e relevantes para o nosso estudo, respondendo às nossas perguntas e objetivos. Avaliaremos a clareza e a objetividade da linguagem utilizada nas entrevistas, certificando-nos de que as perguntas sejam compreendidas de maneira inequívoca pelos participantes.
+Conforme Barbosa e Silva (2021, p. 276), o teste piloto vai além de um simples teste de ferramentas. Ele nos permite avaliar o próprio planejamento, garantindo que a avaliação produza os dados necessários para alcançarmos os objetivos do estudo.Durante o teste piloto, os avaliadores conduzirão uma simulação completa de uma sessão de avaliação, incluindo explicações, materiais e interação com os participantes.
+O cronograma passar essa etapa encontrase na Tabela 3 abaixo.
+
+<font size="2"><p style="text-align: center">Tabela 3 - Conograma do teste piloto.</p></font>
+
+<center>
+
+|    Data    | Horário de início e fim | Local            |     Avaliadores    |
+| :--------: | :---------------------: | ---------------- | ---------------------- |
+| --/05/2024 | --:-- - --:-- |FGA - UnB | [Ricardo Augusto][RicardoGH] e [Pablo S. Costa][PabloGH] |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+## Referências Bibliográficas
+
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+
 ## Bibliografia
+
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> 2. 2023.2-Dominio-Publico. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/>Acesso em 22 de maio de 2024.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 18/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | |
+| `1.0`  | 18/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] e [Pablo S. Costa][PabloGH] | |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
