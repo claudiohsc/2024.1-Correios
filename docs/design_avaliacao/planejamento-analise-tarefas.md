@@ -108,6 +108,13 @@ Equipamentos para a entrevista:
 
 ### E - Avaliar
 
+Após a coleta de dados, os resultados serão analisados para identificar padrões e tendências nas respostas dos participantes, fornecendo insights sobre problemas nas tarefas e sugestões de melhorias. 
+
+Será avaliada também a confiabilidade dos dados e a validade externa do estudo, verificando se os resultados representam os usuários reais do site e podem ser generalizados além da amostra analisada.
+
+Os resultados serão apresentados mais tarde em um relatório detalhado, incluindo análise, recomendações de melhorias e conclusões relevantes para o avanço do projeto proposto pelo grupo.
+
+
 ## Teste Piloto
 
 Antes da entrevista com os usuários para a análise de tarefas, dois avaliadores conduzirão um teste piloto para garantir o funcionamento das ferramentas, verificar a eficácia do planejamento e assegurar que a avaliação fornecerá os dados necessários. Assim como, o teste também verificará a clareza e objetividade das perguntas da entrevista. O planejamento do teste piloto está na Tabela X.
@@ -115,12 +122,12 @@ Antes da entrevista com os usuários para a análise de tarefas, dois avaliadore
 <center>
 
 |    Data    | Horário de início e fim | Local            |     Avaliadores    |
-| :--------: | :---------------------: | ---------------- | ---------------------- |
+| :--------: | :---------------------: | :----------------: | :----------------------: |
 | 23/05/2024 | 12:30 - 12:45 |FGA - UnB | Claudio Henrique e Gabriel Fernando |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Cláudio Henrique][ClaudioGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] , 2024.</p></font>
 
 ## Referencias Bibliográficas
 
