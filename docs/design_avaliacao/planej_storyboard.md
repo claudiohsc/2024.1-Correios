@@ -76,12 +76,12 @@ Equipamentos para a entrevista:
 
 | Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
 | :---: | :---: |:----:  | :---: |:----:  |:----:  | 
-| Calcular preços e prazos de entrega | Cláudio | Renato Medeiros |16:00 - 16:30  |25/05/2024  | Presencial | 
-| Realizar compras na loja online | Elias | A definir |  |  | Presencial | 
-| Emitir certificados digitais | Gabriel B. Bertolazi | A definir |  |  | Presencial | 
-| Realizar pré-postagem | Gabriel F. J. Silva| A definir |  |  | Presencial | 
-| Gerenciar minhas importações| Pablo | A definir |  |  | Presencial  | 
-| Rastrear encomendas | Ricardo | A definir |  |  | Presencial | 
+| Calcular preços e prazos de entrega | [Cláudio][ClaudioGH] | Renato Medeiros |16:00 - 16:30  |25/05/2024  | A definir | 
+| Realizar compras na loja online | [Elias][EliasGH] | A definir |  |  | A definir | 
+| Emitir certificados digitais | [Gabriel B. Bertolazi][GabrielBGH] | A definir |  |  | A definir | 
+| Realizar pré-postagem | [Gabriel F. J. Silva][GabrielFGH] | A definir |  |  | A definir | 
+| Gerenciar minhas importações| [Pablo S. Costa][PabloGH] | A definir |  |  | A definir  | 
+| Rastrear encomendas | [Ricardo][RicardoGH] | A definir |  |  | A definir | 
 
 </center>
 
