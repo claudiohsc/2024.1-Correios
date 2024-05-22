@@ -55,10 +55,6 @@ Os avaliadores devem seguir algumas perguntas gerais para cada avaliação, send
 | **11** | Como você avalia a sua satisfação com o processo atual descrito no HTA? | Aberta |
 
 
-
-
-
-
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
@@ -89,7 +85,11 @@ Equipamentos para a entrevista:
 
 #### Prazos
 
+Abaixo, na tabela 3, estão descritas as informações sobre o planejamento das entrevistas.
+
 <center>
+
+<font size="2"><p style="text-align: center">Tabela 3 - Tabela de Planejamento para realização das entrevistas.</p></font>
 
 | Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
 | :----: | :-----------: | :----------: | :-----: |:----:| :----:| 
@@ -117,9 +117,11 @@ Os resultados serão apresentados mais tarde em um relatório detalhado, incluin
 
 ## Teste Piloto
 
-Antes da entrevista com os usuários para a análise de tarefas, dois avaliadores conduzirão um teste piloto para garantir o funcionamento das ferramentas, verificar a eficácia do planejamento e assegurar que a avaliação fornecerá os dados necessários. Assim como, o teste também verificará a clareza e objetividade das perguntas da entrevista. O planejamento do teste piloto está na Tabela X.
+Antes da entrevista com os usuários para a análise de tarefas, dois avaliadores conduzirão um teste piloto para garantir o funcionamento das ferramentas, verificar a eficácia do planejamento e assegurar que a avaliação fornecerá os dados necessários. Assim como, o teste também verificará a clareza e objetividade das perguntas da entrevista. O planejamento do teste piloto está na Tabela 4.
 
 <center>
+
+<font size="2"><p style="text-align: center">Tabela 4 - Planejamento do Teste Piloto.</p></font>
 
 |    Data    | Horário de início e fim | Local            |     Avaliadores    |
 | :--------: | :---------------------: | :----------------: | :----------------------: |
