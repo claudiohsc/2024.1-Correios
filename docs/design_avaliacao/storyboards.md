@@ -4,7 +4,7 @@
 
 Um storyboard é uma ferramenta crucial para o design e desenvolvimento de interfaces e experiências de usuário. Ele consiste em uma série de quadros que ilustram a sequência de ações e interações que um usuário realizará ao navegar por um sistema ou aplicativo. Ao visualizar essas interações de forma sequencial, a equipe pode refinar o design, garantir uma experiência intuitiva e eficiente, e alinhar a visão do projeto com as expectativas dos usuários finais e stakeholders.
 
-Os storyboards elaborados pelo grupo possuíam os seguintes elementos:
+Os storyboards elaborados pelo grupo possuem os seguintes elementos:
 
 - Contexto;
 - Sequência;
@@ -122,17 +122,16 @@ Abaixo está representado o storyboard de minhas importações, assim como seu c
 
 ## Bibliografia
 
-> 1. GitHub. Disponível em: [https://docs.github.com/pt](https://docs.github.com/pt). Acesso em: 29 de mar. de 2024.
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 >
-> 2. Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). Acesso em: 29 de mar. de 2024.
+> 2. 2023.2-Dominio-Publico. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/>Acesso em 22 de maio de 2024.
 >
-
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 29/03/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  | [Claudio Henrique](https://github.com/claudiohsc)   |
+| `1.0`  | 20/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] e [Pablo S. Costa][PabloGH]  |  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
