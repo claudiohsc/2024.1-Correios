@@ -4,7 +4,7 @@ O planejamento do relato de resultados tem como objetivo ser um guia para o docu
 
 ## Metodologia
 
-Faremos uma avaliação de intersujeito ou interparticipante de acordo com (Barbosa e Silva),para a consolidação e análise dos dados e informações coletados pela previsão dos avaliadores ou pelas experiências dos participantes observados. O documento a ser concebido pela equipe deve conter os seguintes tópicos retirados do livro IHC de Barboa e Silva, com um pequeno complemento do tópico de sugestão e feedback dos usuários:
+Faremos uma avaliação de intersujeito ou interparticipante de acordo com Barbosa e Silva(2021, p.279),para a consolidação e análise dos dados e informações coletados pela previsão dos avaliadores ou pelas experiências dos participantes observados. O documento a ser concebido pela equipe deve conter os seguintes tópicos retirados do livro IHC de Barboa e Silva, com um pequeno complemento do tópico de sugestão e feedback dos usuários:
 
 * Objetivo da Avaliação;
 * Método empregado;
@@ -16,9 +16,19 @@ Faremos uma avaliação de intersujeito ou interparticipante de acordo com (Barb
 * Sugestão e feedback dos usuários.
 
 
+## Tópicos
+
+Os tópicos da avaliação da análise de tarefas deverá ser descrito e estruturado da de acordo com os tópicos apresentados abaixo:
+
+
 ## Objetivo da Avaliação
 
+Neste tóipico o integrante responsável deverá descrever quais os motivos e intenções da realização da avaliação que esta sendo feita, e os objetivos e aspirações do grupo com os resultados obtidos.
+
 ## Método empregado
+
+Deverá estar descrito qual a metodologia empregada na avaliação, ou seja, de que forma os dados foram coletados e como a avaliação se aconteceu. Neste caso será utilizada a técnica de entrevista e observação descrita no livro IHC de Barbosa e Silva, o responsável pelo documento deverá observar e seguir o cronograma planejado que é apresentado abaixo na tabela 01 e posteriormente adicionar o cronograma executado apresentando como aconteceu a entrevista:
+
 
 ## Número e o perfil dos usuários e avaliadores
 
@@ -37,6 +47,7 @@ Faremos uma avaliação de intersujeito ou interparticipante de acordo com (Barb
 
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. 
 > 2. Planejamento do relato de resultados. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas-dad/planejamento-relato-resultados-at/#referencias-bibliograficas>. Acesso em: 22 maio 2024.
+> 3. Planejamento do relato de resultados. Repositório do Grupo Lichess da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <https://interacao-humano-computador.github.io/2022.2-Lichess/design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas/>. Acesso em: 22 maio 2024.
 
 ## Histórico de Versão
 
