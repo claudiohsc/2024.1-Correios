@@ -70,6 +70,8 @@ Equipamentos para a entrevista:
 
 #### Prazos
 
+Para estabelecer os prazos das avaliações dos storyboards, foi elaborado um cronograma detalhado, disponível na Tabela 2. Este cronograma foi cuidadosamente planejado para garantir que todas as etapas do processo de avaliação sejam realizadas de maneira eficiente e dentro do tempo estipulado. A consulta a esta tabela permitirá aos envolvidos acompanhar e cumprir os prazos definidos para cada fase da avaliação.
+
 <font size="2"><p style="text-align: center">Tabela 2 - Conograma das avaliações dos storysboards.</p></font>
 
 <center>
