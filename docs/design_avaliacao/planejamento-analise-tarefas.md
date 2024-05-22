@@ -46,9 +46,9 @@ Os avaliadores devem seguir algumas perguntas gerais para cada avaliação, send
 |3 | Qual sua ocupação?	  | Questão Aberta  |  
 |4 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Muito boa, Boa, Média, Ruim, Muito ruim  |  
 |5 | Você já utilizou algum site de rastreio e envio de encomendas? | Sim, Não  |  
-|6 |  |   |  
-|7 |  |   |  
-|8 |  |   |  
+|6 | Qual a frequência que você necessita rastrear alguma encomenda? | Diariamente, Semanalmente, Mensalmente, Raramente, Nunca  |  
+|7 |Qual a frequência que você necessita enviar alguma encomenda?  | Diariamente, Semanalmente, Mensalmente, Raramente, Nunca   |  
+|8 | Você costuma realizar importações?  | Sim, Não  |  
 |9 |  |   |  
 |10 |  |   |  
 |11 |  |   |  
