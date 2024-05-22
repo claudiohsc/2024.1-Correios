@@ -42,14 +42,17 @@ Os avaliadores devem seguir algumas perguntas gerais para cada avaliação, send
 
 | ID | Pergunta | Resposta |
 |:---:|:---:|:----:|
-| 1 | Qual seu nome completo? |Questão Aberta|
-|2 |  Qual a sua idade? | Questão Aberta  |  
-|3 | Qual sua ocupação?	  | Questão Aberta  |  
-|4 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Muito boa, Boa, Média, Ruim, Muito ruim  |  
-|5 | Você já utilizou algum site de rastreio e envio de encomendas? | Sim, Não  |  
-|6 | Qual a frequência que você necessita rastrear alguma encomenda? | Diariamente, Semanalmente, Mensalmente, Raramente, Nunca  |  
-|7 |Qual a frequência que você necessita enviar alguma encomenda?  | Diariamente, Semanalmente, Mensalmente, Raramente, Nunca   |  
-|8 | Você costuma realizar importações?  | Sim, Não  |  
+| **1** | Qual seu nome completo? | Aberta|
+| **2** | Qual a sua idade? | Aberta  |  
+| **3** | Qual sua ocupação?	  | Aberta  |  
+| **4** | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Fechada: Muito boa, Boa, Média, Ruim, Muito ruim |
+| **5** | O diagrama de tarefas reflete corretamente suas expectativas de como o processo deveria ser? | Aberta |
+| **6** | Existem etapas no processo que você considera particularmente demoradas ou ineficientes? | Aberta |  
+| **7** | Como você acha que o processo poderia ser otimizado? | Aberta |
+| **8** | Há alguma parte da tarefa que você acha especialmente difícil ou confusa | Aberta |
+| **9** | Qual a frequência que você necessita realizar a tarefa?  | Fechada: Diariamente, Semanalmente, Mensalmente, Raramente, Nunca |
+| **10** | Se você pudesse mudar qualquer coisa no processo da tarefa principal, o que mudaria? | Aberta |
+| **11** | Como você avalia a sua satisfação com o processo atual descrito no HTA? | Aberta |
 
 
 
