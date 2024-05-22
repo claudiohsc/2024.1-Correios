@@ -142,8 +142,6 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
-*EM BREVE...*
-
 ## Entrega 4 
 
 ### Planejado
