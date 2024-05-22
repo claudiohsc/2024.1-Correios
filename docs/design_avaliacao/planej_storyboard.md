@@ -65,12 +65,14 @@ Equipamentos para a entrevista:
 
 - O storyboard;
 - Questionário;
-- Microsoft teams;
-- Termo de consentimento.
+- Termo de consentimento;
+- Equipamento de filmagem.
 
 #### Prazos
 
 ### D - Decidir
+
+Para garantir uma pesquisa íntegra e responsável, nos basearemos nos princípios éticos estabelecidos no documento [Aspectos Éticos](../analise_de_requisitos/aspectos-eticos.md). O termo de consentimento, elaborado na seção homônima, será utilizado para obter autorização dos participantes para as atividades necessárias à criação deste artefato. O respeito aos participantes é fundamental, tanto durante quanto após a pesquisa. Para mais detalhes sobre o processo de consentimento, consulte o documento referente à entrevista, onde todas as etapas do procedimento estão descritas minuciosamente.
 
 ### E - Avaliar
 
@@ -82,7 +84,7 @@ Equipamentos para a entrevista:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 18/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH]  | |
+| `1.0`  | 18/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] & [Pablo S. Costa][PabloGH] | |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
