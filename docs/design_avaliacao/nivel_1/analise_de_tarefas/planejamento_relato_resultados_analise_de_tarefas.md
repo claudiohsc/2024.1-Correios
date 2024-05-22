@@ -27,22 +27,43 @@ Neste tóipico o integrante responsável deverá descrever quais os motivos e in
 
 ## Método empregado
 
-Deverá estar descrito qual a metodologia e como foi empregada na avaliação, ou seja, de que forma os dados foram coletados e como a avaliação aconteceu. No caso do nosso grupo será utilizada a técnica de entrevista e observação descrita no livro IHC de Barbosa e Silva, o responsável pelo documento deverá observar e seguir o cronograma planejado que é apresentado abaixo na tabela 01 e posteriormente adicionar o cronograma executado apresentando como aconteceu a entrevista.
+Deverá estar descrito qual a metodologia e como foi empregada na avaliação, ou seja, de que forma os dados foram coletados e como a avaliação aconteceu. No caso do nosso grupo será utilizada a técnica de entrevista e observação descrita no livro IHC de Barbosa e Silva, o responsável pelo documento deverá observar e seguir o cronograma planejado que é apresentado abaixo na figura 01 e posteriormente adicionar o cronograma executado apresentando como aconteceu a entrevista.
 
+<font size="2"><p style="text-align: center">Figura 01 - Tabela planejamento das reuniões</p></font>
 
+| **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
+|--|--|--|--|--|--|
+|[Cláudio][ClaudioGH]|A definir|xx:xx|xx:xx|xx/05/24|A definir|
+|[Elias F. Oliveira][EliasGH]|A definir|xx:xx|xx:xx|xx/05/24|A definir|
+|[Gabriel Basto][GabrielbGH]|A definir|xx:xx|xx:xx|xx/05/24|A definir|
+|[Gabriel Fernando][GabrielfGH]|A definir|xx:xx|xx:xx|xx/05/24|A definir|
+|[Pablo][PabloGH]|A definir|xx:xx|xx:xx|xx/05/24|A definir|
+|[Ricardo][RicardoGH]|A definir|xx:xx|xx:xx|xx/05/24|A definir|
 
 
 ## Número e o perfil dos usuários e avaliadores
 
+Para se ter uma melhor compreensão dos participantes deve-se declarar quantidade dos participantes da entrevista detalhando melhormente cada um se possível descrevendo o perfil deles.
+
 ## Sumário dos dados coletados
 
-## relato da interpretação e análise dos dados
+O participante avaliador deverá apresentar os dados no documento elucidando de maneira simples e clara para se extrair e entregar uma melhor compreensão dos dados e informações obtidos na avaliação.
+
+## Relato da interpretação e análise dos dados
+
+O entrevistador deve analisar e interpretar cuidadosamente os dados e informações obtidos apartir da entrevista, elucidando sobre os principais padrões e tendências que detectar nas respostas dos participantes e retirar informações relevantes para o objetivo da avaliação.
 
 ## Problemas encontrados
 
+Neste tópico, o entrevistador precisará elencar de maneira ordenada e de fácil entendimento os principais obstáculos e falhas que o usuário enfrentou ao utilizar a funcionalidade que está em foco.
+
 ## Planejamento para o reprojeto da aplicação
 
+Tendo como base os resultados levantados apartir dos dados e informações obtidos nas entrevistas, deve-se realizar um reprojeto mantendo a estrutura do original e efetuando pequenas mudanças que levem em consideração as mudanças sugeridas e problemas encontrados para a realização de tais modificações no projeto.
+
 ## Sugestão e feedback dos usuários
+
+É de extrema importância a documentação ser feita de maneira cautelosa para que se tome nota de todos os passos do usuário e capte suas percepções e feedbacks positivos e negativos. Com isso o entrevistador deve sugerir mudanças para atender as espectativas do usuário e extinguir os problemas encontrados na avaliação, sendo feitas alterações por exemplo de: remodelagem de design, melhorias na interface e em funcionalidades.
 
 
 ## Bibliografia
@@ -55,4 +76,11 @@ Deverá estar descrito qual a metodologia e como foi empregada na avaliação, o
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 22/05/2024 | Criação do documento| [Elias F. Oliveira](https://github.com/EliasOliver21) e [Gabriel Basto](https://github.com/Bertolazi) |
+|`1.0`| 22/05/2024 | Criação do documento| [Elias F. Oliveira](https://github.com/EliasOliver21) e [Gabriel Basto](https://github.com/Bertolazi) | [][] |
+
+[GabrielfGH]: https://github.com/MMcLovin
+[GabrielbGH]: https://github.com/https://github.com/Bertolazi
+[ClaudioGH]: https://github.com/claudiohsc
+[EliasGH]: https://www.github.com/EliasOliver21
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
