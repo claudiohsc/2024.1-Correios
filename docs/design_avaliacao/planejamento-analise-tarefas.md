@@ -41,17 +41,17 @@ Os avaliadores devem seguir algumas perguntas gerais para cada avaliação, send
 
 | ID | Pergunta | Resposta |
 |:---:|:---:|:----:|
-| 1 | Qual seu nome completo? |Questão Aberta
- |
- |  |   |   |
- |  |   |   |
- |  |   |   |
- |  |   |   |
- |  |   |   |
- |  |   |   |
- |  |   |   |
- |  |   |   |
- |  |   |   |
+| 1 | Qual seu nome completo? |Questão Aberta|
+|2 |  Qual a sua idade? | Questão Aberta  |  
+|3 | Qual sua ocupação?	  | Questão Aberta  |  
+|4 | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Muito boa, Boa, Média, Ruim, Muito ruim  |  
+|5 | Você já utilizou algum site de rastreio e envio de encomendas? | Sim, Não  |  
+|6 |  |   |  
+|7 |  |   |  
+|8 |  |   |  
+|9 |  |   |  
+|10 |  |   |  
+|11 |  |   |  
 
 
 
@@ -59,7 +59,7 @@ Os avaliadores devem seguir algumas perguntas gerais para cada avaliação, send
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
 ### C - Escolher
 
@@ -107,7 +107,7 @@ Antes da entrevista com os usuários para a análise de tarefas, dois avaliadore
 
 |    Data    | Horário de início e fim | Local            |     Avaliadores    |
 | :--------: | :---------------------: | ---------------- | ---------------------- |
-| 24/05/2024 | 13:00 - 13:15 |FGA - UnB | Claudio Henrique e Gabriel Fernando |
+| 23/05/2024 | 12:30 - 12:45 |FGA - UnB | Claudio Henrique e Gabriel Fernando |
 
 ## Bibliografia
 > 1. Planejamento da Avaliação do Site. **Nota Legal**. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento_analise_tarefas/>. Acesso em: 22 de maio de 2024.
@@ -119,7 +119,7 @@ Antes da entrevista com os usuários para a análise de tarefas, dois avaliadore
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 21/05/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] e [Cláudio Henrique][ClaudioGH] | |
+| `1.0`  | 21/05/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
