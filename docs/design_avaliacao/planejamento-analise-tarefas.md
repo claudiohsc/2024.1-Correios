@@ -1,25 +1,12 @@
-# Planejamento da Avaliação do Storyboard
+# Planejamento do Relato dos resultados da avaliação do Storyboard
 
 ## Introdução
 
-
-## Objetivo
-
+Nesta página, será descrito o procedimento para relatar os resultados da avaliação do Storyboard. O principal objetivo é estabelecer a estrutura e a disposição dos dados coletados durante a avaliação dos storyboards, assim padronizando .O foco do documento a seguir é o planejamento desse relato, e não apresentar os resultados propriamente ditos. Os resultados serão apresentados em uma página separada.
 
 ## Metodologia
 
-Para a avaliação do sotryboard, será utilizado o framework DECIDE, elaborado por Preece et al. (2002) para orientar o planejamento, a execução e a análise de uma avaliação de IHC. Esse framework abrange as seguintes etapas:
-
-- D Definir os objetivos da avaliação;
-- E Explorar as perguntas a serem respondidas;
-- C (Choose) Escolher os métodos de avaliação;
-- I Identificar questões práticas;
-- D Decidir como lidar com questões éticas;
-- E (Evaluate) Avaliar os dados.
-
-### D - Definir
-
-### E - Explorar
+De acordo com Barbosa e Silva (2021, p.279)
 
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
@@ -34,21 +21,6 @@ Para a avaliação do sotryboard, será utilizado o framework DECIDE, elaborado 
 
 <font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
 
-### C - Escolher
-
-### I - Identificar
-
-#### Recrutamento
-
-#### Preparação e uso de equipamentos necessários
-
-#### Prazos
-
-### D - Decidir
-
-### E - Avaliar
-
-## Teste Piloto
 
 ## Bibliografia
 
