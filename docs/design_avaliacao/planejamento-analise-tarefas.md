@@ -18,7 +18,7 @@ Para a avaliação da análise de tarefas, será utilizado o framework DECIDE, e
 | C | (Choose) Escolher os métodos de avaliação |
 | I | Identificar questões práticas |
 | D | Decidir como lidar com questões éticas |
-| E | (Evaluate) Avaliar os dados. |
+| E | (Evaluate)  interpretar e apresentar os dados. |
 
 </center>
 
@@ -30,6 +30,7 @@ O objetivo desta avaliação é coletar informações dos usuários, sobre as su
 
 - Apropriação da tecnologia pelos usuários
 - Problemas na interação com as tarefas
+- comparar ideias e alternativas de design
 
 ### E - Explorar
 
@@ -63,8 +64,7 @@ Os avaliadores devem seguir algumas perguntas gerais para cada avaliação, send
 
 ### C - Escolher
 
-O método de avaliação que será utilizado para avaliar as tarefas será o método de investigação, sendo guiado pelo uso de entrevistas utilizando as perguntas definidas no tópico [explorar](#e---explorar) e também. Em geral, os métodos de avaliação através de investigação não exigem que os
-usuários utilizem um sistema interativo durante a coleta de dados. No entanto, o uso de um sistema ou de
+O método de avaliação que será utilizado para avaliar as tarefas será o método de investigação, sendo guiado pelo uso de entrevistas utilizando as perguntas definidas no tópico [explorar](#e---explorar), onde também será usado como material de apoio os artefatos previamente produzidos
 materiais de apoio, como imagens, cenários e outros tipos de artefatos, pode contribuir para a investigação,
 ajudando os usuários a se lembrarem de suas experiências e expectativas e também a manterem o foco nas
 questões de interesse.
@@ -77,7 +77,7 @@ Para selecionar as pessoas que irão ser chamadas para a entrevista, será levad
 
 #### Preparação e uso de equipamentos necessários
 
-Serão ao todo 6 entrevistas, cada entrevista guiada por um integrante do grupo que abordará a tarefa correspondente do HTA de sua autoria. Os entrevistadores que guiarem as entrevistas poderão fazer anotações dos comentários dos entrevistados de modo a documentar e registrar as críticas e comentários dos particiapantes.
+Serão ao todo 6 entrevistas, cada entrevista será guiada por um integrante do grupo que abordará a tarefa correspondente ao respectivo HTA de sua autoria. Os entrevistadores que guiarem as entrevistas poderão fazer anotações dos comentários dos entrevistados de modo a documentar e registrar as críticas e comentários dos particiapantes.
 
 Equipamentos para a entrevista:
 
@@ -88,14 +88,20 @@ Equipamentos para a entrevista:
 
 #### Prazos
 
+<center>
+
 | Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
-| :---: | :---: |:----:  | :---: |:----:  |:----:  | 
-| Calcular preços e prazos de entrega | Cláudio | Renato Medeiros |16:00 - 16:30  |25/05/2024  | Presencial | 
-| Realizar compras na loja online | Elias | A definir |  |  | Presencial | 
-| Emitir certificados digitais | Gabriel B. Bertolazi | A definir |  |  | Presencial | 
-| Realizar pré-postagem | Gabriel F. J. Silva| A definir |  |  | Presencial | 
-| Gerenciar minhas importações| Pablo | A definir |  |  | Presencial  | 
-| Rastrear encomendas | Ricardo | A definir |  |  | Presencial | 
+| :----: | :-----------: | :----------: | :-----: |:----:| :----:| 
+| **Calcular preços e prazos de entrega** | Cláudio | Renato Medeiros |16:00 - 16:30  | 25/05/2024  | Presencial | 
+| **Realizar compras na loja online** | Elias | A definir |  |  | Presencial | 
+| **Emitir certificados digitais** | Gabriel B. Bertolazi | Gabriel bevilaqua | 20:00 - 20:30 | 27/05/2024 | Presencial | 
+| **Realizar pré-postagem** | Gabriel F. J. Silva| A definir |  |  | Presencial | 
+| **Gerenciar minhas importações**| Pablo | A definir |  |  | Presencial  | 
+| **Rastrear encomendas** | Ricardo | A definir |  |  | Presencial | 
+
+<font size="2"><p style="text-align: center">Fonte: [Cláudio Henrique][ClaudioGH] e [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
+</center>
 
 ### D - Decidir
 
@@ -105,14 +111,24 @@ Equipamentos para a entrevista:
 
 Antes da entrevista com os usuários para a análise de tarefas, dois avaliadores conduzirão um teste piloto para garantir o funcionamento das ferramentas, verificar a eficácia do planejamento e assegurar que a avaliação fornecerá os dados necessários. Assim como, o teste também verificará a clareza e objetividade das perguntas da entrevista. O planejamento do teste piloto está na Tabela X.
 
+<center>
+
 |    Data    | Horário de início e fim | Local            |     Avaliadores    |
 | :--------: | :---------------------: | ---------------- | ---------------------- |
 | 23/05/2024 | 12:30 - 12:45 |FGA - UnB | Claudio Henrique e Gabriel Fernando |
 
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Cláudio Henrique][ClaudioGH], 2024.</p></font>
+
+## Referencias Bibliográficas
+
+> <a id="ref2">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+
 ## Bibliografia
 > 1. Planejamento da Avaliação do Site. **Nota Legal**. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento_analise_tarefas/>. Acesso em: 22 de maio de 2024.
 
-> <a id="ref2">2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
 
 ## Histórico de Versões
