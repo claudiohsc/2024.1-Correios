@@ -5,14 +5,14 @@
 
 ## Metodologia
 
-Para a avaliação da análise de tarefas, será utilizado o framework DECIDE, elaborado por Preece et al. (2002) para orientar o planejamento, a execução e a análise de uma avaliação de IHC, já o modelo de análise de tarefas a avaliado será a [Análise Hierárquica de Tarefas (HTA)](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/hta/). O respectivo framework abrange as seguintes etapas:
+Para a avaliação da análise de tarefas, será utilizado o framework DECIDE, elaborado por Preece et al. (2002) para orientar o planejamento, a execução e a análise de uma avaliação de IHC, já o modelo de análise de tarefas a ser avaliado será a [Análise Hierárquica de Tarefas (HTA)](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/hta/). O respectivo framework abrange as seguintes etapas:
 
 <font size="2"><p style="text-align: center">Tabela 1 - framework DECIDE.</p></font>
 
 <center>
 
 | Letra | Definição |
-| | |
+|:----: |:----: |
 | D | Definir os objetivos da avaliação |
 | E | Explorar as perguntas a serem respondidas |
 | C | (Choose) Escolher os métodos de avaliação |
@@ -26,6 +26,11 @@ Para a avaliação da análise de tarefas, será utilizado o framework DECIDE, e
 
 ### D - Definir
 
+O objetivo desta avaliação é coletar informações dos usuários, sobre as suas interações com as tarefas e identificar problemas nos fluxos de cada funcionalidade que possam afetar negativamente a experiência de uso. Serão considerados critérios como usabilidade, experiência do usuário, acessibilidade e comunicabilidade. Um planejamento adequado é essencial para evitar desperdício de tempo e recursos financeiros. A nossa avaliação abordará principalmente:
+
+- Apropriação da tecnologia pelos usuários
+- Problemas na interação com as tarefas
+
 ### E - Explorar
 
 Os avaliadores devem seguir algumas perguntas gerais para cada avaliação, sendo possível realizar pequenas adaptações conforme a tarefa em análise. O roteiro de perguntas da entrevista começa pela identificação do usuário e prossegue para os tópicos relacionados às tarefas analisadas, conforme na tabela 2.
@@ -34,9 +39,23 @@ Os avaliadores devem seguir algumas perguntas gerais para cada avaliação, send
 
 <center>
 
-|Pergunta | Resposta |
-|-|-|
-| Qual a sua idade? | |
+| ID | Pergunta | Resposta |
+|:---:|:---:|:----:|
+| 1 | Qual seu nome completo? |Questão Aberta
+ |
+ |  |   |   |
+ |  |   |   |
+ |  |   |   |
+ |  |   |   |
+ |  |   |   |
+ |  |   |   |
+ |  |   |   |
+ |  |   |   |
+ |  |   |   |
+
+
+
+
 
 </center>
 
@@ -62,7 +81,7 @@ Serão ao todo 6 entrevistas, cada entrevista guiada por um integrante do grupo 
 
 Equipamentos para a entrevista:
 
-- HTA;
+- Diagrama HTA;
 - Roteiro de perguntas;
 - Câmera para gravar o processo;
 - Termo de consentimento.
@@ -70,13 +89,13 @@ Equipamentos para a entrevista:
 #### Prazos
 
 | Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
-|  |  |  |  |  |  | 
-| Calcular preços e prazos de entrega | Cláudio | A definir |  |  |  | 
-| Realizar compras na loja online | Elias | A definir |  |  |  | 
-| Emitir certificados digitais | Gabriel B. Bertolazi | A definir |  |  |  | 
-| Realizar pré-postagem | Gabriel F. J. Silva| A definir |  |  |  | 
-| Gerenciar minhas importações| Pablo | A definir |  |  |  | 
-| Rastrear encomendas | Ricardo | A definir |  |  |  | 
+| :---: | :---: |:----:  | :---: |:----:  |:----:  | 
+| Calcular preços e prazos de entrega | Cláudio | Renato Medeiros |16:00 - 16:30  |25/05/2024  | Presencial | 
+| Realizar compras na loja online | Elias | A definir |  |  | Presencial | 
+| Emitir certificados digitais | Gabriel B. Bertolazi | A definir |  |  | Presencial | 
+| Realizar pré-postagem | Gabriel F. J. Silva| A definir |  |  | Presencial | 
+| Gerenciar minhas importações| Pablo | A definir |  |  | Presencial  | 
+| Rastrear encomendas | Ricardo | A definir |  |  | Presencial | 
 
 ### D - Decidir
 
@@ -84,8 +103,17 @@ Equipamentos para a entrevista:
 
 ## Teste Piloto
 
+Antes da entrevista com os usuários para a análise de tarefas, dois avaliadores conduzirão um teste piloto para garantir o funcionamento das ferramentas, verificar a eficácia do planejamento e assegurar que a avaliação fornecerá os dados necessários. Assim como, o teste também verificará a clareza e objetividade das perguntas da entrevista. O planejamento do teste piloto está na Tabela X.
+
+|    Data    | Horário de início e fim | Local            |     Avaliadores    |
+| :--------: | :---------------------: | ---------------- | ---------------------- |
+| 24/05/2024 | 13:00 - 13:15 |FGA - UnB | Claudio Henrique e Gabriel Fernando |
+
 ## Bibliografia
-> 1. Planejamento da Avaliação do Site.** Nota Legal**. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento_analise_tarefas/>. Acesso em: 22 de maio de 2024.
+> 1. Planejamento da Avaliação do Site. **Nota Legal**. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento_analise_tarefas/>. Acesso em: 22 de maio de 2024.
+
+> <a id="ref2">2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+
 
 ## Histórico de Versões
 
