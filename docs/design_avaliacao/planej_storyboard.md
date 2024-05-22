@@ -76,6 +76,14 @@ Para garantir uma pesquisa íntegra e responsável, nos basearemos nos princípi
 
 ### E - Avaliar
 
+Após a realização da avaliação, os dados serão documentados e tratados, levando em consideração o contexto em que foram produzidos. Avaliaremos se esses dados possuem alto grau de confiabilidade e se podem ser generalizados para representar a população de usuários do site.
+
+O processo de documentação e tratamento dos dados envolve registrar problemas e dificuldades encontrados durante a interação com o site. Esses problemas podem incluir questões de usabilidade, funcionalidades ausentes e problemas de desempenho. Serão anotadas as descrições dos problemas, sua classificação, sugestões de melhoria e o feedback do usuário.
+
+Ao final das entrevistas, serão documentadas as observações gerais relacionadas à entrevista realizada. Essas observações podem fornecer insights valiosos para o desenvolvimento do projeto.
+
+Uma vez concluída essa etapa, os dados serão apresentados à equipe de desenvolvimento, buscando obter o máximo de informações relevantes para o desenvolvimento do projeto.
+
 ## Teste Piloto
 
 ## Bibliografia
