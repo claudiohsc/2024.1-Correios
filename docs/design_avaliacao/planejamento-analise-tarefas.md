@@ -1,11 +1,12 @@
 # Planejamento da Avaliação da Análise de Tarefas
 
 ## Introdução
-
+A valiação de IHC é uma tarefa que pode ser executada em qualquer parte do processo de design, sendo ela uma avaliação formativa, ou construtiva, quando é durante a elaboração da solução, que é  justamente a nossa situação atual neste artefato. Segunda Barbosa et.al (2021), para que seja alcançado determinados níveis de qualidade, todo sistema interativo deve ser avaliado sob a perspectiva das pessoas que o idealizam,
+daquelas quem o constroem e daqueles que o utilizam.
 
 ## Metodologia
 
-Para a avaliação da análise de tarefas, será utilizado o framework DECIDE, elaborado por Preece et al. (2002) para orientar o planejamento, a execução e a análise de uma avaliação de IHC, já o modelo de análise de tarefas a ser avaliado será a [Análise Hierárquica de Tarefas (HTA)](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/hta/). O respectivo framework abrange as seguintes etapas:
+Para a avaliação da análise de tarefas, será feito um planejamento para utilizando o framework DECIDE, elaborado por Preece et al. (2002) para orientar o planejamento, a execução e a análise de uma avaliação de IHC, já o modelo de análise de tarefas a ser avaliado será a [Análise Hierárquica de Tarefas (HTA)](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/hta/). O respectivo framework abrange as seguintes etapas:
 
 <font size="2"><p style="text-align: center">Tabela 1 - framework DECIDE.</p></font>
 
@@ -61,10 +62,7 @@ Os avaliadores devem seguir algumas perguntas gerais para cada avaliação, send
 
 ### C - Escolher
 
-O método de avaliação que será utilizado para avaliar as tarefas será o método de investigação, sendo guiado pelo uso de entrevistas utilizando as perguntas definidas no tópico [explorar](#e---explorar), onde também será usado como material de apoio os artefatos previamente produzidos
-materiais de apoio, como imagens, cenários e outros tipos de artefatos, pode contribuir para a investigação,
-ajudando os usuários a se lembrarem de suas experiências e expectativas e também a manterem o foco nas
-questões de interesse.
+O método de avaliação que será utilizado para avaliar as tarefas será o método de investigação, sendo guiado pelo uso de entrevistas utilizando, principalmente, perguntas abertas em conjunto com materiais de apoio produzidos em artefatos passados.
 
 ### I - Identificar
 
@@ -74,7 +72,7 @@ Para selecionar as pessoas que irão ser chamadas para a entrevista, será levad
 
 #### Preparação e uso de equipamentos necessários
 
-Serão ao todo 6 entrevistas, cada entrevista será guiada por um integrante do grupo que abordará a tarefa correspondente ao respectivo HTA de sua autoria. Os entrevistadores que guiarem as entrevistas poderão fazer anotações dos comentários dos entrevistados de modo a documentar e registrar as críticas e comentários dos particiapantes.
+Haverá um total de 6 entrevistas. Cada entrevista será conduzida por um membro diferente do grupo, que abordará a tarefa correspondente ao HTA que ele próprio desenvolveu. Os entrevistadores que guiarem as entrevistas poderão fazer anotações dos comentários dos entrevistados de modo a documentar e registrar as críticas e comentários dos particiapantes.
 
 Equipamentos para a entrevista:
 
@@ -92,7 +90,7 @@ Abaixo, na tabela 3, estão descritas as informações sobre o planejamento das 
 <font size="2"><p style="text-align: center">Tabela 3 - Tabela de Planejamento para realização das entrevistas.</p></font>
 
 | Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
-| :----: | :-----------: | :----------: | :-----: |:----:| :----:| 
+| :---- | :-----------: | :----------: | :-----: |:----:| :----:| 
 | **Calcular preços e prazos de entrega** | Cláudio | Renato Medeiros |16:00 - 16:30  | 25/05/2024  | Presencial | 
 | **Realizar compras na loja online** | Elias | A definir |  |  | Presencial | 
 | **Emitir certificados digitais** | Gabriel B. Bertolazi | Gabriel bevilaqua | 20:00 - 20:30 | 27/05/2024 | Presencial | 
@@ -105,6 +103,8 @@ Abaixo, na tabela 3, estão descritas as informações sobre o planejamento das 
 </center>
 
 ### D - Decidir
+
+Serão levados em consideração os princípios éticos estabelecidos no documento [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/aspectos-eticos/), junto ao [termo de consentimento](https://requisitos-de-software.github.io/2024.1-Correios/assets/perguntas_questionario/Termo_de_consentimento.pdf), elaborado no mesmo artefato, para as atividades necessárias à validação da análise de tarefas por meio das entrevistas. 
 
 ### E - Avaliar
 
