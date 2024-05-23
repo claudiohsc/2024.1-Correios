@@ -98,8 +98,8 @@ Por fim, com base em todos os pontos supracitados sobre os problemas encontrados
 
 <center>
 
-| Storyboard                       | Responsável                     | Data de Início | Data de Fim |
-| :------------------------------: | :-----------------------------: | :------------: | :---------: |
+| Storyboard | Responsável | Data de Início | Data de Fim |
+| :--------- | :---------: | :------------: | :---------: |
 | **Calcular preços e prazos de entrega** | [Cláudio][ClaudioGH]          |                |             |
 | **Realizar compras na loja online**     | [Elias][EliasGH]              |                |             |  
 | **Receber encomendas**       | [Gabriel B. Bertolazi][GabrielBGH] |           |             |  
@@ -110,9 +110,6 @@ Por fim, com base em todos os pontos supracitados sobre os problemas encontrados
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
-
-
-## Bibliografia
 
 ## Referências bibliográficas
 
