@@ -80,7 +80,7 @@ Para estabelecer os prazos das avaliações dos storyboards, foi elaborado um cr
 | :---: | :---: |:----:  | :---: |:----:  |:----:  | 
 | Calcular preços e prazos de entrega | [Cláudio][ClaudioGH] | Renato Medeiros |16:00 - 16:30  |25/05/2024  | A definir | 
 | Realizar compras na loja online | [Elias][EliasGH] | A definir |  |  | A definir | 
-| Emitir certificados digitais | [Gabriel B. Bertolazi][GabrielBGH] | A definir |  |  | A definir | 
+| Emitir certificados digitais | [Gabriel B. Bertolazi][GabrielBGH] | Gabriel bevilaqua | 20:00 - 20:30 | 27/05/2024 | A definir | 
 | Realizar pré-postagem | [Gabriel F. J. Silva][GabrielFGH] | A definir |  |  | A definir | 
 | Gerenciar minhas importações| [Pablo S. Costa][PabloGH] | A definir |  |  | A definir  | 
 | Rastrear encomendas | [Ricardo][RicardoGH] | A definir |  |  | A definir | 
