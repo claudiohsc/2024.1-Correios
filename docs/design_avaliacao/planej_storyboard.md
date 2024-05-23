@@ -138,7 +138,7 @@ O cronograma passar essa etapa encontrase na Tabela 3 abaixo.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 18/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] e [Pablo S. Costa][PabloGH] | |
+| `1.0`  | 18/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] e [Pablo S. Costa][PabloGH] | [Claudio Henrique](ClaudioGH) e [Gabriel F.](GabrielFGH)  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
