@@ -90,13 +90,13 @@ Abaixo, na tabela 3, estão descritas as informações sobre o planejamento das 
 <font size="2"><p style="text-align: center">Tabela 3 - Tabela de Planejamento para realização das entrevistas.</p></font>
 
 | Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
-| :---- | :-----------: | :----------: | :-----: |:----:| :----:| 
-| **Calcular preços e prazos de entrega** | Cláudio | Renato Medeiros |16:00 - 16:30  | 25/05/2024  | Presencial | 
-| **Realizar compras na loja online** | Elias | A definir |  |  | Presencial | 
+| :----- | :-----------: | :----------: | :-----: |:----:| :----:| 
+| **Calcular preços e prazos de entrega** | Cláudio | Renato Medeiros | 16:00 - 16:30  | 24/05/2024  | Presencial | 
+| **Realizar compras na loja online** | Elias | Heitor | 14:00 - 14:30 | 24/05/2024 | Presencial | 
 | **Recebimento de encomendas** | Gabriel B. Bertolazi | Gabriel bevilaqua | 20:00 - 20:30 | 27/05/2024 | Presencial | 
-| **Realizar pré-postagem** | Gabriel F. J. Silva| A definir |  |  | Presencial | 
-| **Gerenciar minhas importações**| Pablo | A definir |  |  | Presencial  | 
-| **Rastrear encomendas** | Ricardo | A definir |  |  | Presencial | 
+| **Realizar pré-postagem** | Gabriel F. J. Silva| Patricio Reitter | 14:00 - 14:30 | 29/05/2024 | Presencial | 
+| **Gerenciar minhas importações**| Pablo | Miguel Costa | 15:00 - 15:30 | 29/05/2024 | Presencial | 
+| **Rastrear encomendas** | Ricardo | Johnny Lopes | 14:00 - 14:30 | 29/05/2024  | Presencial | 
 
 <font size="2"><p style="text-align: center">Fonte: [Cláudio Henrique][ClaudioGH] e [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
