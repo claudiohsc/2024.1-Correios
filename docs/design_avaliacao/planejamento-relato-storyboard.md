@@ -51,6 +51,7 @@ Além disso os entrevistadores deverão apresentar o cronograma planejado e o cr
 
 Nessa parte será necessário justificar a escolha dos usuários para as entrevistas. Os critérios para seleção dos usuários incluem: estar dentro do perfil previamente definido, ter proximidade com uma das personas e participar voluntariamente. O relator deverá especificar essas informações nessa parte com mais detalhes sobre o usuário.
 
+
 #### Sumário dos dados coletados
 
 Nessa parte o relator deve apresentar uma tabela que contenha as perguntas e respostas da entrevista, como mostra a tabela 2:
@@ -72,6 +73,9 @@ Nessa parte o relator deve apresentar uma tabela que contenha as perguntas e res
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
 </center>
+
+É importante apresentar um resumo dos demais dados coletados na entrevista como descrições, tabelas, gráficos etc, se houverem.
+
 
 #### Interpretação e análise dos dados
 
