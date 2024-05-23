@@ -9,7 +9,7 @@ O relato dos resultados terá como base o documento de [Planejamento da Avaliaç
 
 - Os objetivos e escopo da avaliação;
 - Método de avaliação empregado;
-- Informações dos participantes;
+- Seleção dos participantes;
 - Sumário dos dados coletados;
 - Interpretação e análise dos dados;
 - Lista dos problemas encontrados;
@@ -31,7 +31,9 @@ No relato, é importante incluir as perguntas e respostas do entrevistado, além
 
 Além disso os entrevistadores deverão apresentar o cronograma planejado e o cronograma realizado, assim como está explicitado na tabela 1.
 
-<font size="2"><p style="text-align: center">Tabela 1 - Cronograma planejado e executado da entrevista..</p></font>
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 1 - Cronograma planejado e executado da entrevista.</p></font>
 
 
 | | Entrevistador | Entrevistado | Horário | Data | Local | 
@@ -39,9 +41,36 @@ Além disso os entrevistadores deverão apresentar o cronograma planejado e o cr
 | **Cronograma planejado** | - | - |00:00 - 00:00  | 00/00/2024  | Presencial | 
 | **Cronograma executado** | - | - |00:00 - 00:00  | 00/00/2024  | Presencial | 
 
-#### Informações dos participantes
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+
+</center>
+
+
+#### Seleção dos participantes
+
+Nessa parte será necessário justificar a escolha dos usuários para as entrevistas. Os critérios para seleção dos usuários incluem: estar dentro do perfil previamente definido, ter proximidade com uma das personas e participar voluntariamente.
 
 #### Sumário dos dados coletados
+
+Nessa parte o relator deve apresentar uma tabela que contenha as perguntas e respostas da entrevista, como mostra a tabela 2:
+
+
+<font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas da entrevista.</p></font>
+
+<center>
+
+|Pergunta | Resposta |
+|-|-|
+| <p>Foi fácil compreender as histórias descritas no storyboard?</p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label>  |
+| <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
+| <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
+| <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
+
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+
+</center>
 
 #### Interpretação e análise dos dados
 
@@ -77,7 +106,7 @@ Além disso os entrevistadores deverão apresentar o cronograma planejado e o cr
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 21/05/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] e [Cláudio Henrique][ClaudioGH] | |
+| `1.0`  | 21/05/2024 | Criação do documento |[Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
