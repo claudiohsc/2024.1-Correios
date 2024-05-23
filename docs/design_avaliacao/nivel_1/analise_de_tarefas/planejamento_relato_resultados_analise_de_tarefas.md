@@ -70,12 +70,12 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 | **Entrevistador** |**Horário do início**|**Horário do Fim**|**Data**|
 |--|--|--|--|
-|[Cláudio][ClaudioGH]|xx:xx|xx:xx|xx/05/24|
-|[Elias F. Oliveira][EliasGH]|xx:xx|xx:xx|xx/05/24|
-|[Gabriel Basto][GabrielbGH]|xx:xx|xx:xx|xx/05/24|
-|[Gabriel Fernando][GabrielfGH]|xx:xx|xx:xx|xx/05/24|
-|[Pablo][PabloGH]|xx:xx|xx:xx|xx/05/24|
-|[Ricardo][RicardoGH]|xx:xx|xx:xx|xx/05/24|
+|[Cláudio][ClaudioGH]|--|--|--/05/24|
+|[Elias F. Oliveira][EliasGH]|--|--|--/05/24|
+|[Gabriel Basto][GabrielbGH]|--|--|--/05/24|
+|[Gabriel Fernando][GabrielfGH]|--|--|--/05/24|
+|[Pablo][PabloGH]|--|--|--/05/24|
+|[Ricardo][RicardoGH]|--|--|--/05/24|
 
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
 </center>
