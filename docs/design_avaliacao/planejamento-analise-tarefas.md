@@ -93,7 +93,7 @@ Abaixo, na tabela 3, estão descritas as informações sobre o planejamento das 
 | :---- | :-----------: | :----------: | :-----: |:----:| :----:| 
 | **Calcular preços e prazos de entrega** | Cláudio | Renato Medeiros |16:00 - 16:30  | 25/05/2024  | Presencial | 
 | **Realizar compras na loja online** | Elias | A definir |  |  | Presencial | 
-| **Emitir certificados digitais** | Gabriel B. Bertolazi | Gabriel bevilaqua | 20:00 - 20:30 | 27/05/2024 | Presencial | 
+| **Recebimento de encomendas** | Gabriel B. Bertolazi | Gabriel bevilaqua | 20:00 - 20:30 | 27/05/2024 | Presencial | 
 | **Realizar pré-postagem** | Gabriel F. J. Silva| A definir |  |  | Presencial | 
 | **Gerenciar minhas importações**| Pablo | A definir |  |  | Presencial  | 
 | **Rastrear encomendas** | Ricardo | A definir |  |  | Presencial | 
