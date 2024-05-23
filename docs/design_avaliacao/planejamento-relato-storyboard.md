@@ -25,7 +25,7 @@ Neste tópico, o relator deve explicar a razão para a avaliação que será rea
 
 #### Método de avaliação empregado
 
-A metodologia a ser aplicada será para todas as avaliações será o de investigação com a técnica de entrevista. Onde serão recrutados 1 usuário para cada 1 integrante do grupo, que no total contabilizam 6 usuários.
+A metodologia a ser aplicada será para todas as avaliações será o de investigação com a técnica de entrevista. Onde serão recrutados 1 usuário para cada 1 integrante do grupo, que no total contabilizam 6 usuários. Essa escolha foi feita para diversificar os dados coletados de diferentes usuários.
 
 No relato, é importante incluir as perguntas e respostas do entrevistado, além de um resumo dos demais dados coletados na entrevista, como descrições, tabelas, gráficos, entre outros, se houver.
 
@@ -49,16 +49,17 @@ Além disso os entrevistadores deverão apresentar o cronograma planejado e o cr
 
 #### Seleção dos participantes
 
-Nessa parte será necessário justificar a escolha dos usuários para as entrevistas. Os critérios para seleção dos usuários incluem: estar dentro do perfil previamente definido, ter proximidade com uma das personas e participar voluntariamente.
+Nessa parte será necessário justificar a escolha dos usuários para as entrevistas. Os critérios para seleção dos usuários incluem: estar dentro do perfil previamente definido, ter proximidade com uma das personas e participar voluntariamente. O relator deverá especificar essas informações nessa parte com mais detalhes sobre o usuário.
 
 #### Sumário dos dados coletados
 
 Nessa parte o relator deve apresentar uma tabela que contenha as perguntas e respostas da entrevista, como mostra a tabela 2:
 
 
-<font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas da entrevista.</p></font>
 
 <center>
+
+<font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas da entrevista.</p></font>
 
 |Pergunta | Resposta |
 |-|-|
@@ -82,25 +83,15 @@ Nessa parte o relator deve apresentar uma tabela que contenha as perguntas e res
 
 
 
-<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
-
-<center>
-
-|Pergunta | Resposta |
-|-|-|
-| | |
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
-
-
-## Bibliografia
 
 ## Referências bibliográficas
 
 > <a id="ref1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
+## Bibliografia
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+
+> 2. Planejamento do Relato dos Resultados. **Nota Legal**. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento-relato_storyboard/>. Acesso em: 22 de maio de 2024.
 
 ## Histórico de Versões
 
