@@ -33,7 +33,7 @@ Na tabela 1 está descrito as tarefas analisadas pelos integrantes do grupo.
 | --- | --- |
 | Calcular preços e prazos de entrega | Cláudio |
 | Realizar compras na loja online | Elias |
-| Emitir certificados digitais | Gabriel B. Bertolazi |
+| Recebimento de encomendas | Gabriel B. Bertolazi |
 | Realizar pré-postagem | Gabriel F. J. Silva|
 | Gerenciar minhas importações| Pablo |
 | Rastrear encomendas | Ricardo |
@@ -134,32 +134,38 @@ Prevenção de erros, estética, design minimalista, ajuda para a recuperação 
 
 </center>
 
-### 3. Emitir certificados digitais
+### 3. Recebimento de encomendas
 
 
-<font size="2"><p style="text-align: center">Figura 4: Figura da realização do HTA da emição de certificados.</p></font>
+<font size="2"><p style="text-align: center">Figura 4: Figura da realização do HTA do recebimento de encomendas.</p></font>
 
-![Emição certificado](../../assets/analiseHTA/Bertolazihta.drawio.png)
+![Emição certificado](../../assets/analiseHTA/HTA2.0Bertolazi.drawio.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
-Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/Bertolazihta.drawio.png).
+Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/HTA2.0Bertolazi.drawio.png).
 
-<font size="2"><p style="text-align: center">Tabela 4: Tabela da realização do HTA da emição de certificados.</p></font>
+<font size="2"><p style="text-align: center">Tabela 4: Tabela da realização do HTA do recebimento de encomendas.</p></font>
 
 | objetivos | operações **problema**s e recomendações |
 | --- | --- |
-| 0. Emitir certificados digitais | **Plano:** levar a pessoa para a escolha do certificado. |
-| 1. Escolher certificado desejado | **Input:** Escolher o certificado que quer emitir <br>**Problemas:** Não interativo tendo que colocar duas vezes o certificado desejado. |
-| 1.1 Buscar certificado desejado | **Input:** Escolher o tipo de certificado com o tipo de emissão desejado |
-| 2. Comprar certificado desejado | |
-| 2.1 Dados de compra | **Input:** Forma de pagamento <br> ****Problemas:** ele te manda escolher entre as opções e se tem somente a opção de pagamento por crédito | 
-| 2.1.1 Pessoa jurídica | **Input:** Inserir dados da empresa como: CNPJ, nome da empresa e email para contato |
-| 2.1.2 Pessoa Física | **Input:** Inserir dados pessoais como nome do usuário, email, e CPF |
-| 4. Agendar atendimento para emissão do certificado | **Input:** Escolher uma data dentre as opções que o site te fornece |
-| 6. Emissão do certificado | |
-| 2.2 Digitar CPF | **Input:** Digitar seu CPF |
-| 5. Consultar solicitação de certificados | |
+| 0. Recebimento de encomendas | **Plano:** Mudar ou consultar local de encomenda. |
+| 1. informações de recebimento | **Input:** Inserir o código da encomenda. |
+| 2. Informar CEP onde a encomenda vai ser recebida |  |
+| 2.1. Informar CEP de recebimento da encomenda | **Input:** Inserir o CEP do endereço de recebimento da encomenda. |
+| 2.2. Esqueci meu CEP |  |
+| 3. Informar tipo de recebimento para consulta | **Input:** Clicar na opção desejada. |
+| 4. Mudar escolha de recebimento | **Plano:** Poder mudar método ou endereço de entrega. |
+| 4.1. Receber no vizinho |  |
+| 4.1.1. Informar CEP do vizinho | **Input:** Escrever o CEP do vizinho |
+| 4.1.2. Informar nome e RG do vizinho | **Input:** Escrever o nome do recebedor. <br> **Input:** Escrever o RG do recebedor |
+| 4.2. Receber no locker |  |
+| 4.2.1 Informar CEP da sua localidade | **Input:** Escrever um CEP de onde você esteja. |
+| 4.2.1.1. Verificar disponibilidade |  |
+| 4.3 Receber na caixa postal |  |
+| 5. Mudar endereço residencial | **Input:** Inserir CEP antigo. <br>**Input:** Inserir CEP novo. |
+
+
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
