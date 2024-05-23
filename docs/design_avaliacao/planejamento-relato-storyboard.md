@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Nesta página, será descrito o procedimento para relatar os resultados da avaliação do Storyboard. O principal objetivo é padronizar a estrutura e a disposição dos dados coletados durante as avaliações dos storyboards. O foco do documento a seguir é o planejamento desse relato, e não apresentar os resultados propriamente ditos. Os resultados serão apresentados em uma página separada, que pode ser acessado nesse [link](https://interacao-humano-computador.github.io/2024.1-Correios/).
+Nesta página, será descrito o procedimento para relatar os resultados da avaliação do Storyboard. O principal objetivo é padronizar a estrutura e a disposição dos dados coletados durante as avaliações dos storyboards. O foco do documento a seguir é o planejamento desse relato, e não apresentar os resultados propriamente ditos. Os resultados serão apresentados em uma página separada.
 
 ## Metodologia
 O relato dos resultados terá como base o documento de [Planejamento da Avaliação dos Storyboards](), e também seguirá alguns tópicos propostos por Barbosa e Silva (2021, p.279)<sup><a href=#ref1>1</a></sup>, onde os avaliadores que devem relatar os resultados consolidados, costumam incluir:
@@ -91,10 +91,10 @@ Neste tópico, o entrevistador deve documentar de forma detalhada e estruturada 
 
 #### Planejamento para o reprojeto.
 
-Por fim, com base em todos os pontos supracitados sobre os problemas encontrados no resultado da avalição, os integrantes devem dar início a fase de correção dos erros nos artefatos, tentando seguir o cronograma da tabela x para evitar o acúmulo de tarefas, lembrando de preencher os respectivos históricos de versões após as mudanças, adicionando também os devidos revisores.
+Por fim, com base em todos os pontos supracitados sobre os problemas encontrados no resultado da avalição, os integrantes devem dar início a fase de correção dos erros nos artefatos, tentando seguir o cronograma da tabela 3 para evitar o acúmulo de tarefas, lembrando de preencher os respectivos históricos de versões após as mudanças, adicionando também os devidos revisores.
 
 
-<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+<font size="2"><p style="text-align: center">Tabela 3 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
 <center>
 
@@ -124,7 +124,7 @@ Por fim, com base em todos os pontos supracitados sobre os problemas encontrados
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 21/05/2024 | Criação do documento |[Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | |
+| `1.0`  | 21/05/2024 | Criação do documento |[Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | [Elias F. Oliveira][EliasGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

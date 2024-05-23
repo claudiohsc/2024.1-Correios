@@ -1,7 +1,7 @@
 # Planejamento da Avaliação da Análise de Tarefas
 
 ## Introdução
-A valiação de IHC é uma tarefa que pode ser executada em qualquer parte do processo de design, sendo ela uma avaliação formativa, ou construtiva, quando é durante a elaboração da solução, que é  justamente a nossa situação atual neste artefato. Segunda Barbosa et.al (2021), para que seja alcançado determinados níveis de qualidade, todo sistema interativo deve ser avaliado sob a perspectiva das pessoas que o idealizam,
+A avaliação de IHC é uma tarefa que pode ser executada em qualquer parte do processo de design, sendo ela uma avaliação formativa ou construtiva, quando é durante a elaboração da solução, que é  justamente a nossa situação atual neste artefato. Segunda Barbosa et.al (2021), para que seja alcançado determinados níveis de qualidade, todo sistema interativo deve ser avaliado sob a perspectiva das pessoas que o idealizam,
 daquelas quem o constroem e daqueles que o utilizam.
 
 ## Metodologia
@@ -72,7 +72,7 @@ Para selecionar as pessoas que irão ser chamadas para a entrevista, será levad
 
 #### Preparação e uso de equipamentos necessários
 
-Haverá um total de 6 entrevistas. Cada entrevista será conduzida por um membro diferente do grupo, que abordará a tarefa correspondente ao HTA que ele próprio desenvolveu. Os entrevistadores que guiarem as entrevistas poderão fazer anotações dos comentários dos entrevistados de modo a documentar e registrar as críticas e comentários dos particiapantes.
+Haverá um total de 6 entrevistas. Cada entrevista será conduzida por um membro diferente do grupo, que abordará a tarefa correspondente ao HTA que ele próprio desenvolveu. Os entrevistadores que guiarem as entrevistas poderão fazer anotações dos comentários dos entrevistados de modo a documentar e registrar as críticas e comentários dos participantes.
 
 Equipamentos para a entrevista:
 
@@ -145,7 +145,7 @@ Antes da entrevista com os usuários para a análise de tarefas, dois avaliadore
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 21/05/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | |
+| `1.0`  | 21/05/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | [Elias F. Oliveira][EliasGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
