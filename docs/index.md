@@ -28,7 +28,7 @@ Esta página possui o objetivo de armazenar a documentação dos artefatos estud
 
 ## Histórico de versões
 | Versão | Data | Descrição | Autor | Revisor
-| :-: | :-: | :-: | :-: | :-:
-|`1.0`| 02/04/2024 | Criação do documento | [Ricardo Augusto](https://github.com/avmricardo) | [Elias Oliveira](https://github.com/EliasOliver21)
-|`1.1`| 07/04/2024 | Adicionando site escolhido | [Ricardo Augusto](https://github.com/avmricardo) | [Claudio Henrique](https://github.com/claudiohsc)
-|`1.2`| 22/05/2024 | Ajuste na logo | [Pablo S. Costa](https://github.com/pabloheika) | 
+| :-: | :-: | :-: | :-: | :-:|
+|`1.0`| 02/04/2024 | Criação do documento | [Ricardo Augusto](https://github.com/avmricardo) | [Elias Oliveira](https://github.com/EliasOliver21)|
+|`1.1`| 07/04/2024 | Adicionando site escolhido | [Ricardo Augusto](https://github.com/avmricardo) | [Claudio Henrique](https://github.com/claudiohsc)|
+|`1.2`| 22/05/2024 | Ajuste na logo | [Pablo S. Costa](https://github.com/pabloheika) | [Claudio Henrique](https://github.com/claudiohsc)|
