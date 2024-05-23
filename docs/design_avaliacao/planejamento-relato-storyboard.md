@@ -78,15 +78,41 @@ Nessa parte o relator deve apresentar uma tabela que contenha as perguntas e res
 
 
 #### Interpretação e análise dos dados
+Nesta seção, deverá ocorrer uma análise sistemática - podendo ela ser manual ou automática (com o auxílio de softwares). O entrevistador deve realizar a interpretação de maneira a extrair significado dos dados coletados e identificar os impactos que as informações obtidas podem ter durante o projeto. 
+
 
 #### Lista dos problemas encontrados
+Nesta etapa do artefato, deverá ser registrada de maneira detalhada, clara e objetiva os problemas e dificuldades registrados pelos usuários durante a realização da entrevista.
 
 #### Sugestões de melhoria
 
+Neste tópico, o entrevistador deve documentar de forma detalhada e estruturada todas as sugestões e melhorias, baseando-se nos problemas identificados durante a avaliação. Também deverá ser apresentado os feedbacks dos usuários, que deve servir como fundamentação para as melhorias.
+
+
 #### Planejamento para o reprojeto.
 
+Por fim, com base em todos os pontos supracitados sobre os problemas encontrados no resultado da avalição, os integrantes devem dar início a fase de correção dos erros nos artefatos, tentando seguir o cronograma da tabela x para evitar o acúmulo de tarefas, lembrando de preencher os respectivos históricos de versões após as mudanças, adicionando também os devidos revisores.
 
 
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+
+<center>
+
+| Storyboard                       | Responsável                     | Data de Início | Data de Fim |
+| :------------------------------: | :-----------------------------: | :------------: | :---------: |
+| **Calcular preços e prazos de entrega** | [Cláudio][ClaudioGH]          |                |             |
+| **Realizar compras na loja online**     | [Elias][EliasGH]              |                |             |  
+| **Receber encomendas**       | [Gabriel B. Bertolazi][GabrielBGH] |           |             |  
+| **Realizar pré-postagem**              | [Gabriel F. J. Silva][GabrielFGH]  |           |             |  
+| **Gerenciar minhas importações**       | [Pablo][PabloGH]               |                |             |  
+| **Rastrear encomendas**                | [Ricardo][RicardoGH]           |                |             |  
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+
+
+## Bibliografia
 
 ## Referências bibliográficas
 
