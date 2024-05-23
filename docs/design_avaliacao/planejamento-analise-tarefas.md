@@ -1,7 +1,7 @@
 # Planejamento da Avaliação da Análise de Tarefas
 
 ## Introdução
-A valiação de IHC é uma tarefa que pode ser executada em qualquer parte do processo de design, sendo ela uma avaliação formativa, ou construtiva, quando é durante a elaboração da solução, que é  justamente a nossa situação atual neste artefato. Segunda Barbosa et.al (2021), para que seja alcançado determinados níveis de qualidade, todo sistema interativo deve ser avaliado sob a perspectiva das pessoas que o idealizam,
+A avaliação de IHC é uma tarefa que pode ser executada em qualquer parte do processo de design, sendo ela uma avaliação formativa, ou construtiva, quando é durante a elaboração da solução, que é  justamente a nossa situação atual neste artefato. Segunda Barbosa et.al (2021), para que seja alcançado determinados níveis de qualidade, todo sistema interativo deve ser avaliado sob a perspectiva das pessoas que o idealizam,
 daquelas quem o constroem e daqueles que o utilizam.
 
 ## Metodologia
