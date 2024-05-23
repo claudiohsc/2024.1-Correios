@@ -79,11 +79,11 @@ Para estabelecer os prazos das avaliações dos storyboards, foi elaborado um cr
 | Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
 | :---: | :---: |:----:  | :---: |:----:  |:----:  | 
 | Calcular preços e prazos de entrega | [Cláudio][ClaudioGH] | Renato Medeiros |16:00 - 16:30  |25/05/2024  | A definir | 
-| Realizar compras na loja online | [Elias][EliasGH] | A definir |  |  | A definir | 
-| Emitir certificados digitais | [Gabriel B. Bertolazi][GabrielBGH] | Gabriel bevilaqua | 20:00 - 20:30 | 27/05/2024 | A definir | 
-| Realizar pré-postagem | [Gabriel F. J. Silva][GabrielFGH] | A definir |  |  | A definir | 
-| Gerenciar minhas importações| [Pablo S. Costa][PabloGH] | A definir |  |  | A definir  | 
-| Rastrear encomendas | [Ricardo][RicardoGH] | A definir |  |  | A definir | 
+| Realizar compras na loja online | [Elias][EliasGH] | Heitor  | 14:00 - 14:30 | 24/05/2024 | A definir | 
+| Emitir certificados digitais | [Gabriel B. Bertolazi][GabrielBGH] | Gabriel bevilaqua | 20:00 - 20:30 | 27/05/2024 | UnB-FGA | 
+| Realizar pré-postagem | [Gabriel F. J. Silva][GabrielFGH] | Patricio Reitter | 14:00 - 14:30 | 29/05/2024 | A definir | 
+| Gerenciar minhas importações| [Pablo S. Costa][PabloGH] | Matheus | 12:00 - 12:30 | 25/05/2024 | LagoBT, Lago Sul - DF | 
+| Rastrear encomendas | [Ricardo][RicardoGH] | Johnny Lopes | 14:00 - 14:30 | 29/05/2024 | A definir | 
 
 </center>
 
@@ -117,7 +117,7 @@ O cronograma passar essa etapa encontrase na Tabela 3 abaixo.
 
 |    Data    | Horário de início e fim | Local            |     Avaliadores    |
 | :--------: | :---------------------: | ---------------- | ---------------------- |
-| --/05/2024 | --:-- - --:-- |FGA - UnB | [Ricardo Augusto][RicardoGH] e [Pablo S. Costa][PabloGH] |
+| 23/05/2024 | 12:30 - 12:45 |FGA - UnB | [Cláudio][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] |
 
 </center>
 
