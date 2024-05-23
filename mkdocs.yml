@@ -34,6 +34,11 @@ nav:
     - Princípios Gerais: analise_de_requisitos2/principios_gerais.md
     - Metas de Usabilidade: analise_de_requisitos2/metas-usabilidade.md
     - Guia de Estilo: analise_de_requisitos2/guia_de_estilo.md
+  - Design, Avaliação e Desenvolvimento:
+    - Storyboard: 
+      - Planejamento do Relato: design_avaliacao/planejamento-relato-storyboard.md
+    - Análise de tarefas:
+      - Planejamento da Avaliação: design_avaliacao/planejamento-analise-tarefas.md
 extra_css:
   - stylesheets/extra.css
 theme:
