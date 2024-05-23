@@ -96,7 +96,7 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 22/05/2024 | Criação do documento| [Elias F. Oliveira](https://github.com/EliasOliver21) e [Gabriel Basto](https://github.com/Bertolazi) | [][] |
+|`1.0`| 22/05/2024 | Criação do documento| [Elias F. Oliveira](https://github.com/EliasOliver21) e [Gabriel Basto](https://github.com/Bertolazi) | [Pablo S. Costa][PabloGH] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
