@@ -35,10 +35,12 @@ nav:
     - Metas de Usabilidade: analise_de_requisitos2/metas-usabilidade.md
     - Guia de Estilo: analise_de_requisitos2/guia_de_estilo.md
   - Design, Avaliação e Desenvolvimento:
-    - Storyboard: 
-      - Planejamento do Relato: design_avaliacao/planejamento-relato-storyboard.md
-    - Análise de tarefas:
-      - Planejamento da Avaliação: design_avaliacao/planejamento-analise-tarefas.md
+    - Nível 1:
+      - Análise de Tarefas:
+        - Planejamento do Relato dos Resultados: design_avaliacao/nivel_1/analise_de_tarefas/planejamento_relato_resultados_analise_de_tarefas.md
+        - Planejamento da Avaliação: design_avaliacao/planejamento-analise-tarefas.md
+      - Storyboard: 
+        - Planejamento do Relato: design_avaliacao/planejamento-relato-storyboard.md
 extra_css:
   - stylesheets/extra.css
 theme:
