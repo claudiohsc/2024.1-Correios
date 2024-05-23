@@ -37,11 +37,12 @@ nav:
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
       - Análise de Tarefas:
+        - Planejamento da Avaliação: design_avaliacao/nivel_1/analise_de_tarefas//planejamento-analise-tarefas.md
         - Planejamento do Relato dos Resultados: design_avaliacao/nivel_1/analise_de_tarefas/planejamento_relato_resultados_analise_de_tarefas.md
-        - Planejamento da Avaliação: design_avaliacao/planejamento-analise-tarefas.md
-      - Storyboard: 
-        - Planejamento do Relato: design_avaliacao/planejamento-relato-storyboard.md
-
+      - Storyboard:
+        - Planejamento da Avaliação: design_avaliacao/nivel_1/analise_dos_storyboards/planej_storyboard.md
+        - Planejamento do Relato: design_avaliacao/nivel_1/analise_dos_storyboards/planejamento-relato-storyboard.md
+        - Storyboards: design_avaliacao/storyboards.md
 extra_css:
   - stylesheets/extra.css
 theme:
