@@ -131,6 +131,16 @@ Antes da entrevista com os usuários para a análise de tarefas, dois avaliadore
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] , 2024.</p></font>
 
+No Vídeo 1 abaixo está a gravação do teste piloto realizado.
+
+<font size="2"><p style="text-align: center">Vídeo 1 - Gravação do Teste Piloto.</p></font>
+
+
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] , 2024.</p></font>
+
+
+
 ## Referencias Bibliográficas
 
 > <a id="ref2">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
