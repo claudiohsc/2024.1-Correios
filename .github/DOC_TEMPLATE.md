@@ -4,7 +4,7 @@
 
 ## Subtitulo
 
-<font size="2"><p style="text-align: center">Tabela 1: Tabela sobre isso.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Tabela sobre isso.</p></font>
 
 <center>
 
@@ -17,6 +17,11 @@
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Person](https://github.com/person), 2024.</p></font>
+
+## Referências Bibliográficas
+
+> 1. Cooper, Alan, Reimann, Robert, Cronin, David, e Noessel, Christopher (2014). About Face: The Essentials of Interaction Design. Wiley, Indianapolis, IN, 4th edition edition.
+>
 
 ## Bibliografia
 
@@ -31,3 +36,10 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 29/03/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika)  | [Claudio Henrique](https://github.com/claudiohsc)   |
+
+[ClaudioGH]: https://github.com/claudiohsc
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo

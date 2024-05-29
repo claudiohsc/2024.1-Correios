@@ -6,12 +6,15 @@ site_name: Correios
 nav: 
   - Equipe: "index.md"
   - Atas: 
-    - Ata1: "atas/ata1.md"
-    - Ata2: "atas/ata2.md"
-    - Ata3: "atas/ata3.md"
+    - Reunião 1: atas/ata1.md
+    - Reunião 2: atas/ata2.md
+    - Reunião 3: atas/ata3.md
+    - Reunião 4: atas/ata4.md
   - Apresentações:
     - Apresentação 01: apresentações/apresentação-01.md
     - Apresentação 02: apresentações/apresentação-02.md
+    - Apresentação 03: apresentações/apresentação-03.md
+    - Apresentação 04: apresentações/apresentação-04.md
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
     - Sites Avaliados: planejamento/site_avaliados.md
@@ -23,10 +26,24 @@ nav:
     - Aspectos Éticos: analise_de_requisitos/aspectos-eticos.md
     - Perfil de Usuário: analise_de_requisitos/perfil_de_usuario/perfil_de_usuario.md
     - Personas: analise_de_requisitos/personas.md
-    - Cenários: analise_requisitos/cenarios.md
+    - Cenários: analise_de_requisitos/cenarios.md
     - Análise de tarefas:
       - Análise Hierárquica de Tarefas: analise_de_requisitos/analise_tarefas/hta.md
       - CMN-GOMS: analise_de_requisitos/analise_tarefas/cmn_goms.md
+  - Análise de Requisitos II:
+    - Características da plataforma para o projeto: analise_de_requisitos2/caracteristicas-da-plataforma.md
+    - Princípios Gerais: analise_de_requisitos2/principios_gerais.md
+    - Metas de Usabilidade: analise_de_requisitos2/metas-usabilidade.md
+    - Guia de Estilo: analise_de_requisitos2/guia_de_estilo.md
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Análise de Tarefas:
+        - Planejamento da Avaliação: design_avaliacao/nivel_1/analise_de_tarefas//planejamento-analise-tarefas.md
+        - Planejamento do Relato dos Resultados: design_avaliacao/nivel_1/analise_de_tarefas/planejamento_relato_resultados_analise_de_tarefas.md
+      - Storyboard:
+        - Planejamento da Avaliação: design_avaliacao/nivel_1/analise_dos_storyboards/planej_storyboard.md
+        - Planejamento do Relato dos Resultados: design_avaliacao/nivel_1/analise_dos_storyboards/planejamento-relato-storyboard.md
+        - Storyboards: design_avaliacao/storyboards.md
 extra_css:
   - stylesheets/extra.css
 theme:
