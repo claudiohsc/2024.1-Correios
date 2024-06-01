@@ -26,6 +26,8 @@ Abaixo está a figura 1 representado o storyboard de pré postagem, assim como s
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
+[Clique aqui para abrir a figura acima.](../assets/storyboards/storyboard_gabrielf.jpg)
+
 ### Cálculo de preços e prazos de entrega
 
 Abaixo está a figura 2 representado o storyboard de cálculo de preços e prazos, assim como seu contexto, sequência de atividades e satisfação final do usuário.
@@ -39,6 +41,8 @@ Abaixo está a figura 2 representado o storyboard de cálculo de preços e prazo
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio][ClaudioGH], 2024.</p></font>
+
+[Clique aqui para abrir a figura acima.](../assets/storyboards/storyboard_claudio.jpg)
 
 ### Receber encomendas
 
@@ -54,6 +58,8 @@ Abaixo está a figura 3 representado o storyboard de receber encomendas, assim c
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
+[Clique aqui para abrir a figura acima.](../assets/storyboards/storyboard_gabrielb.jpeg)
+
 ### Rastreamento de encomendas
 
 Abaixo está a figura 4 representado o storyboard de rastreamento de encomendas, assim como seu contexto, sequência de atividades e satisfação final do usuário.
@@ -65,6 +71,8 @@ Abaixo está a figura 4 representado o storyboard de rastreamento de encomendas,
 ![Storyboard](../assets/storyboards/storyboard_ricardo.jpg)
 
 </center>
+
+[Clique aqui para abrir a figura acima.](../assets/storyboards/storyboard_ricardo.jpg)
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
@@ -82,6 +90,8 @@ Abaixo está a figura 5 representado o storyboard da loja online, assim como seu
 
 <font size="2"><p style="text-align: center">Fonte: [Elias][EliasGH], 2024.</p></font>
 
+[Clique aqui para abrir a figura acima.](../assets/storyboards/storyboard_elias.jpg)
+
 ### Minhas importações
 
 Abaixo está a figura 6 representado o storyboard de minhas importações, assim como seu contexto, sequência de atividades e satisfação final do usuário.
@@ -90,30 +100,13 @@ Abaixo está a figura 6 representado o storyboard de minhas importações, assim
 
 <center>
 
-![Storyboard](../assets/storyboards/storyboard_pablo.jpg)
+![Storyboard](../assets/storyboards/storyboard_pablo.jpeg)
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
-<font size="2"><p style="text-align: center">Tabela 1 - Parte textual do storyboard de minhas importações.</p></font>
-
-<center>
-
-| Tipo de informação | Detalhes |
-| ------------------ | -------- |
-| Pessoas Envolvidas | Gabriel |
-| Ambiente | Empresa |
-| Tarefas Realizadas | Gerenciar minhas importações. |
-| Passos Envolvidos | 1.  Acessar 'meus correios'<br>2.  Entrar nas minhas importações<br>3.  Inserir código de rastreamento ou puxar pelo documento fiscal.<br>4.  Verificar status alfandegário<br>5.  Emitir Boleto ou comprovante |
-| Motivação | Necessidade urgente da peça da impressora. |
-| Ações para Completar | Seguir os passos de rastreamento e aguardar atualizações. |
-| Resultado | Encomenda rastreada e status verificado. |
-| Satisfação | Satisfeito com a facilidade do processo. |
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+[Clique aqui para abrir a figura acima.](../assets/storyboards/storyboard_pablo.jpeg)
 
 ## Bibliografia
 
@@ -127,6 +120,7 @@ Abaixo está a figura 6 representado o storyboard de minhas importações, assim
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 20/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] e [Pablo S. Costa][PabloGH]  | [Claudio Henrique](ClaudioGH)  |
+| `1.1`  | 01/06/2024 | Revisão pós apresentação | [Pablo S. Costa][PabloGH]  |  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
