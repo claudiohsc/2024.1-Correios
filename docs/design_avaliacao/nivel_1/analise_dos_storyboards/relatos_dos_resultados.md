@@ -1,9 +1,22 @@
 ## Introdução
 
-## Metodologia
+O relato dos resultados devem mostrar as informações e os feedbacks obtidos e extraídos das entrevistas realizadas para a avaliação dos storyboards.
+
+## Entrevista Pré postagem
+
+## Entrevista Cálculo de preços e prazos de entrega
+
+## Entrevista Receber encomendas
+
+## Entrevista Rastreamento de encomendas
+
+## Entrevista Loja online
+
+## Entrevista Minhas importações
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+> 2. Bilheteria Digital
 
 ## Histórico de Versões
 
