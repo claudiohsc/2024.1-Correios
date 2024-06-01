@@ -43,6 +43,7 @@ nav:
       - Storyboard:
         - Planejamento da Avaliação: design_avaliacao/nivel_1/analise_dos_storyboards/planej_storyboard.md
         - Planejamento do Relato dos Resultados: design_avaliacao/nivel_1/analise_dos_storyboards/planejamento-relato-storyboard.md
+        - Relato dos Resultados: design_avaliacao/nivel_1/analise_dos_storyboards/relatos_dos_resultados.md
         - Storyboards: design_avaliacao/storyboards.md
 extra_css:
   - stylesheets/extra.css
