@@ -297,3 +297,4 @@ Na Tabela 6 apresentada a seguir, é possível visualizar a representação da H
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin), [Ricardo Augusto](https://www.github.com/avmricardo) | [Elias F. Oliveira](https://www.github.com/EliasOliver21)  |
+| `1.1`  | 01/06/2024 | Revisão HTA minhas importações | [Pablo S.Costa](https://github.com/pabloheika)|  |
