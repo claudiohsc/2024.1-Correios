@@ -230,20 +230,27 @@ Na Tabela 6 apresentada a seguir, é possível visualizar a representação da H
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
+[Clique aqui para abrir a figura 6](../../assets/analiseHTA/importacoes.svg).
+
 <font size="2"><p style="text-align: center">Tabela 6: Especificação do diagrama da análise HTA .</p></font>
 
 | Objetivos / Operações | Problemas e recomendações |
 | --- | --- |
-| 0. Gerenciar minhas importações 1>2>(3+4) | **plano**: Acessar o site dos correios para obter os status das importações realizadas. |
-| 1. Acessar meus correios (2/3)>1 | **feedback:** Página a ser mostrado quando o usuário acessa o site.<br> **input**: Ir para a página específica da autenticação.<br> **plano**: Ter acesso a área restrita. |
-| 1.1 Realizar a autenticação | **input**: Entrar com usuário e senha.<br> **feedback**: Encaminhado para sistema Meus Correios. |
-| 1.2 Cadastrar | **input**: Entrar com dados pessoas em formulário.<br> **feedback**: Cadastro realizado valide seu usuário. |
-| 1.3 Recuperar a senha | **input**: Entrar com meio de recuperação, documento, código de verificação e nova senha.<br> **plano**: Recuperar credenciais esquecidas.<br> **feedback**: Senha alterada com sucesso, realize o login. |
-| 2. Acessar minhas importações | **feedback**: Informações importantes sobre prazos e consequências. |
-| 3. Buscar importação 1/2 | **plano**: Ver o status da importação e tomar providencias. |
-| 3.1 Inserir código da encomenda | **input**: Código da encomenda.<br> **feedback**: Importação atrelado ao usuário.<br> **problema:** O sistema nem sempre atrela o documento pessoal, sendo necessários realizar a mão. |
-| 3.2 Selecionar importação | **feedback**: Ver status e andamentos. |
-| 4. Emitir boleto | **plano**: Gerar boleto de cobrança para liberar a encomenda.<br>  **feedback**: DIS emitido aguardando pagamento. |
+| 0\. Gerenciar minhas importações 1>2 | **plano**: Acessar o site dos correios para obter os status das importações realizadas. |
+| 1\. Acessar “Meu Correios” 1/2 | **feedback:** Página a ser mostrado quando o usuário acessa o site. <br>**input**: Ir para a página específica da autenticação.  <br>**plano**: Ter acesso a área restrita. |
+| 1.1. Realizar a autenticação | **input**: Entrar com usuário e senha.  <br>**feedback**: Encaminhado para sistema "Meu Correios". |
+| 1.2. Recuperar a senha | **input**: Entrar com meio de recuperação, documento, código de verificação e nova senha.  <br>**plano**: Recuperar credenciais esquecidas.  <br>**feedback**: Senha alterada com sucesso, realize o login. |
+| 1.3. Cadastrar | **input**: Entrar com dados pessoas em formulário.  <br>**feedback**: Cadastro realizado valide seu usuário. |
+| 2\. Acessar minhas importações | **plano**: Escolher entre os serviços disponíveis no "Meu Correios" o “minhas importações”. |
+| 2.1. Selecionar serviço | **feedback**: Encaminhado para sistema “minhas importações” e informações importantes sobre prazos e consequências. |
+| 3\. Buscar importação 1/2 | **plano**: Ver o status da importação e tomar providencias. |
+| 3.1 Inserir código da encomenda | **input**: Código da encomenda.  <br>**feedback**: Importação atrelado ao usuário.  <br>**problema:** O sistema nem sempre atrela o documento pessoal, sendo necessários realizar a mão. |
+| 3.2. Encontrar importação atrelada ao documento fiscal | **feedback**: Ver tabela de importações já incluídas. |
+| 4\. Escolher importação | **feedback**: Ver status e andamentos. |
+| 5\. Realizar operação 1+2 | **plano**: Realizar ações disponíveis para o gerenciamento. |
+| 5.1. Emitir boleto | **plano**: Gerar boleto de cobrança para liberar a encomenda.  <br>**feedback**: DIS emitido aguardando pagamento. |
+| 5.2. Ver status | **plano**: Checar status detalhado da importação.  <br>**feedback**: Situação e histórico exibido. |
+| 5.3. Emitir Comprovante | **feedback**: Comprovante emitido. |
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
