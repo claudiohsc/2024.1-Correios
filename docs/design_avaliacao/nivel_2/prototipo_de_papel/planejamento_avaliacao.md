@@ -120,7 +120,7 @@ Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 02/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH], [Gabriel Basto][GabrielBGH] | |
+| `1.0`  | 02/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH], [Gabriel Basto][GabrielBGH] | [Elias Oliveira][EliasGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
