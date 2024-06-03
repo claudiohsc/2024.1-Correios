@@ -1,6 +1,6 @@
 ## Introdução
 
-Este documento visa registrar um plano para relatar os resultados obtidos na avaliação da Análise de Tarefas. A apresentação dos resultados serve para detalhar a análise realizada de uma atividade específica. Nele, serão discutidos os tópicos essenciais para a elaboração desse relato.
+Este artefato contém o relato dos resultados obtidos na avaliação da [Análise Hierarquica de Tarefas (HTA)](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/hta/). Ele servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
 
 ## Objetivo da Avaliação
 
