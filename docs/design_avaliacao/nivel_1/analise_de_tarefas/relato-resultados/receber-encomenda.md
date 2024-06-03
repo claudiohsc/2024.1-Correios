@@ -76,6 +76,11 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 O usuário gostou do HTA achou ele bem auto-explicativo elucidando bem a funcionalidade em questão, a única crítica descrita pelo usuário era que ele achava que a função 5. mudar endereço de recebimento podia estar dentro da 4. mudar escolha de recebimento, já que é o fluxo natural da tarefa. Além disso em funções de informar o CEP ele acreditava já ter a função do endereço buscar diretamente o CEP já no início e não precisar ir para esqueci meu CEP para alcançar essa função, mas essa informação foi corrigida depois dizendo que havia visto isso em outro site, além disso foi dito que o 5. poderia ser substituído por retirar encomenda na agência dos correios.
 
+## Reunião Gravada
+
+<iframe width="560" height="315" src="https://youtu.be/5B7uw47I23U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Bibliografia
 
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. 
@@ -86,7 +91,7 @@ O usuário gostou do HTA achou ele bem auto-explicativo elucidando bem a funcion
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 22/05/2024 | Criação do documento| [Gabriel B. Bertolazi][GabrielbGH] |  |
+|`1.0`| 03/06/2024 | Criação do documento| [Gabriel B. Bertolazi][GabrielbGH] |  |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
