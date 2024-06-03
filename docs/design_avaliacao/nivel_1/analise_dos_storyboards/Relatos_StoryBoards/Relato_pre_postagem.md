@@ -1,11 +1,7 @@
-# Planejamento do Relato dos resultados da avaliação do Storyboard
-
 ## Introdução
 
-Nesta página, será descrito o procedimento para relatar os resultados da avaliação do Storyboard. O principal objetivo é padronizar a estrutura e a disposição dos dados coletados durante as avaliações dos storyboards. O foco do documento a seguir é o planejamento desse relato, e não apresentar os resultados propriamente ditos. Os resultados serão apresentados em uma página separada.
 
-## Metodologia
-O relato dos resultados terá como base o documento de [Planejamento da Avaliação dos Storyboards](), e também seguirá alguns tópicos propostos por Barbosa e Silva (2021, p.279)<sup><a href=#ref1>1</a></sup>, onde os avaliadores que devem relatar os resultados consolidados, costumam incluir:
+O relato dos resultados contém as informações e os feedbacks obtidos e extraídos das entrevistas realizadas para a avaliação dos storyboards. Como descrito no artefato do planejamento dos resultados das análises dos storyboard, cada relato deve contém os seguintes tópicos:
 
 - Os objetivos e escopo da avaliação;
 - Método de avaliação empregado;
@@ -16,119 +12,126 @@ O relato dos resultados terá como base o documento de [Planejamento da Avaliaç
 - Sugestões de melhoria;
 - Planejamento para o reprojeto.
 
+## Os objetivos e escopo da avaliação
 
-## Tópicos
+Essa avaliação tem como objetivo validar o contexto, sequências e satisfação do usuário em relação ao [storyboard de "realizar uma pré-postagem"](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/storyboards/#pre-postagem).
 
-#### Os objetivos e escopo da avaliação
+## Método de avaliação empregado
 
-Neste tópico, o relator deve explicar a razão para a avaliação que será realizada e detalhar o objetivo que o grupo deseja alcançar com a avaliação do storyboard.
-
-#### Método de avaliação empregado
-
-A metodologia a ser aplicada será para todas as avaliações será o de investigação com a técnica de entrevista. Onde serão recrutados 1 usuário para cada 1 integrante do grupo, que no total contabilizam 6 usuários. Essa escolha foi feita para diversificar os dados coletados de diferentes usuários.
-
-No relato, é importante incluir as perguntas e respostas do entrevistado, além de um resumo dos demais dados coletados na entrevista, como descrições, tabelas, gráficos, entre outros, se houver.
-
-Além disso os entrevistadores deverão apresentar o cronograma planejado e o cronograma realizado, assim como está explicitado na tabela 1.
+Para a realização da avaliação, foi seguido o artefato de [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_dos_storyboards/planej_storyboard/) e, para a construção deste relato, o de [planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_dos_storyboards/planejamento-relato-storyboard/). A entrevista foi realizada com uma pessoa que se encaixa no [perfil do usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/) e à ela foi perguntado as perguntas do [roteiro de entrevista](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_dos_storyboards/planej_storyboard/#e-explorar), elaborado de acordo com o tópico Explorar do framework DECIDE. Na Tabela 1 temos o cronograma planejado e na Tabela 2 temos o que de fato foi executado, no qual houve uma mudança do entrevistado, horário de início e local da reunião.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 1 - Cronograma planejado e executado da entrevista.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 01:** cronograma planejado das reuniões</p></font>
 
+| **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
+| -- | -- | :--: | :--: | :--: | :--: |
+|[Gabriel Fernando][GabrielfGH]|Patrício Reitter|14:00|14:30|29/05/24|A definir|
 
-| | Entrevistador | Entrevistado | Horário | Data | Local | 
-| :----: | :-----------: | :----------: | :-----: |:----:| :----:| 
-| **Cronograma planejado** | - | - |00:00 - 00:00  | 00/00/2024  | Presencial | 
-| **Cronograma executado** | - | - |00:00 - 00:00  | 00/00/2024  | Presencial | 
-
-
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
 
 </center>
 
 
-#### Seleção dos participantes
+<center>
 
-Nessa parte será necessário justificar a escolha dos usuários para as entrevistas. Os critérios para seleção dos usuários incluem: estar dentro do perfil previamente definido, ter proximidade com uma das personas e participar voluntariamente. O relator deverá especificar essas informações nessa parte com mais detalhes sobre o usuário.
+<font size="2"><p style="text-align: center">**Tabela 02:** cronograma executado das reuniões</p></font>
 
+| **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
+| -- | -- | :--: | :--: | :--: | :--: |
+|[Gabriel Fernando][GabrielfGH]|Paulo Cerqueira|17:26|17:30|29/05/24|FGA|
 
-#### Sumário dos dados coletados
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
 
-Nessa parte o relator deve apresentar uma tabela que contenha as perguntas e respostas da entrevista, como mostra a tabela 2:
+</center>
 
+## Seleção dos participantes
 
+Houve a participação de uma pessoa para a entrevista, que foi o Paulo Cerqueira, aluno de Engenharia de Software da FGA, cujo perfil está detalhado na Tabela 3.
+
+<center>
+
+<font size="2"><p style="text-align: center">**Tabela 03:** perfil do participante</p></font>
+
+| **Nome** |**Ocupação**|**Idade**|**Experiência e facilidade com tecnologia**|
+| -- | -- | :--: | :--: |
+| Paulo Cerqueira | Estudante | 21 Anos |  Boa |
+
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
+
+</center>
+
+### Gravação da Reunião
+
+<iframe width="1519" height="542" src="https://www.youtube.com/embed/NX0eA9hURSg" title="Avaliação do Storyboard - Grupo 03 (Gabriel Fernando)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center">Link direto para o vídeo <a href="https://www.youtube.com/NX0eA9hURSg">aqui</a>.</p>
+
+## Sumário dos dados coletados
+
+Na Tabela 2 temos as respostas do participante às perguntas mencionadas no [Método de avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_dos_storyboards/Relatos_StoryBoards/Relato_pre_postagem/##metodo-de-avaliacao-empregado)
 
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas da entrevista.</p></font>
 
 |Pergunta | Resposta |
-|-|-|
-| <p>Foi fácil compreender as histórias descritas no storyboard?</p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label>  |
-| <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
-| <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
-| <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
+| ------- | :------: |
+| <p>Foi fácil compreender as histórias descritas no storyboard?</p> | **sim**  |
+| <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | **sim** |
+| <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | **sim** |
+| <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | **sim** |
 
-
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
 </center>
 
-É importante apresentar um resumo dos demais dados coletados na entrevista como descrições, tabelas, gráficos etc, se houverem.
+
+## Interpretação e análise dos dados
+
+Apesar de o entrevistado ter respondido "sim" à todas as perguntas, nota-se que, primeiramente, o entendimento de que o personagem estava realizando a pré-postagem pelo computador não estava 100% claro, uma vez que somente quando o participante foi perguntado sobre a satisfação final do personagem, houve uma afirmação de como o ator do storyboard havia realizada a tarefa.
 
 
-#### Interpretação e análise dos dados
-Nesta seção, deverá ocorrer uma análise sistemática - podendo ela ser manual ou automática (com o auxílio de softwares). O entrevistador deve realizar a interpretação de maneira a extrair significado dos dados coletados e identificar os impactos que as informações obtidas podem ter durante o projeto. 
+## Lista dos problemas encontrados
+
+Neste tópico, o entrevistador precisará elencar de maneira ordenada e de fácil entendimento os principais obstáculos e falhas que o usuário enfrentou ao utilizar a funcionalidade que está em foco.
 
 
-#### Lista dos problemas encontrados
-Nesta etapa do artefato, deverá ser registrada de maneira detalhada, clara e objetiva os problemas e dificuldades registrados pelos usuários durante a realização da entrevista.
+## Planejamento para o reprojeto da aplicação
 
-#### Sugestões de melhoria
+Como base nos resultados levantados a partir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do storyboard, mantendo a estrutura original e apenas efetuando alterações no quadro em que o personagem realiza a pré-postagem ou adicionando um quadro para representar um esboço da tela que auxilia a tarefa. Isso será feito seguindo o cronograma da Tabela 0X.
 
-Neste tópico, o entrevistador deve documentar de forma detalhada e estruturada todas as sugestões e melhorias, baseando-se nos problemas identificados durante a avaliação. Também deverá ser apresentado os feedbacks dos usuários, que deve servir como fundamentação para as melhorias.
-
-
-#### Planejamento para o reprojeto.
-
-Por fim, com base em todos os pontos supracitados sobre os problemas encontrados no resultado da avalição, os integrantes devem dar início a fase de correção dos erros nos artefatos, tentando seguir o cronograma da tabela 3 para evitar o acúmulo de tarefas, lembrando de preencher os respectivos históricos de versões após as mudanças, adicionando também os devidos revisores.
-
-
-<font size="2"><p style="text-align: center">**Tabela 03:** Planejamento do Reprojeto </p></font>
 
 <center>
 
-| Storyboard | Responsável | Data de Início | Data de Fim |
-| :--------- | :---------: | :------------: | :---------: |
-| **Calcular preços e prazos de entrega** | [Cláudio][ClaudioGH]          |                |             |
-| **Realizar compras na loja online**     | [Elias][EliasGH]              |                |             |  
-| **Receber encomendas**       | [Gabriel B. Bertolazi][GabrielBGH] |           |             |  
-| **Realizar pré-postagem**              | [Gabriel F. J. Silva][GabrielFGH]  |           |             |  
-| **Gerenciar minhas importações**       | [Pablo][PabloGH]               |                |             |  
-| **Rastrear encomendas**                | [Ricardo][RicardoGH]           |                |             |  
+<font size="2"><p style="text-align: center">**Tabela 0:** cronograma planejado do reprojeto</p></font>
 
+| **Responsável** |**Horário do início**|**Horário do Fim**|**Data**|
+| -- | :--: | :--: | :--: |
+|[Gabriel Fernando][GabrielfGH]| 17:00 | 22:00 | 06/06/24|
+
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+## Sugestões de melhoria
 
-## Referências bibliográficas
-
-> <a id="ref1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-da-aplicacao), acredito que para entrevistas futuras, será de grande ajuda fazer perguntas para que o usuário justifique sua reposta, uma vez que, como ocorreu nessa avaliação, o participante responde "sim" às perguntas, porém, apenas quando questionado que possíveis lacunas do storyboard foram discutidas.
 
 ## Bibliografia
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
-> 2. Planejamento do Relato dos Resultados. **Nota Legal**. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento-relato_storyboard/>. Acesso em: 22 de maio de 2024.
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> 2. Planejamento do relato de resultados. Repositório do Grupo Nota Legal da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-estabelecimento/#historico-de-versao>. Acesso em: 22 maio 2024.
 
-## Histórico de Versões
+## Histórico de Versão
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 21/05/2024 | Criação do documento |[Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | [Elias F. Oliveira][EliasGH] |
+| Versão | Data | Descrição | Autor | Revisor
+|:-:|:-:|:-:|:-:|:-:|
+|`1.0`| 03/06/2024 | Criação do documento| [Gabriel Fernando][GabrielfGH] |  |
 
+
+[GabrielfGH]: https://github.com/MMcLovin
+[GabrielbGH]: https://github.com/https://github.com/Bertolazi
 [ClaudioGH]: https://github.com/claudiohsc
-[EliasGH]: https://github.com/EliasOliver21
-[GabrielBGH]: https://github.com/Bertolazi
-[GabrielFGH]: https://github.com/MMcLovin
+[EliasGH]: https://www.github.com/EliasOliver21
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
