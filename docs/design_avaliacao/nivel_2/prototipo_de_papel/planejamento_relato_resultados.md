@@ -9,7 +9,7 @@ Este artefato leva como base alguns tópicos elecandos no livro IHC por Barbosa 
 - Objetivos da avaliação;
 - Metodologia da prototipação
 - Número e perfil dos avaliadores e participantes
-- Lista de Problemas de usabilidade;
+- Lista de Problemas de usabilidade:
     - Corrigidos durante os ciclos de avaliação e reprojeto
     - Ainda não corrigidos
 
