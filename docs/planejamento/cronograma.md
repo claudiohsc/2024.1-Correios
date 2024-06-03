@@ -204,10 +204,19 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
 
 ### Executado
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 10</b> - Executado da entrega 5
+    <b>Tabela 9</b> - Executado da entrega 5
 </p></font> 
 
-*EM BREVE...*
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Relato dos resultados do Story Board | Início: 01/06  <br> Fim: 03/06 | Claúdio, Elias | Início: 03/06 Fim: 03/06 | Gabriel F. J. Silva |
+| Relato da Análise de tarefas | Início: 02/06 <br> Fim: 03/06 | Gabriel F. J. Silva, Pablo | Início: 03/06 <br> Fim: 03/06 | Ricardo |
+| Planejamento da Avaliação do Protótipo de Papel | Início: 02/06 <br> Fim: 03/06 | Ricardo, Gabriel B. Bertolazi | Início: 03/06 <br> Fim: 03/06 | Pablo |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: 03/06 <br> Fim: 03/06 | Claúdio, Elias | Início: 03/06 <br> Fim: 03/06 |  Gabriel B. Bertolazi  |
+| Gravação da Apresentação | Início: 03/06 <br> Fim: 03/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 03/06 <br> Fim: 03/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Correção pós apresentação | Início: 05/06 <br> Fim: 06/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 06/06 <br> Fim: 06/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+
+<font size="2"><p style="text-align: center">Fonte: [Elias Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 ## Entrega 6.1
  
@@ -368,6 +377,7 @@ Disponível em:
 | `1.4` | 06/05/2024 | Adiciona cronograma executado da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [](https://github.com/) |
 | `2.0` | 12/05/2024 | Reajusta datas do cronograma planejado para as entregas 3, 4, 5, 6.1, 6.2, 8 e entrega final e também corrigi espaçamento das tabelas | [Elias F. Oliveira](EliasGH), [Gabriel B. Bertolazi](Gabrielb), [Gabriel F. J. Silva](GabrielfGH) e  [Pablo S. Costa](PabloGH) | [Ricardo](RicardoGH) |
 | `2.1` | 13/05/2024 | Adiciona cronograma executado da entrega 3 |[Elias Oliveira](EliasGH) | [Ricardo](RicardoGH) |
+| `2.2` | 03/06/2024 | Adiciona cronograma executado da entrega 5 |[Elias Oliveira](EliasGH) | [Ricardo](RicardoGH) |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
