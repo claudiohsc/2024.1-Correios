@@ -100,7 +100,7 @@ Abaixo encontra-se na tabela 04 o cronograma de realização do reprojeto.
 
 <center>
 
-<font size="2"><p style="text-align: center">**Figura 04:** Tabela planejamento do reprojeto</p></font>
+<font size="2"><p style="text-align: center">**Tabela 04:** Tabela planejamento do reprojeto</p></font>
 
 | **Entrevistador** |**Horário do início**|**Horário do Fim**|**Data**|
 |--|--|--|--|
