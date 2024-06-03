@@ -47,7 +47,7 @@ O participante selecionado foi escolhido utilizando como critério a utilizaçã
 
 ### Sumário dos dados coletados
 
-Abaixo as perguntas que foram feitas ao participante de acordo com o planejamento, e as respostas apresentadas por ele.
+As perguntas que foram feitas ao participante de acordo com o planejamento, e as respostas apresentadas por ele estão localizadas na tabela xx e logo abaixo a gravação da entrevista.
 
 <center>
 
@@ -64,6 +64,15 @@ Abaixo as perguntas que foram feitas ao participante de acordo com o planejament
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 </center>
+
+<font size="2"><p style="text-align: center">**Gravação da Entrevista.**</p></font>
+
+<p style="text-align: center"><a href="https://drive.google.com/file/d/1SJCMWphKKUnciNqTNvzYq-2fE5HWtWQE/preview" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe src="https://drive.google.com/file/d/1SJCMWphKKUnciNqTNvzYq-2fE5HWtWQE/preview" width="560" height="315" allow="autoplay"></iframe></p>
+
+
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ### Interpretação e análise dos dados
 O participante respondeu a cada uma pargunta positivamente, sendo perceptível a clareza que o storyboard passou ao usuário e de acordo com ele não sendo necessária realizar nenhuma alteração.
