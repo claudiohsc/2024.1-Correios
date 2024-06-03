@@ -106,7 +106,7 @@ Abaixo encontra-se na tabela 04 o cronograma de realização do reprojeto.
 |--|--|--|--|
 |[Elias F. Oliveira][EliasGH]|19:00|20:00|25/05/24|
 
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] </p></font>
 </center>
 
 
