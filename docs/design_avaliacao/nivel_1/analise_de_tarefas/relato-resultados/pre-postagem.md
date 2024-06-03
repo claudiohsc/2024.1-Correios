@@ -1,10 +1,10 @@
 ## Introdução
 
-O planejamento do relato de resultados tem como objetivo ser um guia para o documento que apresentará os resultados e conclusões obtidos na avaliação. O planejamento servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
+Este artefato contém o relato dos resultados obtidos na avaliação da [Análise Hierarquica de Tarefas (HTA)](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/hta/). Ele servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
 
 ## Metodologia
 
-Faremos uma avaliação de intersujeito ou interparticipante de acordo com Barbosa e Silva(2021, p.279), para a consolidação e análise dos dados e informações coletados pela previsão dos avaliadores ou pelas experiências dos participantes observados. O documento a ser concebido pela equipe deve conter os seguintes tópicos retirados do livro IHC de Barboa e Silva, com um pequeno complemento do tópico de sugestão e feedback dos usuários. Abaixo os tópicos a serem utilizados:
+Foi realizada uma investigação e uma análise intraparticipante da entrevista, de acordo com Barbosa e Silva (2021, p.279), para a consolidação e análise dos dados e informações, das experiências dos participantes observados, coletados pelos avaliadores. Cada integrante da equipe documentou os resultados em uma página separada que contém os seguintes tópicos retirados do livro IHC de Barboa e Silva, com um pequeno complemento do tópico de sugestão e feedback dos usuários. Abaixo os tópicos a serem utilizados:
 
 * Objetivo da Avaliação;
 * Método empregado;
@@ -18,72 +18,107 @@ Faremos uma avaliação de intersujeito ou interparticipante de acordo com Barbo
 
 ## Tópicos
 
-Os tópicos da avaliação da análise de tarefas deverão ser descritos e estruturados de acordo com as descrições apresentados abaixo:
-
-
 ## Objetivo da Avaliação
 
-Neste tópico o integrante responsável deverá descrever quais os motivos e intenções da realização da avaliação que esta sendo feita, os objetivos e aspirações do grupo com os resultados obtidos.
+Essa avaliação tem como objetivo verificar a apropriação da tecnologia pelos usuários, eventuais problemas na interação com as tarefas e comparar ideias e alternativas de design do [HTA para realizar uma pré-postagem](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/hta/#4-realizar-pre-postagem).
 
 ## Método empregado
 
-Deverá estar descrito qual a metodologia e como foi empregada na avaliação, ou seja, de que forma os dados foram coletados e como a avaliação aconteceu. No caso do nosso grupo será utilizada a técnica de entrevista descrita no livro IHC de Barbosa e Silva, o responsável pelo documento deverá observar e seguir o cronograma planejado que é apresentado abaixo na figura 01 e posteriormente adicionar o cronograma executado apresentando como aconteceu a entrevista.
+Para a realização da avaliação, foi seguido o artefatos de [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/) e, para a construção deste relato, o de [planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento_relato_resultados_analise_de_tarefas/). A entrevista foi realizada com uma pessoa que se encaixa no [perfil do usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/) e à ela foi perguntado as perguntas do [roteiro de entrevista](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/#e-explorar), elaborado de acordo com o tópico Explorar do framework DECIDE. Na Tabela 1 temos o cronograma planejado e na Tabela 2 temos o que de fato foi executado, no qual houve uma mudança do entrevistado, horário de início e local da reunião. 
 
 <center>
-<font size="2"><p style="text-align: center">**Figura 01:** Tabela planejamento das reuniões</p></font>
+<font size="2"><p style="text-align: center">**Tabela 01:** cronograma planejado das reuniões</p></font>
 
 | **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
-|--|--|--|--|--|--|
-|[Cláudio][ClaudioGH]|Renato Medeiros|16:00|16:30|24/05/24|A definir|
-|[Elias F. Oliveira][EliasGH]|Heitor|14:00|14:30|24/05/24|A definir|
-|[Gabriel Basto][GabrielbGH]|Gabriel Bevilaqua|20:00|20:30|27/05/24|A definir|
+| -- | -- | :--: | :--: | :--: | :--: |
 |[Gabriel Fernando][GabrielfGH]|Patricio Reitter|14:00|14:30|29/05/24|A definir|
-|[Pablo][PabloGH]|Miguel Costa|15:00|15:30|29/05/24|A definir|
-|[Ricardo][RicardoGH]|Jhonny Lopes|14:00|14:30|29/05/24|A definir|
 
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
+
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
+</center>
+
+<center>
+<font size="2"><p style="text-align: center">**Tabela 02:** cronograma executado das reuniões</p></font>
+
+| **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
+| -- | -- | :--: | :--: | :--: | :--: |
+|[Gabriel Fernando][GabrielfGH]|Paulo Cerqueira|17:26|17:40|29/05/24|FGA|
+
+
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
 </center>
 
 ## Número e o perfil dos usuários e avaliadores
 
-Para se ter uma melhor compreensão dos participantes deve-se declarar: a quantidade dos participantes da entrevista detalhando melhormente cada um e se possível descrevendo o perfil deles.
+Houve a participação de uma pessoa para a entrevista, que foi o Paulo Cerqueira, aluno de Engenharia de Software da FGA, cujo perfil está detalhado na Tabela 3.
+
+<center>
+<font size="2"><p style="text-align: center">**Tabela 03:** perfil do participante</p></font>
+
+| **Nome** |**Ocupação**|**Idade**|**Experiência e facilidade com tecnologia**|
+| -- | -- | :--: | :--: |
+| Paulo Cerqueira | Estudante | 21 Anos |  Boa | 
+
+
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
+</center>
+
+### Gravação da Reunião
+
+<iframe width="1519" height="542" src="https://www.youtube.com/embed/watch?v=KkPOLVolZ4U" title="Avaliação do Storyboard - Grupo 03 (Gabriel Fernando)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center">Link direto para o vídeo <a href="https://www.youtube.com/watch?v=KkPOLVolZ4U">aqui</a>.</p> 
 
 ## Sumário dos dados coletados
 
-O participante avaliador deverá apresentar os dados no documento elucidando de maneira simples e clara para se extrair e entregar uma melhor compreensão dos dados e informações obtidos na avaliação.
+Abaixo na Tabela 04, temos as respostas do participante às perguntas do [roteiro de entrevista](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/#e-explorar) pertinentes ao diagrama.
 
-## Relato da interpretação e análise dos dados
-
-O entrevistador deve analisar e interpretar cuidadosamente os dados e informações obtidos apartir da entrevista, elucidando os principais padrões e tendências que detectar nas respostas dos participantes e retirar informações relevantes para o objetivo da avaliação.
-
-## Problemas encontrados
-
-Neste tópico, o entrevistador precisará elencar de maneira ordenada e de fácil entendimento os principais obstáculos e falhas que o usuário enfrentou ao utilizar a funcionalidade que está em foco.
-
-## Planejamento para o reprojeto da aplicação
-
-Tendo como base os resultados levantados apartir dos dados e informações obtidos nas entrevistas, deve-se realizar um reprojeto mantendo a estrutura do original e efetuando pequenas mudanças que levem em consideração as mudanças sugeridas e problemas encontrados para a realização de tais modificações no projeto. Para isso deve-se seguir o cronograma planejado abaixo na figura 02, que deve ser executado um dia após a entrevista.
+<font size="2"><p style="text-align: center">**Tabela 04** - Perguntas elaboradas para a avaliação.</p></font>
 
 <center>
 
-<font size="2"><p style="text-align: center">**Figura 02:** Tabela planejamento do reprojeto</p></font>
+| ID | Pergunta | Resposta |
+|:---:|:---:|:----:|
+| **5** | O diagrama de tarefas reflete corretamente suas expectativas de como o processo deveria ser? | sim |
+| **6** | Existem etapas no processo que você considera particularmente demoradas ou ineficientes? | Preencher os dados da pré-postagem |  
+| **7** | Como você acha que o processo poderia ser otimizado? | Não sei |
+| **8** | Há alguma parte da tarefa que você acha especialmente difícil ou confusa | Não |
+| **9** | Qual a frequência que você necessita realizar a tarefa?  | Nunca |
+| **10** | Se você pudesse mudar qualquer coisa no processo da tarefa principal, o que mudaria? | Nada |
+| **11** | Como você avalia a sua satisfação com o processo atual descrito no HTA? | Satisfeito, os passos parecem claros e fazem sentido |
 
-| **Entrevistador** |**Horário do início**|**Horário do Fim**|**Data**|
-|--|--|--|--|
-|[Cláudio][ClaudioGH]|--|--|--/05/24|
-|[Elias F. Oliveira][EliasGH]|--|--|--/05/24|
-|[Gabriel Basto][GabrielbGH]|--|--|--/05/24|
-|[Gabriel Fernando][GabrielfGH]|--|--|--/05/24|
-|[Pablo][PabloGH]|--|--|--/05/24|
-|[Ricardo][RicardoGH]|--|--|--/05/24|
 
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+
+## <a id="analise"> Relato da interpretação e análise dos dados </a>
+
+Apesar do entrevistado ter respondido que não mudaria nada sobre o processo descrito no diagrama HTA (pergunta 10), ele também comentou que o preenchimento dos dados da pré-postagem parece muito longo, o que se dá pelo fato de que entre os muitos campos de preenchimento, praticamente todos são de preenchimento obrigatório. 
+
+## Problemas encontrados
+
+Além da extensão do objetivo de preencher os dados da pré-postagem, não foram encontrados outros obstáculos ou problemas.
+
+## Planejamento para o reprojeto da aplicação
+
+Como base nos resultados levantados apartir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do diagrama para incluir uma opção de adicionar destinatários ou remetentes pré-cadastros. Isso será feito de forma a tentar solucionar o problema descrito na interpretação e análise dos dados, esses campos de preenchimento, uma vez que são os elementos mais recorrentes na tarefa, podem ser agilizados por meio de uma opção de selecionar endereços pré-cadastrados para isso, será seguido o cronograma da Tabela 5.
+
+<center>
+
+<font size="2"><p style="text-align: center">**Tabela 05:** cronograma planejado do reprojeto</p></font>
+
+| **Responsável** |**Horário do início**|**Horário do Fim**|**Data**|
+| -- | :--: | :--: | :--: |
+|[Gabriel Fernando][GabrielfGH]| 17:00 | 22:00 | 06/06/24|
+
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
 </center>
 
 
 ## Sugestão e feedback dos usuários
 
-É de extrema importância a documentação ser feita de maneira cautelosa, tomando nota de todos os passos do usuário e captando suas percepções e feedbacks positivos e negativos. Com isso o entrevistador deve sugerir mudanças para atender as espectativas do usuário e extinguir os problemas encontrados na avaliação, sendo feitas alterações por exemplo de: remodelagem de design, melhorias na interface e em funcionalidades do sistema.
+Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-da-aplicacao), acredito que para entrevistas futuras, será de grande ajuda fazer perguntas para direcionar o usuário a justificar sua reposta, uma vez que, como ocorreu nessa avaliação, o participante responde as perguntas, porém, nem sempre elabora muito sobre a sua justificativa.
 
 
 ## Bibliografia
@@ -95,7 +130,7 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 22/05/2024 | Criação do documento|  |  |
+|`1.0`| 02/06/2024 | Criação do documento|  |  |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
