@@ -28,45 +28,58 @@ Na tabela 1, está o cronograma executado da entrevista.
 
 ## Número e o perfil dos usuários e avaliadores
 
-A seleção do participante se deu pela orientação a partir do [Perfil do Usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/) definido anteriormente, onde o entrevistado tem 25 anos e está dentro da faixa etária definida, possui ensino superior incompleto e experiência muito boa com artefatos tecnológicos.
+A seleção do participante se deu pela orientação a partir do [Perfil do Usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/) definido anteriormente, onde o entrevistado tem 28 anos, possui ensino superior incompleto e experiência muito boa com artefatos tecnológicos.
+
+### Gravação da Reunião
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7u53MSuU37A?si=4GSM20ma0886-qxv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<font size="2"><p style="text-align: center">**Fonte:** [Claudio Henrique][ClaudioGH]</p></font>
+
+<p style="text-align: center">Link direto para o vídeo <a href="https://www.youtube.com/watch?v=7u53MSuU37A">aqui</a>.</p> 
 
 ## Sumário dos dados coletados
 
+| ID | Pergunta | Resposta |
+|:---:|:---:|:----:|
+| **5** | O diagrama de tarefas reflete corretamente suas expectativas de como o processo deveria ser? | Sim, condiz com a realidade da tarefa. |
+| **6** | Existem etapas no processo que você considera particularmente demoradas ou ineficientes? | Sim, a parte de cadastro de informações do objeto. |  
+| **7** | Como você acha que o processo poderia ser otimizado? | Não enxergou uma otimização no processo. |
+| **8** | Há alguma parte da tarefa que você acha especialmente difícil ou confusa | Não |
+| **9** | Qual a frequência que você necessita realizar a tarefa?  | Mensalmente |
+| **10** | Se você pudesse mudar qualquer coisa no processo da tarefa principal, o que mudaria? | Nada |
+| **11** | Como você avalia a sua satisfação com o processo atual descrito no HTA? | Satisfeito, os passos estão bem detalhados e descritos. |
 
 
 ## Relato da interpretação e análise dos dados
 
-O entrevistador deve analisar e interpretar cuidadosamente os dados e informações obtidos apartir da entrevista, elucidando os principais padrões e tendências que detectar nas respostas dos participantes e retirar informações relevantes para o objetivo da avaliação.
-
+O entrevistado deixou explícito que o diagrama reflete bem a realidade da tarefa, porém pontou somente a parte de cadastro de informações do objeto que achou um tanto demorada e que talvez sentiria alguma dificuldade em realizá-la.
 ## Problemas encontrados
 
-Neste tópico, o entrevistador precisará elencar de maneira ordenada e de fácil entendimento os principais obstáculos e falhas que o usuário enfrentou ao utilizar a funcionalidade que está em foco.
+Além da extensão do objetivo de preencher os dados da pré-postagem, não foram encontrados outros obstáculos ou problemas.
+
 
 ## Planejamento para o reprojeto da aplicação
 
-Tendo como base os resultados levantados apartir dos dados e informações obtidos nas entrevistas, deve-se realizar um reprojeto mantendo a estrutura do original e efetuando pequenas mudanças que levem em consideração as mudanças sugeridas e problemas encontrados para a realização de tais modificações no projeto. Para isso deve-se seguir o cronograma planejado abaixo na figura 02, que deve ser executado um dia após a entrevista.
+Como base nos resultados levantados apartir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do diagrama para incluir uma opção de adicionar destinatários ou remetentes pré-cadastros. Isso será feito de forma a tentar solucionar o problema descrito na interpretação e análise dos dados, esses campos de preenchimento, uma vez que são os elementos mais recorrentes na tarefa, podem ser agilizados por meio de uma opção de selecionar endereços pré-cadastrados para isso, será seguido o cronograma da Tabela 5.
 
 <center>
 
-<font size="2"><p style="text-align: center">**Figura 02:** Tabela planejamento do reprojeto</p></font>
+<font size="2"><p style="text-align: center">**Tabela 05:** cronograma planejado do reprojeto</p></font>
 
-| **Entrevistador** |**Horário do início**|**Horário do Fim**|**Data**|
-|--|--|--|--|
-|[Cláudio][ClaudioGH]|--|--|--/05/24|
-|[Elias F. Oliveira][EliasGH]|--|--|--/05/24|
-|[Gabriel Basto][GabrielbGH]|--|--|--/05/24|
-|[Gabriel Fernando][GabrielfGH]|--|--|--/05/24|
-|[Pablo][PabloGH]|--|--|--/05/24|
-|[Ricardo][RicardoGH]|--|--|--/05/24|
+| **Responsável** |**Horário do início**|**Horário do Fim**|**Data**|
+| -- | :--: | :--: | :--: |
+|[Claudio Henrique][ClaudioGH]| 17:00 | 22:00 | 06/06/24|
 
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Claudio Henrique][ClaudioGH], 2024 </p></font>
 </center>
+
 
 
 ## Sugestão e feedback dos usuários
 
-É de extrema importância a documentação ser feita de maneira cautelosa, tomando nota de todos os passos do usuário e captando suas percepções e feedbacks positivos e negativos. Com isso o entrevistador deve sugerir mudanças para atender as espectativas do usuário e extinguir os problemas encontrados na avaliação, sendo feitas alterações por exemplo de: remodelagem de design, melhorias na interface e em funcionalidades do sistema.
-
+Durante a entrevista se mostrou um interesse do usuário em facilitar o processo de preenchimento de informações sobre o objeto, a fim de otimizar o tempo para o cálculo de preços e prazos de entrega.
 
 ## Bibliografia
 
@@ -77,7 +90,7 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 22/05/2024 | Criação do documento|  |  |
+|`1.0`| 02/06/2024 | Criação do documento| [Claudio Henrique][ClaudioGH] |  |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
