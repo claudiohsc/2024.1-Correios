@@ -4,7 +4,7 @@ Este artefato tem como objetivo apresentar o relato dos resultados da análise d
 
 ## Metodologia
 
-Foi realizado o método de inspeção inferindo algumas perguntas elaboradas no planejamento da análise através de uma entrevista como descrito no livro IHC de Barbosa e Silva, e também utilizando como referência o planejamento anteriormente estruturado na etapa passada do projeto. Abaixo temos descritos o seguintes tópicos definidos para serem descritos mais abaixo:
+Foi utilizado o método de inspeção inferindo algumas perguntas elaboradas anteriormente no planejamento da análise através de uma entrevista como descrito no livro IHC de Barbosa e Silva, e também utilizando como referência o planejamento anteriormente estruturado na etapa passada do projeto. Abaixo temos descritos o seguintes tópicos definidos para serem descritos mais abaixo:
 
 * Objetivo da Avaliação;
 * Método empregado;
@@ -16,10 +16,10 @@ Foi realizado o método de inspeção inferindo algumas perguntas elaboradas no 
 * Sugestão e feedback dos usuários.
 
 ## Objetivo da Avaliação
-O objetivo da avaliação é: obter as impressões e informações observadas pelo entrevistado, para verificar se o que ele compreendeu condiz com a realidade apresentada pela funcionalidade representada no diagrama da análise de tarefas.
+O objetivo da avaliação é: obter as impressões e informações observadas pelo entrevistado, verificando se o que ele compreendeu condiz com a realidade apresentada pela funcionalidade representada no diagrama da análise de tarefas.
 
 ## Método empregado
-O método utilizado foi o de inspeção por meio de uma entrevista realizada com um usuário do site dos correios.Abaixo na tabela 01 temos os cronograma da entrevista realizada.
+O método utilizado foi o de inspeção por meio de uma entrevista realizada com um usuário do site dos correios.Abaixo na tabela 01 temos o cronograma com algumas informações da entrevista realizada e logo em seguida a gravação da entrevista.
 
 <center>
 <font size="2"><p style="text-align: center">**Tabela 01:** Cronograma da Entrevista</p></font>
@@ -31,9 +31,22 @@ O método utilizado foi o de inspeção por meio de uma entrevista realizada com
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH]  </p></font>
 </center>
 
+</center>
+
+<font size="2"><p style="text-align: center">**Gravação da Entrevista.**</p></font>
+
+<p style="text-align: center">Para abrir em outra janela <a href="https://drive.google.com/file/d/1qT9Th21vFUPoB_4cUUhgfAz600ZUB1AD/preview" target="blanket">Clique aqui</a>.</p>
+
+<p style="text-align: center"><iframe src="https://drive.google.com/file/d/1qT9Th21vFUPoB_4cUUhgfAz600ZUB1AD/preview" width="560" height="315" allow="autoplay"></iframe></p>
+
+
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+
+
 ## Número e o perfil dos usuários e avaliadores
 
-Abaixo na tabela 02 encontram-se descritos todos os participantes da entrevista e o perfil deles.
+Abaixo na tabela 02 encontram-se descritos todos os participantes e as informações do seu perfil.
 
 <center>
 <font size="2"><p style="text-align: center">**Tabela 02:** Participantes da Entrevista</p></font>
@@ -83,11 +96,11 @@ O usuário relatou que o processo de compra seria muito extenso, demandando algu
 
 ## Planejamento para o reprojeto da aplicação
 
-Tendo como base os resultados levantados apartir dos dados e informações obtidos nas entrevistas, deve-se realizar um reprojeto mantendo a estrutura do original e efetuando pequenas mudanças que levem em consideração as mudanças sugeridas e problemas encontrados para a realização de tais modificações no projeto. Para isso deve-se seguir o cronograma planejado abaixo na figura 02, que deve ser executado um dia após a entrevista.
+Abaixo encontra-se na tabela 04 o cronograma de realização do reprojeto.
 
 <center>
 
-<font size="2"><p style="text-align: center">**Figura 02:** Tabela planejamento do reprojeto</p></font>
+<font size="2"><p style="text-align: center">**Figura 04:** Tabela planejamento do reprojeto</p></font>
 
 | **Entrevistador** |**Horário do início**|**Horário do Fim**|**Data**|
 |--|--|--|--|
@@ -98,8 +111,7 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 
 ## Sugestão e feedback dos usuários
-O participante não sugeriu nenhuma mudança.
-
+O participante não inferiu nenhuma sugestão para alteração ou modificação do diagrama apresentado.
 
 ## Bibliografia
 
