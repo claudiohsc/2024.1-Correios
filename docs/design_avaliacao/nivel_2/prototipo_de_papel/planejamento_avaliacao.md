@@ -66,12 +66,12 @@ Abaixo, na tabela 3, estão descritas as informações sobre o planejamento das 
 
 | Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
 | :----- | :-----------: | :----------: | :-----: |:----:| :----:| 
-| **Calcular preços e prazos de entrega** | Cláudio | - | 00:00 - 00:00  | 00/06/2024  | Presencial | 
-| **Realizar compras na loja online** | Elias | - | 00:00 - 00:00 | 00/06/2024 | Presencial | 
-| **Recebimento de encomendas** | Gabriel B. Bertolazi | - | 00:00 - 00:00 | 00/06/2024 | Presencial | 
-| **Realizar pré-postagem** | Gabriel F. J. Silva| - | 00:00 - 00:00 | 00/06/2024 | Presencial | 
-| **Gerenciar minhas importações**| Pablo | - | 00:00 - 00:00 | 00/06/2024 | Presencial | 
-| **Rastrear encomendas** | Ricardo | - | 00:00 - 00:00 | 00/06/2024  | Presencial | 
+| **Calcular preços e prazos de entrega** | Cláudio | Renato Medeiros | 10:00 - 10:30  | 07/06/2024  | UnB-FGA | 
+| **Realizar compras na loja online** | Elias | Heitor | 10:40 - 11:10 | 07/06/2024 | UnB-FGA | 
+| **Recebimento de encomendas** | Gabriel B. Bertolazi | Gabriel Bevilaqua | 11:20 - 11:50 | 07/06/2024 | UnB-FGA | 
+| **Realizar pré-postagem** | Gabriel F. J. Silva| Patrício Reittler | 12:00 - 12:30 | 07/06/2024 | UnB-FGA | 
+| **Gerenciar minhas importações**| Pablo | Matheus | 14:00 - 14:30 | 07/06/2024 | UnB-FGA | 
+| **Rastrear encomendas** | Ricardo | Johnny Lopes | 14:40 - 15:10 | 07/06/2024  | UnB-FGA | 
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
