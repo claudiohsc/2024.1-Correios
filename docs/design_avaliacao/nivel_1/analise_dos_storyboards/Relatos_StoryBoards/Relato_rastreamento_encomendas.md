@@ -21,72 +21,70 @@ O relato dos resultados terá como base o documento de [Planejamento da Avaliaç
 
 #### Os objetivos e escopo da avaliação
 
-Neste tópico, o relator deve explicar a razão para a avaliação que será realizada e detalhar o objetivo que o grupo deseja alcançar com a avaliação do storyboard.
+A avaliação do storyboard visa identificar áreas de melhoria e validar sua adequação ao público-alvo. Realizada através de uma entrevista guiadas por questionário, busca-se compreender a percepção do participante sobre a narrativa.
 
 #### Método de avaliação empregado
 
-A metodologia a ser aplicada será para todas as avaliações será o de investigação com a técnica de entrevista. Onde serão recrutados 1 usuário para cada 1 integrante do grupo, que no total contabilizam 6 usuários. Essa escolha foi feita para diversificar os dados coletados de diferentes usuários.
-
-No relato, é importante incluir as perguntas e respostas do entrevistado, além de um resumo dos demais dados coletados na entrevista, como descrições, tabelas, gráficos, entre outros, se houver.
-
-Além disso os entrevistadores deverão apresentar o cronograma planejado e o cronograma realizado, assim como está explicitado na tabela 1.
+O método de avaliação escolhido foi o de investigação, utilizando de uma entrevista guiada por um questionário. A entrevista foi realizada por um integrante do grupo, o que foi responsável pela realização do storyboard, e contou com um participante sendo entrevistado. Na tabela 01 estão presentes as informações da entrevista realizada.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 1 - Cronograma planejado e executado da entrevista.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 01** - Cronograma da Entrevista</p></font>
 
+| Entrevistado | Entrevistador | Local | Data / Horário |
+|:--:|:--:|:--:|:--:|
+| [Johhny Pontes](https://www.github.com/JohnnyLopess) | [Ricardo Augusto][RicardoGH] | Teams | 03/06/2024 Às 14:30 |
 
-| | Entrevistador | Entrevistado | Horário | Data | Local | 
-| :----: | :-----------: | :----------: | :-----: |:----:| :----:| 
-| **Cronograma planejado** | - | - |00:00 - 00:00  | 00/00/2024  | Presencial | 
-| **Cronograma executado** | - | - |00:00 - 00:00  | 00/00/2024  | Presencial | 
-
-
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 </center>
 
 
 #### Seleção dos participantes
 
-Nessa parte será necessário justificar a escolha dos usuários para as entrevistas. Os critérios para seleção dos usuários incluem: estar dentro do perfil previamente definido, ter proximidade com uma das personas e participar voluntariamente. O relator deverá especificar essas informações nessa parte com mais detalhes sobre o usuário.
-
+O participante da entrevista foi escolhido tendo em base o [perfil de usuário](../../../analise_de_requisitos/perfil_de_usuario/perfil_de_usuario.md) do site dos correios.
 
 #### Sumário dos dados coletados
 
-Nessa parte o relator deve apresentar uma tabela que contenha as perguntas e respostas da entrevista, como mostra a tabela 2:
-
-
+De acordo com o planejamento, as perguntas realizadas durante a entrevista e as respostas do participante estão presentes na tabela 02 abaixo.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas da entrevista.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 02** - Perguntas e respostas da entrevista.</p></font>
 
 |Pergunta | Resposta |
 |-|-|
-| <p>Foi fácil compreender as histórias descritas no storyboard?</p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label>  |
-| <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
-| <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
-| <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
+| <p>Foi fácil compreender as histórias descritas no storyboard?</p> | **Sim**  |
+| <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | **Sim** |
+| <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | **Sim** |
+| <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | **Sim** |
 
 
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 </center>
 
-É importante apresentar um resumo dos demais dados coletados na entrevista como descrições, tabelas, gráficos etc, se houverem.
+Abaixo está o link para a gravação da reunião de entrevista.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SG4Jhe0KmM8?si=gU5D3jKsLibA2_I9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 
 #### Interpretação e análise dos dados
-Nesta seção, deverá ocorrer uma análise sistemática - podendo ela ser manual ou automática (com o auxílio de softwares). O entrevistador deve realizar a interpretação de maneira a extrair significado dos dados coletados e identificar os impactos que as informações obtidas podem ter durante o projeto. 
+
+Durante a entrevista o participante demonstrou clareza e tranquilidade no entendimento do storyboard e respondeu com "Sim" todas as perguntas realizadas.
 
 
 #### Lista dos problemas encontrados
-Nesta etapa do artefato, deverá ser registrada de maneira detalhada, clara e objetiva os problemas e dificuldades registrados pelos usuários durante a realização da entrevista.
+
+Durante a entrevista o participante não encontrou nenhum problema relacionado a entrevista ou as perguntas.
 
 #### Sugestões de melhoria
 
-Neste tópico, o entrevistador deve documentar de forma detalhada e estruturada todas as sugestões e melhorias, baseando-se nos problemas identificados durante a avaliação. Também deverá ser apresentado os feedbacks dos usuários, que deve servir como fundamentação para as melhorias.
+O participante da entrevista não relatou nenhuma sugestão de melhora para o storyboard avaliado.
 
 
 #### Planejamento para o reprojeto.
@@ -124,7 +122,7 @@ Por fim, com base em todos os pontos supracitados sobre os problemas encontrados
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 21/05/2024 | Criação do documento |[Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | [Elias F. Oliveira][EliasGH] |
+| `1.0`  | 03/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] | [Elias F. Oliveira][EliasGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
