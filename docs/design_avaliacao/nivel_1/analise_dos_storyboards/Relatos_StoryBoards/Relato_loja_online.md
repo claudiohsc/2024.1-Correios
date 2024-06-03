@@ -10,16 +10,6 @@ O relato dos resultados deve conter as informações e os feedbacks obtidos e ex
 - Lista dos problemas encontrados;
 - Sugestões de melhoria;
 - Planejamento para o reprojeto.
-
-## Entrevista Pré postagem
-
-## Entrevista Cálculo de preços e prazos de entrega
-
-## Entrevista Receber encomendas
-
-## Entrevista Rastreamento de encomendas
-
-
 <!-- Início Loja Online -->
 
 ## Entrevista Loja online
@@ -84,8 +74,6 @@ O usuário não relatou nenhum problema durante a entrevista.
 Apresentar mais visibilidade para a loja online dos correios, aumentando o número de pessoas que conhecem a funcionalidade do site dos correios.
 
 <!-- Fim Análise Loja Online -->
-
-## Entrevista Minhas importações
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
