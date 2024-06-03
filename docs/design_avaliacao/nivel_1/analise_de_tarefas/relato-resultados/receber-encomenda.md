@@ -4,7 +4,7 @@ A análise de tarefas é um processo fundamental para entender como indivíduos 
 
 ## Metodologia
 
-Faremos uma avaliação de intersujeito ou interparticipante de acordo com Barbosa e Silva(2021, p.279), para a consolidação e análise dos dados e informações coletados pela previsão dos avaliadores ou pelas experiências dos participantes observados. O documento a ser concebido pela equipe deve conter os seguintes tópicos retirados do livro IHC de Barboa e Silva, com um pequeno complemento do tópico de sugestão e feedback dos usuários. Abaixo os tópicos a serem utilizados:
+Foi feita uma avaliação de intersujeito ou interparticipante de acordo com Barbosa e Silva (2021, p.279), para a consolidação e análise dos dados e informações coletados pela previsão do avaliador ou pelas experiências dos participantes observados. O documento a ser concebido pela equipe deve conter os seguintes tópicos retirados do livro IHC de Barbosa e Silva, com um pequeno complemento do tópico de sugestão e feedback dos usuários. Abaixo os tópicos utilizados:
 
 * Objetivo da Avaliação;
 * Método empregado;
