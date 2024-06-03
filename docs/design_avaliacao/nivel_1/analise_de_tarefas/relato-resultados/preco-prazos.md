@@ -41,6 +41,9 @@ A seleção do participante se deu pela orientação a partir do [Perfil do Usu�
 
 ## Sumário dos dados coletados
 
+
+<font size="2"><p style="text-align: center">**Tabela 02:** Tabela perguntas e respostas sobre o HTA</p></font>
+
 | ID | Pergunta | Resposta |
 |:---:|:---:|:----:|
 | **5** | O diagrama de tarefas reflete corretamente suas expectativas de como o processo deveria ser? | Sim, condiz com a realidade da tarefa. |
@@ -55,18 +58,19 @@ A seleção do participante se deu pela orientação a partir do [Perfil do Usu�
 ## Relato da interpretação e análise dos dados
 
 O entrevistado deixou explícito que o diagrama reflete bem a realidade da tarefa, porém pontou somente a parte de cadastro de informações do objeto que achou um tanto demorada e que talvez sentiria alguma dificuldade em realizá-la.
+
 ## Problemas encontrados
 
-Além da extensão do objetivo de preencher os dados da pré-postagem, não foram encontrados outros obstáculos ou problemas.
+O entrevistado deixou claro que sentiria dificuldade e demora no processo de cadastro das informações do objeto, fora isso não foram encontrados outros problemas.
 
 
 ## Planejamento para o reprojeto da aplicação
 
-Como base nos resultados levantados apartir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do diagrama para incluir uma opção de adicionar destinatários ou remetentes pré-cadastros. Isso será feito de forma a tentar solucionar o problema descrito na interpretação e análise dos dados, esses campos de preenchimento, uma vez que são os elementos mais recorrentes na tarefa, podem ser agilizados por meio de uma opção de selecionar endereços pré-cadastrados para isso, será seguido o cronograma da Tabela 5.
+Como base nos resultados levantados apartir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do diagrama para incluir uma opção de selecionar um formato padrão mais comum de objetos, para tentar melhorar a eficiência da tarefa, uma vez que foi pontuado na entrevista como parte problemática e/ou demorada do processo.Será seguido o cronograma da Tabela 3.
 
 <center>
 
-<font size="2"><p style="text-align: center">**Tabela 05:** cronograma planejado do reprojeto</p></font>
+<font size="2"><p style="text-align: center">**Tabela 03:** cronograma planejado do reprojeto</p></font>
 
 | **Responsável** |**Horário do início**|**Horário do Fim**|**Data**|
 | -- | :--: | :--: | :--: |
@@ -76,7 +80,6 @@ Como base nos resultados levantados apartir dos dados e informações obtidos na
 </center>
 
 
-
 ## Sugestão e feedback dos usuários
 
 Durante a entrevista se mostrou um interesse do usuário em facilitar o processo de preenchimento de informações sobre o objeto, a fim de otimizar o tempo para o cálculo de preços e prazos de entrega.
@@ -84,7 +87,6 @@ Durante a entrevista se mostrou um interesse do usuário em facilitar o processo
 ## Bibliografia
 
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. 
-> 2. Planejamento do relato de resultados. Repositório do Grupo Nota Legal da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-estabelecimento/#historico-de-versao>. Acesso em: 22 maio 2024.
 
 ## Histórico de Versão
 
