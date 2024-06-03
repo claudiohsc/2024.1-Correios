@@ -23,50 +23,90 @@ Os tópicos da avaliação da análise de tarefas deverão ser descritos e estru
 
 ## Objetivo da Avaliação
 
-Neste tópico o integrante responsável deverá descrever quais os motivos e intenções da realização da avaliação que esta sendo feita, os objetivos e aspirações do grupo com os resultados obtidos.
+A avaliação da análise de tarefas visa identificar áreas de melhoria e validar sua adequação ao público-alvo. Realizada através de uma entrevista guiadas por questionário, busca-se avaliar se o que o participante compreendeu o fluxo da análise de tarefas e se tem alguma sugestão de mudança.
 
 ## Método empregado
 
-Deverá estar descrito qual a metodologia e como foi empregada na avaliação, ou seja, de que forma os dados foram coletados e como a avaliação aconteceu. No caso do nosso grupo será utilizada a técnica de entrevista descrita no livro IHC de Barbosa e Silva, o responsável pelo documento deverá observar e seguir o cronograma planejado que é apresentado abaixo na figura 01 e posteriormente adicionar o cronograma executado apresentando como aconteceu a entrevista.
+O método de avaliação escolhido foi o de investigação, utilizando de uma entrevista guiada por um questionário. A entrevista foi realizada por um integrante do grupo, o que foi responsável pela realização da análise de tarefas, e contou com um participante sendo entrevistado. Na tabela 01 estão presentes as informações da entrevista realizada.
 
 <center>
-<font size="2"><p style="text-align: center">**Figura 01:** Tabela planejamento das reuniões</p></font>
 
-| **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
-|--|--|--|--|--|--|
-|[Cláudio][ClaudioGH]|Renato Medeiros|16:00|16:30|24/05/24|A definir|
-|[Elias F. Oliveira][EliasGH]|Heitor|14:00|14:30|24/05/24|A definir|
-|[Gabriel Basto][GabrielbGH]|Gabriel Bevilaqua|20:00|20:30|27/05/24|A definir|
-|[Gabriel Fernando][GabrielfGH]|Patricio Reitter|14:00|14:30|29/05/24|A definir|
-|[Pablo][PabloGH]|Miguel Costa|15:00|15:30|29/05/24|A definir|
-|[Ricardo][RicardoGH]|Jhonny Lopes|14:00|14:30|29/05/24|A definir|
+<font size="2"><p style="text-align: center">**Tabela 01** - Cronograma da Entrevista</p></font>
 
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
+| Entrevistado | Entrevistador | Local | Data / Horário |
+|:--:|:--:|:--:|:--:|
+| [Johhny Pontes](https://www.github.com/JohnnyLopess) | [Ricardo Augusto][RicardoGH] | Teams | 03/06/2024 Às 14:45 |
+
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
 </center>
 
 ## Número e o perfil dos usuários e avaliadores
 
-Para se ter uma melhor compreensão dos participantes deve-se declarar: a quantidade dos participantes da entrevista detalhando melhormente cada um e se possível descrevendo o perfil deles.
+Abaixo na tabela 02 encontram-se descritos todos os participantes da entrevista e o perfil deles.
+
+<center>
+<font size="2"><p style="text-align: center">**Tabela 02:** Participantes da Entrevista</p></font>
+
+| Nome | Usuário/Avaliador | Idade | Ocupação |
+|:--:|:--:|:--:|:--:|
+| [Johhny Lopes](https://www.github.com/JohnnyLopess) | Entrevistado | 23 anos | Estudante de Engenharia |
+| [Ricardo Augusto][RicardoGH] | Entrevistador | 23 anos | Estudante de Engenharia |
+
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.  </p></font>
+</center>
+
 
 ## Sumário dos dados coletados
 
-O participante avaliador deverá apresentar os dados no documento elucidando de maneira simples e clara para se extrair e entregar uma melhor compreensão dos dados e informações obtidos na avaliação.
+De acordo com o planejamento, as perguntas realizadas durante a entrevista e as respostas do participante estão presentes na tabela 03 abaixo.
 
-## Relato da interpretação e análise dos dados
-
-O entrevistador deve analisar e interpretar cuidadosamente os dados e informações obtidos apartir da entrevista, elucidando os principais padrões e tendências que detectar nas respostas dos participantes e retirar informações relevantes para o objetivo da avaliação.
-
-## Problemas encontrados
-
-Neste tópico, o entrevistador precisará elencar de maneira ordenada e de fácil entendimento os principais obstáculos e falhas que o usuário enfrentou ao utilizar a funcionalidade que está em foco.
-
-## Planejamento para o reprojeto da aplicação
-
-Tendo como base os resultados levantados apartir dos dados e informações obtidos nas entrevistas, deve-se realizar um reprojeto mantendo a estrutura do original e efetuando pequenas mudanças que levem em consideração as mudanças sugeridas e problemas encontrados para a realização de tais modificações no projeto. Para isso deve-se seguir o cronograma planejado abaixo na figura 02, que deve ser executado um dia após a entrevista.
+<font size="2"><p style="text-align: center">**Tabela 03** - Perguntas elaboradas para a avaliação.</p></font>
 
 <center>
 
-<font size="2"><p style="text-align: center">**Figura 02:** Tabela planejamento do reprojeto</p></font>
+| ID | Pergunta | Resposta |
+|:---:|:---:|:----:|
+| **1** | Qual seu nome completo? | Johnny da Ponte Lopes|
+| **2** | Qual a sua idade? | 23 anos  |  
+| **3** | Qual sua ocupação?	  | Estudante de engenharia |  
+| **4** | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Muito boa |
+| **5** | O diagrama de tarefas reflete corretamente suas expectativas de como o processo deveria ser? | Sim |
+| **6** | Existem etapas no processo que você considera particularmente demoradas ou ineficientes? | Em relação ao captcha de verificação que pode ter uma imagem muito ruim de visualizar. |  
+| **7** | Como você acha que o processo poderia ser otimizado? | Não precisa ser otimizado. |
+| **8** | Há alguma parte da tarefa que você acha especialmente difícil ou confusa? | Não. |
+| **9** | Qual a frequência que você necessita realizar a tarefa?  | Mensalmente. |
+| **10** | Se você pudesse mudar qualquer coisa no processo da tarefa principal, o que mudaria? | Não precisaria ter a etapa "Selecionar o tipo de objeto". |
+| **11** | Como você avalia a sua satisfação com o processo atual descrito no HTA? | Satisfação boa. |
+
+
+</center>
+
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+Abaixo está o link para a gravação da reunião de entrevista.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jKdxTFcT-4Y?si=k2huosSxnaAerVIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+## Relato da interpretação e análise dos dados
+
+Durante a entrevista o participante demonstrou clareza e tranquilidade no entendimento do HTA. O entrevistador guiou o participante a focar no fluxo das tarefas para o participante avaliar se estava de acordo com sua experiência pessoal com a funcionalidade.
+
+## Problemas encontrados
+
+Não foram encontrados problemas durante a entrevista da avaliação, foi apontado uma única sugestão de mudança no HTA que está descrito melhor no tópico [sugestão e feedback dos usuários](#sugestão-e-feedback-dos-usuários).
+
+## Planejamento para o reprojeto da aplicação
+
+Tendo como base os resultados levantados apartir dos dados e informações obtidos nas entrevistas, deve-se realizar um reprojeto mantendo a estrutura do original e efetuando pequenas mudanças que levem em consideração as mudanças sugeridas e problemas encontrados para a realização de tais modificações no projeto. Para isso deve-se seguir o cronograma planejado abaixo na tabela 04, que deve ser executado um dia após a entrevista.
+
+<center>
+
+<font size="2"><p style="text-align: center">**Tabela 04:** Tabela planejamento do reprojeto</p></font>
 
 | **Entrevistador** |**Horário do início**|**Horário do Fim**|**Data**|
 |--|--|--|--|
@@ -83,7 +123,7 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 ## Sugestão e feedback dos usuários
 
-É de extrema importância a documentação ser feita de maneira cautelosa, tomando nota de todos os passos do usuário e captando suas percepções e feedbacks positivos e negativos. Com isso o entrevistador deve sugerir mudanças para atender as espectativas do usuário e extinguir os problemas encontrados na avaliação, sendo feitas alterações por exemplo de: remodelagem de design, melhorias na interface e em funcionalidades do sistema.
+O único ponto de mudança que o participante sugeriou foi sobre a etapa de "Selecionar tipo de objeto", em que ele acredita que não precisaria ter. O participante sugeriu que de "Rastrear encomendas" fosse direto para a seleção de rastreamento nacional ou em outros países.
 
 
 ## Bibliografia
@@ -95,7 +135,7 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 22/05/2024 | Criação do documento|   |  |
+|`1.0`| 03/06/2024 | Criação do documento|  [Ricardo Augusto][RicardoGH] |  |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
