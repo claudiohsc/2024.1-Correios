@@ -23,46 +23,41 @@ Os tópicos da avaliação da análise de tarefas deverão ser descritos e estru
 
 ## Objetivo da Avaliação
 
-Neste tópico o integrante responsável deverá descrever quais os motivos e intenções da realização da avaliação que esta sendo feita, os objetivos e aspirações do grupo com os resultados obtidos.
+Verificar com o cliente se o HTA feito pelo aluno Gabriel B. Bertolazi condiz com as espctativas do usuário em conformidade com a tarefa aprensentada, nesse caso o recebimento de encomendas.
 
 ## Método empregado
 
-Deverá estar descrito qual a metodologia e como foi empregada na avaliação, ou seja, de que forma os dados foram coletados e como a avaliação aconteceu. No caso do nosso grupo será utilizada a técnica de entrevista descrita no livro IHC de Barbosa e Silva, o responsável pelo documento deverá observar e seguir o cronograma planejado que é apresentado abaixo na figura 01 e posteriormente adicionar o cronograma executado apresentando como aconteceu a entrevista.
+Foi feita uma entrevista com o aluno de direito da UnB Adam, um cliente assíduo do site do correios que já usou a função de recebimento de encomendas, no caso ele olhou o HTA e verificou se condizia com o fluxo natural da tarefa e fez uma avaliação para descrever se estava correto ou não a análise hierárquica da tarefa, seguindo as perguntas listadas no planejamento da avaliação.
 
 <center>
 <font size="2"><p style="text-align: center">**Figura 01:** Tabela planejamento das reuniões</p></font>
 
 | **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
 |--|--|--|--|--|--|
-|[Cláudio][ClaudioGH]|Renato Medeiros|16:00|16:30|24/05/24|A definir|
-|[Elias F. Oliveira][EliasGH]|Heitor|14:00|14:30|24/05/24|A definir|
-|[Gabriel Basto][GabrielbGH]|Gabriel Bevilaqua|20:00|20:30|27/05/24|A definir|
-|[Gabriel Fernando][GabrielfGH]|Patricio Reitter|14:00|14:30|29/05/24|A definir|
-|[Pablo][PabloGH]|Miguel Costa|15:00|15:30|29/05/24|A definir|
-|[Ricardo][RicardoGH]|Jhonny Lopes|14:00|14:30|29/05/24|A definir|
+|[Gabriel B. Bertolazi][GabrielbGH]| Adam |20:00|20:15|31/05/24|Residencial maestri (Sala de reuniões)|
 
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel B. Bertolazi][GabrielbGH] </p></font>
 </center>
 
 ## Número e o perfil dos usuários e avaliadores
 
-Para se ter uma melhor compreensão dos participantes deve-se declarar: a quantidade dos participantes da entrevista detalhando melhormente cada um e se possível descrevendo o perfil deles.
+O usuário escolhido foi o aluno de direito da UnB chamdo Adam de 20 anos, um cliente assíduo dos correios e utiliza a tarefa de recebimento de encomendas, sendo assim o usuário em questão utiliza muito a função de receber em um vizinho, que permite com que ele mande uma encomenda para casa de um amigo ao qual ele queira presentear.
 
 ## Sumário dos dados coletados
 
-O participante avaliador deverá apresentar os dados no documento elucidando de maneira simples e clara para se extrair e entregar uma melhor compreensão dos dados e informações obtidos na avaliação.
+Reajar dentro do projeto o tópico 5 dentro do tópico 4.<br>Adcionar a retirada da encomenda nas agências dos correios possivelmente no tópico 5.
 
 ## Relato da interpretação e análise dos dados
 
-O entrevistador deve analisar e interpretar cuidadosamente os dados e informações obtidos apartir da entrevista, elucidando os principais padrões e tendências que detectar nas respostas dos participantes e retirar informações relevantes para o objetivo da avaliação.
+Como pontuado acima tivemos como consideração principal a mudança do 5. Mudar meu endereço residencial, para 4.4 Mudar meu endereço residencial e passar para o 5. Retirar minha encomeda em uma agência dos correios. 
 
 ## Problemas encontrados
 
-Neste tópico, o entrevistador precisará elencar de maneira ordenada e de fácil entendimento os principais obstáculos e falhas que o usuário enfrentou ao utilizar a funcionalidade que está em foco.
+Em suma não tivemos muitos probelmas para o entendimento da tarefa, mas como dito no tópico acima reorganizar o tópico 4 adicionano o 4.4 Mudar meu endereço residencial e adicionar a retirada em uma agência, função que ficou faltando.
 
 ## Planejamento para o reprojeto da aplicação
 
-Tendo como base os resultados levantados apartir dos dados e informações obtidos nas entrevistas, deve-se realizar um reprojeto mantendo a estrutura do original e efetuando pequenas mudanças que levem em consideração as mudanças sugeridas e problemas encontrados para a realização de tais modificações no projeto. Para isso deve-se seguir o cronograma planejado abaixo na figura 02, que deve ser executado um dia após a entrevista.
+Tendo como base os resultados levantados apartir dos dados e informações obtidos na entrevista, não temos nada muito grande para arrumar, melhorar a organização para tudo ficar mais arrumadoe fazer as alterações já antes descritas em questão de 2 horas já conseguimos arrumar tuso, o melhor horário para isso tendo em vista meu planejameto pessoala será no dia  e horário mostratos abaixo. 
 
 <center>
 
@@ -70,21 +65,16 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 | **Entrevistador** |**Horário do início**|**Horário do Fim**|**Data**|
 |--|--|--|--|
-|[Cláudio][ClaudioGH]|--|--|--/05/24|
-|[Elias F. Oliveira][EliasGH]|--|--|--/05/24|
-|[Gabriel Basto][GabrielbGH]|--|--|--/05/24|
-|[Gabriel Fernando][GabrielfGH]|--|--|--/05/24|
-|[Pablo][PabloGH]|--|--|--/05/24|
-|[Ricardo][RicardoGH]|--|--|--/05/24|
+|[Gabriel B. Bertolazi][GabrielbGH]|10:00|12:00|05/06/24|
 
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
+
+<font size="2"><p style="text-align: center">**Fonte:**[Gabriel B. Bertolazi][GabrielbGH] </p></font>
 </center>
 
 
 ## Sugestão e feedback dos usuários
 
-É de extrema importância a documentação ser feita de maneira cautelosa, tomando nota de todos os passos do usuário e captando suas percepções e feedbacks positivos e negativos. Com isso o entrevistador deve sugerir mudanças para atender as espectativas do usuário e extinguir os problemas encontrados na avaliação, sendo feitas alterações por exemplo de: remodelagem de design, melhorias na interface e em funcionalidades do sistema.
-
+O usuário gostou do HTA achou ele bem auto-explicativo elucidando bem a funcionalidade em questão, a única crítica descrita pelo usuário era que ele achava que a função 5. mudar endereço de recebimento podia estar dentro da 4. mudar escolha de recebimento, já que é o fluxo natural da tarefa. Além disso em funções de informar o CEP ele acreditava já ter a função do endereço buscar diretamente o CEP já no início e não precisar ir para esqueci meu CEP para alcançar essa função, mas essa informação foi corrigida depois dizendo que havia visto isso em outro site, além disso foi dito que o 5. poderia ser substituído por retirar encomenda na agência dos correios.
 
 ## Bibliografia
 
@@ -96,7 +86,7 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 22/05/2024 | Criação do documento|  |  |
+|`1.0`| 22/05/2024 | Criação do documento| [Gabriel B. Bertolazi][GabrielbGH] |  |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
