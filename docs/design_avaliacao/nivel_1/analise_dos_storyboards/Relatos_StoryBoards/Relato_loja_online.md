@@ -82,7 +82,7 @@ Apresentar mais visibilidade para a loja online dos correios, aumentando o núme
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/06/2024 | Criação do documento |[Elias F. Oliveira][EliasGH] e [Claudio Henrique][ClaudioGH] | |
+| `1.0`  | 01/06/2024 | Criação do documento |[Elias F. Oliveira][EliasGH] | |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
