@@ -21,7 +21,7 @@ O relato dos resultados terá como base o documento de [Planejamento da Avaliaç
 
 #### Os objetivos e escopo da avaliação
 
-Neste tópico, o relator deve explicar a razão para a avaliação que será realizada e detalhar o objetivo que o grupo deseja alcançar com a avaliação do storyboard.
+Como objetivo principal tivemos que o usuário deveria analizar o storyboard e avaliar se condiz com a tarefa descrita, aprenstando assim um protótipo do mesmo no papel para qualquer leteração seja feito na hora mesmo.
 
 #### Método de avaliação empregado
 
@@ -38,19 +38,18 @@ Além disso os entrevistadores deverão apresentar o cronograma planejado e o cr
 
 | | Entrevistador | Entrevistado | Horário | Data | Local | 
 | :----: | :-----------: | :----------: | :-----: |:----:| :----:| 
-| **Cronograma planejado** | - | - |00:00 - 00:00  | 00/00/2024  | Presencial | 
-| **Cronograma executado** | - | - |00:00 - 00:00  | 00/00/2024  | Presencial | 
+| **Cronograma planejado** | Gabriel Bertolazi | Gabriel Bevilaqua |20:00 - 20:30  | 27/05/2024  | Unb-FGA | 
+| **Cronograma executado** | Gaabriel Bertolazi | Adam |20:00 - 20:30  | 31/05/2024  | Residencial Maestri (Sala de reuniões) | 
 
 
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte:[Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 </center>
 
 
 #### Seleção dos participantes
 
-Nessa parte será necessário justificar a escolha dos usuários para as entrevistas. Os critérios para seleção dos usuários incluem: estar dentro do perfil previamente definido, ter proximidade com uma das personas e participar voluntariamente. O relator deverá especificar essas informações nessa parte com mais detalhes sobre o usuário.
-
+Foi selecionado primeiramente o usuário do site Gabriel Bevilaqua que por problemas pessoais não pôde comparecer, então nosso entrevistado escolhido foi o aluno de direito da UnB Adma de 20 anos, um usário recorrente dessa funcionalidade escolhida.
 
 #### Sumário dos dados coletados
 
@@ -64,34 +63,37 @@ Nessa parte o relator deve apresentar uma tabela que contenha as perguntas e res
 
 |Pergunta | Resposta |
 |-|-|
-| <p>Foi fácil compreender as histórias descritas no storyboard?</p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label>  |
-| <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
-| <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
-| <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | <label><input type="checkbox" disabled>Sim</label><br><label><input type="checkbox" disabled>Não</label> |
+| <p>Foi fácil compreender as histórias descritas no storyboard?</p> | **Sim**  |
+| <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | **Sim** |
+| <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | **Sim** |
+| <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | **Sim** |
 
-
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 </center>
 
-É importante apresentar um resumo dos demais dados coletados na entrevista como descrições, tabelas, gráficos etc, se houverem.
+<font size="2"><p style="text-align: center">**Gravação da Entrevista.**</p></font>
+
+<iframe width="560" height="315" src="https://youtu.be/qPyqEQ_809Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
+
 
 
 #### Interpretação e análise dos dados
-Nesta seção, deverá ocorrer uma análise sistemática - podendo ela ser manual ou automática (com o auxílio de softwares). O entrevistador deve realizar a interpretação de maneira a extrair significado dos dados coletados e identificar os impactos que as informações obtidas podem ter durante o projeto. 
+O entrevistado não demonstrou nenhuma dificuldade ao ler o storyboard, somente percebeu a falta de uma funcionalidade, que foi arrumada durante a entrevista. fazendo assim ter como conclusão que estava claro e coeso para o usuário.
 
 
 #### Lista dos problemas encontrados
-Nesta etapa do artefato, deverá ser registrada de maneira detalhada, clara e objetiva os problemas e dificuldades registrados pelos usuários durante a realização da entrevista.
+Faltou uma das opções no quadro 4 do storyboard.
 
 #### Sugestões de melhoria
 
-Neste tópico, o entrevistador deve documentar de forma detalhada e estruturada todas as sugestões e melhorias, baseando-se nos problemas identificados durante a avaliação. Também deverá ser apresentado os feedbacks dos usuários, que deve servir como fundamentação para as melhorias.
-
+Adicionar a quinta funcionalidade no quadro 4 do storyboard.
 
 #### Planejamento para o reprojeto.
 
-Por fim, com base em todos os pontos supracitados sobre os problemas encontrados no resultado da avalição, os integrantes devem dar início a fase de correção dos erros nos artefatos, tentando seguir o cronograma da tabela 3 para evitar o acúmulo de tarefas, lembrando de preencher os respectivos históricos de versões após as mudanças, adicionando também os devidos revisores.
+Foi feito na hora da reunião.
 
 
 <font size="2"><p style="text-align: center">**Tabela 03:** Planejamento do Reprojeto </p></font>
@@ -100,16 +102,12 @@ Por fim, com base em todos os pontos supracitados sobre os problemas encontrados
 
 | Storyboard | Responsável | Data de Início | Data de Fim |
 | :--------- | :---------: | :------------: | :---------: |
-| **Calcular preços e prazos de entrega** | [Cláudio][ClaudioGH]          |                |             |
-| **Realizar compras na loja online**     | [Elias][EliasGH]              |                |             |  
-| **Receber encomendas**       | [Gabriel B. Bertolazi][GabrielBGH] |           |             |  
-| **Realizar pré-postagem**              | [Gabriel F. J. Silva][GabrielFGH]  |           |             |  
-| **Gerenciar minhas importações**       | [Pablo][PabloGH]               |                |             |  
-| **Rastrear encomendas**                | [Ricardo][RicardoGH]           |                |             |  
+| **Receber encomendas** | [Gabriel B. Bertolazi][GabrielBGH] | 31/05/2024 | 31/05/2024 |  
+
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 ## Referências bibliográficas
 
@@ -124,7 +122,7 @@ Por fim, com base em todos os pontos supracitados sobre os problemas encontrados
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 21/05/2024 | Criação do documento |[Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | [Elias F. Oliveira][EliasGH] |
+| `1.0`  | 02/06/2024 | Edição de acordo com a entrevista | [Gabriel B. Bertolazi][GabrielBGH] |  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
