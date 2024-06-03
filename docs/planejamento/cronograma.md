@@ -211,7 +211,7 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
 | --- | --- | --- | --- | --- |
 | Relato dos resultados do Story Board | Início: 01/06  <br> Fim: 03/06 | Claúdio, Elias | Início: 03/06 Fim: 03/06 | Gabriel F. J. Silva |
 | Relato da Análise de tarefas | Início: 02/06 <br> Fim: 03/06 | Gabriel F. J. Silva, Pablo | Início: 03/06 <br> Fim: 03/06 | Ricardo |
-| Planejamento da Avaliação do Protótipo de Papel | Início: 02/06 <br> Fim: 03/06 | Ricardo, Gabriel B. Bertolazi | Início: 03/06 <br> Fim: 03/06 | Pablo |
+| Planejamento da Avaliação do Protótipo de Papel | Início: 02/06 <br> Fim: 03/06 | Ricardo, Gabriel B. Bertolazi | Início: 03/06 <br> Fim: 03/06 | Elias |
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: 03/06 <br> Fim: 03/06 | Claúdio, Elias | Início: 03/06 <br> Fim: 03/06 |  Gabriel B. Bertolazi  |
 | Gravação da Apresentação | Início: 03/06 <br> Fim: 03/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 03/06 <br> Fim: 03/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 | Correção pós apresentação | Início: 05/06 <br> Fim: 06/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 06/06 <br> Fim: 06/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
