@@ -130,7 +130,7 @@ Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-d
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 02/06/2024 | Criação do documento|  |  |
+|`1.0`| 02/06/2024 | Criação do documento| [Gabriel F. J. Silva][GabrielfGH] | [Gabriel B. Bertolazi][GabrielbGH] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi

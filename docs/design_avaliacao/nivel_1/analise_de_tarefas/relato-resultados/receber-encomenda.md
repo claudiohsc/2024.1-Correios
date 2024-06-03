@@ -91,7 +91,7 @@ O usuário gostou do HTA achou ele bem auto-explicativo elucidando bem a funcion
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 03/06/2024 | Criação do documento| [Gabriel B. Bertolazi][GabrielbGH] |  |
+|`1.0`| 03/06/2024 | Criação do documento| [Gabriel B. Bertolazi][GabrielbGH] | [Elias][EliasGH] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi

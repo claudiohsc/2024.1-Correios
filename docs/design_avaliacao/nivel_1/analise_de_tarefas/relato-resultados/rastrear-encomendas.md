@@ -135,7 +135,7 @@ O único ponto de mudança que o participante sugeriou foi sobre a etapa de "Sel
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 03/06/2024 | Criação do documento|  [Ricardo Augusto][RicardoGH] |  |
+|`1.0`| 03/06/2024 | Criação do documento|  [Ricardo Augusto][RicardoGH] | [Pablo][PabloGH] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
