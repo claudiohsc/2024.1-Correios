@@ -1,10 +1,10 @@
 ## Introdução
 
-O planejamento do relato de resultados tem como objetivo ser um guia para o documento que apresentará os resultados e conclusões obtidos na avaliação. O planejamento servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
+Este artefato tem como objetivo apresentar o relato dos resultados da análise de tarefas HTA, referente a utilização da loja online do site dos correios.
 
 ## Metodologia
 
-Faremos uma avaliação de intersujeito ou interparticipante de acordo com Barbosa e Silva(2021, p.279), para a consolidação e análise dos dados e informações coletados pela previsão dos avaliadores ou pelas experiências dos participantes observados. O documento a ser concebido pela equipe deve conter os seguintes tópicos retirados do livro IHC de Barboa e Silva, com um pequeno complemento do tópico de sugestão e feedback dos usuários. Abaixo os tópicos a serem utilizados:
+Foi realizado o método de inspeção inferindo algumas perguntas elaboradas no planejamento da análise através de uma entrevista como descrito no livro IHC de Barbosa e Silva, e também utilizando como referência o planejamento anteriormente estruturado na etapa passada do projeto. Abaixo temos descritos o seguintes tópicos definidos para serem descritos mais abaixo:
 
 * Objetivo da Avaliação;
 * Método empregado;
@@ -15,50 +15,71 @@ Faremos uma avaliação de intersujeito ou interparticipante de acordo com Barbo
 * Planejamento para o reprojeto da aplicação;
 * Sugestão e feedback dos usuários.
 
-
-## Tópicos
-
-Os tópicos da avaliação da análise de tarefas deverão ser descritos e estruturados de acordo com as descrições apresentados abaixo:
-
-
 ## Objetivo da Avaliação
-
-Neste tópico o integrante responsável deverá descrever quais os motivos e intenções da realização da avaliação que esta sendo feita, os objetivos e aspirações do grupo com os resultados obtidos.
+O objetivo da avaliação é: obter as impressões e informações observadas pelo entrevistado, para verificar se o que ele compreendeu condiz com a realidade apresentada pela funcionalidade representada no diagrama da análise de tarefas.
 
 ## Método empregado
-
-Deverá estar descrito qual a metodologia e como foi empregada na avaliação, ou seja, de que forma os dados foram coletados e como a avaliação aconteceu. No caso do nosso grupo será utilizada a técnica de entrevista descrita no livro IHC de Barbosa e Silva, o responsável pelo documento deverá observar e seguir o cronograma planejado que é apresentado abaixo na figura 01 e posteriormente adicionar o cronograma executado apresentando como aconteceu a entrevista.
+O método utilizado foi o de inspeção por meio de uma entrevista realizada com um usuário do site dos correios.Abaixo na tabela 01 temos os cronograma da entrevista realizada.
 
 <center>
-<font size="2"><p style="text-align: center">**Figura 01:** Tabela planejamento das reuniões</p></font>
+<font size="2"><p style="text-align: center">**Tabela 01:** Cronograma da Entrevista</p></font>
 
-| **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
-|--|--|--|--|--|--|
-|[Cláudio][ClaudioGH]|Renato Medeiros|16:00|16:30|24/05/24|A definir|
-|[Elias F. Oliveira][EliasGH]|Heitor|14:00|14:30|24/05/24|A definir|
-|[Gabriel Basto][GabrielbGH]|Gabriel Bevilaqua|20:00|20:30|27/05/24|A definir|
-|[Gabriel Fernando][GabrielfGH]|Patricio Reitter|14:00|14:30|29/05/24|A definir|
-|[Pablo][PabloGH]|Miguel Costa|15:00|15:30|29/05/24|A definir|
-|[Ricardo][RicardoGH]|Jhonny Lopes|14:00|14:30|29/05/24|A definir|
+| Entrevistado | Entrevistador | Local | Data / Horário |
+|:--:|:--:|:--:|:--:|
+| Heitor Simões | [Elias F. Oliveira][EliasGH] | Unb/FGA | 24/05/2024 Às 12:10 |
 
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH]  </p></font>
 </center>
 
 ## Número e o perfil dos usuários e avaliadores
 
-Para se ter uma melhor compreensão dos participantes deve-se declarar: a quantidade dos participantes da entrevista detalhando melhormente cada um e se possível descrevendo o perfil deles.
+Abaixo na tabela 02 encontram-se descritos todos os participantes da entrevista e o perfil deles.
+
+<center>
+<font size="2"><p style="text-align: center">**Tabela 02:** Participantes da Entrevista</p></font>
+
+| Nome | Usuário/Avaliador | Idade | Ocupação |
+|:--:|:--:|:--:|:--:|
+| Heitor Simões | Usuário | 22 anos | Estudante de Engenharia e Estagiário |
+| [Elias F. Oliveira][EliasGH] | Avaliador | 21 anos | Estudante de Engenharia |
+
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH]  </p></font>
+</center>
 
 ## Sumário dos dados coletados
 
-O participante avaliador deverá apresentar os dados no documento elucidando de maneira simples e clara para se extrair e entregar uma melhor compreensão dos dados e informações obtidos na avaliação.
+Na tabela 03 abaixo encontram-se as perguntas que foram inferidas ao entrevistado e suas respectivas respostas.
+
+<font size="2"><p style="text-align: center">**Tabela 03** - Perguntas elaboradas para a avaliação.</p></font>
+
+<center>
+
+| ID | Pergunta | Resposta |
+|:---:|:---:|:----:|
+| **1** | Qual seu nome completo? | Heitor|
+| **2** | Qual a sua idade? | 22 anos  |  
+| **3** | Qual sua ocupação?	  | Estudante de engenhari e estagiário  |  
+| **4** | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Excelente |
+| **5** | O diagrama de tarefas reflete corretamente suas expectativas de como o processo deveria ser? | Sim, bem de acordo com as expectativas do usuário. |
+| **6** | Existem etapas no processo que você considera particularmente demoradas ou ineficientes? | Somente o processo de compra que se mostrou um pouco extenso. |  
+| **7** | Como você acha que o processo poderia ser otimizado? | De nenhum maneira. |
+| **8** | Há alguma parte da tarefa que você acha especialmente difícil ou confusa | Não. |
+| **9** | Qual a frequência que você necessita realizar a tarefa?  | Nunca. |
+| **10** | Se você pudesse mudar qualquer coisa no processo da tarefa principal, o que mudaria? |O usuário não mudaria nada. |
+| **11** | Como você avalia a sua satisfação com o processo atual descrito no HTA? | Boa. |
+
+
+</center>
+
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ## Relato da interpretação e análise dos dados
 
-O entrevistador deve analisar e interpretar cuidadosamente os dados e informações obtidos apartir da entrevista, elucidando os principais padrões e tendências que detectar nas respostas dos participantes e retirar informações relevantes para o objetivo da avaliação.
+O usuário respondeu positivamente ao observar o diagrama HTA da análise de tarefas da loja online dos correios, compreendendo de maneira correta as suas funcionalidades.
 
 ## Problemas encontrados
 
-Neste tópico, o entrevistador precisará elencar de maneira ordenada e de fácil entendimento os principais obstáculos e falhas que o usuário enfrentou ao utilizar a funcionalidade que está em foco.
+O usuário relatou que o processo de compra seria muito extenso, demandando algum tempo do usuário para compreender e utilizar o sistema de compras da loja.
 
 ## Planejamento para o reprojeto da aplicação
 
@@ -70,32 +91,25 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 | **Entrevistador** |**Horário do início**|**Horário do Fim**|**Data**|
 |--|--|--|--|
-|[Cláudio][ClaudioGH]|--|--|--/05/24|
-|[Elias F. Oliveira][EliasGH]|--|--|--/05/24|
-|[Gabriel Basto][GabrielbGH]|--|--|--/05/24|
-|[Gabriel Fernando][GabrielfGH]|--|--|--/05/24|
-|[Pablo][PabloGH]|--|--|--/05/24|
-|[Ricardo][RicardoGH]|--|--|--/05/24|
+|[Elias F. Oliveira][EliasGH]|19:00|20:00|25/05/24|
 
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
 </center>
 
 
 ## Sugestão e feedback dos usuários
-
-É de extrema importância a documentação ser feita de maneira cautelosa, tomando nota de todos os passos do usuário e captando suas percepções e feedbacks positivos e negativos. Com isso o entrevistador deve sugerir mudanças para atender as espectativas do usuário e extinguir os problemas encontrados na avaliação, sendo feitas alterações por exemplo de: remodelagem de design, melhorias na interface e em funcionalidades do sistema.
+O participante não sugeriu nenhuma mudança.
 
 
 ## Bibliografia
 
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. 
-> 2. Planejamento do relato de resultados. Repositório do Grupo Nota Legal da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-estabelecimento/#historico-de-versao>. Acesso em: 22 maio 2024.
-
+> 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 22/05/2024 | Criação do documento|  |  |
+|`1.0`| 03/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] | [][] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
