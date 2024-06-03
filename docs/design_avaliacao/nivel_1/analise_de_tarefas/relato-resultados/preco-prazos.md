@@ -1,56 +1,38 @@
 ## Introdução
 
-O planejamento do relato de resultados tem como objetivo ser um guia para o documento que apresentará os resultados e conclusões obtidos na avaliação. O planejamento servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
-
-## Metodologia
-
-Faremos uma avaliação de intersujeito ou interparticipante de acordo com Barbosa e Silva(2021, p.279), para a consolidação e análise dos dados e informações coletados pela previsão dos avaliadores ou pelas experiências dos participantes observados. O documento a ser concebido pela equipe deve conter os seguintes tópicos retirados do livro IHC de Barboa e Silva, com um pequeno complemento do tópico de sugestão e feedback dos usuários. Abaixo os tópicos a serem utilizados:
-
-* Objetivo da Avaliação;
-* Método empregado;
-* Número e o perfil dos usuários e avaliadores;
-* Sumário dos dados coletados, com tabelas e gráficos;
-* Um relato da interpretação e análise dos dados;
-* Problemas encontrados;
-* Planejamento para o reprojeto da aplicação;
-* Sugestão e feedback dos usuários.
-
-
-## Tópicos
-
-Os tópicos da avaliação da análise de tarefas deverão ser descritos e estruturados de acordo com as descrições apresentados abaixo:
-
+Este documento visa registrar um plano para relatar os resultados obtidos na avaliação da Análise de Tarefas. A apresentação dos resultados serve para detalhar a análise realizada de uma atividade específica. Nele, serão discutidos os tópicos essenciais para a elaboração desse relato.
 
 ## Objetivo da Avaliação
 
-Neste tópico o integrante responsável deverá descrever quais os motivos e intenções da realização da avaliação que esta sendo feita, os objetivos e aspirações do grupo com os resultados obtidos.
+O objetivo da avaliação foi verificar a coerência entre o diagrama HTA de "Cálculo de preços e prazos" e a tarefa realizada no site dos Correios, e assim identificar problemas ou oportunidades de melhoria.
+
 
 ## Método empregado
 
-Deverá estar descrito qual a metodologia e como foi empregada na avaliação, ou seja, de que forma os dados foram coletados e como a avaliação aconteceu. No caso do nosso grupo será utilizada a técnica de entrevista descrita no livro IHC de Barbosa e Silva, o responsável pelo documento deverá observar e seguir o cronograma planejado que é apresentado abaixo na figura 01 e posteriormente adicionar o cronograma executado apresentando como aconteceu a entrevista.
+
+Conforme foi definido no [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/), foi empregado o método de entrevista com o usuário, onde foi guiada por algumas perguntas definidas previamente.
+Na tabela 1, está o cronograma executado da entrevista.
 
 <center>
-<font size="2"><p style="text-align: center">**Figura 01:** Tabela planejamento das reuniões</p></font>
+
+<font size="2"><p style="text-align: center">**Tabela 01:** Tabela planejamento das reuniões</p></font>
 
 | **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
 |--|--|--|--|--|--|
-|[Cláudio][ClaudioGH]|Renato Medeiros|16:00|16:30|24/05/24|A definir|
-|[Elias F. Oliveira][EliasGH]|Heitor|14:00|14:30|24/05/24|A definir|
-|[Gabriel Basto][GabrielbGH]|Gabriel Bevilaqua|20:00|20:30|27/05/24|A definir|
-|[Gabriel Fernando][GabrielfGH]|Patricio Reitter|14:00|14:30|29/05/24|A definir|
-|[Pablo][PabloGH]|Miguel Costa|15:00|15:30|29/05/24|A definir|
-|[Ricardo][RicardoGH]|Jhonny Lopes|14:00|14:30|29/05/24|A definir|
+|[Cláudio Henrique][ClaudioGH]|Renato Medeiros|12:30|13:00|24/05/24| Sala I3 - FGA|
 
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
+
+<font size="2"><p style="text-align: center">**Fonte:** [Claudio Henrique][ClaudioGH]</p></font>
+
 </center>
 
 ## Número e o perfil dos usuários e avaliadores
 
-Para se ter uma melhor compreensão dos participantes deve-se declarar: a quantidade dos participantes da entrevista detalhando melhormente cada um e se possível descrevendo o perfil deles.
+A seleção do participante se deu pela orientação a partir do [Perfil do Usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/) definido anteriormente, onde o entrevistado tem 25 anos e está dentro da faixa etária definida, possui ensino superior incompleto e experiência muito boa com artefatos tecnológicos.
 
 ## Sumário dos dados coletados
 
-O participante avaliador deverá apresentar os dados no documento elucidando de maneira simples e clara para se extrair e entregar uma melhor compreensão dos dados e informações obtidos na avaliação.
+
 
 ## Relato da interpretação e análise dos dados
 
