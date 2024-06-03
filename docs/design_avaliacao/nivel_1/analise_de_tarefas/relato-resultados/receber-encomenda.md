@@ -1,6 +1,6 @@
 ## Introdução
 
-O planejamento do relato de resultados tem como objetivo ser um guia para o documento que apresentará os resultados e conclusões obtidos na avaliação. O planejamento servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
+A análise de tarefas é um processo fundamental para entender como indivíduos realizam atividades específicas, permitindo a identificação de etapas críticas, obstáculos e oportunidades de melhoria. A seguir, apresentamos os principais achados desta análise, que oferecem uma visão aprofundada sobre as dinâmicas envolvidas nas tarefas estudadas, destacando tanto os aspectos positivos quanto as áreas que necessitam de intervenção.
 
 ## Metodologia
 
@@ -18,7 +18,7 @@ Faremos uma avaliação de intersujeito ou interparticipante de acordo com Barbo
 
 ## Tópicos
 
-Os tópicos da avaliação da análise de tarefas deverão ser descritos e estruturados de acordo com as descrições apresentados abaixo:
+Os tópicos da avaliação da análise de tarefas deverão ser descritos e estruturados abaixo:
 
 
 ## Objetivo da Avaliação
@@ -78,7 +78,7 @@ O usuário gostou do HTA achou ele bem auto-explicativo elucidando bem a funcion
 
 ## Reunião Gravada
 
-<iframe width="560" height="315" src="https://youtu.be/5B7uw47I23U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/z3G9iTmnP-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Bibliografia
