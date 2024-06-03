@@ -377,7 +377,7 @@ Disponível em:
 | `1.4` | 06/05/2024 | Adiciona cronograma executado da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [](https://github.com/) |
 | `2.0` | 12/05/2024 | Reajusta datas do cronograma planejado para as entregas 3, 4, 5, 6.1, 6.2, 8 e entrega final e também corrigi espaçamento das tabelas | [Elias F. Oliveira](EliasGH), [Gabriel B. Bertolazi](Gabrielb), [Gabriel F. J. Silva](GabrielfGH) e  [Pablo S. Costa](PabloGH) | [Ricardo](RicardoGH) |
 | `2.1` | 13/05/2024 | Adiciona cronograma executado da entrega 3 |[Elias Oliveira](EliasGH) | [Ricardo](RicardoGH) |
-| `2.2` | 03/06/2024 | Adiciona cronograma executado da entrega 5 |[Elias Oliveira](EliasGH) | [Ricardo](RicardoGH) |
+| `2.2` | 03/06/2024 | Adiciona cronograma executado da entrega 5 |[Elias Oliveira](EliasGH) | [Gabriel B. Bertolazi](GabrielbGH) |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
