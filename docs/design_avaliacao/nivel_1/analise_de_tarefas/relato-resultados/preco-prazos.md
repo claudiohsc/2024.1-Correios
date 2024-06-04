@@ -95,7 +95,7 @@ Durante a entrevista se mostrou um interesse do usuário em facilitar o processo
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 02/06/2024 | Criação do documento| [Claudio Henrique][ClaudioGH] | [Gabriel B. Bertolazi][GabrielbGH], [Gabriel F. J. Silva][GabrielfGH] e[Ricardo][RicardoGH] |
+|`1.0`| 02/06/2024 | Criação do documento| [Claudio Henrique][ClaudioGH] | [Gabriel B. Bertolazi][GabrielbGH], [Gabriel F. J. Silva][GabrielfGH] ,[Ricardo][RicardoGH] e [Elias F. Oliveira][EliasGH] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
