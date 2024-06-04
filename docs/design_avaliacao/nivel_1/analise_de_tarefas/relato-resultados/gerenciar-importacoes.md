@@ -29,8 +29,6 @@ A abordagem adotada consistiu em uma inspeção realizada através de uma entrev
 
 O participante convidado da entrevista foi escolhido tendo em base o [perfil de usuário](../../../analise_de_requisitos/perfil_de_usuario/perfil_de_usuario.md) do site dos correios. Além disso o Mateus se encaixa com a persona Gabriel por ambos serem empreendedores e por ter aceitado participar voluntariamente.
 
-<font size="2"><p style="text-align: center">**Fonte:** [Pablo S. Costa][PabloGH], 2024.</p></font>
-
 ## Gravação da reunião
 
 Abaixo está a gravação da  entrevista.
@@ -40,6 +38,8 @@ Abaixo está a gravação da  entrevista.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f3NWsS1urr4?si=d1HiNJL-eYGcmls0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
+
+<p style="text-align: center">Para abrir em outra janela <a href="https://www.youtube.com/embed/f3NWsS1urr4" target="blanket">Clique aqui</a>.</p>
 
 ## Sumário dos dados coletados
 
@@ -63,10 +63,9 @@ Na tabela 03 abaixo encontram-se as perguntas que foram inferidas ao entrevistad
 | **10** | Se você pudesse mudar qualquer coisa no processo da tarefa principal, o que mudaria? | sem sugestão. |
 | **11** | Como você avalia a sua satisfação com o processo atual descrito no HTA? | Otimo. |
 
+<font size="2"><p style="text-align: center">**Fonte:** [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 </center>
-
-<p style="text-align: center">Para abrir em outra janela <a href="https://www.youtube.com/embed/f3NWsS1urr4" target="blanket">Clique aqui</a>.</p>
 
 ## Relato da interpretação e análise dos dados
 
