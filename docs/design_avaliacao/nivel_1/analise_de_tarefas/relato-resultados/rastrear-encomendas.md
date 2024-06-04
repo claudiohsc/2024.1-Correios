@@ -2,25 +2,6 @@
 
 O planejamento do relato de resultados tem como objetivo ser um guia para o documento que apresentará os resultados e conclusões obtidos na avaliação. O planejamento servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
 
-## Metodologia
-
-Faremos uma avaliação de intersujeito ou interparticipante de acordo com Barbosa e Silva(2021, p.279), para a consolidação e análise dos dados e informações coletados pela previsão dos avaliadores ou pelas experiências dos participantes observados. O documento a ser concebido pela equipe deve conter os seguintes tópicos retirados do livro IHC de Barboa e Silva, com um pequeno complemento do tópico de sugestão e feedback dos usuários. Abaixo os tópicos a serem utilizados:
-
-* Objetivo da Avaliação;
-* Método empregado;
-* Número e o perfil dos usuários e avaliadores;
-* Sumário dos dados coletados, com tabelas e gráficos;
-* Um relato da interpretação e análise dos dados;
-* Problemas encontrados;
-* Planejamento para o reprojeto da aplicação;
-* Sugestão e feedback dos usuários.
-
-
-## Tópicos
-
-Os tópicos da avaliação da análise de tarefas deverão ser descritos e estruturados de acordo com as descrições apresentados abaixo:
-
-
 ## Objetivo da Avaliação
 
 A avaliação da análise de tarefas visa identificar áreas de melhoria e validar sua adequação ao público-alvo. Realizada através de uma entrevista (com uso do [termo de consentimento](../../../../assets/Termo_de_consentimento(new).pdf)) guiadas por questionário, busca-se avaliar se o que o participante compreendeu o fluxo da análise de tarefas e se tem alguma sugestão de mudança.
@@ -56,6 +37,17 @@ Abaixo na tabela 02 encontram-se descritos todos os participantes da entrevista 
 <font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.  </p></font>
 </center>
 
+</center>
+
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+Abaixo está o link para a gravação da reunião de entrevista.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jKdxTFcT-4Y?si=k2huosSxnaAerVIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## Sumário dos dados coletados
 
@@ -79,18 +71,6 @@ De acordo com o planejamento, as perguntas realizadas durante a entrevista e as 
 | **10** | Se você pudesse mudar qualquer coisa no processo da tarefa principal, o que mudaria? | Não precisaria ter a etapa "Selecionar o tipo de objeto". |
 | **11** | Como você avalia a sua satisfação com o processo atual descrito no HTA? | Satisfação boa. |
 
-
-</center>
-
-<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.</p></font>
-
-Abaixo está o link para a gravação da reunião de entrevista.
-
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jKdxTFcT-4Y?si=k2huosSxnaAerVIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</center>
 
 ## Relato da interpretação e análise dos dados
 
@@ -135,7 +115,7 @@ O único ponto de mudança que o participante sugeriou foi sobre a etapa de "Sel
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 03/06/2024 | Criação do documento|  [Ricardo Augusto][RicardoGH] | [Pablo][PabloGH] |
+|`1.0`| 03/06/2024 | Criação do documento|  [Ricardo Augusto][RicardoGH] | [Gabriel B. Bertolazi][GabrielbGH] e [Gabriel F. J. Silva][GabrielfGH] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi

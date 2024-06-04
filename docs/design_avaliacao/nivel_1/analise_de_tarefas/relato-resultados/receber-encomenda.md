@@ -2,24 +2,6 @@
 
 A análise de tarefas é um processo fundamental para entender como indivíduos realizam atividades específicas, permitindo a identificação de etapas críticas, obstáculos e oportunidades de melhoria. A seguir, apresentamos os principais achados desta análise, que oferecem uma visão aprofundada sobre as dinâmicas envolvidas nas tarefas estudadas, destacando tanto os aspectos positivos quanto as áreas que necessitam de intervenção.
 
-## Metodologia
-
-Foi feita uma avaliação de intersujeito ou interparticipante de acordo com Barbosa e Silva (2021, p.279), para a consolidação e análise dos dados e informações coletados pela previsão do avaliador ou pelas experiências dos participantes observados. O documento a ser concebido pela equipe deve conter os seguintes tópicos retirados do livro IHC de Barbosa e Silva, com um pequeno complemento do tópico de sugestão e feedback dos usuários. Abaixo os tópicos utilizados:
-
-* Objetivo da Avaliação;
-* Método empregado;
-* Número e o perfil dos usuários e avaliadores;
-* Sumário dos dados coletados, com tabelas e gráficos;
-* Um relato da interpretação e análise dos dados;
-* Problemas encontrados;
-* Planejamento para o reprojeto da aplicação;
-* Sugestão e feedback dos usuários.
-
-
-## Tópicos
-
-Os tópicos da avaliação da análise de tarefas deverão ser descritos e estruturados abaixo:
-
 
 ## Objetivo da Avaliação
 
@@ -42,6 +24,16 @@ Foi feita uma entrevista (usando o [termo de consentimento](../../../../assets/T
 ## Número e o perfil dos usuários e avaliadores
 
 O usuário escolhido foi o aluno de direito da UnB chamdo Adam de 20 anos, um cliente assíduo dos correios e utiliza a tarefa de recebimento de encomendas, sendo assim o usuário em questão utiliza muito a função de receber em um vizinho, que permite com que ele mande uma encomenda para casa de um amigo ao qual ele queira presentear.
+
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel B. Bertolazi][GabrielbGH], 2024.</p></font>
+
+Abaixo está o link para a gravação da reunião de entrevista.
+
+<center>
+
+<iframe width="560" height="315" src="https://youtu.be/z3G9iTmnP-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## Sumário dos dados coletados
 
@@ -76,9 +68,6 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 O usuário gostou do HTA achou ele bem auto-explicativo elucidando bem a funcionalidade em questão, a única crítica descrita pelo usuário era que ele achava que a função 5. mudar endereço de recebimento podia estar dentro da 4. mudar escolha de recebimento, já que é o fluxo natural da tarefa. Além disso em funções de informar o CEP ele acreditava já ter a função do endereço buscar diretamente o CEP já no início e não precisar ir para esqueci meu CEP para alcançar essa função, mas essa informação foi corrigida depois dizendo que havia visto isso em outro site, além disso foi dito que o 5. poderia ser substituído por retirar encomenda na agência dos correios.
 
-## Reunião Gravada
-
-<iframe width="560" height="315" src="https://youtu.be/z3G9iTmnP-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Bibliografia
@@ -91,7 +80,7 @@ O usuário gostou do HTA achou ele bem auto-explicativo elucidando bem a funcion
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 03/06/2024 | Criação do documento| [Gabriel B. Bertolazi][GabrielbGH] | [Elias][EliasGH] |
+|`1.0`| 03/06/2024 | Criação do documento| [Gabriel B. Bertolazi][GabrielbGH] | [Gabriel F. J. Silva][GabrielfGH] e [Ricardo][RicardoGH] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi

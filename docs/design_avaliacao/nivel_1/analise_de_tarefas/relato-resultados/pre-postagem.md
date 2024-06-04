@@ -2,21 +2,6 @@
 
 Este artefato contém o relato dos resultados obtidos na avaliação da [Análise Hierarquica de Tarefas (HTA)](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/hta/). Ele servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
 
-## Metodologia
-
-Foi realizada uma investigação e uma análise intraparticipante da entrevista, de acordo com Barbosa e Silva (2021, p.279), para a consolidação e análise dos dados e informações, das experiências dos participantes observados, coletados pelos avaliadores. Cada integrante da equipe documentou os resultados em uma página separada que contém os seguintes tópicos retirados do livro IHC de Barboa e Silva, com um pequeno complemento do tópico de sugestão e feedback dos usuários. Abaixo os tópicos a serem utilizados:
-
-* Objetivo da Avaliação;
-* Método empregado;
-* Número e o perfil dos usuários e avaliadores;
-* Sumário dos dados coletados, com tabelas e gráficos;
-* Um relato da interpretação e análise dos dados;
-* Problemas encontrados;
-* Planejamento para o reprojeto da aplicação;
-* Sugestão e feedback dos usuários.
-
-
-## Tópicos
 
 ## Objetivo da Avaliação
 
@@ -130,7 +115,7 @@ Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-d
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 02/06/2024 | Criação do documento| [Gabriel F. J. Silva][GabrielfGH] | [Gabriel B. Bertolazi][GabrielbGH] |
+|`1.0`| 02/06/2024 | Criação do documento| [Gabriel F. J. Silva][GabrielfGH] | [Gabriel B. Bertolazi][GabrielbGH] e [Ricardo][RicardoGH] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi

@@ -2,18 +2,6 @@
 
 Este artefato tem como objetivo apresentar o relato dos resultados da análise de tarefas HTA, referente a utilização da loja online do site dos correios.
 
-## Metodologia
-
-Foi utilizado o método de inspeção inferindo algumas perguntas elaboradas anteriormente no planejamento da análise através de uma entrevista como descrito no livro IHC de Barbosa e Silva, e também utilizando como referência o planejamento anteriormente estruturado na etapa passada do projeto. Abaixo temos descritos o seguintes tópicos definidos para serem descritos mais abaixo:
-
-* Objetivo da Avaliação;
-* Método empregado;
-* Número e o perfil dos usuários e avaliadores;
-* Sumário dos dados coletados, com tabelas e gráficos;
-* Um relato da interpretação e análise dos dados;
-* Problemas encontrados;
-* Planejamento para o reprojeto da aplicação;
-* Sugestão e feedback dos usuários.
 
 ## Objetivo da Avaliação
 O objetivo da avaliação é: obter as impressões e informações observadas pelo entrevistado, verificando se o que ele compreendeu condiz com a realidade apresentada pela funcionalidade representada no diagrama da análise de tarefas.
@@ -121,7 +109,7 @@ O participante não inferiu nenhuma sugestão para alteração ou modificação 
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 03/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] | [Cláudio][ClaudioGH] |
+|`1.0`| 03/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] | [Gabriel B. Bertolazi][GabrielbGH], [Gabriel F. J. Silva][GabrielfGH] e [Ricardo][RicardoGH] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
