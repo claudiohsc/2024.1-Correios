@@ -19,23 +19,13 @@ Os objetivos selecionados são identificar problemas na interação e na interfa
 
 ### E - Explorar
 
-Os avaliadores devem elaborar perguntas específicas para cada objetivo, que deverão ser respondidas durante a avaliação. De acordo com os objetivos citados no tópico anterior, as perguntas elaboradas estão descritas na tabela 1.
+Os avaliadores devem elaborar perguntas específicas para cada objetivo, que deverão ser respondidas durante a avaliação. De acordo com os objetivos citados no tópico anterior, as perguntas elaboradas estão descritas abaixo.
 
-<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
-
-<center>
-
-| Pergunta | Resposta |
-|----------|----------|
-| <p>Durante sua interação com o protótipo de papel, você encontrou algum aspecto que considerou confuso ou problemático? Se sim, poderia descrever?</p> | <label><input type="checkbox" disabled>Sim + Complemento</label><br><label><input type="checkbox" disabled>Não</label> |
-| <p>Ao explorar o protótipo, você identificou alguma falha na interação que poderia dificultar o uso efetivo do sistema? Se sim, poderia descrever?</p> | <label><input type="checkbox" disabled>Sim + Complemento</label><br><label><input type="checkbox" disabled>Não</label>  |
-| <p>Quais elementos da interface do protótipo você acha que poderiam ser aprimorados para tornar a experiência mais intuitiva e eficiente?</p> | Resposta aberta  |
-| <p>Você teve alguma ideia ou sugestão para melhorar a forma como certas funcionalidades são apresentadas ou acessadas no protótipo de papel? Se sim, poderia descrever?</p> | <label><input type="checkbox" disabled>Sim + Complemento</label><br><label><input type="checkbox" disabled>Não</label>  |
-| <p>Baseado na sua experiência com o protótipo, você identificou alguma oportunidade de design que ainda não foi explorada e que poderia agregar valor à interação? Se sim, poderia descrever?</p> | <label><input type="checkbox" disabled>Sim + Complemento</label><br><label><input type="checkbox" disabled>Não</label> |
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+1. Quais são os principais desafios enfrentados pelos usuários durante a interação com os protótipos de papel?
+2. Quais elementos da interface apresentam maior dificuldade de compreensão ou utilização pelos usuários?
+3. Como as ideias e alternativas de design propostas são percebidas e avaliadas pelos usuários?
+4. Existem padrões de comportamento ou preferências de interação que emergem durante a utilização dos protótipos?
+5. Quais são as sugestões e feedback dos usuários para melhorias na interação e na interface dos protótipos de papel?
 
 ### C - Escolher
 
@@ -60,11 +50,11 @@ Equipamentos para a entrevista:
 
 #### Prazos
 
-Abaixo, na tabela 3, estão descritas as informações sobre o planejamento das entrevistas.
+Abaixo, na tabela 1, estão descritas as informações sobre o planejamento das entrevistas.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 2 - Tabela de Planejamento para realização das entrevistas do protótipo de papel.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Tabela de Planejamento para realização das entrevistas do protótipo de papel.</p></font>
 
 | Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
 | :----- | :-----------: | :----------: | :-----: |:----:| :----:| 
@@ -95,9 +85,9 @@ Os resultados serão apresentados mais tarde em um relatório detalhado, incluin
 
 Antes de mergulharmos nas entrevistas com os usuários, um passo crucial nos aguarda: o teste piloto. Essa etapa meticulosa visa simular uma sessão de avaliação real, garantindo que tudo esteja funcionando perfeitamente para a coleta de dados valiosos.
 
-Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando surpresas durante as entrevistas reais. Analisaremos a eficácia do nosso planejamento, ajustando-o para garantir um fluxo suave e eficiente durante as avaliações. Asseguraremos que a avaliação forneça os dados precisos e relevantes para o nosso estudo, respondendo às nossas perguntas e objetivos. Avaliaremos a clareza e a objetividade da linguagem utilizada nas entrevistas, certificando-nos de que as perguntas sejam compreendidas de maneira inequívoca pelos participantes. Conforme Barbosa e Silva (2021, p. 276), o teste piloto vai além de um simples teste de ferramentas. Ele nos permite avaliar o próprio planejamento, garantindo que a avaliação produza os dados necessários para alcançarmos os objetivos do estudo.Durante o teste piloto, os avaliadores conduzirão uma simulação completa de uma sessão de avaliação, incluindo explicações, materiais e interação com os participantes. O cronograma passar essa etapa encontrase na Tabela 3 abaixo.
+Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando surpresas durante as entrevistas reais. Analisaremos a eficácia do nosso planejamento, ajustando-o para garantir um fluxo suave e eficiente durante as avaliações. Asseguraremos que a avaliação forneça os dados precisos e relevantes para o nosso estudo, respondendo às nossas perguntas e objetivos. Avaliaremos a clareza e a objetividade da linguagem utilizada nas entrevistas, certificando-nos de que as perguntas sejam compreendidas de maneira inequívoca pelos participantes. Conforme Barbosa e Silva (2021, p. 276), o teste piloto vai além de um simples teste de ferramentas. Ele nos permite avaliar o próprio planejamento, garantindo que a avaliação produza os dados necessários para alcançarmos os objetivos do estudo.Durante o teste piloto, os avaliadores conduzirão uma simulação completa de uma sessão de avaliação, incluindo explicações, materiais e interação com os participantes. O cronograma passar essa etapa encontrase na Tabela 2 abaixo.
 
-<font size="2"><p style="text-align: center">Tabela 4 - Planejamento do Teste Piloto.</p></font>
+<font size="2"><p style="text-align: center">Tabela 2 - Planejamento do Teste Piloto.</p></font>
 
 <center>
 
