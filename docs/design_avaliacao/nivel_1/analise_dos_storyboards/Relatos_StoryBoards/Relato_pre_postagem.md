@@ -126,7 +126,7 @@ Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-d
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 03/06/2024 | Criação do documento| [Gabriel Fernando][GabrielfGH] |  |
+|`1.0`| 03/06/2024 | Criação do documento| [Gabriel Fernando][GabrielfGH] | [Gabriel Bertolazi][GabrielbGH] |
 
 
 [GabrielfGH]: https://github.com/MMcLovin
