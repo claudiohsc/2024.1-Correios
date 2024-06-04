@@ -7,7 +7,7 @@ Esta página tem como foco o vídeo de apresentação da etapa 04 do projeto. A 
 
 <iframe width="1519" height="542" src="https://www.youtube.com/embed/7tusZ2qf9T8" title="Apresentação 4 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Link para o vídeo]()
+[Link para o vídeo](https://www.youtube.com/7tusZ2qf9T8)
 
 
 ## Bibliografia
