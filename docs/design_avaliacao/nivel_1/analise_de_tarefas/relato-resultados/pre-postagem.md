@@ -65,7 +65,7 @@ Houve a participação de uma pessoa para a entrevista, que foi o Paulo Cerqueir
 
 ### Gravação da Reunião
 
-<iframe width="1519" height="542" src="https://www.youtube.com/embed/watch?v=KkPOLVolZ4U" title="Avaliação do Storyboard - Grupo 03 (Gabriel Fernando)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1519" height="542" src="https://www.youtube.com/embed/KkPOLVolZ4U" title="Avaliação da Análise de Tarefas - Grupo 03 (Gabriel Fernando)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center">Link direto para o vídeo <a href="https://www.youtube.com/watch?v=KkPOLVolZ4U">aqui</a>.</p> 
 
@@ -92,7 +92,7 @@ Abaixo na Tabela 04, temos as respostas do participante às perguntas do [roteir
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
-## <a id="analise"> Relato da interpretação e análise dos dados </a>
+## Relato da interpretação e análise dos dados
 
 Apesar do entrevistado ter respondido que não mudaria nada sobre o processo descrito no diagrama HTA (pergunta 10), ele também comentou que o preenchimento dos dados da pré-postagem parece muito longo, o que se dá pelo fato de que entre os muitos campos de preenchimento, praticamente todos são de preenchimento obrigatório. 
 
