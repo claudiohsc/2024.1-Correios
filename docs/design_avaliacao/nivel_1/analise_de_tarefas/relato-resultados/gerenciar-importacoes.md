@@ -4,19 +4,6 @@
 
 Este artefato tem como objetivo apresentar o relato dos resultados da análise de tarefas HTA, referente a utilização da Minhas Importações do site dos correios.
 
-## Metodologia
-
-Foi utilizado o método de inspeção inferindo algumas perguntas elaboradas anteriormente no planejamento da análise através de uma entrevista como descrito no livro IHC de Barbosa e Silva, e também utilizando como referência o planejamento anteriormente estruturado na etapa passada do projeto. Abaixo temos descritos o seguintes tópicos definidos para serem descritos mais abaixo:
-
-* Objetivo da Avaliação;
-* Método empregado;
-* Número e o perfil dos usuários e avaliadores;
-* Sumário dos dados coletados, com tabelas e gráficos;
-* Um relato da interpretação e análise dos dados;
-* Problemas encontrados;
-* Planejamento para o reprojeto da aplicação;
-* Sugestão e feedback dos usuários.
-
 ## Objetivo da Avaliação
 
 A avaliação tem como objetivo coletar as percepções e observações do entrevistado sobre a funcionalidade representada no diagrama da análise de tarefas, verificando se sua compreensão está alinhada com a realidade.
@@ -42,6 +29,18 @@ A abordagem adotada consistiu em uma inspeção realizada através de uma entrev
 
 O participante convidado da entrevista foi escolhido tendo em base o [perfil de usuário](../../../analise_de_requisitos/perfil_de_usuario/perfil_de_usuario.md) do site dos correios. Além disso o Mateus se encaixa com a persona Gabriel por ambos serem empreendedores e por ter aceitado participar voluntariamente.
 
+<font size="2"><p style="text-align: center">**Fonte:** [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+## Gravação da reunião
+
+Abaixo está a gravação da  entrevista.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3NWsS1urr4?si=d1HiNJL-eYGcmls0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 ## Sumário dos dados coletados
 
 Na tabela 03 abaixo encontram-se as perguntas que foram inferidas ao entrevistado e suas respectivas respostas.
@@ -64,16 +63,6 @@ Na tabela 03 abaixo encontram-se as perguntas que foram inferidas ao entrevistad
 | **10** | Se você pudesse mudar qualquer coisa no processo da tarefa principal, o que mudaria? | sem sugestão. |
 | **11** | Como você avalia a sua satisfação com o processo atual descrito no HTA? | Otimo. |
 
-
-</center>
-
-<font size="2"><p style="text-align: center">**Fonte:** [Pablo S. Costa][PabloGH], 2024.</p></font>
-
-Abaixo está a gravação da  entrevista.
-
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3NWsS1urr4?si=d1HiNJL-eYGcmls0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 

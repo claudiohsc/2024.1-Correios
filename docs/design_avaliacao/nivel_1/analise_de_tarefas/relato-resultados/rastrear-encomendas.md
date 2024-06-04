@@ -37,15 +37,15 @@ Abaixo na tabela 02 encontram-se descritos todos os participantes da entrevista 
 <font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.  </p></font>
 </center>
 
-</center>
-
-<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.</p></font>
+## Gravação da reunião
 
 Abaixo está o link para a gravação da reunião de entrevista.
 
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jKdxTFcT-4Y?si=k2huosSxnaAerVIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 </center>
 

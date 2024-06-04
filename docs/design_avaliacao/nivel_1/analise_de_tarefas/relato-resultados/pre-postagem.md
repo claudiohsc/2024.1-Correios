@@ -48,9 +48,11 @@ Houve a participação de uma pessoa para a entrevista, que foi o Paulo Cerqueir
 <font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
 </center>
 
-### Gravação da Reunião
+## Gravação da Reunião
 
 <iframe width="1519" height="542" src="https://www.youtube.com/embed/KkPOLVolZ4U" title="Avaliação da Análise de Tarefas - Grupo 03 (Gabriel Fernando)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
 
 <p style="text-align: center">Link direto para o vídeo <a href="https://www.youtube.com/watch?v=KkPOLVolZ4U">aqui</a>.</p> 
 

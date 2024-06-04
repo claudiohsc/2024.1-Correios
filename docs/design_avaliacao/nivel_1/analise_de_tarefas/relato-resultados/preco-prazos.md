@@ -30,14 +30,17 @@ Na tabela 1, está o cronograma executado da entrevista.
 
 A seleção do participante se deu pela orientação a partir do [Perfil do Usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/) definido anteriormente, onde o entrevistado tem 28 anos, possui ensino superior incompleto e experiência muito boa com artefatos tecnológicos.
 
-### Gravação da Reunião
+## Gravação da Reunião
+
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7u53MSuU37A?si=4GSM20ma0886-qxv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 <font size="2"><p style="text-align: center">**Fonte:** [Claudio Henrique][ClaudioGH]</p></font>
 
 <p style="text-align: center">Link direto para o vídeo <a href="https://www.youtube.com/watch?v=7u53MSuU37A">aqui</a>.</p> 
+
+</center>
 
 ## Sumário dos dados coletados
 
