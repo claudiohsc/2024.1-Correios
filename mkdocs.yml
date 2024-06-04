@@ -58,6 +58,10 @@ nav:
           - Gerenciar Minhas Importações: design_avaliacao/nivel_1/analise_dos_storyboards/Relatos_StoryBoards/Relato_minhas_importacoes.md
           - Rastrear Encomendas: design_avaliacao/nivel_1/analise_dos_storyboards/Relatos_StoryBoards/Relato_rastreamento_encomendas.md
         - Storyboards: design_avaliacao/storyboards.md
+    - Nível 2:
+      - Protótipo de Papel:
+        - Planejamento da Avaliação: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao.md
+        - Planejamento do Relato dos Resultados: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados.md
 extra_css:
   - stylesheets/extra.css
 theme:
