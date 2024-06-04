@@ -110,8 +110,6 @@ Por fim, com base em todos os pontos supracitados sobre os problemas encontrados
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
-> 2. Planejamento do Relato dos Resultados. **Nota Legal**. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento/planejamento-relato_storyboard/>. Acesso em: 22 de maio de 2024.
-
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
