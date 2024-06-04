@@ -67,8 +67,6 @@ Na tabela 03 abaixo encontram-se as perguntas que foram inferidas ao entrevistad
 
 </center>
 
-<p style="text-align: center">Para abrir em outra janela <a href="https://www.youtube.com/embed/f3NWsS1urr4" target="blanket">Clique aqui</a>.</p>
-
 ## Relato da interpretação e análise dos dados
 
 O participante teve uma reação favorável ao analisar o diagrama HTA referente à análise de tarefas da Minhas Importações dos Correios, demonstrando entender adequadamente as funcionalidades apresentadas.
