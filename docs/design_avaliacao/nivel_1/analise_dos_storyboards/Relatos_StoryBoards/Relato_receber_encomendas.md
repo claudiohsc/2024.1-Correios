@@ -74,7 +74,11 @@ Nessa parte o relator deve apresentar uma tabela que contenha as perguntas e res
 
 <font size="2"><p style="text-align: center">**Gravação da Entrevista.**</p></font>
 
-<iframe width="560" height="315" src="https://youtu.be/qPyqEQ_809Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qPyqEQ_809Y?si=1b84pyKif6k7PLhT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
