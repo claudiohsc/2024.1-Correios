@@ -120,7 +120,7 @@ Abaixo está a figura 6 representado o storyboard de minhas importações, assim
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 20/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] e [Pablo S. Costa][PabloGH]  | [Claudio Henrique](ClaudioGH)  |
-| `1.1`  | 01/06/2024 | Revisão pós apresentação | [Pablo S. Costa][PabloGH]  |  |
+| `1.1`  | 01/06/2024 | Revisão pós apresentação | [Pablo S. Costa][PabloGH]  | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
