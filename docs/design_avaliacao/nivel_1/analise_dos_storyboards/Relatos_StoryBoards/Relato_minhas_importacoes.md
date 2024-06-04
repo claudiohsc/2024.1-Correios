@@ -55,6 +55,7 @@ Abaixo está a gravação da  entrevista.
 #### Sumário dos dados coletados
 
 Abaico temos a tabela 2 onde estão as preguntas estabelecidas pelo planejamento para essa avaliação, e que são respondidas na entrevista.
+
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas da entrevista.</p></font>
@@ -81,6 +82,10 @@ Durante a entrevista o participante não encontrou nenhum problema relacionado a
 #### Sugestões de melhoria
 
 O participante da entrevista não relatou nenhuma sugestão de melhora para o storyboard avaliado.
+
+#### Planejamento para o reprojeto da aplicação
+
+Com base nos dados não há necessidade de reprojeto.
 
 ## Referências bibliográficas
 
