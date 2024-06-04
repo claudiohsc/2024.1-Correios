@@ -27,19 +27,19 @@ Neste tópico o integrante responsável deverá descrever quais os motivos e int
 
 ## Método empregado
 
-Deverá estar descrito qual a metodologia e como foi empregada na avaliação, ou seja, de que forma os dados foram coletados e como a avaliação aconteceu. No caso do nosso grupo será utilizada a técnica de entrevista e observação descrita no livro IHC de Barbosa e Silva, o responsável pelo documento deverá observar e seguir o cronograma planejado que é apresentado abaixo na figura 01 e posteriormente adicionar o cronograma executado apresentando como aconteceu a entrevista.
+Deverá estar descrito qual a metodologia e como foi empregada na avaliação, ou seja, de que forma os dados foram coletados e como a avaliação aconteceu. No caso do nosso grupo será utilizada a técnica de entrevista descrita no livro IHC de Barbosa e Silva, o responsável pelo documento deverá observar e seguir o cronograma planejado que é apresentado abaixo na figura 01 e posteriormente adicionar o cronograma executado apresentando como aconteceu a entrevista.
 
 <center>
 <font size="2"><p style="text-align: center">**Figura 01:** Tabela planejamento das reuniões</p></font>
 
 | **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
 |--|--|--|--|--|--|
-|[Cláudio][ClaudioGH]|A definir|xx:xx|xx:xx|xx/05/24|A definir|
-|[Elias F. Oliveira][EliasGH]|A definir|xx:xx|xx:xx|xx/05/24|A definir|
-|[Gabriel Basto][GabrielbGH]|A definir|xx:xx|xx:xx|xx/05/24|A definir|
-|[Gabriel Fernando][GabrielfGH]|A definir|xx:xx|xx:xx|xx/05/24|A definir|
-|[Pablo][PabloGH]|A definir|xx:xx|xx:xx|xx/05/24|A definir|
-|[Ricardo][RicardoGH]|A definir|xx:xx|xx:xx|xx/05/24|A definir|
+|[Cláudio][ClaudioGH]|Renato Medeiros|16:00|16:30|24/05/24|A definir|
+|[Elias F. Oliveira][EliasGH]|Heitor|14:00|14:30|24/05/24|A definir|
+|[Gabriel Basto][GabrielbGH]|Gabriel Bevilaqua|20:00|20:30|27/05/24|A definir|
+|[Gabriel Fernando][GabrielfGH]|Patricio Reitter|14:00|14:30|29/05/24|A definir|
+|[Pablo][PabloGH]|Miguel Costa|15:00|15:30|29/05/24|A definir|
+|[Ricardo][RicardoGH]|Jhonny Lopes|14:00|14:30|29/05/24|A definir|
 
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
 </center>
@@ -70,12 +70,12 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 | **Entrevistador** |**Horário do início**|**Horário do Fim**|**Data**|
 |--|--|--|--|
-|[Cláudio][ClaudioGH]|xx:xx|xx:xx|xx/05/24|
-|[Elias F. Oliveira][EliasGH]|xx:xx|xx:xx|xx/05/24|
-|[Gabriel Basto][GabrielbGH]|xx:xx|xx:xx|xx/05/24|
-|[Gabriel Fernando][GabrielfGH]|xx:xx|xx:xx|xx/05/24|
-|[Pablo][PabloGH]|xx:xx|xx:xx|xx/05/24|
-|[Ricardo][RicardoGH]|xx:xx|xx:xx|xx/05/24|
+|[Cláudio][ClaudioGH]|--|--|--/05/24|
+|[Elias F. Oliveira][EliasGH]|--|--|--/05/24|
+|[Gabriel Basto][GabrielbGH]|--|--|--/05/24|
+|[Gabriel Fernando][GabrielfGH]|--|--|--/05/24|
+|[Pablo][PabloGH]|--|--|--/05/24|
+|[Ricardo][RicardoGH]|--|--|--/05/24|
 
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
 </center>

@@ -16,7 +16,7 @@ Cada integrante realizou a análise de tarefas das funcionalidades previamente d
 | --- | --- |
 | Calcular preços e prazos de entrega | Cláudio |
 | Realizar compras na loja online | Elias |
-| Emitir certificados digitais | Gabriel B. Bertolazi |
+| Receber encomendas | Gabriel B. Bertolazi |
 | Realizar pré-postagem | Gabriel F. J. Silva|
 | Gerenciar minhas importações| Pablo |
 | Rastrear encomendas | Ricardo |
@@ -170,54 +170,69 @@ GOAL 0: Realizar Compra na loja online
                             OP 5.A.4: Clique em Finalizar Compra.
 ```
 
-### 3. Emitir certificados digitais
+### 3. Receber encomendas
 
 ```
-GOAL 0: Obter certificados digitais.
-   OP. 0.1: Abrir o site dos correios em um navegador web
-   OP. 0.2: Ir até a opção “Atendimento" na página principal do site
-   Op. 0.3: Escolher a opção “Certificados digitais” na aba de “Atendimento”
-  
+GOAL 0: Recebimento de encomendas.
+	OP. 0.1: Abrir site do correios em um navegador web.
+	OP. 0.2: Fazer login na sua conta dos correios.
+	OP. 0.3: Abrir a página de recebimento de encomendas.
 
-   GOAL 1: Escolher o certificado desejado.
-      	 METHOD 1.A: Buscar o certificado desejado.
-       	(SEL. RULE: O certificado está sendo mostrado na tela.)
-       	METHOD 1.B: Selecione o certificado desejado.
-           		OP 1.A.1: Clicar em comprar.
-           		OP 1.A.2: Escolher qual tipo de mídia (física ou nuvem) deseja.
+GOAL 1: Informações da recebimento:
+	METHOD 1.A: Digitar código da encomenda desejada.
+	(SEL. RULE: O campo para inserir o código deve estar visível na tela.)
+	METHOD 1.A.A: Escolher a opção de entrega nacional ou internacional.
+	(SEL. RULE: As duas opções devem estar visíveis para o usuário.)
+		OP 1.A.A.1: Clicar na opção desejada.
 
-   GOAL 2: Comprar o certificado desejado.      
- 	METHOD 2.A: Digitar seu CPF.
-         	(SEL. RULE: Enquanto digita o CPF aparece na tela.)
-        		OP 2.A.1.: Selecionar se possui CNH.
-        			(SEL. RULE: Aparecer as opções “sim” e “não” para a questão “Possui CNH?”.)
-	METHOD 2.B: Colocar dados.
-        		OP 2.B.1: Escolher a forma de atendimento “videoconferência” ou “presencial”.
-      			(SEL. RULE: Aparecer as opções na tela.)
-        		OP 2.B.2: Confirmar a escolha do certificado.
+GOAL 2: Informar o CEP de recebimento da encomenda.
+	METHOD 2.A: Digitar o CEP no local indicado.
+	(SEL. RULE: O campo de informar o CEP deve estar visível na tela.)
+	METHOD 2.A.A: Informar o CEP de recebimento da encomenda;
+	(SEL. RULE: O campo de preenchimento deve estar previamente vazio.)
+		OP. 2.A.A.1: Digitar o CEP corretamente.
+		OP. 2.A.A.2: Confirmar o CEP digitado.
+	METHOD 2.A.B: Não sei meu CEP
+	(SEL. RULE: O usuário não sabe o CEP de recebimento da correspondência.)
+		OP. 2.A.B.1: O usuário deve clicar no campo “não sei meu CEP”.
+		OP. 2.A.B.2: O usuário deve buscar o endereço.
+		OP. 2.A.B.3: O usuário deve clicar em buscar.
+		OP. 2.A.B.4: Verificar resultados de busca.
 
-GOAL 3: Dados do titular para efetuar a compra.
-	METHOD 3.A: Colocar dados do usuário.
-		OP 3.A.1: Escolher a forma de pagamento.
-		OP 3.A.2: Escolher dados de pessoa física ou jurídica.
-		OP 3.A.3: Digitar seus dados pessoais.
-		OP 3.A.4: Aceitar os termos do site
-	METHOD 3.B: Efetuar pagamento:
-		OP 3.B.1: Cadastrar seu cartão de crédito para efetuar o pagamento.
+GOAL 3: Informar o tipo de recebimento para consulta.
+	METHOD 3.A: Escolher o tipo de serviço de entrega desejado
+	(SEL. RULE: As opções devem estar disponíveis na tela.)
+		METHOD 3.A.1: Selecionar tipo de entrega
+		(SEL. RULE: A deleção não deve estar pré-selecionada.)
+			OP. 3.A.1.1: Clicar na opção desejada na tela.
+			OP. 3.A.1.2: Confirmar a opção.
+			OP 3.A.2: Verifique as informações.
+		
+GOAL 4: Mudar o tipo de recebimento da encomenda.
+	METHOD 4.A: Escolher a opção de entrega
+	(SEL. RULE: Opção visível no menu.)
+		METHOD 4.A.A: Escolher opção “entrega no seu endereço ou para o vizinho”
+		(SEL. RULE: A opção “entrega no seu endereço ou para o vizinho” deve estar disponível.)
+			OP. 4.A.A.1: Clicar na opção “entrega no seu endereço ou para vizinho”.
+			OP. 4.A.A.2: Digitar seu CEP.
+			OP. 4.A.A.3: Digitar o nome de quem receberá a entrega.
+		METHOD 4.A.B: Escolher opção “Buscar no locker”
+		(SEL. RULE: A opção  “Buscar no locker” deve estar disponível.)
+			OP. 4.A.B.1: Clicar na opção “Buscar no locker ”.
+			OP. 4.A.B.2: Digitar seu CEP.
+			OP. 4.A.B.3: Verificar locker selecionado para entrega.
+		METHOD 4.A.C: Escolher “Receber na caixa postal”
+		(SEL. RULE: A opção “Receber na caixa postal deve estar disponível”)
+			OP. 4.A.C.1: Digitar o número da caixa postal.
+			OP. 4.A.C.2: Informar o CPF do titular da caixa postal.
 
-GOAL 4: Agendar o atendimento para emissão dos certificados:
-	METHOD 4.A: Selecionar uma das datas disponíveis.
-		OP 4.A.1: Colocar no calendário incluso no site a data e a hora disponível.
-		OP 4.A.2: Clicar em agendar atendimento.
+GOAL 5: Mudar CEP residencial para entrega
+	METHOD 5.A: Escolher opção de “Mudar endereços de entrega”
+	(SEL. RULE: A opção “Mudar endereços de entrega”.)
+		OP. 5.A.1: Clicar a opção “Mudar endereços de entrega”.
+OP. 5.A.2: Digitar CEP antigo.
+OP. 5.A.3: Digitar CEP novo.   
 
-GOAL 5: Consultar solicitação de certificados:
-	METHOD 5.A: Acompanhar o pedido.
-		OP 5.A.1: Clique novamente no certificado comprado.
-		OP 5.A.2: Na aba “Consultar pedido”, digite seu CPF.
-		OP 5.A.3: Veja como está correndo sua solicitação.
-
-GOAL 6: Emissão do certificado 
-    METHOD6.A: Receber seu certificado
 ```
 
 ### 4. Realizar pré-postagem
@@ -408,3 +423,11 @@ GOAL 0: Rastrear uma encomenda.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) e  [Gabriel B. Bertolazi](https://github.com/https://github.com/Bertolazi)| [Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+| `1.1`  | 03/06/2024 | Alterações no GOMS | [Gabriel Basto][GabrielBGH] | [Ricardo Augusto][RicardoGH] |
+
+[ClaudioGH]: https://github.com/claudiohsc
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo

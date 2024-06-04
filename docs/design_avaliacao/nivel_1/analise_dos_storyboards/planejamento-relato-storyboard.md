@@ -94,7 +94,7 @@ Neste tópico, o entrevistador deve documentar de forma detalhada e estruturada 
 Por fim, com base em todos os pontos supracitados sobre os problemas encontrados no resultado da avalição, os integrantes devem dar início a fase de correção dos erros nos artefatos, tentando seguir o cronograma da tabela 3 para evitar o acúmulo de tarefas, lembrando de preencher os respectivos históricos de versões após as mudanças, adicionando também os devidos revisores.
 
 
-<font size="2"><p style="text-align: center">Tabela 3 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 03:** Planejamento do Reprojeto </p></font>
 
 <center>
 
