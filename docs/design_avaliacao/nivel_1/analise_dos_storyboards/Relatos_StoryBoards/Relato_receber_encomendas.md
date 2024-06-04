@@ -122,7 +122,7 @@ Foi feito na hora da reunião.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 02/06/2024 | Edição de acordo com a entrevista | [Gabriel B. Bertolazi][GabrielBGH] |  |
+| `1.0`  | 02/06/2024 | Edição de acordo com a entrevista | [Gabriel B. Bertolazi][GabrielBGH] | [Elias F. Oliveira][EliasGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

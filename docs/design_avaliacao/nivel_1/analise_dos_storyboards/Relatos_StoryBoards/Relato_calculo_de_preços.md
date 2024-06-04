@@ -51,6 +51,8 @@ Houve a participação de uma pessoa para a entrevista, que foi o Renato Medeiro
 
 </center>
 
+<center>
+
 ### Gravação da Reunião
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H90Y1LKOkFs?si=4YzbYuYXlHsJLSJR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -59,6 +61,8 @@ Houve a participação de uma pessoa para a entrevista, que foi o Renato Medeiro
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 <p style="text-align: center">Link direto para o vídeo <a href="https://www.youtube.com/watch?v=H90Y1LKOkFs">aqui</a>.</p>
+
+</center>
 
 ## Sumário dos dados coletados
 
