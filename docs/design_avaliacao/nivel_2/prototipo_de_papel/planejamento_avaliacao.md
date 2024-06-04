@@ -39,7 +39,7 @@ Os avaliadores devem elaborar perguntas específicas para cada objetivo, que dev
 
 ### C - Escolher
 
-O método de avaliação que será utilizado para avaliar os protótipos de papel será o método de investigação, sendo guiado pelo uso de entrevistas utilizando as perguntas definidas no tópico [explorar](#e---explorar). A escolha deste método se justifica pela sua capacidade de fornecer insights qualitativos e detalhados sobre a percepção e os objetivos dos usuários.
+O método de avaliação que será utilizado para avaliar os protótipos de papel será o método de observação. Durante as reuniões, o entrevistador irá observar o participante interagir com o protótipo de papel, a partir dessa observação o entrevistador irá fazer anotações sobre os problemas e as sugestões de melhora para o protópico sendo avaliado.
 
 ### I - Identificar
 
