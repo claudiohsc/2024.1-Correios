@@ -111,13 +111,12 @@ Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-d
 ## Bibliografia
 
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em:  de maio
-> 2. Planejamento do relato de resultados. Repositório do Grupo Nota Legal da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-estabelecimento/#historico-de-versao>. Acesso em: 01 maio 2024.
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 02/06/2024 | Criação do documento| [Gabriel F. J. Silva][GabrielfGH] | [Gabriel B. Bertolazi][GabrielbGH] e [Ricardo][RicardoGH] |
+|`1.0`| 02/06/2024 | Criação do documento| [Gabriel F. J. Silva][GabrielfGH] | [Gabriel B. Bertolazi][GabrielbGH], [Ricardo][RicardoGH] e [Elias F. Oliveira][EliasGH] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
