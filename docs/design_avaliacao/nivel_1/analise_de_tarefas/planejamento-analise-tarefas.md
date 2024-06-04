@@ -158,7 +158,7 @@ No Vídeo 1 abaixo está a gravação do teste piloto realizado.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 21/05/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | [Elias F. Oliveira][EliasGH] |
-| `1.1`  | 24/05/2024 | Adição da gravação do teste piloto | [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | [][] |
+| `1.1`  | 24/05/2024 | Adição da gravação do teste piloto | [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
