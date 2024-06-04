@@ -423,3 +423,11 @@ GOAL 0: Rastrear uma encomenda.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) e  [Gabriel B. Bertolazi](https://github.com/https://github.com/Bertolazi)| [Elias F. Oliveira](https://www.github.com/EliasOliver21) |
+| `1.1`  | 03/06/2024 | Alterações no GOMS | [Gabriel Basto][GabrielBGH] | [Ricardo Augusto][RicardoGH] |
+
+[ClaudioGH]: https://github.com/claudiohsc
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
