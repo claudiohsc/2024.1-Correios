@@ -63,15 +63,15 @@ Abaico temos a tabela 2 onde estão as preguntas estabelecidas pelo planejamento
 
 </center>
 
-É importante apresentar um resumo dos demais dados coletados na entrevista como descrições, tabelas, gráficos etc, se houverem.
-
-Abaixo está o link para a gravação da reunião de entrevista.
+Abaixo está a gravação da  entrevista.
 
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nXj65yf70GI?si=hlTNnTHyGe4PpwOC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
+
+<p style="text-align: center">Para abrir em outra janela <a href="https://www.youtube.com/embed/nXj65yf70GI" target="blanket">Clique aqui</a>.</p>
 
 #### Interpretação e análise dos dados
 
