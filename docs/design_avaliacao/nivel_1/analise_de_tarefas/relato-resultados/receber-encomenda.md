@@ -12,7 +12,7 @@ Verificar com o cliente se o HTA feito pelo aluno Gabriel B. Bertolazi condiz co
 Foi feita uma entrevista (usando o [termo de consentimento](../../../../assets/Termo_de_consentimento(new).pdf)) com o aluno de direito da UnB Adam, um cliente assíduo do site do correios que já usou a função de recebimento de encomendas, no caso ele olhou o HTA e verificou se condizia com o fluxo natural da tarefa e fez uma avaliação para descrever se estava correto ou não a análise hierárquica da tarefa, seguindo as perguntas listadas no planejamento da avaliação.
 
 <center>
-<font size="2"><p style="text-align: center">**Figura 01:** Tabela planejamento das reuniões</p></font>
+<font size="2"><p style="text-align: center">**Tabelaa 01:** Tabela planejamento das reuniões</p></font>
 
 | **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
 |--|--|--|--|--|--|
@@ -39,7 +39,28 @@ Abaixo está o link para a gravação da reunião de entrevista.
 
 ## Sumário dos dados coletados
 
-Reajar dentro do projeto o tópico 5 dentro do tópico 4.<br>Adcionar a retirada da encomenda nas agências dos correios possivelmente no tópico 5.
+<font size="2"><p style="text-align: center">**Tabela 02** - Perguntas elaboradas para a avaliação.</p></font>
+
+<center>
+
+| ID | Pergunta | Resposta |
+|:---:|:---:|:----:|
+| **1** | Qual seu nome completo? | Adam Figueiredo |
+| **2** | Qual a sua idade? | 20 anos  |  
+| **3** | Qual sua ocupação? | Estudante de direito e professor de ensino básico  |  
+| **4** | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Boa ou muito boa |
+| **5** | O diagrama de tarefas reflete corretamente suas expectativas de como o processo deveria ser? | Sim. |
+| **6** | Existem etapas no processo que você considera particularmente demoradas ou ineficientes? | Não. |  
+| **7** | Como você acha que o processo poderia ser otimizado? | De nenhum maneira. |
+| **8** | Há alguma parte da tarefa que você acha especialmente difícil ou confusa | Não. |
+| **9** | Qual a frequência que você necessita realizar a tarefa?  | Bimestralmente. |
+| **10** | Se você pudesse mudar qualquer coisa no processo da tarefa principal, o que mudaria? |O usuário não mudaria nada. |
+| **11** | Como você avalia a sua satisfação com o processo atual descrito no HTA? | Excelente e bem lúcido. |
+
+
+</center>
+
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ## Relato da interpretação e análise dos dados
 
@@ -55,7 +76,7 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 <center>
 
-<font size="2"><p style="text-align: center">**Figura 02:** Tabela planejamento do reprojeto</p></font>
+<font size="2"><p style="text-align: center">**Figura 03:** Tabela planejamento do reprojeto</p></font>
 
 | **Entrevistador** |**Horário do início**|**Horário do Fim**|**Data**|
 |--|--|--|--|
