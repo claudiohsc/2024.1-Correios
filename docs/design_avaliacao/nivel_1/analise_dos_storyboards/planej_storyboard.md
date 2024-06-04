@@ -123,6 +123,22 @@ O cronograma passar essa etapa encontrase na Tabela 3 abaixo.
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
+
+No Vídeo 1 abaixo está a gravação do teste piloto realizado.
+
+<font size="2"><p style="text-align: center">Vídeo 1 - Gravação do Teste Piloto.</p></font>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8iPPFmL-pgU?si=Rfl69sbq9AG5-UtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] , 2024.</p></font>
+
+
+
+
 ## Referências Bibliográficas
 
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -139,6 +155,8 @@ O cronograma passar essa etapa encontrase na Tabela 3 abaixo.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 18/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] e [Pablo S. Costa][PabloGH] | [Claudio Henrique](ClaudioGH) e [Gabriel F.](GabrielFGH)  |
+| `1.1`  | 24/05/2024 | Adição da gravação do teste piloto | [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | [Ricardo Augusto][RicardoGH] |
+
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
