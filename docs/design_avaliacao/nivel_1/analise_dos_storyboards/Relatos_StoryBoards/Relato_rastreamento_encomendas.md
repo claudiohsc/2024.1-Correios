@@ -80,29 +80,6 @@ Durante a entrevista o participante não encontrou nenhum problema relacionado a
 
 O participante da entrevista não relatou nenhuma sugestão de melhora para o storyboard avaliado.
 
-
-#### Planejamento para o reprojeto.
-
-Por fim, com base em todos os pontos supracitados sobre os problemas encontrados no resultado da avalição, os integrantes devem dar início a fase de correção dos erros nos artefatos, tentando seguir o cronograma da tabela 3 para evitar o acúmulo de tarefas, lembrando de preencher os respectivos históricos de versões após as mudanças, adicionando também os devidos revisores.
-
-
-<font size="2"><p style="text-align: center">**Tabela 03:** Planejamento do Reprojeto </p></font>
-
-<center>
-
-| Storyboard | Responsável | Data de Início | Data de Fim |
-| :--------- | :---------: | :------------: | :---------: |
-| **Calcular preços e prazos de entrega** | [Cláudio][ClaudioGH]          |                |             |
-| **Realizar compras na loja online**     | [Elias][EliasGH]              |                |             |  
-| **Receber encomendas**       | [Gabriel B. Bertolazi][GabrielBGH] |           |             |  
-| **Realizar pré-postagem**              | [Gabriel F. J. Silva][GabrielFGH]  |           |             |  
-| **Gerenciar minhas importações**       | [Pablo][PabloGH]               |                |             |  
-| **Rastrear encomendas**                | [Ricardo][RicardoGH]           |                |             |  
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
-
 ## Referências bibliográficas
 
 > <a id="ref1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
