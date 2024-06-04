@@ -40,6 +40,7 @@ Abaixo está a gravação da  entrevista.
 </center>
 
 <p style="text-align: center">Para abrir em outra janela <a href="https://www.youtube.com/embed/f3NWsS1urr4" target="blanket">Clique aqui</a>.</p>
+
 ## Sumário dos dados coletados
 
 Na tabela 03 abaixo encontram-se as perguntas que foram inferidas ao entrevistado e suas respectivas respostas.
