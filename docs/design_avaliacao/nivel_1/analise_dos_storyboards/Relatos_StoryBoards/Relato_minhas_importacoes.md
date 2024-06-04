@@ -95,7 +95,7 @@ O participante da entrevista não relatou nenhuma sugestão de melhora para o st
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 03/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [] |
+| `1.0`  | 03/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [Elias F. Oliveira][EliasGH]|
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
