@@ -23,7 +23,7 @@ Os tópicos da avaliação da análise de tarefas deverão ser descritos e estru
 
 ## Objetivo da Avaliação
 
-A avaliação da análise de tarefas visa identificar áreas de melhoria e validar sua adequação ao público-alvo. Realizada através de uma entrevista guiadas por questionário, busca-se avaliar se o que o participante compreendeu o fluxo da análise de tarefas e se tem alguma sugestão de mudança.
+A avaliação da análise de tarefas visa identificar áreas de melhoria e validar sua adequação ao público-alvo. Realizada através de uma entrevista (com uso do [termo de consentimento](../../../../assets/Termo_de_consentimento(new).pdf)) guiadas por questionário, busca-se avaliar se o que o participante compreendeu o fluxo da análise de tarefas e se tem alguma sugestão de mudança.
 
 ## Método empregado
 

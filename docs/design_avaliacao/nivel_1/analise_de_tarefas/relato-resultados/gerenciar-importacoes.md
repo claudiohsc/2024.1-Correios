@@ -23,7 +23,7 @@ A avaliação tem como objetivo coletar as percepções e observações do entre
 
 ## Método empregado
 
-A abordagem adotada consistiu em uma inspeção realizada através de uma entrevista com um usuário do website dos Correios. Na tabela 01, apresentada a seguir, constam o cronograma e alguns detalhes da entrevista conduzida. 
+A abordagem adotada consistiu em uma inspeção realizada através de uma entrevista com um usuário do website dos Correios, com uso do [termo de consentimento](../../../../assets/Termo_de_consentimento(new).pdf). Na tabela 01, apresentada a seguir, constam o cronograma e alguns detalhes da entrevista conduzida. 
 
 <center>
 

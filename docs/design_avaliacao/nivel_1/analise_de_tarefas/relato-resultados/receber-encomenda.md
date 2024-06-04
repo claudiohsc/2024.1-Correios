@@ -27,7 +27,7 @@ Verificar com o cliente se o HTA feito pelo aluno Gabriel B. Bertolazi condiz co
 
 ## Método empregado
 
-Foi feita uma entrevista com o aluno de direito da UnB Adam, um cliente assíduo do site do correios que já usou a função de recebimento de encomendas, no caso ele olhou o HTA e verificou se condizia com o fluxo natural da tarefa e fez uma avaliação para descrever se estava correto ou não a análise hierárquica da tarefa, seguindo as perguntas listadas no planejamento da avaliação.
+Foi feita uma entrevista (usando o [termo de consentimento](../../../../assets/Termo_de_consentimento(new).pdf)) com o aluno de direito da UnB Adam, um cliente assíduo do site do correios que já usou a função de recebimento de encomendas, no caso ele olhou o HTA e verificou se condizia com o fluxo natural da tarefa e fez uma avaliação para descrever se estava correto ou não a análise hierárquica da tarefa, seguindo as perguntas listadas no planejamento da avaliação.
 
 <center>
 <font size="2"><p style="text-align: center">**Figura 01:** Tabela planejamento das reuniões</p></font>

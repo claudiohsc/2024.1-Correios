@@ -24,7 +24,7 @@ Essa avaliação tem como objetivo verificar a apropriação da tecnologia pelos
 
 ## Método empregado
 
-Para a realização da avaliação, foi seguido o artefatos de [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/) e, para a construção deste relato, o de [planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento_relato_resultados_analise_de_tarefas/). A entrevista foi realizada com uma pessoa que se encaixa no [perfil do usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/) e à ela foi perguntado as perguntas do [roteiro de entrevista](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/#e-explorar), elaborado de acordo com o tópico Explorar do framework DECIDE. Na Tabela 1 temos o cronograma planejado e na Tabela 2 temos o que de fato foi executado, no qual houve uma mudança do entrevistado, horário de início e local da reunião. 
+Para a realização da avaliação, foi seguido o artefatos de [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/) e, para a construção deste relato, o de [planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento_relato_resultados_analise_de_tarefas/). A inspeção foi realizada por entrevista realizada com uma pessoa que se encaixa no [perfil do usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/) (com uso do [termo de consentimento](../../../../assets/Termo_de_consentimento(new).pdf)) e à ela foi perguntado as perguntas do [roteiro de entrevista](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/#e-explorar), elaborado de acordo com o tópico Explorar do framework DECIDE. Na Tabela 1 temos o cronograma planejado e na Tabela 2 temos o que de fato foi executado, no qual houve uma mudança do entrevistado, horário de início e local da reunião. 
 
 <center>
 <font size="2"><p style="text-align: center">**Tabela 01:** cronograma planejado das reuniões</p></font>
@@ -98,7 +98,7 @@ Apesar do entrevistado ter respondido que não mudaria nada sobre o processo des
 
 ## Problemas encontrados
 
-Além da extensão do objetivo de preencher os dados da pré-postagem, não foram encontrados outros obstáculos ou problemas.
+Além da extensão do objetivo de preencher os dados da pré-postagem, não foram encontrados outros obstáculos ou problemas relacionados ao diagrama. A respeito da entrevista, o vídeo, por problemas técnicos que não foram determinados, foi cortado pela metade, porém, a entrevista foi realizada por inteira, mas não foi possível realizar uma regravação da mesma até a data entrega.
 
 ## Planejamento para o reprojeto da aplicação
 
@@ -123,8 +123,8 @@ Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-d
 
 ## Bibliografia
 
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. 
-> 2. Planejamento do relato de resultados. Repositório do Grupo Nota Legal da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-estabelecimento/#historico-de-versao>. Acesso em: 22 maio 2024.
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em:  de maio
+> 2. Planejamento do relato de resultados. Repositório do Grupo Nota Legal da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.2-NotaLegal/design-avaliacao-desenvolvimento%20II/relatos%20dos%20resultados%20-%20storyboard/consultar-estabelecimento/#historico-de-versao>. Acesso em: 01 maio 2024.
 
 ## Histórico de Versão
 

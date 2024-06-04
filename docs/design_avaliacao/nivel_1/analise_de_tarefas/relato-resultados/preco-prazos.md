@@ -10,7 +10,7 @@ O objetivo da avaliação foi verificar a coerência entre o diagrama HTA de "C�
 ## Método empregado
 
 
-Conforme foi definido no [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/), foi empregado o método de entrevista com o usuário, onde foi guiada por algumas perguntas definidas previamente.
+Conforme foi definido no [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/), foi empregado o método de entrevista com o usuário (com uso do [termo de consentimento](../../../../assets/Termo_de_consentimento(new).pdf)), onde foi guiada por algumas perguntas definidas previamente.
 Na tabela 1, está o cronograma executado da entrevista.
 
 <center>

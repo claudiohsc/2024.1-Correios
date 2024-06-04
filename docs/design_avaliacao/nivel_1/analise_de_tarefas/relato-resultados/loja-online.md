@@ -19,7 +19,7 @@ Foi utilizado o método de inspeção inferindo algumas perguntas elaboradas ant
 O objetivo da avaliação é: obter as impressões e informações observadas pelo entrevistado, verificando se o que ele compreendeu condiz com a realidade apresentada pela funcionalidade representada no diagrama da análise de tarefas.
 
 ## Método empregado
-O método utilizado foi o de inspeção por meio de uma entrevista realizada com um usuário do site dos correios.Abaixo na tabela 01 temos o cronograma com algumas informações da entrevista realizada e logo em seguida a gravação da entrevista.
+O método utilizado foi o de inspeção por meio de uma entrevista realizada com um usuário do site dos correios, com uso do [termo de consentimento](../../../../assets/Termo_de_consentimento(new).pdf). Abaixo na tabela 01 temos o cronograma com algumas informações da entrevista realizada e logo em seguida a gravação da entrevista.
 
 <center>
 <font size="2"><p style="text-align: center">**Tabela 01:** Cronograma da Entrevista</p></font>
