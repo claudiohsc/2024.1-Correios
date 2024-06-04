@@ -92,7 +92,7 @@ Não foram encontrados problemas no Storyboard, salvo somente por um último com
 
 ## Planejamento para o reprojeto da aplicação
 
-Como base nos resultados levantados a partir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do storyboard, mantendo a estrutura original e apenas efetuando alterações no quadro em que o personagem realiza a pré-postagem ou adicionando um quadro para representar um esboço da tela que auxilia a tarefa. Isso será feito seguindo o cronograma da Tabela 0X.
+Como base nos resultados levantados a partir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do storyboard, mantendo a estrutura original e apenas efetuando alterações no quadro em que os personagens estão conversando sobre o envio de um objeto. Isso será feito seguindo o cronograma da Tabela 5.
 
 
 <center>
@@ -111,7 +111,7 @@ Como base nos resultados levantados a partir dos dados e informações obtidos n
 
 ## Sugestões de melhoria
 
-Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-da-aplicacao), acredito que para entrevistas futuras, será de grande ajuda fazer perguntas para que o usuário justifique sua reposta, uma vez que, como ocorreu nessa avaliação, o participante responde "sim" às perguntas, porém, apenas quando questionado que possíveis lacunas do storyboard foram discutidas.
+Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-da-aplicacao), foi citado a melhora da história nos primeiros quadros do Storyboard.
 
 ## Bibliografia
 
