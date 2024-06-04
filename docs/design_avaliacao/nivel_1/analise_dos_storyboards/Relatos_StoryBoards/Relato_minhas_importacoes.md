@@ -45,6 +45,18 @@ Além disso os entrevistador temos o cronograma planejado e o cronograma realiza
 
 O participante da entrevista foi escolhido tendo em base o [perfil de usuário](../../../analise_de_requisitos/perfil_de_usuario/perfil_de_usuario.md) do site dos correios. Além disso o Mateus se encaixa com a persona Gabriel por ambos serem empreendedores e por ter aceitado participar voluntariamente.
 
+### Gravação da Reunião
+Abaixo está a gravação da  entrevista.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nXj65yf70GI?si=hlTNnTHyGe4PpwOC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<p style="text-align: center">Para abrir em outra janela <a href="https://www.youtube.com/embed/nXj65yf70GI" target="blanket">Clique aqui</a>.</p>
+
+
 #### Sumário dos dados coletados
 
 Abaico temos a tabela 2 onde estão as preguntas estabelecidas pelo planejamento para essa avaliação, e que são respondidas na entrevista.
@@ -62,16 +74,6 @@ Abaico temos a tabela 2 onde estão as preguntas estabelecidas pelo planejamento
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 </center>
-
-Abaixo está a gravação da  entrevista.
-
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nXj65yf70GI?si=hlTNnTHyGe4PpwOC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</center>
-
-<p style="text-align: center">Para abrir em outra janela <a href="https://www.youtube.com/embed/nXj65yf70GI" target="blanket">Clique aqui</a>.</p>
 
 #### Interpretação e análise dos dados
 
@@ -98,7 +100,7 @@ O participante da entrevista não relatou nenhuma sugestão de melhora para o st
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 03/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | |
+| `1.0`  | 03/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

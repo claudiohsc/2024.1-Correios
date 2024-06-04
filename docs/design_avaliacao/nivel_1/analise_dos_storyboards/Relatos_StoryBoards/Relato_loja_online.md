@@ -35,6 +35,17 @@ O método empregado na análise do storyboard foi o método de inspeção atrav�
 ### Seleção dos participantes
 O participante selecionado foi escolhido utilizando como critério a utilização do site dos correios, experiência e familiaridade com o site.
 
+### Gravação da Reunião
+
+
+
+<p style="text-align: center"><a href="https://drive.google.com/file/d/1SJCMWphKKUnciNqTNvzYq-2fE5HWtWQE/preview" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe src="https://drive.google.com/file/d/1SJCMWphKKUnciNqTNvzYq-2fE5HWtWQE/preview" width="560" height="315" allow="autoplay"></iframe></p>
+
+
+<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
 ### Sumário dos dados coletados
 
 As perguntas que foram feitas ao participante de acordo com o planejamento, e as respostas apresentadas por ele estão localizadas na tabela 02 e logo abaixo a gravação da entrevista.
@@ -55,14 +66,6 @@ As perguntas que foram feitas ao participante de acordo com o planejamento, e as
 
 </center>
 
-<font size="2"><p style="text-align: center">**Gravação da Entrevista.**</p></font>
-
-<p style="text-align: center"><a href="https://drive.google.com/file/d/1SJCMWphKKUnciNqTNvzYq-2fE5HWtWQE/preview" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe src="https://drive.google.com/file/d/1SJCMWphKKUnciNqTNvzYq-2fE5HWtWQE/preview" width="560" height="315" allow="autoplay"></iframe></p>
-
-
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ### Interpretação e análise dos dados
 O participante respondeu a cada uma das perguntas positivamente, sendo perceptível a clareza que o storyboard passou ao usuário e de acordo com ele não sendo necessária realizar nenhuma alteração.
@@ -97,7 +100,7 @@ Abaixo na tabela 03 esta localizado o planejamento para o reprojeto.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/06/2024 | Criação do documento |[Elias F. Oliveira][EliasGH] | |
+| `1.0`  | 01/06/2024 | Criação do documento |[Elias F. Oliveira][EliasGH] | [Claudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
