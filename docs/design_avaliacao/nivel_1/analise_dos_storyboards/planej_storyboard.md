@@ -128,9 +128,11 @@ No Vídeo 1 abaixo está a gravação do teste piloto realizado.
 
 <font size="2"><p style="text-align: center">Vídeo 1 - Gravação do Teste Piloto.</p></font>
 
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8iPPFmL-pgU?si=Rfl69sbq9AG5-UtE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] , 2024.</p></font>
 
