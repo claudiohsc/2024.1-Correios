@@ -106,12 +106,12 @@ O participante não inferiu nenhuma sugestão para alteração ou modificação 
 ## Bibliografia
 
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. 
-> 
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 03/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] | [Gabriel B. Bertolazi][GabrielbGH], [Gabriel F. J. Silva][GabrielfGH] e [Ricardo][RicardoGH] |
+|`1.0`| 03/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] | [Gabriel B. Bertolazi][GabrielbGH], [Gabriel F. J. Silva][GabrielfGH] , [Ricardo][RicardoGH] e [Elias F. Oliveira][EliasGH]|
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
