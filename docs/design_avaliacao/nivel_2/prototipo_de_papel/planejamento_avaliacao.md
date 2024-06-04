@@ -81,11 +81,11 @@ Abaixo, na tabela 3, estão descritas as informações sobre o planejamento das 
 
 ### D - Decidir
 
-Serão levados em consideração os princípios éticos estabelecidos no documento [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/aspectos-eticos/), junto ao [termo de consentimento](https://requisitos-de-software.github.io/2024.1-Correios/assets/perguntas_questionario/Termo_de_consentimento.pdf), elaborado no mesmo artefato, para as atividades necessárias à validação da análise de tarefas por meio das entrevistas. 
+Serão levados em consideração os princípios éticos estabelecidos no documento [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/aspectos-eticos/), junto ao [termo de consentimento](https://requisitos-de-software.github.io/2024.1-Correios/assets/perguntas_questionario/Termo_de_consentimento.pdf), elaborado no mesmo artefato, para as atividades necessárias à validação do protótipo de papel por meio das entrevistas. 
 
 ### E - Avaliar
 
-Após a coleta de dados, os resultados serão analisados para identificar padrões e tendências nas respostas dos participantes, fornecendo insights sobre problemas nas tarefas e sugestões de melhorias. 
+Após a coleta de dados, os resultados serão analisados para identificar padrões e tendências nas respostas dos participantes, fornecendo insights sobre problemas nos protótipos e sugestões de melhorias. 
 
 Será avaliada também a confiabilidade dos dados e a validade externa do estudo, verificando se os resultados representam os usuários reais do site e podem ser generalizados além da amostra analisada.
 
