@@ -149,18 +149,18 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 Na Tabela 7, tem-se o planejado para todas as atividades previstas da quarta entrega.
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 7</b> - Planejamento do Projeto 
+    <b>Tabela 7</b> - Planejado da entrega 4
 </p></font>
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores |
 | ----- | ----- | ----- | ----- | ----- |
-| Planejamento e confecção dos storyboards | Início: 01/05 <br>Fim: 03/05 | Gabriel B. Bertolazi e Elias | Início: 03/05 Fim: 04/05 | Pablo e Ricardo |
-| Avaliação dos storyboards | Início: 04/05 <br>Fim: 06/05  | Pablo e Ricardo | Início: 06/05 Fim: 07/05 | Cláudio e Gabriel F. J. Silva |
-| Análise das tarefas | Início: 01/05 <br>Fim: 03/05 | Cláudio e Gabriel F. J. Silva | Início: 03/05 Fim: 04/05 | Gabriel B. Bertolazi e Elias |
-| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 06/05 <br>Fim: 07/05 | Cláudio e Gabriel F. J. Silva | Início: 07/05 Fim: 07/05 |  Pablo e Ricardo |
-| Planejamento do relato dos resultados da avaliação do Análise de tarefas | Início: 04/05 <br>Fim: 06/05 | Gabriel B. Bertolazi e Elias | Início: 06/05 Fim: 07/05 |  Pablo e Ricardo |
-| Gravação da apresentação | Início: 07/05 <br>Fim: 07/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 08/05 Fim: 08/05 |  Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo|
-| Correção pós apresentação | Início: 09/05 <br>Fim: 15/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 15/05 Fim: 20/05  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Planejamento e confecção dos storyboards | Início: 08/05 <br>Fim: 13/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 13/05 Fim: 15/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Planejamento da avaliação dos storyboards | Início: 15/05 <br>Fim: 20/05  | Pablo e Ricardo | Início: 20/05 Fim: 21/05 | Cláudio e Gabriel F. J. Silva |
+| Planejamento da avaliação da análise das tarefas | Início: 15/05 <br>Fim: 20/05 | Cláudio e Gabriel F. J. Silva | Início: 20/05 Fim: 21/05 | Gabriel B. Bertolazi e Elias |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 15/05 <br>Fim: 20/05 | Cláudio e Gabriel F. J. Silva | Início: 20/05 Fim: 21/05 |  Pablo e Ricardo |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas | Início: 15/05 <br>Fim: 20/05 | Gabriel B. Bertolazi e Elias | Início: 20/05 Fim: 21/05 |  Pablo e Ricardo |
+| Gravação da apresentação | Início: 22/05 <br>Fim: 22/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 22/05 Fim: 22/05 |  Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo|
+| Correção pós apresentação | Início: 22/05 <br>Fim: 15/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 15/06 Fim: 20/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
@@ -169,10 +169,19 @@ Na Tabela 7, tem-se o planejado para todas as atividades previstas da quarta ent
 Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta entrega.
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 8</b> - Planejamento do Projeto 
+    <b>Tabela 8</b> - Executado da entrega 4 
 </p></font>
 
-*EM BREVE...*
+| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores |
+| ----- | ----- | ----- | ----- | ----- |
+| Planejamento e confecção dos storyboards | Início: 08/05 <br>Fim: 13/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 13/05 Fim: 15/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Planejamento da avaliação dos storyboards | Início: 15/05 <br>Fim: 20/05  | Pablo e Ricardo | Início: 20/05 Fim: 21/05 | Cláudio e Gabriel F. J. Silva |
+| Planejamento da avaliação da análise das tarefas | Início: 15/05 <br>Fim: 20/05 | Cláudio e Gabriel F. J. Silva | Início: 20/05 Fim: 21/05 | Gabriel B. Bertolazi e Elias |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 15/05 <br>Fim: 20/05 | Cláudio e Gabriel F. J. Silva | Início: 20/05 Fim: 21/05 |  Pablo e Ricardo |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas | Início: 15/05 <br>Fim: 20/05 | Gabriel B. Bertolazi e Elias | Início: 20/05 Fim: 21/05 |  Pablo e Ricardo |
+| Gravação da apresentação | Início: 22/05 <br>Fim: 22/05 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 22/05 Fim: 22/05 |  Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ## Entrega 5
 
@@ -195,10 +204,19 @@ Na Tabela 8, tem-se o planejado para todas as atividades previstas da quarta ent
 
 ### Executado
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 10</b> - Executado da entrega 5
+    <b>Tabela 9</b> - Executado da entrega 5
 </p></font> 
 
-*EM BREVE...*
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Relato dos resultados do Story Board | Início: 01/06  <br> Fim: 03/06 | Claúdio, Elias | Início: 03/06 Fim: 03/06 | Gabriel F. J. Silva |
+| Relato da Análise de tarefas | Início: 02/06 <br> Fim: 03/06 | Gabriel F. J. Silva, Pablo | Início: 03/06 <br> Fim: 03/06 | Ricardo |
+| Planejamento da Avaliação do Protótipo de Papel | Início: 02/06 <br> Fim: 03/06 | Ricardo, Gabriel B. Bertolazi | Início: 03/06 <br> Fim: 03/06 | Pablo |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | Início: 03/06 <br> Fim: 03/06 | Claúdio, Elias | Início: 03/06 <br> Fim: 03/06 |  Gabriel B. Bertolazi  |
+| Gravação da Apresentação | Início: 03/06 <br> Fim: 03/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 03/06 <br> Fim: 03/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Correção pós apresentação | Início: 05/06 <br> Fim: 06/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 06/06 <br> Fim: 06/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+
+<font size="2"><p style="text-align: center">Fonte: [Elias Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 ## Entrega 6.1
  
@@ -359,6 +377,7 @@ Disponível em:
 | `1.4` | 06/05/2024 | Adiciona cronograma executado da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [](https://github.com/) |
 | `2.0` | 12/05/2024 | Reajusta datas do cronograma planejado para as entregas 3, 4, 5, 6.1, 6.2, 8 e entrega final e também corrigi espaçamento das tabelas | [Elias F. Oliveira](EliasGH), [Gabriel B. Bertolazi](Gabrielb), [Gabriel F. J. Silva](GabrielfGH) e  [Pablo S. Costa](PabloGH) | [Ricardo](RicardoGH) |
 | `2.1` | 13/05/2024 | Adiciona cronograma executado da entrega 3 |[Elias Oliveira](EliasGH) | [Ricardo](RicardoGH) |
+| `2.2` | 03/06/2024 | Adiciona cronograma executado da entrega 5 |[Elias Oliveira](EliasGH) | [Gabriel B. Bertolazi](GabrielbGH) |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
