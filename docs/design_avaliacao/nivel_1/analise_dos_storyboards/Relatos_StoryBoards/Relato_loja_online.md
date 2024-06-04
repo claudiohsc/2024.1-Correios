@@ -1,6 +1,6 @@
 ## Introdução
 
-O relato dos resultados devem conter as informações e os feedbacks obtidos e extraídos das entrevistas realizadas para a avaliação dos storyboards. Como descrito no artefato do planejamento dos resultados das análises dos storyboard, cada relato deve conter os seguintes tópicos:
+O relato dos resultados contém as informações e os feedbacks obtidos e extraídos das entrevistas realizadas para a avaliação dos storyboards. Como descrito no artefato do planejamento dos resultados das análises dos storyboard, cada relato deve conter os seguintes tópicos:
 
 - Os objetivos e escopo da avaliação;
 - Método de avaliação empregado;
@@ -12,8 +12,6 @@ O relato dos resultados devem conter as informações e os feedbacks obtidos e e
 - Planejamento para o reprojeto.
 <!-- Início Loja Online -->
 
-## Entrevista Loja online
-
 ### Os objetivos e escopo da avaliação
 O objetivo da avaliação foi através da entrevista realizada verificar a experiência, impressões e o que o entrevistado compreende da funcionalidade que esta sendo representada no storyboard para averiguar a verossimidade do conteúdo do storyboard com a realidade.
 
@@ -24,9 +22,10 @@ O método empregado na análise do storyboard foi o método de inspeção atrav�
 
 <font size="2"><p style="text-align: center">**Tabela 01** - Cronograma da Entrevista</p></font>
 
-| Entrevistado | Entrevistador | Local | Data / Horário |
-|:--:|:--:|:--:|:--:|
-| Heitor Simões | [Elias F. Oliveira][EliasGH] | Unb/FGA | 24/05/2024 Às 12:00 |
+|| Entrevistado | Entrevistador | Local | Data / Horário |
+|:--:|:--:|:--:|:--:|:--:|
+|Planejado| Heitor Simões | [Elias F. Oliveira][EliasGH] | Unb/FGA | 24/05/2024 Às 12:00 |
+|Executado| Heitor Simões | [Elias F. Oliveira][EliasGH] | Unb/FGA | 24/05/2024 Às 12:00 |
 
 <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
 

@@ -1,6 +1,6 @@
 ## Introdução
 
-O relato dos resultados contém as informações e os feedbacks obtidos e extraídos das entrevistas realizadas para a avaliação dos storyboards. Como descrito no artefato do planejamento dos resultados das análises dos storyboard, cada relato deve contém os seguintes tópicos:
+O relato dos resultados contém as informações e os feedbacks obtidos e extraídos das entrevistas realizadas para a avaliação dos storyboards. Como descrito no artefato do planejamento dos resultados das análises dos storyboard, cada relato deve conter os seguintes tópicos:
 
 - Os objetivos e escopo da avaliação;
 - Método de avaliação empregado;

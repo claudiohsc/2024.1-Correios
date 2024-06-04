@@ -2,10 +2,7 @@
 
 ## Introdução
 
-Nesta página, está descrito o relato dos resultados da avaliação do Storyboard de Minhas Importações. O principal objetivo é padronizar a estrutura e a disposição dos dados coletados durante as avaliações dos storyboards. O foco do documento a seguir é estruturar de forma clara o relato dos resultados.
-
-## Metodologia
-O relato dos resultados tem como base o documento de [Planejamento da Avaliação dos Storyboards](), e também segue alguns tópicos propostos por Barbosa e Silva (2021, p.279)<sup><a href=#ref1>1</a></sup>, onde os avaliadores que devem relatar os resultados consolidados, costumam incluir:
+O relato dos resultados contém as informações e os feedbacks obtidos e extraídos das entrevistas realizadas para a avaliação dos storyboards. Como descrito no artefato do planejamento dos resultados das análises dos storyboard, cada relato deve conter os seguintes tópicos:
 
 - Os objetivos e escopo da avaliação;
 - Método de avaliação empregado;
@@ -15,8 +12,6 @@ O relato dos resultados tem como base o documento de [Planejamento da Avaliaçã
 - Lista dos problemas encontrados;
 - Sugestões de melhoria;
 - Planejamento para o reprojeto.
-
-## Tópicos
 
 #### Os objetivos e escopo da avaliação
 
