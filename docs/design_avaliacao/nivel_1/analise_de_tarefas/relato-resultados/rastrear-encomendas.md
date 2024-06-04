@@ -71,6 +71,9 @@ De acordo com o planejamento, as perguntas realizadas durante a entrevista e as 
 | **10** | Se você pudesse mudar qualquer coisa no processo da tarefa principal, o que mudaria? | Não precisaria ter a etapa "Selecionar o tipo de objeto". |
 | **11** | Como você avalia a sua satisfação com o processo atual descrito no HTA? | Satisfação boa. |
 
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+</center>
 
 ## Relato da interpretação e análise dos dados
 
@@ -90,14 +93,9 @@ Tendo como base os resultados levantados apartir dos dados e informações obtid
 
 | **Entrevistador** |**Horário do início**|**Horário do Fim**|**Data**|
 |--|--|--|--|
-|[Cláudio][ClaudioGH]|--|--|--/05/24|
-|[Elias F. Oliveira][EliasGH]|--|--|--/05/24|
-|[Gabriel Basto][GabrielbGH]|--|--|--/05/24|
-|[Gabriel Fernando][GabrielfGH]|--|--|--/05/24|
-|[Pablo][PabloGH]|--|--|--/05/24|
-|[Ricardo][RicardoGH]|--|--|--/05/24|
+|[Ricardo][RicardoGH]| 17:00| 20:00 |06/06/24|
 
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
+<font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024. </p></font>
 </center>
 
 

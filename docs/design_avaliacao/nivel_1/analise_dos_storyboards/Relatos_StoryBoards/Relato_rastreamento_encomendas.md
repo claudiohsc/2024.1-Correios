@@ -80,6 +80,10 @@ Durante a entrevista o participante não encontrou nenhum problema relacionado a
 
 O participante da entrevista não relatou nenhuma sugestão de melhora para o storyboard avaliado.
 
+### Planejamento para o reprojeto da aplicação
+
+Como o participante não relatou problemas ou sugestões de melhoria para o storyboard, não irá ter alteração no storyboard e também não terá reprojeto da aplicação.
+
 ## Referências bibliográficas
 
 > <a id="ref1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.

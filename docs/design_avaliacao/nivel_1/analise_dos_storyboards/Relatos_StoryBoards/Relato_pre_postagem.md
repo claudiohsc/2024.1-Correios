@@ -98,12 +98,12 @@ Neste tópico, o entrevistador precisará elencar de maneira ordenada e de fáci
 
 ## Planejamento para o reprojeto da aplicação
 
-Como base nos resultados levantados a partir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do storyboard, mantendo a estrutura original e apenas efetuando alterações no quadro em que o personagem realiza a pré-postagem ou adicionando um quadro para representar um esboço da tela que auxilia a tarefa. Isso será feito seguindo o cronograma da Tabela 0X.
+Como base nos resultados levantados a partir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do storyboard, mantendo a estrutura original e apenas efetuando alterações no quadro em que o personagem realiza a pré-postagem ou adicionando um quadro para representar um esboço da tela que auxilia a tarefa. Isso será feito seguindo o cronograma da Tabela 3.
 
 
 <center>
 
-<font size="2"><p style="text-align: center">**Tabela 0:** cronograma planejado do reprojeto</p></font>
+<font size="2"><p style="text-align: center">**Tabela 3:** cronograma planejado do reprojeto</p></font>
 
 | **Responsável** |**Horário do início**|**Horário do Fim**|**Data**|
 | -- | :--: | :--: | :--: |
