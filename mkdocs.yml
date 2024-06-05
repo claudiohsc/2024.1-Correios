@@ -14,6 +14,8 @@ nav:
     - Apresentação 01: apresentações/apresentação-01.md
     - Apresentação 02: apresentações/apresentação-02.md
     - Apresentação 03: apresentações/apresentação-03.md
+    - Apresentação 04: apresentações/apresentação-04.md
+    - Apresentação 05: apresentações/apresentação-05.md
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
     - Sites Avaliados: planejamento/site_avaliados.md
@@ -34,6 +36,33 @@ nav:
     - Princípios Gerais: analise_de_requisitos2/principios_gerais.md
     - Metas de Usabilidade: analise_de_requisitos2/metas-usabilidade.md
     - Guia de Estilo: analise_de_requisitos2/guia_de_estilo.md
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Análise de Tarefas:
+        - Planejamento da Avaliação: design_avaliacao/nivel_1/analise_de_tarefas//planejamento-analise-tarefas.md
+        - Planejamento do Relato dos Resultados: design_avaliacao/nivel_1/analise_de_tarefas/planejamento_relato_resultados_analise_de_tarefas.md
+        - Relato dos Resultados:
+          - Calcular Preços e Prazos: design_avaliacao/nivel_1/analise_de_tarefas/relato-resultados/preco-prazos.md
+          - Realizar Compras Online: design_avaliacao/nivel_1/analise_de_tarefas/relato-resultados/loja-online.md
+          - Recebimento de Encomendas: design_avaliacao/nivel_1/analise_de_tarefas/relato-resultados/receber-encomenda.md
+          - Realizar Pré-postagem: design_avaliacao/nivel_1/analise_de_tarefas/relato-resultados/pre-postagem.md
+          - Gerenciar Minhas Importações: design_avaliacao/nivel_1/analise_de_tarefas/relato-resultados/gerenciar-importacoes.md
+          - Rastrear Encomendas: design_avaliacao/nivel_1/analise_de_tarefas/relato-resultados/rastrear-encomendas.md
+      - Storyboard:
+        - Planejamento da Avaliação: design_avaliacao/nivel_1/analise_dos_storyboards/planej_storyboard.md
+        - Planejamento do Relato dos Resultados: design_avaliacao/nivel_1/analise_dos_storyboards/planejamento-relato-storyboard.md
+        - Relato dos Resultados:
+          - Calcular Preços e Prazos: design_avaliacao/nivel_1/analise_dos_storyboards/Relatos_StoryBoards/Relato_calculo_de_preços.md
+          - Realizar Compras Online: design_avaliacao/nivel_1/analise_dos_storyboards/Relatos_StoryBoards/Relato_loja_online.md
+          - Recebimento de Encomendas: design_avaliacao/nivel_1/analise_dos_storyboards/Relatos_StoryBoards/Relato_receber_encomendas.md
+          - Realizar Pré-postagem: design_avaliacao/nivel_1/analise_dos_storyboards/Relatos_StoryBoards/Relato_pre_postagem.md
+          - Gerenciar Minhas Importações: design_avaliacao/nivel_1/analise_dos_storyboards/Relatos_StoryBoards/Relato_minhas_importacoes.md
+          - Rastrear Encomendas: design_avaliacao/nivel_1/analise_dos_storyboards/Relatos_StoryBoards/Relato_rastreamento_encomendas.md
+        - Storyboards: design_avaliacao/storyboards.md
+    - Nível 2:
+      - Protótipo de Papel:
+        - Planejamento da Avaliação: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao.md
+        - Planejamento do Relato dos Resultados: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados.md
 extra_css:
   - stylesheets/extra.css
 theme:
