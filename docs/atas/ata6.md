@@ -130,8 +130,11 @@ Design, avaliação desenvolvimento:
 
 ## Gravação da reunião
 
-<!--- Disponibilizar o video e o link para o video  --->
-[Link para a gravação]()
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vv1HVrjs5b8?si=0yuM2tvsdlYPyPT1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## Histórico de Versão
 
