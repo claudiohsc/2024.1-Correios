@@ -140,7 +140,7 @@ Design, avaliação desenvolvimento:
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 05/06/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] |  |
+|`1.0`| 05/06/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Cláudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
