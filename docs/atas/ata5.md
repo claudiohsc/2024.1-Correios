@@ -34,21 +34,19 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 <p style="text-align: center"> Fonte: Ricardo Augusto, 2024. </p>
 </font>
 
-## Resultados da reunião
- 
-1. 
-2. 
-
 ## Gravação da reunião
 
-<!--- Disponibilizar o video e o link para o video  --->
-[Link para a gravação]()
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K3E8XK7FebI?si=A-ONqFblkIA5VWTh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 15/05/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] |  |
+|`1.0`| 15/05/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Cláudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
