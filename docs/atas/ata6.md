@@ -46,14 +46,7 @@ Planejamento:
 
 | Tarefa | Participantes |
 |--------|--------------|
-| Metodologia | Claudio |
-| Cronograma | Elias |
-| Cronograma executado | Gabriel B |
-| Heatmap | Gabriel F |
 | Sites avaliados | Pablo |
-| Ferramentas | Ricardo |
-| Processo Design | Claudio |
-| Site Escolhido | Elias |
 
 </center>
 <font size="2" >
@@ -69,7 +62,6 @@ Análise requisitos 1:
 
 | Tarefa | Participantes |
 |--------|--------------|
-| Aspectos éticos | Gabriel B |
 | Perfil usuário - Questionário | Gabriel F |
 | Perfil usuário - Entrevista | Pablo |
 | Perfil usuário - Análise competitiva | Ricardo |
