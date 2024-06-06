@@ -63,9 +63,9 @@ nav:
       - Protótipo de Papel:
         - Planejamento da Avaliação: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao.md
         - Planejamento do Relato dos Resultados: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados.md
-  -Verificação:
-    -Planejamento :
-      -Planejamento da Verificação: verificacao_01/planejamento/planejamento.md
+  - Verificação:
+    - Planejamento:
+      - Planejamento da Verificação: verificacao_01/planejamento/planejamento.md
 extra_css:
   - stylesheets/extra.css
 theme:
