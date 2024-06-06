@@ -66,8 +66,49 @@ nav:
         - Planejamento da Avaliação: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao.md
         - Planejamento do Relato dos Resultados: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados.md
   - Verificação:
-    - Planejamento:
-      - Planejamento da avaliação: verificacao_01/grupo_04/planejamento/Planejamento.md
+    - Grupo 4:
+      - Planejamento:
+        - Planejamento da verificação: verificacao_01/grupo_04/planejamento/Planejamento.md
+        - Metodologia: planejamento/metodologia.md
+        - Cronograma: planejamento/cronograma.md
+        - Cronograma Executado: planejamento/cronograma_executado.md
+        - Heatmap: planejamento/heatmap.md
+        - Sites Avaliados: planejamento/sitesAvaliados.md
+        - Ferramentas: planejamento/ferramentas.md
+        - Processos Design: planejamento/processoDesign.md
+        - Site Escolhido: planejamento/siteescolhido.md
+      - Análise de Requisitos I:
+        - Aspectos Éticos: analise_requisitos1/aspectos_éticos.md
+        - Perfil do Usuário:
+            - Questionário : analise_requisitos1/perfil_do_usuario/questionario.md
+            - Entrevista: analise_requisitos1/perfil_do_usuario/questionariopr.md
+            - Análise Competitiva: analise_requisitos1/perfil_do_usuario/analise_competitiva.md
+            - Resultado do Perfil do Usuário: analise_requisitos1/perfil_do_usuario/resultado.md
+        - Personas: analise_requisitos1/personas.md
+        - Cenários : analise_requisitos1/cenario.md
+        - Análise de tarefas:
+            - HTA: analise_requisitos1/analise_tarefas/hta.md
+            - GOMS: analise_requisitos1/analise_tarefas/goms.md
+      - Análise de Requisitos II:
+        - Princípios Gerais do Projeto: analise_requisitos2/principios_gerais.md
+        - Metas de Usabilidade: analise_requisitos2/metas_usabilidade.md
+        - Guia de Estilo: analise_requisitos2/guia_estilo.md
+        - Características da plataforma: analise_requisitos2/caracteristicos.md
+      - Design, Avaliação e Desenvolvimento :
+        - Nivel 1:
+          - Análise de tarefas:
+            - Planejamento da Avaliação da Análise de Tarefas : design/Nivel1/analise_tarefas/planejamento_avaliação.md
+            - Planejamento do Relato dos Resultados da Avaliação: design/Nivel1/analise_tarefas/planejamento_relato.md
+            - Relato dos Resultados: design/Nivel1/analise_tarefas/relato.md
+          - Storyboard:
+            - Planejamento da Avaliação do Storyboard : design/Nivel1/storyboard/planejamento_avaliação.md
+            - Planejamento do Relato dos Resultados da Avaliação: design/Nivel1/storyboard/planejamento_relato.md
+            - Relato dos Resultados: design/Nivel1/storyboard/relato.md
+            - Storyboards: design/Nivel1/storyboard/storyboard.md
+        - Nivel 2:
+          - Protótipo de Papel:
+            - Planejamento da Avaliação do Protótipo de Papel : design/Nivel2/prototipo_papel/planejamento_avaliação.md
+            - Planejamento do Relato do Protótipo de Papel: design/Nivel2/prototipo_papel/planejamento_relato.md
 extra_css:
   - stylesheets/extra.css
 theme:
