@@ -350,7 +350,7 @@ Na Tabela 6 apresentada a seguir, é possível visualizar a representação da H
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin), [Ricardo Augusto](https://www.github.com/avmricardo) | [Elias F. Oliveira](https://www.github.com/EliasOliver21)  |
 | `1.1`  | 01/06/2024 | Alterações HTA | [Elias][EliasGH], [Gabriel Basto][GabrielBGH], [Gabriel Fernando][GabrielFGH], [Pablo S.Costa](https://github.com/pabloheika)| [Ricardo Augusto][RicardoGH] |
-| `1.1`  | 06/06/2024 | Adiciona versão reprojetada para realizar pré-postagem | [Gabriel Fernando][GabrielFGH] | [][] |
+| `1.2`  | 06/06/2024 | Adiciona versão reprojetada para realizar pré-postagem | [Gabriel Fernando][GabrielFGH] | [][] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
