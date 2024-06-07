@@ -37,22 +37,6 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
  
 - Artefato Planejamento da verificação: Pablo, 
 
-Planejamento:
-
-<font size="2" >
-<p style="text-align: center"> Tabela 2: Divisão dos artefatos. </p>
-</font>
-<center>
-
-| Tarefa | Participantes |
-|--------|--------------|
-| Sites avaliados | Pablo |
-
-</center>
-<font size="2" >
-<p style="text-align: center"> Fonte: Ricardo Augusto, 2024. </p>
-</font>
-
 Análise requisitos 1:
 
 <font size="2" >
@@ -62,14 +46,14 @@ Análise requisitos 1:
 
 | Tarefa | Participantes |
 |--------|--------------|
-| Perfil usuário - Questionário | Gabriel F |
-| Perfil usuário - Entrevista | Pablo |
-| Perfil usuário - Análise competitiva | Ricardo |
-| Perfil usuário - Resultado perfil do usuário | Claudio |
-| Personas | Elias |
-| Cenários | Gabriel B |
-| Análise tarefas - HTA | Gabriel F |
-| Análise tarefas - GOMS | Pablo |
+| Perfil usuário - Questionário | |
+| Perfil usuário - Entrevista |  |
+| Perfil usuário - Análise competitiva |  |
+| Perfil usuário - Resultado perfil do usuário |  |
+| Personas |  |
+| Cenários |  |
+| Análise tarefas - HTA |  |
+| Análise tarefas - GOMS |  |
 
 </center>
 <font size="2" >
@@ -85,10 +69,10 @@ Análise requisitos 2:
 
 | Tarefa | Participantes |
 |--------|--------------|
-| Princípios gerais do projeto | Ricardo |
-| Metas usabilidade | Claudio |
-| Guia de estilo | Elias |
-| Características da plataforma | Gabriel B |
+| Princípios gerais do projeto |  |
+| Metas usabilidade |  |
+| Guia de estilo |  |
+| Características da plataforma | |
 
 </center>
 <font size="2" >
@@ -104,15 +88,15 @@ Design, avaliação desenvolvimento:
 
 | Tarefa | Participantes |
 |--------|--------------|
-| N1 - AT - Planejamento da avaliação | Gabriel F |
-| N1 - AT - Planejamento do relato | Pablo |
-| N1 - AT - Relato dos resultados | Ricardo |
-| N1 - SB - Planejamento da avaliação | Claudio |
-| N1 - SB - Planejamento do relato | Elias |
-| N1 - SB - Relato dos resultados | Gabriel B |
-| N1 - SB - Storyboards | Gabriel F |
-| N2 - PP - Planejamento da avaliação | Pablo |
-| N2 - PP - Planejamento do relato | Ricardo |
+| N1 - AT - Planejamento da avaliação |  |
+| N1 - AT - Planejamento do relato |  |
+| N1 - AT - Relato dos resultados |  |
+| N1 - SB - Planejamento da avaliação |  |
+| N1 - SB - Planejamento do relato |  |
+| N1 - SB - Relato dos resultados | |
+| N1 - SB - Storyboards | |
+| N2 - PP - Planejamento da avaliação |  |
+| N2 - PP - Planejamento do relato |  |
 
 </center>
 <font size="2" >
