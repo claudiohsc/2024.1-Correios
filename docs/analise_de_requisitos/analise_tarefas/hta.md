@@ -171,54 +171,106 @@ Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA
 
 ### 4. Realizar pré-postagem
 
-Abaixo, na Tabela 5, temos a representação da HTA em forma de tabela e na figura 5, a HTA em forma de diagrama para a tarefa de realizar uma pré-postagem pelo site dos correios.
+=== "Depois do reprojeto"
+    Conforme o [reprojeto](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/relato-resultados/pre-postagem/#planejamento-para-o-reprojeto-da-aplicacao) previsto na avaliação, temos abaixo, na Tabela 5, a representação da HTA em forma de tabela e na figura 5, a HTA em forma de diagrama para a tarefa de realizar uma pré-postagem pelo site dos correios com a diferença que, agora, é possível preencher os campos de destinatário e remetente com dados pré-cadastrados.
 
 
-<font size="2"><p style="text-align: center">Figura 5: HTA para realizar uma pré-postagem.</p></font>
+    <font size="2"><p style="text-align: center">Figura 5: HTA para realizar uma pré-postagem.</p></font>
 
-<center>
+    <center>
 
-![legenda](../../assets/analiseHTA/HTA%20-%20Pré-postagem.drawio.svg)
+    ![legenda](../../assets/analiseHTA/HTA%20-%20Pré-postagem%20reprojetada.svg)
 
-</center>
+    </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
-Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/HTA%20-%20Pré-postagem.drawio.svg).
+    Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/HTA%20-%20Pré-postagem%20reprojetada.svg).
 
-<font size="2"><p style="text-align: center">Tabela 5: HTA em tabela para realizar uma pré-postagem.</p></font>
+    <font size="2"><p style="text-align: center">Tabela 5: HTA em tabela para realizar uma pré-postagem.</p></font>
 
-<center>
+    <center>
 
-| objetivos | operações **problema**s e recomendações |
-| --- | --- |
-| 0 Realizar pré-postagem 1 > 2 > 3| **input**: dados da pré-postagem e meio de pagamento <br>**plano**: preencher dados da pré-postagem, gerenciar o carrinho e concluir a compra |
-| 1 informar dados da pré-postagem 1 + 2| **input**: dados do remetente, destinatario e objeto <br>**plano**: informar dados do remetente e destinatário, informar dados do objeto, escolher o tipo de serviço e adicionar a pré-postagem ao carrinho <br>**recomendação**: informar ao usuário quais campos são obrigatórios |
-| 1.1 informar destinatario e remetente | <br>**input**: Nome, Email, Telefone, CEP, Endereçõ e CPF <br>**feedback**: os dados inseridos são salvos e disponibilizados para edição pelo usuário <br>**plano**: informar nome, CEP e número do remetente e destinatário |
-| 1.1.1 informar dados do remetente | |
-| 1.1.2 informar dados do destinatario | |
-| 1.2 informar dados do objeto 1 + 2 | **input**: formato e dimensões da embalagem e informações adiconais sobre o objeto <br>**plano**: selecionar o tipo da embalagem (carta, caixa ou cilindro) e as respectivas dimensões |
-| 1.2.1 selecionar a embalagem do objeto e inserir dimensões | |
-| 1.2.2 fornecer informações adicionais (1 / 2) > 3| **plano**: Informar dados da nota fiscal ou descrição do objeto, quantidade ou valor e clicar em inserir informações <br>**feedback**: os campos de dimensão variam conforme o tipo de embalagem escolhida e as informações adicionais são salvas em uma tabela ao final da página <br>**recomendação**: avisar o usuário que é necessário clicar em "adicionar" para registrar as informações inseridas nos campos|
-| 1.2.2.1 Número e chave da NF-e | |
-| 1.2.2.2 Informar descrição, quantidade e valor do objeto | |
-| 1.2.2.3 Confirmar e adicionar informações | |
-| 1.3 Escolher o tipo do serviço 1 / 2| **plano**: escolher entre o serviço SEDEX e PAC <br>**feedback**: o serviço escolhido é salvo e disponibilizado para vizualização e edição pelo usuário <br>**recomendação**: avisar o usuário caso um dos serviços não esteja disponível na região |
-| 1.3.1 Escolher SEDEX | |
-| 1.3.2 Escolher PAC | |
-| 1.4 Adicionar pré-postagem ao carrinho | |
-| 2 Gerenciar carrinho 1 / 2 / 3| **plano**: Prosseguir com a conclusão do pagamento ou inserir uma nova pré-postagem ou editar limpar os itens do carrinho <br>**feedback**: a tabela de itens no carrinho é atualizada de acordo com as ações do usuário <br>**problema**: não é possível apagar 1 item do carrinho quando há apenas 1 item <br>**recomendação**: identificar e mostrar o erro de não exclusão para o usuário |
-| 2.1 Prosseguir com pagamento | |
-| 2.2 Inserir nova pré-postagem | |
-| 2.3 Limpar carrinho | |
-| 3 Escolher a forma de pagamento 1 / 2 / 3|  **input**: dados do cartão de crédito <br>**feedback**: a página é atualizada conforme o meio de pagamento escolhido<br>**plano**: escolher netre pagar com cartão de crédito, boleto ou PIX <br>**recomendação**: caso não seja possivel selecionar uma opção em específico explicar para o usuário o motivo |
-| 3.1 Pagar com cartão de crédito| |
-| 3.2 Pagar com boleto| |
-| 3.3 Pagar com PIX| |
+    | objetivos | operações **problema**s e recomendações |
+    | --- | --- |
+    | 0 Realizar pré-postagem 1 > 2 > 3 | **input**: dados da pré-postagem e meio de pagamento   <br>**plano**: preencher dados da pré-postagem, gerenciar o carrinho e concluir a compra |
+    | 1 preencher pré-postagem 1 > 2 > 3 | **input**: dados do remetente, destinatario e objeto   <br>**plano**: informar dados do remetente e destinatário, informar dados do objeto, escolher o tipo de serviço e adicionar a pré-postagem ao carrinho   <br>**recomendação**: informar ao usuário quais campos são obrigatórios |
+    | 1.1 informar dados 1 + 2 |   **input**: Nome, Email, Telefone, CEP, Endereço, CPF, tipo de embalagem da encomenda, dimensões da encomenda e informações adicionais da encomenda   <br>**feedback**: os dados inseridos são salvos e disponibilizados para edição pelo usuário   <br>**plano**: informar dados do remetente, destinatário e do objeto |
+    | 1.1.1 Informar dados do destinatário e remetente 1 / 2 | **input**: Nome, Email, Telefone, CEP, Endereço, CPF ou destinatário e remetentes pré-cadastrados  <br>**feedback**: os dados inseridos são salvos e disponibilizados para edição pelo usuário  <br>**plano**: Selecionar destinatário ou remetente pré-cadastrado e Informar nome, CEP, CPF e números do remetente e destinatário |
+    | 1.1.1.1 Selecionar destinatário ou remetente pré-cadastrado |   |
+    | 1.1.1.2 Informar nome, CEP, CPF e números do remetente e destinatário |   |
+    | 1.2 informar dados do objeto 1 + 2 | **input**: formato e dimensões da embalagem e informações adicionais sobre o objeto   <br>**plano**: selecionar o tipo da embalagem (carta, caixa ou cilindro) e as respectivas dimensões |
+    | 1.2.1 selecionar a embalagem do objeto e inserir dimensões |   |
+    | 1.2.2 fornecer informações adicionais (1 / 2) > 3 | **plano**: Informar dados da nota fiscal ou descrição do objeto, quantidade ou valor e clicar em inserir informações   <br>**feedback**: os campos de dimensão variam conforme o tipo de embalagem escolhida e as informações adicionais são salvas em uma tabela ao final da página   <br>**recomendação**: avisar o usuário que é necessário clicar em "adicionar" para registrar as informações inseridas nos campos |
+    | 1.2.2.1 Número e chave da NF-e |   |
+    | 1.2.2.2 Informar descrição, quantidade e valor do objeto |   |
+    | 1.2.2.3 Confirmar e adicionar informações |   |
+    | 1.3 Escolher o tipo do serviço 1 / 2 | **plano**: escolher entre o serviço SEDEX e PAC   <br>**feedback**: o serviço escolhido é salvo e disponibilizado para vizualização e edição pelo usuário   <br>**recomendação**: avisar o usuário caso um dos serviços não esteja disponível na região |
+    | 1.3.1 Escolher SEDEX |   |
+    | 1.3.2 Escolher PAC |   |
+    | 1.4 Adicionar pré-postagem ao carrinho |   |
+    | 2 Gerenciar carrinho 1 / 2 / 3 | **plano**: Prosseguir com a conclusão do pagamento ou inserir uma nova pré-postagem ou editar limpar os itens do carrinho   <br>**feedback**: a tabela de itens no carrinho é atualizada de acordo com as ações do usuário   <br>**problema**: não é possível apagar 1 item do carrinho quando há apenas 1 item   <br>**recomendação**: identificar e mostrar o erro de não exclusão para o usuário |
+    | 2.1 Prosseguir com pagamento |   |
+    | 2.2 Inserir nova pré-postagem |   |
+    | 2.3 Limpar carrinho |   |
+    | 3 Escolher a forma de pagamento 1 / 2 / 3 | **input**: dados do cartão de crédito   <br>**feedback**: a página é atualizada conforme o meio de pagamento escolhido  <br>**plano**: escolher netre pagar com cartão de crédito, boleto ou PIX   <br>**recomendação**: caso não seja possivel selecionar uma opção em específico explicar para o usuário o motivo |
+    | 3.1 Pagar com cartão de crédito |   |
+    | 3.2 Pagar com boleto |   |
+    | 3.3 Pagar com PIX |   |
 
-</center>
+    </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
+=== "Antes do reprojeto"
+    Abaixo, na Tabela 5, temos a representação da HTA em forma de tabela e na figura 5, a HTA em forma de diagrama para a tarefa de realizar uma pré-postagem pelo site dos correios.
+
+
+    <font size="2"><p style="text-align: center">Figura 5: HTA para realizar uma pré-postagem.</p></font>
+
+    <center>
+
+    ![legenda](../../assets/analiseHTA/HTA%20-%20Pré-postagem.drawio.svg)
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
+    Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/HTA%20-%20Pré-postagem.drawio.svg).
+
+    <font size="2"><p style="text-align: center">Tabela 5: HTA em tabela para realizar uma pré-postagem.</p></font>
+
+    <center>
+
+    | objetivos | operações **problema**s e recomendações |
+    | --- | --- |
+    | 0 Realizar pré-postagem 1 > 2 > 3| **input**: dados da pré-postagem e meio de pagamento <br>**plano**: preencher dados da pré-postagem, gerenciar o carrinho e concluir a compra |
+    | 1 informar dados da pré-postagem 1 + 2| **input**: dados do remetente, destinatario e objeto <br>**plano**: informar dados do remetente e destinatário, informar dados do objeto, escolher o tipo de serviço e adicionar a pré-postagem ao carrinho <br>**recomendação**: informar ao usuário quais campos são obrigatórios |
+    | 1.1 informar destinatario e remetente 1 + 2 | <br>**input**: Nome, Email, Telefone, CEP, Endereçõ e CPF <br>**feedback**: os dados inseridos são salvos e disponibilizados para edição pelo usuário <br>**plano**: informar nome, CEP e número do remetente e destinatário |
+    | 1.1.1 informar dados do remetente | |
+    | 1.1.2 informar dados do destinatario | |
+    | 1.2 informar dados do objeto 1 + 2 | **input**: formato e dimensões da embalagem e informações adiconais sobre o objeto <br>**plano**: selecionar o tipo da embalagem (carta, caixa ou cilindro) e as respectivas dimensões |
+    | 1.2.1 selecionar a embalagem do objeto e inserir dimensões | |
+    | 1.2.2 fornecer informações adicionais (1 / 2) > 3| **plano**: Informar dados da nota fiscal ou descrição do objeto, quantidade ou valor e clicar em inserir informações <br>**feedback**: os campos de dimensão variam conforme o tipo de embalagem escolhida e as informações adicionais são salvas em uma tabela ao final da página <br>**recomendação**: avisar o usuário que é necessário clicar em "adicionar" para registrar as informações inseridas nos campos|
+    | 1.2.2.1 Número e chave da NF-e | |
+    | 1.2.2.2 Informar descrição, quantidade e valor do objeto | |
+    | 1.2.2.3 Confirmar e adicionar informações | |
+    | 1.3 Escolher o tipo do serviço 1 / 2| **plano**: escolher entre o serviço SEDEX e PAC <br>**feedback**: o serviço escolhido é salvo e disponibilizado para vizualização e edição pelo usuário <br>**recomendação**: avisar o usuário caso um dos serviços não esteja disponível na região |
+    | 1.3.1 Escolher SEDEX | |
+    | 1.3.2 Escolher PAC | |
+    | 1.4 Adicionar pré-postagem ao carrinho | |
+    | 2 Gerenciar carrinho 1 / 2 / 3| **plano**: Prosseguir com a conclusão do pagamento ou inserir uma nova pré-postagem ou editar limpar os itens do carrinho <br>**feedback**: a tabela de itens no carrinho é atualizada de acordo com as ações do usuário <br>**problema**: não é possível apagar 1 item do carrinho quando há apenas 1 item <br>**recomendação**: identificar e mostrar o erro de não exclusão para o usuário |
+    | 2.1 Prosseguir com pagamento | |
+    | 2.2 Inserir nova pré-postagem | |
+    | 2.3 Limpar carrinho | |
+    | 3 Escolher a forma de pagamento 1 / 2 / 3|  **input**: dados do cartão de crédito <br>**feedback**: a página é atualizada conforme o meio de pagamento escolhido<br>**plano**: escolher netre pagar com cartão de crédito, boleto ou PIX <br>**recomendação**: caso não seja possivel selecionar uma opção em específico explicar para o usuário o motivo |
+    | 3.1 Pagar com cartão de crédito| |
+    | 3.2 Pagar com boleto| |
+    | 3.3 Pagar com PIX| |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ### 5. Gerenciar minhas importações
 
@@ -298,6 +350,7 @@ Na Tabela 6 apresentada a seguir, é possível visualizar a representação da H
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin), [Ricardo Augusto](https://www.github.com/avmricardo) | [Elias F. Oliveira](https://www.github.com/EliasOliver21)  |
 | `1.1`  | 01/06/2024 | Alterações HTA | [Elias][EliasGH], [Gabriel Basto][GabrielBGH], [Gabriel Fernando][GabrielFGH], [Pablo S.Costa](https://github.com/pabloheika)| [Ricardo Augusto][RicardoGH] |
+| `1.1`  | 06/06/2024 | Adiciona versão reprojetada para realizar pré-postagem | [Gabriel Fernando][GabrielFGH] | [][] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
