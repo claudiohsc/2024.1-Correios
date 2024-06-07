@@ -46,14 +46,14 @@ Análise requisitos 1:
 
 | Tarefa | Participantes |
 |--------|--------------|
-| Perfil usuário - Questionário | |
-| Perfil usuário - Entrevista |  |
-| Perfil usuário - Análise competitiva |  |
-| Perfil usuário - Resultado perfil do usuário |  |
-| Personas |  |
-| Cenários |  |
-| Análise tarefas - HTA |  |
-| Análise tarefas - GOMS |  |
+| Perfil usuário - Questionário | Cláudio |
+| Perfil usuário - Entrevista |  Elias |
+| Perfil usuário - Análise competitiva | Gabriel Bertolazi |
+| Perfil usuário - Resultado perfil do usuário | Gabriel Fernando |
+| Personas | Pablo |
+| Cenários | Claúdio, Elias, Gabriel Bertolazi, Gabriel Fernando, Pablo, Ricardo |
+| Análise tarefas - HTA | Claúdio, Elias, Gabriel Bertolazi, Gabriel Fernando, Pablo, Ricardo |
+| Análise tarefas - GOMS | Claúdio, Elias, Gabriel Bertolazi, Gabriel Fernando, Pablo, Ricardo |
 
 </center>
 <font size="2" >
@@ -69,10 +69,10 @@ Análise requisitos 2:
 
 | Tarefa | Participantes |
 |--------|--------------|
-| Princípios gerais do projeto |  |
-| Metas usabilidade |  |
-| Guia de estilo |  |
-| Características da plataforma | |
+| Princípios gerais do projeto | Ricardo |
+| Metas usabilidade | Cláudio |
+| Guia de estilo | Elias |
+| Características da plataforma | Gabriel Bertolazi |
 
 </center>
 <font size="2" >
@@ -88,15 +88,15 @@ Design, avaliação desenvolvimento:
 
 | Tarefa | Participantes |
 |--------|--------------|
-| N1 - AT - Planejamento da avaliação |  |
-| N1 - AT - Planejamento do relato |  |
-| N1 - AT - Relato dos resultados |  |
-| N1 - SB - Planejamento da avaliação |  |
-| N1 - SB - Planejamento do relato |  |
-| N1 - SB - Relato dos resultados | |
-| N1 - SB - Storyboards | |
-| N2 - PP - Planejamento da avaliação |  |
-| N2 - PP - Planejamento do relato |  |
+| N1 - AT - Planejamento da avaliação | Gabriel Fernando |
+| N1 - AT - Planejamento do relato | Pablo |
+| N1 - AT - Relato dos resultados | Claúdio, Elias, Gabriel Bertolazi, Gabriel Fernando, Pablo, Ricardo |
+| N1 - SB - Planejamento da avaliação | Ricardo |
+| N1 - SB - Planejamento do relato | Cláudio |
+| N1 - SB - Relato dos resultados | Claúdio, Elias, Gabriel Bertolazi, Gabriel Fernando, Pablo, Ricardo |
+| N1 - SB - Storyboards | Claúdio, Elias, Gabriel Bertolazi, Gabriel Fernando, Pablo, Ricardo |
+| N2 - PP - Planejamento da avaliação | Elias |
+| N2 - PP - Planejamento do relato | Gabriel Bertolazi |
 
 </center>
 <font size="2" >
