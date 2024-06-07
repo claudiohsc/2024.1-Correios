@@ -90,3 +90,8 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Mudar para o modo claro
 
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
