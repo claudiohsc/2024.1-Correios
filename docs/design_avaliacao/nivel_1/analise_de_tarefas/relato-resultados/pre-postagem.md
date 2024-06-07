@@ -89,7 +89,7 @@ Além da extensão do objetivo de preencher os dados da pré-postagem, não fora
 
 ## Planejamento para o reprojeto da aplicação
 
-Como base nos resultados levantados apartir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do diagrama para incluir uma opção de adicionar destinatários ou remetentes pré-cadastros. Isso será feito de forma a tentar solucionar o problema descrito na interpretação e análise dos dados, esses campos de preenchimento, uma vez que são os elementos mais recorrentes na tarefa, podem ser agilizados por meio de uma opção de selecionar endereços pré-cadastrados para isso, será seguido o cronograma da Tabela 5.
+Como base nos resultados levantados apartir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do diagrama para incluir uma opção de adicionar destinatários ou remetentes pré-cadastros. Isso será feito de forma a tentar solucionar o problema descrito na interpretação e análise dos dados, esses campos de preenchimento, uma vez que são os elementos mais recorrentes na tarefa, podem ser agilizados por meio de uma opção de selecionar endereços pré-cadastrados para isso, temos o cronograma planejado para o reprojeto na Tabela 5 e o executado na Tabela 6.
 
 <center>
 
