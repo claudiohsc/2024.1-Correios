@@ -100,6 +100,19 @@ Como base nos resultados levantados apartir dos dados e informações obtidos na
 |[Gabriel Fernando][GabrielfGH]| 17:00 | 22:00 | 06/06/24|
 
 <font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">**Tabela 06:** cronograma executado do reprojeto</p></font>
+
+| **Responsável** |**Horário do início**|**Horário do Fim**|**Data**|
+| -- | :--: | :--: | :--: |
+|[Gabriel Fernando][GabrielfGH]| 21:00 | 22:00 | 06/06/24|
+
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
+
 </center>
 
 
@@ -117,6 +130,7 @@ Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-d
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 02/06/2024 | Criação do documento| [Gabriel F. J. Silva][GabrielfGH] | [Gabriel B. Bertolazi][GabrielbGH], [Ricardo][RicardoGH] e [Elias F. Oliveira][EliasGH] |
+|`1.1`| 06/06/2024 | Adiciona cronograma executado do reprojeto | [Gabriel F. J. Silva][GabrielfGH] | [][] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
