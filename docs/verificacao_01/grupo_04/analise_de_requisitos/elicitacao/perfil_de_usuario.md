@@ -10,5 +10,11 @@ O objetivo dessa verificação é detectar prováveis problemas no [artefato](ht
 
 ## Metodologia
 
-Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos primeiro o checklist geral para verificar itens presentes na maioria dos artefatos e depois será aplicado o checklist do Perfil do Usuário.
+Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos o checklist do Perfil do Usuário e para cada item será atribuído uma avaliação entre: Sim, Não ou Incompleto.
+
+## Apresentação dos Dados
+
+Aqui será apresentado os resultados do checklist e logo após as observações dos itens com resultado negativo.
+
+### Checklist Perfil do Usuário
 
