@@ -18,3 +18,28 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 ### Checklist Perfil do Usuário
 
+
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|
+|:--:|:--:|:--:|:--:|
+|1| O artefato possui uma explicação sobre o que é o Perfil do Usuário? |  | <a href="#ref1">REF1</a>. pg 166 |
+|2| Foram utilizados entrevistas ou questionários, para coletar dados para o perfil de usuário?|   |  <a href="#ref1">REF1</a>. pg 166|
+|3 | Com os dados coletados é possível identificar características de interesse(cargo, nível de instrução, atividades principais, faixa etária etc.)?|  | <a href="#ref1">REF1</a>. pg 166|
+| 4| A partir dos dados coletados, é possível agrupar os valores em grupos e faixas na qual os usuários se encaixam? | | <a href="#ref1">REF1</a>. pg 166|
+
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
+
+
+
+
+
+
+
+
+
+## Bibliografia
+
+> 1<a id="ref1">.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
