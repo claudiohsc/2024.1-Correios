@@ -6,3 +6,9 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Pe
 
 ## Objetivo
 
+O objetivo dessa verificação é detectar prováveis problemas no [artefato](https://requisitos-de-software.github.io/2024.1-Gov.br/#/perfil_usuario/perfil_usuario) em questão produzido pelo  [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+
+## Metodologia
+
+Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos primeiro o checklist geral para verificar itens presentes na maioria dos artefatos e depois será aplicado o checklist do Perfil do Usuário.
+
