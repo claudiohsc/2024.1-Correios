@@ -10,7 +10,7 @@ O objetivo dessa verificação é detectar prováveis problemas no [artefato](ht
 
 ## Metodologia
 
-Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos o checklist do Perfil do Usuário e para cada item será atribuído uma avaliação entre: Sim, Não ou Incompleto.
+Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos o checklist do Perfil do Usuário e para cada item será atribuído uma avaliação entre: Sim, Não ou Incompleto. Ao final será melhor comentado os itens negativos na seção de [Problemas Encontrados](#problemas-encontrados).
 
 ## Apresentação dos Dados
 
@@ -39,12 +39,16 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 
 
-
-
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 
+## Problemas Encontrados
 
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Perfil do Usuário](https://requisitos-de-software.github.io/2024.1-Gov.br/#/perfil_usuario/perfil_usuario).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
 
 
 
@@ -54,3 +58,11 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 ## Bibliografia
 
 > 1<a id="ref1">.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :----: | :--: | --------- | ----------- | ------ |
+| `1.0`  | 06/06/2024 | Criação do documento |[Claudio Henrique](https://github.com/claudiohsc) | [ ]() |
