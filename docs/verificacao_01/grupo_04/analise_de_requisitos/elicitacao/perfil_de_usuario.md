@@ -26,8 +26,19 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 |:--:|:--:|:--:|:--:|
 |1| O artefato possui uma explicação sobre o que é o Perfil do Usuário? |  | <a href="#ref1">REF1</a>. pg 166 |
 |2| Foram utilizados entrevistas ou questionários, para coletar dados para o perfil de usuário?|   |  <a href="#ref1">REF1</a>. pg 166|
-|3 | Com os dados coletados é possível identificar características de interesse(cargo, nível de instrução, atividades principais, faixa etária etc.)?|  | <a href="#ref1">REF1</a>. pg 166|
+|3 | Com os dados coletados é possível identificar características de interesse(cargo, nível de instrução, atividades principais, faixa etária, experiência)?|  | <a href="#ref1">REF1</a>. pg 166|
 | 4| A partir dos dados coletados, é possível agrupar os valores em grupos e faixas na qual os usuários se encaixam? | | <a href="#ref1">REF1</a>. pg 166|
+| 5| Foi coletado dados sobre tarefas primárias realizadas no aplicativo? | | <a href="#ref1">REF1</a>. pg 166|
+| 6| A formulação das perguntas foi cuidadosa, evitando ambiguidades e mal-entendidos? | | <a href="#ref1">REF1</a>. pg 149|
+|7| O questionário apresenta perguntas abertas e fechadas, na tentativa de obter informações mais detalhadas? | |  <a href="#ref1">REF1</a>. pg 151 |
+|8| O perfil de usuário considera a faixa etária dos usuários? | | <a href="#ref1">REF1</a>. pg 166|
+|9| O perfil de usuário abrange informações sobre a experiência dos usuários? | | <a href="#ref1">REF1</a>. pg 166|
+|10| O perfil de usuário avalia a relação dos usuários com a tecnologia? | | <a href="#ref1">REF1</a>. pg 166|
+|11| O perfil de usuário descreve as atividades principais dos usuários? | | <a href="#ref1">REF1</a>. pgs 150,166|
+|12| Foi definido e informado o prazo para o preenchimento do questionário?| | <a href="#ref1">REF1</a>. pg 150|
+
+
+
 
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
