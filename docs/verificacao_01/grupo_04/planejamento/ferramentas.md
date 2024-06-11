@@ -1,1 +1,0 @@
-# Verificação do Artefato Ferramentas
