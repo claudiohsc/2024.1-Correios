@@ -35,7 +35,7 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 
 ## Resultados da reunião
  
-- Artefato Planejamento da verificação: Pablo, 
+- Artefato Planejamento da verificação: Cláudio, Elias. 
 
 Análise requisitos 1:
 
@@ -46,14 +46,36 @@ Análise requisitos 1:
 
 | Tarefa | Participantes |
 |--------|--------------|
-| Perfil usuário - Questionário | |
-| Perfil usuário - Entrevista |  |
-| Perfil usuário - Análise competitiva |  |
-| Perfil usuário - Resultado perfil do usuário |  |
-| Personas |  |
-| Cenários |  |
-| Análise tarefas - HTA |  |
-| Análise tarefas - GOMS |  |
+| Aspectos éticos e termo de consentimento | Pablo |
+| Perfil usuário - Questionário | Elias |
+| Perfil usuário - Entrevista | Gabriel B |
+| Perfil usuário - Análise competitiva | Gabriel F |
+| Perfil usuário - Resultado perfil do usuário | Pablo |
+| Personas | Ricardo |
+| Cenários | Checklist: Cláudio |
+| Cenário - Pesquisar procurados | Cláudio |
+| Cenário - Solicitar antecedentes criminais | Cláudio |
+| Cenário - Validar antecedentes criminais | Elias |
+| Cenário - 197 | Gabriel B |
+| Cenário - Solicitar carteira de identidade | Gabriel F |
+| Cenário - Registrar ocorrência | Pablo |
+| Cenário - Retrato falado online | Ricardo |
+| Análise tarefas - HTA | Checklist: Elias |
+| HTA - Pesquisar procurados | Cláudio |
+| HTA - Solicitar antecedentes criminais | Elias |
+| HTA - Validar antecedentes criminais | Elias |
+| HTA - 197 | Gabriel B |
+| HTA - Solicitar carteira de identidade | Gabriel F |
+| HTA - Registrar ocorrência | Pablo |
+| HTA - Retrato falado online | Ricardo |
+| Análise tarefas - GOMS | Checklist: Gabriel B|
+| GOMS - Pesquisar procurados | Cláudio |
+| GOMS - Solicitar antecedentes criminais | Elias |
+| GOMS - Validar antecedentes criminais | Gabriel B |
+| GOMS - 197 | Gabriel B |
+| GOMS - Solicitar carteira de identidade | Gabriel F |
+| GOMS - Registrar ocorrência | Pablo |
+| GOMS - Retrato falado online | Ricardo |
 
 </center>
 <font size="2" >
@@ -69,10 +91,10 @@ Análise requisitos 2:
 
 | Tarefa | Participantes |
 |--------|--------------|
-| Princípios gerais do projeto |  |
-| Metas usabilidade |  |
-| Guia de estilo |  |
-| Características da plataforma | |
+| Princípios gerais do projeto | Cláudio |
+| Metas usabilidade | Elias |
+| Guia de estilo | Gabriel B |
+| Características da plataforma | Gabriel F |
 
 </center>
 <font size="2" >
@@ -88,15 +110,34 @@ Design, avaliação desenvolvimento:
 
 | Tarefa | Participantes |
 |--------|--------------|
-| N1 - AT - Planejamento da avaliação |  |
-| N1 - AT - Planejamento do relato |  |
-| N1 - AT - Relato dos resultados |  |
-| N1 - SB - Planejamento da avaliação |  |
-| N1 - SB - Planejamento do relato |  |
-| N1 - SB - Relato dos resultados | |
-| N1 - SB - Storyboards | |
-| N2 - PP - Planejamento da avaliação |  |
-| N2 - PP - Planejamento do relato |  |
+| N1 - AT - Planejamento da avaliação | Pablo |
+| N1 - AT - Planejamento do relato | Ricardo |
+| N1 - AT - Relato dos resultados | Checklist: Gabriel F|
+| Relato Análise de Tarefas - Pesquisar procurados | Cláudio |
+| Relato Análise de Tarefas - Solicitar antecedentes criminais | Elias |
+| Relato Análise de Tarefas - 197 | Gabriel B |
+| Relato Análise de Tarefas - Solicitar carteira de identidade | Gabriel F |
+| Relato Análise de Tarefas - Registrar ocorrência | Pablo |
+| Relato Análise de Tarefas - Retrato falado online | Ricardo |
+| N1 - SB - Planejamento da avaliação | Cláudio |
+| N1 - SB - Planejamento do relato | Elias |
+| N1 - SB - Relato dos resultados | Checklist: Pablo |
+| Relato Storyboard - Pesquisar procurados | Cláudio |
+| Relato Storyboard - Solicitar antecedentes criminais | Elias |
+| Relato Storyboard - 197 | Gabriel B |
+| Relato Storyboard - Solicitar carteira de identidade | Gabriel F |
+| Relato Storyboard - Registrar ocorrência | Pablo |
+| Relato Storyboard - Retrato falado online | Ricardo |
+| N1 - SB - Storyboards | Checklist: Ricardo |
+| Storyboard - Pesquisar procurados | Cláudio |
+| Storyboard - Solicitar antecedentes criminais | Elias |
+| Storyboard - Validar antecedentes criminais | Gabriel B |
+| Storyboard - 197 | Gabriel F |
+| Storyboard - Solicitar carteira de identidade | Pablo |
+| Storyboard - Registrar ocorrência | Ricardo |
+| Storyboard - Retrato falado online | Ricardo |
+| N2 - PP - Planejamento da avaliação | Gabriel B |
+| N2 - PP - Planejamento do relato | Gabriel F |
 
 </center>
 <font size="2" >
@@ -117,6 +158,7 @@ Design, avaliação desenvolvimento:
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 05/06/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Cláudio Henrique][ClaudioGH] |
+|`1.1`| 11/06/2024 | Ajustes nas tarefas de integrantes | [Ricardo Augusto][RicardoGH] | [Elias F. Oliveira][EliasGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
