@@ -24,8 +24,8 @@ Este artefato foi verificado por [Ricardo](https://github.com/avmricardo), segui
 | **8** | Os princípios gerais do projeto contém antecipação das necessidades do usuário ? |  | <a href="#ref1">1</a> | [Páginas 243,244](../../../../../assets/prints_verificacao/claudio/pag243-244antecipacao.png) |
 | **9** | Os princípios gerais do projeto contém visibilidade e reconhecimento ? |  | <a href="#ref1">1</a> | [Páginas 244,245](../../../../../assets/prints_verificacao/claudio/pag244-245visibilidade.png) |
 | **10** | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?	 |  | <a href="#ref1">1</a> | [Página 246](../../../../../assets/prints_verificacao/claudio/pag246conteudo.png) |
-| **10** | Os princípios gerais do projeto contém projeto para erros ? |  | <a href="#ref1">1</a> | [Página 247](../../../../../assets/prints_verificacao/claudio/pag247erros.png) |
-
+| **11** | Os princípios gerais do projeto contém projeto para erros ? |  | <a href="#ref1">1</a> | [Página 247](../../../../../assets/prints_verificacao/claudio/pag247erros.png) |
+| **12** | O artefato contém os Princípios Gerais que serão utilizados no projeto? |  | <a href="#ref1">1</a> | [Página 237](../../../../../assets/prints_verificacao/claudio/pag237uso.png) |
 
 </center>
 
@@ -53,8 +53,8 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 | **8** | Os princípios gerais do projeto contém antecipação das necessidades do usuário ? |  | <a href="#ref1">1</a> | [Páginas 243,244](../../../../../assets/prints_verificacao/claudio/pag243-244antecipacao.png) |
 | **9** | Os princípios gerais do projeto contém visibilidade e reconhecimento ? |  | <a href="#ref1">1</a> | [Páginas 244,245](../../../../../assets/prints_verificacao/claudio/pag244-245visibilidade.png) |
 | **10** | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?	 |  | <a href="#ref1">1</a> | [Página 246](../../../../../assets/prints_verificacao/claudio/pag246conteudo.png) |
-| **10** | Os princípios gerais do projeto contém projeto para erros ? |  | <a href="#ref1">1</a> | [Página 247](../../../../../assets/prints_verificacao/claudio/pag247erros.png) |
-
+| **11** | Os princípios gerais do projeto contém projeto para erros ? |  | <a href="#ref1">1</a> | [Página 247](../../../../../assets/prints_verificacao/claudio/pag247erros.png) |
+| **12** | O artefato contém os Princípios Gerais que serão utilizados no projeto? |  | <a href="#ref1">1</a> | [Página 237](../../../../../assets/prints_verificacao/claudio/pag237uso.png) |
 
 </center>
 <font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
