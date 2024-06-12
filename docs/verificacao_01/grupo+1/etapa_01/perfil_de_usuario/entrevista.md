@@ -1,16 +1,15 @@
 ## Introdução
 
-O intuito desse artefato é verificar a verossimidade do artefato do perfil de usuário em específico com a utilização técnica de inspeção por meio de entrevistas. Neste docmento será relatado as constatações que se tem ao analisar o artefato do grupo 04 de IHC que esta utilizando em seu desenvolvimento do projeto o site da polícia civil do DF.
-
+Neste artefato, está descrito os resultados da verificação do artefato de [Entrevista](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/perfil_do_usuario/questionariopr/) da disciplina de Interação Humano Computador referente ao site [PCDF](https://www.pcdf.df.gov.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 ## Metodologia
 
 Neste artefato será utilizado o método de 
 
-## Perfil de Usuário Entrevista
+## Apresentação dos dados
 
 ## Checklist Geral
 
-## Check List Específico
+## Checklist de verificação
 
 
 ## Bibligrafia
