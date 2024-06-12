@@ -38,6 +38,33 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Solicitar antecedentes criminais
 
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
+
+|ID| Descrição | Avaliação | Referência|Print|
+|:--:|:--:|:--:|:--:|:--:|
+|**01**| O GOMS possui objetivos, métodos, operadores e regrass de seleção?| Sim. |<a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pergunta%201%20pagina%20181%20GOMS.png) |
+|**02**| OS objetivos demonstram o que o usuário pretende usando o software?| Sim. | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|**03**| Os operadores estão representando a ação concreta que o software permite que os usuários façam? | Sim. | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|**04**| Os métodos estão representados como subobjetivos que permitem atingir um objetivo maior?| Sim. | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|**05**| Todas as vezes que temos mais de um método para um mesmo objetivo temos uma regra de seleção?| Sim. | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|**06**| As regras de seleção representam tomadas de decisão do usuário sobre qual método utilizar?| Não. | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|**07**| A identação do GOMS está da maneira correta? Como os operadores dentro dos métodos?| Não | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/pg%20182.png) |
+
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+### Problemas encontrados
+ 
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Artefato](https://requisitos-de-software.github.io/2024.1-PCDF/artefato).
+
+- ID 06: As regras de seleção representam tomadas de decisão do usuário sobre qual método utilizar?
+    - Avaliação: Não
+    - Comentário: As regras de seleção estão mais explicativas do que seletivas
+
+- ID 07: A identação do GOMS está da maneira correta? Como os operadores dentro dos métodos?
+    - Avaliação:Não
+    - Comentário: Não foi feita identação dos operadores, eles estão fora dos métodos
+
 ## Validar antecedentes criminais
 
 ## 197
