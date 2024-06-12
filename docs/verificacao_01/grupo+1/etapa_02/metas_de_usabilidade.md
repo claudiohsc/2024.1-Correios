@@ -61,12 +61,15 @@ Na tabela 2 está o checklist completo da verificação do Artefato de [metas de
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Artefato](https://requisitos-de-software.github.io/2024.1-PCDF/artefato).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Metas de Usabilidade](https://requisitos-de-software.github.io/2024.1-PCDF/artefato).
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 08: A verificação da meta de usabilidade de eficiência está adequada?
+    - Avaliação: Incompleto
+    - Comentário: Apesar da avaliação do grupo estar correta, não colocaram prints ou vídeos do erro acontecendo.
 
+- ID 09: A verificação da meta de usabilidade de segurança está adequada?
+    - Avaliação: Incompleto
+    - Comentário: Da mesma forma, apesar da avaliação do grupo estar correta, não colocaram prints ou vídeos do erro acontecendo. Poderia ser melhor explicada também.
 
 ### Gravação
 
@@ -78,6 +81,8 @@ Abaixo, no vídeo 1, está a gravação dessa verificação.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CrmAHWTmLs4?si=sJ-HDoTgvMuoFJvf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+[Link direto para o video.](https://www.youtube.com/watch?v=CrmAHWTmLs4)
 
 ## Bibligrafia
 
