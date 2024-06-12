@@ -10,7 +10,7 @@ O objetivo dessa verificação é detectar prováveis problemas no [artefato](ht
 
 ## Metodologia
 
-Este artefato foi verificado por [Ricardo Augusto](https://github.com/avmricardo), seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `1.7` datada do dia 15/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+O checklist foi elaborado por [Cláudio Henrique][ClaudioGH] e cada integrante verificou ao menos  um cenário, seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `1.7` datada do dia 15/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 
 
@@ -44,38 +44,99 @@ Abaixo, na tabela 1, está apresentado o checklist para os cenários.
 ## Apresentação dos Dados
 Após as verificações dos itens, os que possuirem resultado negativo serão comentados na seção de [Problemas Encontrados](#problemas-encontrados). A aplicação do checklist para cenário está nas tabelas de 2 a 8.
 
+### Verificação do Cenário Pesquisar Procurados.
 
- ### Verificação do Cenário X.
-
-
-<font size="2"><p style="text-align: center">Tabela 2 - Verificação do Cenário X.</p></font>
-
-
-|ID| Descrição | Avaliação | Referência| Print|
-|:--:|:--:|:--:|:--:|:----:|
-|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  | <a href="#ref1">REF1</a>. pg 49 | [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)  |
-|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)   |
-|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)   |
-|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](docs\assets\prints_verificacao\claudio\pag172cenarios.png)  |
-|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)   |
-|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |   [Página 50](docs\assets\prints_verificacao\claudio\pag50cenarios.png) |
-|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 | [Página 50](docs\assets\prints_verificacao\claudio\pag50cenarios.png) |
-|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)  |
-|9| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as
- personas elaboradas previamente?	 |  | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](docs\assets\prints_verificacao\claudio\pag172cenariosPersonas.png) |
-
-
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
-
-
-
-  ### Problemas Encontrados
+#### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
 
 - ID xx: Descrição
     - Avaliação:
     - Comentário:
+
+### Verificação do Cenário Solicitar Antecedentes Criminais.
+
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+### Verificação do Cenário Validar Antecedentes Criminais.
+
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+### Verificação do Cenário 197- Denúncia Online.
+
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+### Verificação do Cenário Solicitar Carteira de Identidade.
+
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+### Verificação do Cenário Registrar Ocorrência.
+
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+
+
+### Verificação do Cenário Retrato Falado Online: Descreva e Identifique.
+
+
+<font size="2"><p style="text-align: center">Tabela 7 - Verificação do Cenário Retrato Falado Online: Descreva e Identifique.</p></font>
+
+<center>
+
+|ID| Descrição | Avaliação | Referência| Print|
+|:--:|:--:|:--:|:--:|:----:|
+|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? | Sim | <a href="#ref1">REF1</a>. pg 49 | [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)  |
+|2| O modo para atingir o objetivo está descrito no cenário ? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)   |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)   |
+|4|  As características pessoais dos atores são relevantes ao cenário? | Sim | <a href="#ref2">REF2</a>. pg 172 | [Página 172](docs\assets\prints_verificacao\claudio\pag172cenarios.png)  |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)   |
+|6|  Os cenários possuem alguma ligação com os léxicos? | Não | <a href="#ref1">REF1</a>. pg 50 |   [Página 50](docs\assets\prints_verificacao\claudio\pag50cenarios.png) |
+|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 | Sim | <a href="#ref1">REF1</a>. pg 50 | [Página 50](docs\assets\prints_verificacao\claudio\pag50cenarios.png) |
+|8| O título do cenário é autoexplicativo?	 | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)  |
+|9| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 | Sim | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](docs\assets\prints_verificacao\claudio\pag172cenariosPersonas.png) |
+
+</center>
+
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID 6: Os cenários possuem alguma ligação com os léxicos?
+    - Avaliação: Não
+    - Comentário: No artefato o grupo não cita a utilização de léxicos.
 
 
 

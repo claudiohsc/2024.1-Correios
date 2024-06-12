@@ -133,6 +133,12 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Bibliografia
 
+> 1. ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: Além da interação humano-computador. Bookman Editora, 2013.
+
+> 2. O que é Storyboard? Como fazer? Veja modelos e exemplos. Disponível em: <https://miro.com/pt/storyboard/o-que-e-storyboard/>. Acesso em: 11 jun. 2024.
+
+## Referências Biliográficas
+
 > 1<a id="ref1">.</a> ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: Além da interação humano-computador. Bookman Editora, 2013.
 
 > 2<a id="ref2">.</a> O que é Storyboard? Como fazer? Veja modelos e exemplos. Disponível em: <https://miro.com/pt/storyboard/o-que-e-storyboard/>. Acesso em: 11 jun. 2024.
