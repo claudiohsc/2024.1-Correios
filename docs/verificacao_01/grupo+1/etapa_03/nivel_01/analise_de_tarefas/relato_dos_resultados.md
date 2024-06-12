@@ -208,7 +208,7 @@ O artefato verificado pode ser visualizado [aqui](https://interacao-humano-compu
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :---: | 
 | **1** | Estão descritos os objetivos da avaliação? | não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **2** | Possui uma explicação sobre o método de avaliação usado? | não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **2** | Possui uma explicação sobre o método de avaliação usado? | sim | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
 | **3** | Apresenta o número e perfil dos avaliadores e participantes da avaliação? | sim | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
 | **4** | Possui um sumário dos dados coletados? | sim | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
 | **5** | Faz uma interpretação e análise dos dados? | não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
@@ -228,13 +228,9 @@ O artefato verificado pode ser visualizado [aqui](https://interacao-humano-compu
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID 1:  	Estão descritos os objetivos da avaliação?
+- ID 1: Estão descritos os objetivos da avaliação?
     - Avaliação: não
     - Comentário: os objetivos não foram descritos no artefato.
-
-- ID 2: Possui uma explicação sobre o método de avaliação usado?
-    - Avaliação: não
-    - Comentário: não foi apresentada uma explicação do método utilizado no artefato.
 
 - ID 5: Faz uma interpretação e análise dos dados?
     - Avaliação: não
