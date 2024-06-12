@@ -10,7 +10,7 @@ O objetivo dessa verificação é detectar prováveis problemas no [artefato](ht
 
 ## Metodologia
 
-Este artefato foi verificado por [Ricardo Augusto](https://github.com/avmricardo), seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `1.7` datada do dia 15/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+O checklist foi elaborado por [Cláudio Henrique][ClaudioGH] e cada integrante verificou ao menos  um cenário, seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `1.7` datada do dia 15/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 
 
