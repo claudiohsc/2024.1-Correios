@@ -43,31 +43,31 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | O planejamento segue o framework DECIDE?	|  | <a href="#ref1">1</a> | [Página 280](../../../../../assets/prints_verificacao/claudio/pag280decide.png) |
-| **2** | Os objetivos da avaliação foram definidos?	|  | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274objetivos.png) |
-| **3** | O artefato possui uma explicação de qual método foi escolhido?	|  | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274metodo.png) |
-| **4** | O artefato possui uma explicação de qual método de avaliação foi escolhido?	|  | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274metodo.png) |
-| **5** | O artefato explica sobre a escolha dos usuários, o número de participantes e quem são eles?	|  | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274metodo.png) |
-| **6** | O artefato explica sobre as ferramentas que serão utilizadas durante a avaliação?	|  | <a href="#ref1">1</a> | [Página 275](../../../../../assets/prints_verificacao/claudio/pag275praticas.png) |
-| **7** | O documento apresenta uma seção sobre questões práticas como, por exemplo, o recrutamento dos usuários, a preparação, equipamentos necessários, os prazos etc?	|  | <a href="#ref1">1</a> | [Página 275](../../../../../assets/prints_verificacao/claudio/pag275praticas.png) |
-| **8** | O documento apresenta a gravação do teste piloto com o local, data e participantes?	|  | <a href="#ref1">1</a> | [Página 276](../../../../../assets/prints_verificacao/claudio/pag276teste.png) |
-| **9** | O documento apresenta uma seção com as perguntas que irão ser realizadas?	|  | <a href="#ref1">1</a> | [Página 280](../../../../../assets/prints_verificacao/claudio/pag280perguntas.png) |
-| **10** | O documento apresenta uma seção apresentando como irão lidar com questões éticas?	|  | <a href="#ref1">1</a> | [Página 280](../../../../../assets/prints_verificacao/claudio/pag280eticas.png) |
-| **11** | O documento apresenta uma seção apresentando como avaliar, interpretar e apresentar os dados?	|  | <a href="#ref1">1</a> | [Página 280](../../../../../assets/prints_verificacao/claudio/pag280avaliar.png) |
+| **1** | O planejamento segue o framework DECIDE?	| Sim | <a href="#ref1">1</a> | [Página 280](../../../../../assets/prints_verificacao/claudio/pag280decide.png) |
+| **2** | Os objetivos da avaliação foram definidos?	| Sim | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274objetivos.png) |
+| **3** | O artefato possui uma explicação de qual método foi escolhido?	| Sim | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274metodo.png) |
+| **4** | O artefato possui uma explicação de qual método de avaliação foi escolhido?	| Sim | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274metodo.png) |
+| **5** | O artefato explica sobre a escolha dos usuários, o número de participantes e quem são eles?	| Sim | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274metodo.png) |
+| **6** | O artefato explica sobre as ferramentas que serão utilizadas durante a avaliação?	| Sim | <a href="#ref1">1</a> | [Página 275](../../../../../assets/prints_verificacao/claudio/pag275praticas.png) |
+| **7** | O documento apresenta uma seção sobre questões práticas como, por exemplo, o recrutamento dos usuários, a preparação, equipamentos necessários, os prazos etc?	| Sim | <a href="#ref1">1</a> | [Página 275](../../../../../assets/prints_verificacao/claudio/pag275praticas.png) |
+| **8** | O documento apresenta a gravação do teste piloto com o local, data e participantes?	| Incompleto | <a href="#ref1">1</a> | [Página 276](../../../../../assets/prints_verificacao/claudio/pag276teste.png) |
+| **9** | O documento apresenta uma seção com as perguntas que irão ser realizadas?	| Sim | <a href="#ref1">1</a> | [Página 280](../../../../../assets/prints_verificacao/claudio/pag280perguntas.png) |
+| **10** | O documento apresenta uma seção apresentando como irão lidar com questões éticas?	| Sim | <a href="#ref1">1</a> | [Página 280](../../../../../assets/prints_verificacao/claudio/pag280eticas.png) |
+| **11** | O documento apresenta uma seção apresentando como avaliar, interpretar e apresentar os dados?	| Sim | <a href="#ref1">1</a> | [Página 280](../../../../../assets/prints_verificacao/claudio/pag280avaliar.png) |
 
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 
 ## Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 08: O documento apresenta a gravação do teste piloto com o local, data e participantes?
+    - Avaliação: Incompleto
+    - Comentário: O grupo apresentou a gravação do teste piloto, mas não informou a data e o local onde ocorreu.
 
 ## Bibliografia
 
@@ -78,7 +78,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 09/06/2024 | Criação do documento |[](https://github.com/) | []() |
+| `1.0`  | 09/06/2024 | Criação do documento |[Cláudio Henrique][ClaudioGH] | []() |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
