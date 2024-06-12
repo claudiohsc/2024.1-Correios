@@ -91,7 +91,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 | **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | Sim | <a href="ref1">1</a>. pg 263. |
 | **2** | O cenário (propósito) está sendo bem descrito no storyboard? | Sim | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
 | **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? | Sim | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
-| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | sim | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
+| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | Sim | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
 
 </center>
 
@@ -107,13 +107,28 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Storyboard - Fazer um retrato falado de forma online
 
+<font size="2"><p style="text-align: center">Tabela 8 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência|
+|:--:| --------- | :-------: | :-------: |
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | Sim | <a href="ref1">1</a>. pg 263. |
+| **2** | O cenário (propósito) está sendo bem descrito no storyboard? | Sim | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
+| **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? | Sim | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
+| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | Sim | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+
 ### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 01: O storyboard está relacionado a um cenário elaborado pelo grupo?
+    - Avaliação: Sim
+    - Comentário: Na metodologia do artefato é descrito que os storyboards foram feitos de acordo com os cenários, e o storyboard representa bem o cenário de registrar ocorrência, mas pode ser bom colocar um referência do cenário representado em cada storyboard para facilitar o acesso.
 
 ## Bibliografia
 
