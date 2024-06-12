@@ -53,6 +53,23 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 ## Perfil usuário - Resultado perfil do usuário
 
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com as referências bibliográficas.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência | Print |
+|:--:| --------- | :-------: | :--------: | :---: |
+| **1** | É traçado um perfil respondendo quem são e quais são os objetivos dos usuários do sistema? |  | <a href="#ref2">2.</a> "8.1 Perfil de Usuário"  | [página 165](../../../assets/prints_verificacao/pablo/resultado_perfil/1.jpeg) |
+| **2** | São identificadas as características de interesse como cargo, função, experiência, nível de instrução, atividades principais, faixa etária e etc? |  | <a href="#ref2">2.</a> "8.1 Perfil de Usuário"  | [página 166](../../../assets/prints_verificacao/pablo/resultado_perfil/2.jpeg) |
+| **3** | Foram conduzidos estudos através de entrevistas ou questionários para coletar os dados dos usuários? |  | <a href="#ref2">2.</a> "8.1 Perfil de Usuário"  | [página 166](../../../assets/prints_verificacao/pablo/resultado_perfil/3.jpeg) |
+| **4** | São levados em considerações dados sobre sua relação com tecnologia, os conhecimentos e o domínio sobre o produto e das tarefas que realizaram utilizando o produto? |  | <a href="#ref2">2.</a> "8.1 Perfil de Usuário"  | [página 166](../../../assets/prints_verificacao/pablo/resultado_perfil/4.jpeg) |
+| **5** | No tratamento dos dados foram categorizados os seus usuários em grupos baseado em suas semelhanças como os grupos comuns idade, experiência, atitudes e tarefas primárias? |  | <a href="#ref2">2.</a> "8.1 Perfil de Usuário"  | [página 166](../../../assets/prints_verificacao/pablo/resultado_perfil/5.jpeg) |
+
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
 ## Personas
 
 ## Cenários
