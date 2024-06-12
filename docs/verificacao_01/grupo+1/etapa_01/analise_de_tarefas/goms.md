@@ -83,6 +83,21 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Retrato falado online
 
+<font size="2"><p style="text-align: center">Tabela 8 - Verificação do GOMS Retrato falado online.</p></font>
+
+|ID| Descrição | Avaliação | Referência|Print|
+|:--:|:--:|:--:|:--:|:--:|
+|01| O GOMS possui objetivos, métodos, operadores e regrass de seleção?| Sim |<a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pergunta%201%20pagina%20181%20GOMS.png) |
+|02| Os objetivos demonstram o que o usuário pretende usando o software? |Sim| <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|03| Os operadores estão representando a ação concreta que o software permite que os usuários façam? |Sim| <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|04| Os métodos estão representados como subobjetivos que permitem atingir um objetivo maior? |Sim| <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|05| Todas as vezes que temos mais de um método para um mesmo objetivo temos uma regra de seleção? |Sim| <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|06| As regras de seleção representam tomadas de decisão do usuário sobre qual método utilizar? |Sim| <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|07| A identação do GOMS está da maneira correta? Como os operadores dentro dos métodos? |Sim| <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/pg%20182.png) |
+
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
 ## Bibligrafia
 
 > 1<a id="ref1">.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
