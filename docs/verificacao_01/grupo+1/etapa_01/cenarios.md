@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/) feito pelo [Grupo 04](https://interacao-humano-computador.github.io/2024.1-PCDF/) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Para essa verificação do artefato será utilizada a versão `1.5` datada do dia 20/05/2024.
+Neste artefato, está descrito os resultados da verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/) feito pelo [Grupo 04](https://interacao-humano-computador.github.io/2024.1-PCDF/) da disciplina de Interação Humano Computador referente ao site [PCDF](https://www.pcdf.df.gov.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Objetivo
 
