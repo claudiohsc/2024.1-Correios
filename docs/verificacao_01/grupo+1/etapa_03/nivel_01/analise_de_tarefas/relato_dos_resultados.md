@@ -209,12 +209,12 @@ O artefato verificado pode ser visualizado [aqui](https://interacao-humano-compu
 |:--:| --------- | :-------: | :-------: | :---: | 
 | **1** | Estão descritos os objetivos da avaliação? | não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
 | **2** | Possui uma explicação sobre o método de avaliação usado? | não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **3** | Apresenta o número e perfil dos avaliadores e participantes da avaliação? | incompleto | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **4** | Possui um sumário dos dados coletados? | não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **3** | Apresenta o número e perfil dos avaliadores e participantes da avaliação? | sim | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **4** | Possui um sumário dos dados coletados? | sim | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
 | **5** | Faz uma interpretação e análise dos dados? | não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
 | **6** | Apresenta uma lista dos problemas encontrados? | não se aplica | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
 | **7** | Possui planejamento para um reprojeto do sistema? | não se aplica | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **8** | A coleta de dados ocorreu de acordo com o planejamento e método de avaliação escolhido? |  | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **8** | A coleta de dados ocorreu de acordo com o planejamento e método de avaliação escolhido? | incompleto | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
 | **10** | Caso a coleta de dados tenha sido feita em um laboratório (ambiente controlado), o ambiente de teste foi apresentado ao participante? | não se aplica | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) e <br>[pg 301](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20ambiente%20controlado%20~%20lab.jpeg) |
 | **11** | O avaliador explicou para o participante os objetivos do estudo, procedimentos da avaliação e cuidados éticos tomados? | incompleto | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
 | **12** | Enquanto o participante realizava as tarefas previstas, ele foi interrompido ou questionado? | não | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
@@ -222,15 +222,32 @@ O artefato verificado pode ser visualizado [aqui](https://interacao-humano-compu
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 #### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 1:  	Estão descritos os objetivos da avaliação?
+    - Avaliação: não
+    - Comentário: os objetivos não foram descritos no artefato.
+
+- ID 2: Possui uma explicação sobre o método de avaliação usado?
+    - Avaliação: não
+    - Comentário: não foi apresentada uma explicação do método utilizado no artefato.
+
+- ID 5: Faz uma interpretação e análise dos dados?
+    - Avaliação: não
+    - Comentário: não foi feita uma interpretação dos dados.
+
+- ID 8: A coleta de dados ocorreu de acordo com o planejamento e método de avaliação escolhido?
+    - Avaliação: incompleto
+    - Comentário: No vídeo, não foram feitas todas as perguntas previstas no planejamento.
+
+- ID 11:  	O avaliador explicou para o participante os objetivos do estudo, procedimentos da avaliação e cuidados éticos tomados?
+    - Avaliação: incompleto
+    - Comentário: pelo menos no vídeo, não foi explicado o objetivo do estudo.
+
 
 
 ### Registro de Ocorrência
