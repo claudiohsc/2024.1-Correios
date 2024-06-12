@@ -24,7 +24,7 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 ## Aspectos éticos e termo de consentimento
 
-<font size="2"><p style="text-align: center">Tabela 1 - Lista de verificação Aspectos éticos e termo de consentimento.</p></font>
+<font size="2"><p style="text-align: center">Tabela 2 - Lista de verificação Aspectos éticos e termo de consentimento.</p></font>
 
 <center>
 
@@ -53,9 +53,48 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 ## Perfil usuário - Resultado perfil do usuário
 
+<font size="2"><p style="text-align: center">Tabela 6 - Lista de verificação do Resultado do Perfil do Usuário.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência | Print |
+|:--:| --------- | :-------: | :--------: | :---: |
+| **1** | É traçado um perfil respondendo quem são e quais são os objetivos dos usuários do sistema? |  | <a href="#ref2">2.</a> "8.1 Perfil de Usuário"  | [página 165](../../../assets/prints_verificacao/pablo/resultado_perfil/1.jpeg) |
+| **2** | São identificadas as características de interesse como cargo, função, experiência, nível de instrução, atividades principais, faixa etária e etc? |  | <a href="#ref2">2.</a> "8.1 Perfil de Usuário"  | [página 166](../../../assets/prints_verificacao/pablo/resultado_perfil/2.jpeg) |
+| **3** | Foram conduzidos estudos através de entrevistas ou questionários para coletar os dados dos usuários? |  | <a href="#ref2">2.</a> "8.1 Perfil de Usuário"  | [página 166](../../../assets/prints_verificacao/pablo/resultado_perfil/3.jpeg) |
+| **4** | São levados em considerações dados sobre sua relação com tecnologia, os conhecimentos e o domínio sobre o produto e das tarefas que realizaram utilizando o produto? |  | <a href="#ref2">2.</a> "8.1 Perfil de Usuário"  | [página 166](../../../assets/prints_verificacao/pablo/resultado_perfil/4.jpeg) |
+| **5** | No tratamento dos dados foram categorizados os seus usuários em grupos baseado em suas semelhanças como os grupos comuns idade, experiência, atitudes e tarefas primárias? |  | <a href="#ref2">2.</a> "8.1 Perfil de Usuário"  | [página 166](../../../assets/prints_verificacao/pablo/resultado_perfil/5.jpeg) |
+
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
 ## Personas
 
 ## Cenários
+
+
+
+<font size="2"><p style="text-align: center">Tabela 8 - Checklist de Verificação dos Cenários.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência| Print|
+|:--:|:--:|:--:|:--:|:----:|
+|1| O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? |  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenariosDef.png)  |
+|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenarios.png)  |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |   [Página 50](../../../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
+|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 | [Página 50](../../../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
+|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)  |
+|9| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 |  | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
+
+
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
+
 
 ## Análise tarefas - HTA
 
