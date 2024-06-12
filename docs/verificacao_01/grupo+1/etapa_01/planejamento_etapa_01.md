@@ -53,7 +53,7 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 ## Perfil usuário - Resultado perfil do usuário
 
-<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com as referências bibliográficas.</p></font>
+<font size="2"><p style="text-align: center">Tabela 6 - Lista de verificação do Resultado do Perfil do Usuário.</p></font>
 
 <center>
 
