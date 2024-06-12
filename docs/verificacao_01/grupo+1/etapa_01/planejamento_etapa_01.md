@@ -2,13 +2,7 @@
 # Verificação dos artefatos produzidos pelo Grupo 4.
 
 ## Introdução
-
-Nessa etapa ocorrerá a verificação, uma parte muito importante no desenvolvimento de um projeto, onde os artefatos produzidos serão analisados para que cumpram com critérios de qualidade especificados. Nesse documento é apresentado o planejamento da verificação dos artefatos produzidos pelo [Grupo 4](https://interacao-humano-computador.github.io/2024.1-PCDF/), referente ao site da Polícia Civil do Distrito Federal.
-
-
-## Metodologia
-
-Será utilizado o método de Inspeção proposto por Michael E. Fagan<a href="#ref1"><sup>1</sup></a>. Os artefatos produzidos pelo Grupo 04 foram divididos entre todos os membros do grupo para que todos participem das verificações, e assim todos irão produzir um documento para cada verificação. Por fim, todas as etapas terão um planejamento com as respectivas listas de verificação.
+Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na etapa 01, bem como os respectivos integrantes que criaram um checklist para verificar o artefato e os integrantes que verificaram o artefato utilizando o checklist. Nas tabelas mais abaixo temos o checklist referente a cada artefato.
 
 ## Artefatos Verificados
 

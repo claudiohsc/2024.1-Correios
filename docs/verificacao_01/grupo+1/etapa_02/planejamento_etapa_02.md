@@ -1,6 +1,5 @@
 ## Introdução
-
-## Metodologia
+Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na etapa 02, bem como os respectivos integrantes que criaram um checklist para verificar o artefato e os integrantes que verificaram o artefato utilizando o checklist. Nas tabelas mais abaixo temos o checklist referente a cada artefato.
 
 ## Artefatos Verificados
 
