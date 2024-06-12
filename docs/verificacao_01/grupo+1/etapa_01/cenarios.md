@@ -20,6 +20,23 @@ Abaixo, na tabela 1, está apresentado o checklist para os cenários.
 
 
 
+<font size="2"><p style="text-align: center">Tabela 1 - Checklist de Verificação dos Cenários.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência| Print|
+|:--:|:--:|:--:|:--:|:----:|
+|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? |  | <a href="#ref1">REF1</a>. pg 49 | [página 49]()  |
+|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |  [página 166]()  |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |  [página 166]()  |
+|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 |  |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |  [página 166]()  |
+|6|  Os cenários possuem alguma ligação com os léxicos? |  | <a href="#ref1">REF1</a>. pg 50 |   [página 166]() |
+|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 | [página 166]()  |
+|8| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 | [página 166]()  |
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
+
+
 
 ## Apresentação dos Dados
 Após as verificações dos itens, os que possuirem resultado negativo serão comentados na seção de [Problemas Encontrados](#problemas-encontrados). A aplicação do checklist para cenário está nas tabelas de 2 a 8.
