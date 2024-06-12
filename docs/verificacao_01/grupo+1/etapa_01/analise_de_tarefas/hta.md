@@ -49,6 +49,54 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Solicitar carteira de identidade
 
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|Print|
+|:--:|:--:|:--:|:--:|:--:|
+|01| O diagrama HTA se inicia com as definições dos objetivos das tarefas?| sim |<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|02| O diagrama HTA apresenta objetivos e operações? | incompleto |<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
+|03| O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas? | não |<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|04| Os objetivos e operações são utilizados de maneira correta na análise? | não |<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
+|05| A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo? | não |<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] | 
+|06| São utilizadas as relações de: seleção, sequencial ou paralelo nos subobjetivos que compõem o plano? | sim |<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|07| As relação entre os subojetivos são utilizadas de maneira correta? | não |<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|08| É apresentada a representação da análise em tabela?  | sim |<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180| [Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+|09| As operações são especificadas com: inputs, actions e feedbacks? | sim |<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+|10| É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema? | não |<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs.180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielfGH], 2024.</p></font>
+
+[Pg. 179]:../../../../assets/prints_verificacao/elias/hta/179_1.png
+[Pg. 179.2]:../../../../assets/prints_verificacao/elias/hta/179_2.png
+[Pg. 180]:../../../../assets/prints_verificacao/elias/hta/180_1.png
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Solicitar Carteira de Identidade](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/analise_tarefas/hta/#solicitar-carteira-de-identidade).
+
+- ID 2: O diagrama HTA apresenta objetivos e operações?
+    - Avaliação: incompleto
+    - Comentário: não apresenta operações
+
+- ID 3: O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas? 
+    - Avaliação: não
+    - Comentário: não há decomposição dos objetivos
+
+- ID 4: Os objetivos e operações são utilizados de maneira correta na análise?
+    - Avaliação: não
+    - Comentário: há um item que parece ser uma operações, porém, ele leva à outro objetivo, o que não faz sentido.
+
+- ID 5: A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo? 	
+    - Avaliação: não
+    - Comentário: não apresenta uma operação nos níveis mais baixos de cada subobjetivo.
+
+- ID 7: As relação entre os subojetivos são utilizadas de maneira correta?
+    - Avaliação: não
+    - Comentário: há regras de seleção, mas os itens o quais elas se referem parecem não existir.
+
+- ID É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema?: Descrição
+    - Avaliação: não
+    - Comentário: não foram usados os critérios p x c ou identificação de um problema.
+
 ## Registrar ocorrência
 
 ## Retrato falado online
