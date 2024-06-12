@@ -27,8 +27,11 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 |Etapa 2 - Perfil do Usuário| Análise tarefas - HTA	 | `1.8`|21/05/2024| Lara Giuliana |Todos |
 |Etapa 2 - Perfil do Usuário| Análise tarefas - GOMS | `2.0`|01/06/2024| Lara Giuliana |Todos |
 |Etapa 3: Princípios gerais do projeto| Princípios gerais do projeto | `1.4`|16/05/2024| Giovana Barbosa | [Ricardo A.][RicardoGH] |
+|Etapa 3: Princípios gerais do projeto| Metas usabilidade | `1.2`|20/05/2024| Rayene Almeida |[Claudio H][ClaudioGH] |
+|Etapa 3: Princípios gerais do projeto| Guia de estilo | `1.2`|18/05/2024| Rayene Almeida |[Elias F.][EliasGH]  |
+|Etapa 3: Princípios gerais do projeto| Características da plataforma | `1.0`|11/05/2024| João Pedro |  [Gabriel B.][GabrielBGH] |
 
-	
+
 
 ## Bibliografia
 
