@@ -25,7 +25,7 @@ Neste artefato será utilizado o método de Inspeção por meio de checklist par
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
-[Pg.279]:./../../../../assets/prints_verificacao/elias/relato/279.png
+[Pg.279]:../../../../../assets/prints_verificacao/elias/relato/279.png
 
 ## Problemas Encontrados
 
