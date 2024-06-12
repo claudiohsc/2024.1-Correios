@@ -44,11 +44,72 @@ Abaixo, na tabela 1, está apresentado o checklist para os cenários.
 ## Apresentação dos Dados
 Após as verificações dos itens, os que possuirem resultado negativo serão comentados na seção de [Problemas Encontrados](#problemas-encontrados). A aplicação do checklist para cenário está nas tabelas de 2 a 8.
 
+### Verificação do Cenário Pesquisar Procurados.
 
- ### Verificação do Cenário X.
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+### Verificação do Cenário Solicitar Antecedentes Criminais.
+
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+### Verificação do Cenário Validar Antecedentes Criminais.
+
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+### Verificação do Cenário 197- Denúncia Online.
+
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+### Verificação do Cenário Solicitar Carteira de Identidade.
+
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
+
+### Verificação do Cenário Registrar Ocorrência.
+
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
 
 
-<font size="2"><p style="text-align: center">Tabela 2 - Verificação do Cenário X.</p></font>
+
+### Verificação do Cenário Retrato Falado Online: Descreva e Identifique.
+
+
+<font size="2"><p style="text-align: center">Tabela 7 - Verificação do Cenário Retrato Falado Online: Descreva e Identifique.</p></font>
 
 
 |ID| Descrição | Avaliação | Referência| Print|
@@ -69,7 +130,7 @@ Após as verificações dos itens, os que possuirem resultado negativo serão co
 
 
 
-  ### Problemas Encontrados
+#### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
 
