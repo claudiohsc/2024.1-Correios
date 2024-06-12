@@ -13,18 +13,19 @@ Neste artefato será utilizado o método de Inspeção por meio de checklist par
 
 |ID| Descrição | Avaliação | Referência|Print|
 |:--:|:--:|:--:|:--:|:--:|
-|01| O artefato define os objetivos e escopo da avaliação? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 179||
-|02| O artefato elucida sobre a metodologia de avaliação aplicada? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 179||
-|03| O artefato apresenta o perfil dos participantes e entrevistadores que participaram da avaliação? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 179||
-|04| O artefato apresenta o sumário dos dados coletados com tabelas ou gráficos? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 179||
-|05| É apresentado uma análise e interpretação dos dados coletados? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 179||
-|06| É apresentada uma lista dos problemas encontrados? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 179||
-|07| É feito um planejamento para o reprojeto? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 179||
-|08| O artefato foi construído utilizando como base o planejamento da avaliação? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 179||
+|01| O artefato define os objetivos e escopo da avaliação? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|02| O artefato elucida sobre a metodologia de avaliação aplicada? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|03| O artefato apresenta o perfil dos participantes e entrevistadores que participaram da avaliação? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|04| O artefato apresenta o sumário dos dados coletados com tabelas ou gráficos? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|05| É apresentado uma análise e interpretação dos dados coletados? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|06| É apresentada uma lista dos problemas encontrados? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|07| É feito um planejamento para o reprojeto? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|08| O artefato foi construído utilizando como base o planejamento da avaliação? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
 
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
+[Pg.279]:./../../../../assets/prints_verificacao/elias/relato/279.png
 
 ## Problemas Encontrados
 

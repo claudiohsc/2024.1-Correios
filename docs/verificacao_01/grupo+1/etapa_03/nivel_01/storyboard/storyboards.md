@@ -6,7 +6,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de [St
 
 ## Metodologia
 
-Este artefato foi verificado por [Ricardo Augusto](https://github.com/avmricardo), seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `2.0` datada do dia 01/06/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
+O checklist foi elaborado por [Ricardo Augusto](https://github.com/avmricardo) e cada integrante verificou ao menos  um storyboard, seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `2.0` datada do dia 01/06/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
 
 ## Apresentação dos Dados
 
@@ -18,12 +18,12 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <center>
 
-| ID | Descrição | Avaliação | Referência|
-|:--:| --------- | :-------: | :-------: |
-| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | | <a href="ref1">1</a>. pg 263. |
-| **2** | O cenário (propósito) está sendo bem descrito no storyboard? |  | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
-| **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? |  | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
-| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? |  | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
+| ID | Descrição | Avaliação | Referência| Print |
+|:--:| --------- | :-------: | :-------: | :-:|
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | | <a href="ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
+| **2** | O cenário (propósito) está sendo bem descrito no storyboard? |  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? |  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? |  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 
 </center>
 
@@ -86,12 +86,13 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <center>
 
-| ID | Descrição | Avaliação | Referência|
-|:--:| --------- | :-------: | :-------: |
-| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | Sim | <a href="ref1">1</a>. pg 263. |
-| **2** | O cenário (propósito) está sendo bem descrito no storyboard? | Sim | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
-| **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? | Sim | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
-| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | sim | <a href="#ref2">2</a>. Tópico : Quais são as principais características de um storyboard? |
+| ID | Descrição | Avaliação | Referência| Print |
+|:--:| --------- | :-------: | :-------: | :-:|
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | Sim | <a href="ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
+| **2** | O cenário (propósito) está sendo bem descrito no storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+
 
 </center>
 
@@ -107,13 +108,28 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Storyboard - Fazer um retrato falado de forma online
 
+<font size="2"><p style="text-align: center">Tabela 8 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência| Print |
+|:--:| --------- | :-------: | :-------: | :-:|
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | Sim | <a href="ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
+| **2** | O cenário (propósito) está sendo bem descrito no storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+
 ### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 01: O storyboard está relacionado a um cenário elaborado pelo grupo?
+    - Avaliação: Sim
+    - Comentário: Na metodologia do artefato é descrito que os storyboards foram feitos de acordo com os cenários, e o storyboard representa bem o cenário de registrar ocorrência, mas pode ser bom colocar um referência do cenário representado em cada storyboard para facilitar o acesso.
 
 ## Bibliografia
 
@@ -127,7 +143,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 09/06/2024 | Criação do documento |[](https://github.com/) | []() |
+| `1.0`  | 09/06/2024 | Criação do documento |[Ricardo Augusto](https://github.com/avmricardo) | []() |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
