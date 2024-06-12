@@ -15,7 +15,17 @@ Neste artefato será utilizado o método de Inspeção por meio de checklist par
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
-|||||
+|01| No documento são elencadas as metas de usabilidade almejadas? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36 | 
+|02| No artefato são apresentados os motivos e métodos para a escolha das metas de usabilidade? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36| 
+|03| É apresentada a definição das metas de usabilidade? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36| 
+|04| São elencadas no artefato as metas de usabilidade de: facilidade de aprendizado, memorabilidade, eficiência, segurança e satisfação do usuário? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36| 
+|05| É apresentado no artefato  meta de usabilidade facilidade de aprendizado ? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|
+|06| A verificação da meta de usabilidade facilidade de aprendizado esta adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36| 
+|07| A verificação da meta de usabilidade memorabilidade esta adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36| 
+|08| A verificação da meta de usabilidade eficiência esta adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36| 
+|09| A verificação da meta de usabilidade segurança esta adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36| 
+|10| A verificação da meta de usabilidade satisfação do usuário esta adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36| 
+
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
