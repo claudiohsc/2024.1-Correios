@@ -95,10 +95,10 @@ Abaixo, no vídeo 1, está a gravação dessa verificação.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| `1.0` | 11/06/2024 | Criação do documento | [Elias F. Oliveira](EliasGH) |
+| `1.0` | 11/06/2024 | Criação do documento | [Elias F. Oliveira](EliasGH) | [Gabriel B.][GabrielBGH] |
 
-[GabrielfGH]: https://github.com/MMcLovin
-[GabrielbGH]: https://github.com/https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[GabrielBGH]: https://github.com/https://github.com/Bertolazi
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://www.github.com/EliasOliver21
 [PabloGH]: https://github.com/pabloheika
