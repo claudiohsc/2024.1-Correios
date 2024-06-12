@@ -24,11 +24,16 @@
 ## Características da plataforma
 
 
+## Bibliografia
+
+> <a id="ref1">1</a>. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 11/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH]  | [][] |
+|`1.0`| 11/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] e [Claudio Henrique][ClaudioGH]  | [][] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
