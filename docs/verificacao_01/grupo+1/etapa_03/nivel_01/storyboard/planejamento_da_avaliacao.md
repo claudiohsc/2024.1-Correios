@@ -16,11 +16,20 @@ Este artefato foi produzido por [Claudio Henrique][ClaudioGH] e verificado por [
 |:--:| --------- | :-------: | :--------: | :---: |
 | **1** | O planejamento segue o framework DECIDE?	|  | <a href="#ref1">1</a> | [Página 280](../../../../../assets/prints_verificacao/claudio/pag280decide.png) |
 | **2** | Os objetivos da avaliação foram definidos?	|  | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274objetivos.png) |
-| **3** | Os objetivos da avaliação foram definidos?	|  | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274objetivos.png) |
+| **3** | O artefato possui uma explicação de qual método foi escolhido?	|  | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274metodo.png) |
+| **4** | O artefato possui uma explicação de qual método de avaliação foi escolhido?	|  | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274metodo.png) |
+| **5** | O artefato explica sobre a escolha dos usuários e o número de participantes?	|  | <a href="#ref1">1</a> | [Página 274](../../../../../assets/prints_verificacao/claudio/pag274metodo.png) |
+| **6** | O artefato explica sobre as ferramentas que serão utilizadas durante a avaliação?	|  | <a href="#ref1">1</a> | [Página 275](../../../../../assets/prints_verificacao/claudio/pag275praticas.png) |
+| **7** | O documento apresenta uma seção de material de apoio/preparação?	|  | <a href="#ref1">1</a> | [Página 275](../../../../../assets/prints_verificacao/claudio/pag275praticas.png) |
+| **8** | O documento apresenta a gravação do teste piloto com o local, data e participantes?	|  | <a href="#ref1">1</a> | [Página 276](../../../../../assets/prints_verificacao/claudio/pag276teste.png) |
+| **9** | O documento apresenta as perguntas que irão ser realizadas?	|  | <a href="#ref1">1</a> | [Página 280](../../../../../assets/prints_verificacao/claudio/pag280perguntas.png) |
+| **10** | O documento apresenta uma seção apresentando como irão lidar com questões éticas?	|  | <a href="#ref1">1</a> | [Página 280](../../../../../assets/prints_verificacao/claudio/pag280eticas.png) |
+| **11** | O documento apresenta uma seção apresentando como avaliar, interpretar e apresentar os dados?	|  | <a href="#ref1">1</a> | [Página 280](../../../../../assets/prints_verificacao/claudio/pag280avaliar.png) |
+
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 ## Apresentação dos Dados
 
