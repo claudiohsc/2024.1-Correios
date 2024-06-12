@@ -32,25 +32,25 @@
 
 ## N1 - SB - Relato dos resultados
 
-<font size="2"><p style="text-align: center">Tabela 7 - Lista de verificação do relato dos resultados dos Storyboards.</p></font>
+<font size="2"><p style="text-align: center">Tabela 7 - Lista de verificação do relato dos resultados dos storyboards.</p></font>
 
 <center>
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | Foi buscado recorrência nos resultados para distinguir características representativas do grupo? |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/1.jpeg) |
-| **2** | Na consolidação dos resultados foram endereçados novamente as questões que motivaram os estudos buscando respondê-las ou justificar de alguma forma uma resposta não encontrada? |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/2.jpeg) |
-| **3** | Foram levadas em considerações fatores que prejudicam a qualidade e o uso dos dados? |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/3.jpeg) |
-| **4** | Quando não encontrado problemas durante a avaliação não foram afirmados categoricamente que o storyboard tenha alta qualidade, mas sim que neste planejamento de avaliação não foram revelados problemas? |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/4.jpeg) |
-| **5** | Há objetivos e escopo da avaliação? |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/5.jpeg) |
-| **6** | Há forma como a avaliação foi realizada? (Método de avaliação empregado) |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/6.jpeg) |
-| **7** | É informada a quantidade de participantes? |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
-| **8** | É informado o perfil do usuário dos participantes?  |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
-| **9** | São informadas as funções dos participantes? (Avaliadores e entrevistados) |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
-| **10** | Há um sumário dos dados coletados, incluindo tabelas e gráficos? |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/10.jpeg) |
-| **11** | Há o relato da interpretação e análise dos dados? |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/11.jpeg) |
-| **12** | Há uma lista dos problemas encontrados? |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/12.jpeg) |
-| **13** | Existe um planejamento para o reprojeto do storyboard? |  | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/13.jpeg) |
+| **1** | Foi buscado recorrência nos resultados para distinguir características representativas do grupo? |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/1.jpeg) |
+| **2** | Na consolidação dos resultados foram endereçados novamente as questões que motivaram os estudos buscando respondê-las ou justificar de alguma forma uma resposta não encontrada? |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/2.jpeg) |
+| **3** | Foram levadas em considerações fatores que prejudicam a qualidade e o uso dos dados? |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/3.jpeg) |
+| **4** | Quando não encontrado problemas durante a avaliação não foram afirmados categoricamente que o storyboard tenha alta qualidade, mas sim que neste planejamento de avaliação não foram revelados problemas? |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/4.jpeg) |
+| **5** | Há objetivos e escopo da avaliação? |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/5.jpeg) |
+| **6** | Há forma como a avaliação foi realizada? (Método de avaliação empregado) |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/6.jpeg) |
+| **7** | É informada a quantidade de participantes? |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
+| **8** | É informado o perfil do usuário dos participantes?  |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
+| **9** | São informadas as funções dos participantes? (Avaliadores e entrevistados) |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
+| **10** | Há um sumário dos dados coletados, incluindo tabelas e gráficos? |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/10.jpeg) |
+| **11** | Há o relato da interpretação e análise dos dados? |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/11.jpeg) |
+| **12** | Há uma lista dos problemas encontrados? |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/12.jpeg) |
+| **13** | Existe um planejamento para o reprojeto do storyboard? |  | <a href="#ref2">2.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/13.jpeg) |
 
 </center>
 
@@ -66,6 +66,8 @@
 ## Bibliografia
 
 > <a id="ref1">1</a>. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+
+> <a id="ref2">2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 
 ## Histórico de Versão
