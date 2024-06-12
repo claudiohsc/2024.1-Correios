@@ -1,8 +1,8 @@
-# Verificação do Artefato Aspectos Éticos
+# Verificação do Artefato Aspectos éticos e termo de consentimento
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/aspectos_%C3%A9ticos/) feito pelo [Grupo 04](https://interacao-humano-computador.github.io/2024.1-PCDF/) da disciplina de Interação Humano Computador referente ao site [PCDF](https://www.pcdf.df.gov.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de [Aspectos éticos e termo de consentimento](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/aspectos_%C3%A9ticos/) feito pelo [Grupo 04](https://interacao-humano-computador.github.io/2024.1-PCDF/) da disciplina de Interação Humano Computador referente ao site [PCDF](https://www.pcdf.df.gov.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
@@ -56,7 +56,7 @@ Na Tabela 1 temos a lista de verificação elaborada, ja na Tabelas 2 a aplicaç
 
 ## Bibliografia
 
-> 1<a id="ref1">.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> <a id="ref1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versões
 
