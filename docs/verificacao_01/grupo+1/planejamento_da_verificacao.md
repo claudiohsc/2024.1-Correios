@@ -47,7 +47,6 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 > <a id="ref1">1</a>. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 
 
-
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
