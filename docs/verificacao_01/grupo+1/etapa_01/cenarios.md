@@ -6,7 +6,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Ce
 
 ## Objetivo
 
-O objetivo dessa verificação é detectar prováveis problemas no [artefato](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios) em questão produzido pelo  [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+O objetivo dessa verificação é detectar prováveis problemas no [artefato](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/) em questão produzido pelo  [Grupo 04](https://interacao-humano-computador.github.io/2024.1-PCDF/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
@@ -48,7 +48,7 @@ Após as verificações dos itens, os que possuirem resultado negativo serão co
 
 #### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/).
 
 - ID xx: Descrição
     - Avaliação:
@@ -58,7 +58,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 #### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/).
 
 - ID xx: Descrição
     - Avaliação:
@@ -68,7 +68,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 #### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/).
 
 - ID xx: Descrição
     - Avaliação:
@@ -78,7 +78,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 #### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/).
 
 - ID xx: Descrição
     - Avaliação:
@@ -88,7 +88,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 #### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/).
 
 - ID xx: Descrição
     - Avaliação:
@@ -98,7 +98,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 #### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/).
 
 - ID xx: Descrição
     - Avaliação:
@@ -132,7 +132,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 #### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/).
 
 - ID 6: Os cenários possuem alguma ligação com os léxicos?
     - Avaliação: Não
