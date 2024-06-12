@@ -17,19 +17,21 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
-|Etapa 2 - Perfil do Usuário| Aspectos éticos e termo de consentimento | `1.2`|15/05/2024| Giovana Barbosa e Renata Quadros| [Gabriel F.][GabrielFGH] |
-|Etapa 2 - Perfil do Usuário| Perfil usuário - Questionário	 | `1.1`|18/04/2024| Raissa Andrade| [Claudio H][ClaudioGH] |
-|Etapa 2 - Perfil do Usuário| Perfil usuário - Entrevista | `1.0`|10/05/2024| Giovana Barbosa| [Elias F.][EliasGH] |
-|Etapa 2 - Perfil do Usuário| Perfil usuário - Análise competitiva | `1.0`|14/04/2024| Renata Quadros| [Gabriel B.][GabrielBGH] |
-|Etapa 2 - Perfil do Usuário| Perfil usuário - Resultado perfil do usuário | `2.0`|15/04/2024| Giovana Barbosa| [Gabriel F.][GabrielFGH] |
-|Etapa 2 - Perfil do Usuário| Personas | `1.2`|08/05/2024| João Pedro | [Pablo S.][PabloGH] |
-|Etapa 2 - Perfil do Usuário| Cenários | `1.7`|15/05/2024| Giovana Barbosa|Todos |
-|Etapa 2 - Perfil do Usuário| Análise tarefas - HTA	 | `1.8`|21/05/2024| Lara Giuliana |Todos |
-|Etapa 2 - Perfil do Usuário| Análise tarefas - GOMS | `2.0`|01/06/2024| Lara Giuliana |Todos |
-|Etapa 3: Princípios gerais do projeto| Princípios gerais do projeto | `1.4`|16/05/2024| Giovana Barbosa | [Ricardo A.][RicardoGH] |
-|Etapa 3: Princípios gerais do projeto| Metas usabilidade | `1.2`|20/05/2024| Rayene Almeida |[Claudio H][ClaudioGH] |
-|Etapa 3: Princípios gerais do projeto| Guia de estilo | `1.2`|18/05/2024| Rayene Almeida |[Elias F.][EliasGH]  |
-|Etapa 3: Princípios gerais do projeto| Características da plataforma | `1.0`|11/05/2024| João Pedro |  [Gabriel B.][GabrielBGH] |
+|Etapa 1| Aspectos éticos e termo de consentimento | `1.2`|15/05/2024| Giovana Barbosa e Renata Quadros| [Gabriel F.][GabrielFGH] |
+|Etapa 1| Perfil usuário - Questionário	 | `1.1`|18/04/2024| Raissa Andrade| [Claudio H][ClaudioGH] |
+|Etapa 1| Perfil usuário - Entrevista | `1.0`|10/05/2024| Giovana Barbosa| [Elias F.][EliasGH] |
+|Etapa 1| Perfil usuário - Análise competitiva | `1.0`|14/04/2024| Renata Quadros| [Gabriel B.][GabrielBGH] |
+|Etapa 1| Perfil usuário - Resultado perfil do usuário | `2.0`|15/04/2024| Giovana Barbosa| [Gabriel F.][GabrielFGH] |
+|Etapa 1| Personas | `1.2`|08/05/2024| João Pedro | [Pablo S.][PabloGH] |
+|Etapa 1| Cenários | `1.7`|15/05/2024| Giovana Barbosa|Todos |
+|Etapa 1| Análise tarefas - HTA	 | `1.8`|21/05/2024| Lara Giuliana |Todos |
+|Etapa 1| Análise tarefas - GOMS | `2.0`|01/06/2024| Lara Giuliana |Todos |
+|Etapa 2| Princípios gerais do projeto | `1.4`|16/05/2024| Giovana Barbosa | [Ricardo A.][RicardoGH] |
+|Etapa 2| Metas usabilidade | `1.2`|20/05/2024| Rayene Almeida |[Claudio H][ClaudioGH] |
+|Etapa 2| Guia de estilo | `1.2`|18/05/2024| Rayene Almeida |[Elias F.][EliasGH]  |
+|Etapa 2| Características da plataforma | `1.0`|11/05/2024| João Pedro |  [Gabriel B.][GabrielBGH] |
+|Etapa 3| N1 - AT - Planejamento da avaliação | `1.2`|24/05/2024| Raissa Andrade | [Gabriel F.][GabrielFGH]  |
+|Etapa 3| N1 - AT - Planejamento do relato | `1.1`|27/05/2024| Giovana Barbosa |  [Pablo S.][PabloGH]  |
 
 
 
