@@ -72,13 +72,28 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Storyboard - Solicitar carteira de identidade
 
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência| Print |
+|:--:| --------- | :-------: | :-------: | :-:|
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | sim | <a href="ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
+| **2** | O cenário (propósito) está sendo bem descrito no storyboard? | sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? | não | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
 ### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+O storyboard verificado, "Solicitar Carteira de Identidade", pode ser encontrado [aqui](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel1/storyboard/storyboard/#tarefa-5-solicitar-carteira-de-identidade).
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 3: As atividades (etapas dos personagens) são representadas com clareza no storyboard? 	
+    - Avaliação: não
+    - Comentário: ao final, há uma explicação de que o personagem dá uma avaliação "baixa" para o site, pois ele não conseguiu fazer o que queria, porém, no storyboard ele consegue realizar todas as tarefas.
 
 ## Storyboard - Registrar ocorrência
 

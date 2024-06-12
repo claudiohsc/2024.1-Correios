@@ -4,7 +4,8 @@ O intuito desse artefato é verificar a verossimidade do artefato de [metas de u
 
 ## Metodologia
 
-Neste artefato será utilizado o método de Inspeção por meio de checklist para verificar e averiguar o conteúdo apresentado no artefato de [metas de usabilidade](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos2/metas_usabilidade/).
+Este artefato foi produzido por [Elias F.][EliasGH] e verificado por [Claudio Henrique][ClaudioGH], seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `1.2` datada do dia 20/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+
 
 ## Checklist
 
@@ -19,12 +20,12 @@ Neste artefato será utilizado o método de Inspeção por meio de checklist par
 |02| No artefato são apresentados os motivos e métodos para a escolha das metas de usabilidade? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
 |03| É apresentada a definição das metas de usabilidade? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
 |04| São elencadas no artefato as metas de usabilidade de: facilidade de aprendizado, memorabilidade, eficiência, segurança e satisfação do usuário? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
-|05| É apresentado no artefato  meta de usabilidade facilidade de aprendizado ? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
-|06| A verificação da meta de usabilidade facilidade de aprendizado esta adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] | 
-|07| A verificação da meta de usabilidade memorabilidade esta adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
-|08| A verificação da meta de usabilidade eficiência esta adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
-|09| A verificação da meta de usabilidade segurança esta adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
-|10| A verificação da meta de usabilidade satisfação do usuário esta adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|05| É apresentado no artefato a  meta de usabilidade: facilidade de aprendizado ? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|06| A verificação da meta de usabilidade de facilidade de aprendizado está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] | 
+|07| A verificação da meta de usabilidade de memorabilidade está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|08| A verificação da meta de usabilidade de eficiência está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|09| A verificação da meta de usabilidade de segurança está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|10| A verificação da meta de usabilidade de satisfação do usuário está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
@@ -32,13 +33,57 @@ Neste artefato será utilizado o método de Inspeção por meio de checklist par
 [Pg. 36]:../../../assets/prints_verificacao/elias/metas/36.png
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Artefato](https://requisitos-de-software.github.io/2024.1-PCDF/artefato).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [metas de usabilidade](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos2/metas_usabilidade/).
 
 - ID xx: Descrição
     - Avaliação:
     - Comentário:
 
 ## Verificação
+
+Na tabela 2 está o checklist completo da verificação do Artefato de [metas de usabilidade](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos2/metas_usabilidade/).
+
+<font size="2"><p style="text-align: center">Tabela 2 - Perguntas elaboradas.</p></font>
+
+|ID| Descrição | Avaliação | Referência|Print|
+|:--:|:--:|:--:|:--:|:--:|
+|01| No documento são elencadas as metas de usabilidade almejadas? |Sim|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36 | [Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|02| No artefato são apresentados os motivos e métodos para a escolha das metas de usabilidade? |Sim|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|03| É apresentada a definição das metas de usabilidade? |Sim|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|04| São elencadas no artefato as metas de usabilidade de: facilidade de aprendizado, memorabilidade, eficiência, segurança e satisfação do usuário? |Sim|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|05| É apresentado no artefato a  meta de usabilidade: facilidade de aprendizado ? |Sim|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|06| A verificação da meta de usabilidade de facilidade de aprendizado está adequada? |Sim|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] | 
+|07| A verificação da meta de usabilidade de memorabilidade está adequada? |Sim|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|08| A verificação da meta de usabilidade de eficiência está adequada? |Incompleto|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|09| A verificação da meta de usabilidade de segurança está adequada? |Incompleto|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|10| A verificação da meta de usabilidade de satisfação do usuário está adequada? |Sim|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+## Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Metas de Usabilidade](https://requisitos-de-software.github.io/2024.1-PCDF/artefato).
+
+- ID 08: A verificação da meta de usabilidade de eficiência está adequada?
+    - Avaliação: Incompleto
+    - Comentário: Apesar da avaliação do grupo estar correta, não colocaram prints ou vídeos do erro acontecendo.
+
+- ID 09: A verificação da meta de usabilidade de segurança está adequada?
+    - Avaliação: Incompleto
+    - Comentário: Da mesma forma, apesar da avaliação do grupo estar correta, não colocaram prints ou vídeos do erro acontecendo. Poderia ser melhor explicada também.
+
+### Gravação
+
+Abaixo, no vídeo 1, está a gravação dessa verificação.
+
+
+<font size="2"><p style="text-align: center">Vídeo 1 - Verificação do Artefato de Metas de Usabilidade.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CrmAHWTmLs4?si=sJ-HDoTgvMuoFJvf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+[Link direto para o video.](https://www.youtube.com/watch?v=CrmAHWTmLs4)
 
 ## Bibligrafia
 
