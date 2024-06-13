@@ -229,6 +229,48 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Registrar ocorrência
 
+<font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência | Print |
+| --- | --- | --- | --- | --- |
+| 01 | O diagrama HTA se inicia com as definições dos objetivos das tarefas? | Não | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | \[Pg. 179\]\[Pg. 179\] e \[Pg. 179.2\]\[Pg. 179.2\] |
+| 02 | O diagrama HTA apresenta objetivos e operações? | Não | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | \[Pg. 179\]\[Pg. 179\] e \[Pg. 179.2\]\[Pg. 179.2\] |
+| 03 | O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas? | Não | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | \[Pg. 179\]\[Pg. 179\] e \[Pg. 179.2\]\[Pg. 179.2\] |
+| 04 | Os objetivos e operações são utilizados de maneira correta na análise? | Não | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | \[Pg. 179\]\[Pg. 179\] e \[Pg. 179.2\]\[Pg. 179.2\] |
+| 05 | A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo? | Não | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | \[Pg. 179\]\[Pg. 179\] e \[Pg. 179.2\]\[Pg. 179.2\] |
+| 06 | São utilizadas as relações de: seleção, sequencial ou paralelo nos subobjetivos que compõem o plano? | Não | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | \[Pg. 179\]\[Pg. 179\] e \[Pg. 179.2\]\[Pg. 179.2\] |
+| 07 | As relações entre os subobjetivos são utilizadas de maneira correta? | Não se aplica | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | \[Pg. 179\]\[Pg. 179\] e \[Pg. 179.2\]\[Pg. 179.2\] |
+| 08 | É apresentada a representação da análise em tabela? | Incompleto | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 e 180 | \[Pg. 179.2\]\[Pg. 179.2\] e \[Pg. 180\]\[Pg. 180\] |
+| 09 | As operações são especificadas com: inputs, actions e feedbacks? | Não se aplica | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 e 180 | \[Pg. 179.2\]\[Pg. 179.2\] e \[Pg. 180\]\[Pg. 180\] |
+| 10 | É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema? | Não se aplica | [REF1](#ref1) . Cap. 8.4.1 - Pgs.180 | \[Pg. 179.2\]\[Pg. 179.2\] e \[Pg. 180\]\[Pg. 180\] |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+### Problemas Encontrados
+
+*   ID 1 & 2: O diagrama HTA se inicia com as definições dos objetivos das tarefas? O diagrama HTA apresenta objetivos e operações?
+    *   Avaliação: Não
+    *   Comentário: Em toda análise hierárquica de tarefa não há distinção entre objetivos e operações.
+*   ID 3 & 4: O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas? Os objetivos e operações são utilizados de maneira correta na análise?
+    *   Avaliação: Não
+    *   Comentário: Não há objetivos explícitos.
+*   ID 5 & 9: A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo? As operações são especificadas com: inputs, actions e feedbacks?
+    *   Avaliação: Não, Não se aplica
+    *   Comentário: Não há operações explícitas.
+*   ID 6 & 7: São utilizadas as relações de: seleção, sequencial ou paralelo nos subobjetivos que compõem o plano?
+    *   Avaliação: Não, Não se aplica
+    *   Comentário: Não são utilizadas as relações.
+*   ID 8: É apresentada a representação da análise em tabela?
+    *   Avaliação: Incompleto
+    *   Comentário: É usado apenas a representação em tabela.
+*   ID 10: É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema?
+    *   Avaliação: Não se aplica
+    *   Comentário: Não é possível distinguir operações e objetivos com isso não é possível identificar os critérios.
+
 ## Retrato falado online
 
 <font size="2"><p style="text-align: center">Tabela 08 - Verificação do HTA Retrato falado online.</p></font>
