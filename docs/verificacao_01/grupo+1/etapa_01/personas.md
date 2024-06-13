@@ -35,35 +35,46 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 ### Checklist de verificação
 
+Abaixo temos a realização em video e tabela 2 da verificação.
+
 <font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
 
 <center>
 
 | ID | Descrição | Avaliação | Referência | Print |
-|:--:| --------- | :-------: | :--------: | :---: |
-| 1 | As personas têm nomes e sobrenomes? |  | <a href="#ref1">1</a> | [página 167](../../../assets/prints_verificacao/ricardo/personas.png)  |
-| 2 | A idade e outros dados demográficos foram fornecidos para todas as personas? |  | <a href="#ref1">1</a> | [página 167](../../../assets/prints_verificacao/ricardo/personas.png)  |
-| 3 | Uma foto foi incluída para tornar cada persona mais realista e memorável? |  | <a href="#ref1">1</a> | [página 167](../../../assets/prints_verificacao/ricardo/personas.png)  |
-| 4 | O status de cada persona (primária, secundária, outro stakeholder ou antiusuário) foi definido? |  | <a href="#ref1">1</a> | [página 168](../../../assets/prints_verificacao/ricardo/personas.png)  |
-| 5 | Os objetivos de cada persona foram claramente definidos? |  | <a href="#ref1">1</a> | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
-| 6 | As habilidades e especialidades de cada persona foram descritas? |  | <a href="#ref1">1</a> | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
-| 7 | As tarefas básicas ou críticas que cada persona realiza foram listadas? |  | <a href="#ref1">1</a> | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
-| 8 | Os relacionamentos de cada persona foram identificados? |  | <a href="#ref1">1</a> | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
-| 9 | Os requisitos de cada persona foram listados? |  | <a href="#ref1">1</a> | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
-| 10 | As expectativas de cada persona em relação ao produto foram descritas? |  | <a href="#ref1">1</a> | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
+| --- | --- | --- | --- | --- |
+| 1 | As personas têm nomes e sobrenomes? | Sim | [1](#ref1) | [página 167](../../../assets/prints_verificacao/ricardo/personas.png) |
+| 2 | A idade e outros dados demográficos foram fornecidos para todas as personas? | Sim | [1](#ref1) | [página 167](../../../assets/prints_verificacao/ricardo/personas.png) |
+| 3 | Uma foto foi incluída para tornar cada persona mais realista e memorável? | Sim | [1](#ref1) | [página 167](../../../assets/prints_verificacao/ricardo/personas.png) |
+| 4 | O status de cada persona (primária, secundária, outro stakeholder ou antiusuário) foi definido? | Sim | [1](#ref1) | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
+| 5 | Os objetivos de cada persona foram claramente definidos? | Sim | [1](#ref1) | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
+| 6 | As habilidades e especialidades de cada persona foram descritas? | Incompleto | [1](#ref1) | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
+| 7 | As tarefas básicas ou críticas que cada persona realiza foram listadas? | Não | [1](#ref1) | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
+| 8 | Os relacionamentos de cada persona foram identificados? | Não | [1](#ref1) | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
+| 9 | Os requisitos de cada persona foram listados? | Sim | [1](#ref1) | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
+| 10 | As expectativas de cada persona em relação ao produto foram descritas? | Sim | [1](#ref1) | [página 168](../../../assets/prints_verificacao/ricardo/personas.png) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gzuIapS0AU?si=hDLfMTaK5lYlINbX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Link para o video](https://www.youtube.com/watch?v=3gzuIapS0AU)
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+- ID 6: As habilidades e especialidades de cada persona foram descritas?
+    - Avaliação: Incompleto
+    - Comentário: As únicas habilidades citadas são justamente as profissões, que também faz parte dos dados demográficos. Então considero como incompleta por não ter outras habilidades exemplificadas fora as pertencentes aos dados demográficos.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 7: As tarefas básicas ou críticas que cada persona realiza foram listadas?
+    - Avaliação: Não
+    - Comentário: Não foram descritas as tarefas básicas ou críticas de cada persona.
+
+- ID 8: Os relacionamentos de cada persona foram identificados?
+    - Avaliação: Não
+    - Comentário: Não há relacionamentos descritos no artefato.
 
 ## Bibliografia
 
