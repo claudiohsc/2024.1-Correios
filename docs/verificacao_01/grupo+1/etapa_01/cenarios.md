@@ -216,13 +216,31 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ### Verificação do Cenário Registrar Ocorrência.
 
+<font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência | Print |
+| --- | --- | --- | --- | --- |
+| 1 | O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? | Sim | [REF2](#ref2). pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenariosDef.png) |
+| 2 | O modo para atingir o objetivo está descrito no cenário ? | Sim | [REF1](#ref1). pg 49 | [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png) |
+| 3 | O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim | [REF1](#ref1). pg 49 | [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png) |
+| 4 | As características pessoais dos atores são relevantes ao cenário? | Sim | [REF2](#ref2). pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenarios.png) |
+| 5 | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim | [REF1](#ref1). pg 49 | [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png) |
+| 6 | Os cenários possuem alguma ligação com os léxicos? | Não se aplica | [REF1](#ref1). pg 50 | [Página 50](../../../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
+| 7 | Os episódios do cenário seguem uma ordem lógica para atingir o objetivo? | Sim | [REF1](#ref1). pg 50 | [Página 50](../../../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
+| 8 | O título do cenário é autoexplicativo? | Sim | [REF1](#ref1). pg 49 | [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png) |
+| 9 | Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente? | Sim | [REF2](#ref2). pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
 #### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/).
-
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+*   ID 3: Os cenários possuem alguma ligação com os léxicos?
+    *   Avaliação: Não se aplica
+    *   Comentário: Na elaboração de IHC não são considerados léxicos.
 
 
 
