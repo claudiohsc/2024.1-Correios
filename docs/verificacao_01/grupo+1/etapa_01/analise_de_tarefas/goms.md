@@ -1,10 +1,10 @@
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato da análise de tarefas [HTA](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/analise_tarefas/hta/) da disciplina de Interação Humano Computador referente ao site [PCDF](https://www.pcdf.df.gov.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato da análise de tarefas [GOMS](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/analise_tarefas/goms/) da disciplina de Interação Humano Computador referente ao site [PCDF](https://www.pcdf.df.gov.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Este artefato foi verificado por [Elias][EliasGH], seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `x` datada do dia x/x/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
+Este artefato foi verificado por todos os integrantes do Grupo, seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `2.0` datada do dia 01/06/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
 
 
 ## Checklist de verificação
@@ -14,12 +14,12 @@ Este artefato foi verificado por [Elias][EliasGH], seguindo a divisão planejada
 |ID| Descrição | Avaliação | Referência|Print|
 |:--:|:--:|:--:|:--:|:--:|
 |**01**| O GOMS possui objetivos, métodos, operadores e regrass de seleção?|  |<a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pergunta%201%20pagina%20181%20GOMS.png) |
-|**02**| OS objetivos demonstram o que o usuário pretende usando o software? | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
-|**03**| Os operadores estão representando a ação concreta que o software permite que os usuários façam? | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
-|**04**| Os métodos estão representados como subobjetivos que permitem atingir um objetivo maior? | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
-|**05**| Todas as vezes que temos mais de um método para um mesmo objetivo temos uma regra de seleção? | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
-|**06**| As regras de seleção representam tomadas de decisão do usuário sobre qual método utilizar? | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
-|**07**| A identação do GOMS está da maneira correta? Como os operadores dentro dos métodos? | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/pg%20182.png) |
+|**02**| OS objetivos demonstram o que o usuário pretende usando o software?|  | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|**03**| Os operadores estão representando a ação concreta que o software permite que os usuários façam? | | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|**04**| Os métodos estão representados como subobjetivos que permitem atingir um objetivo maior?|  | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|**05**| Todas as vezes que temos mais de um método para um mesmo objetivo temos uma regra de seleção?|  | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|**06**| As regras de seleção representam tomadas de decisão do usuário sobre qual método utilizar?|  | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+|**07**| A identação do GOMS está da maneira correta? Como os operadores dentro dos métodos?| | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/pg%20182.png) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielbGH], 2024.</p></font>
