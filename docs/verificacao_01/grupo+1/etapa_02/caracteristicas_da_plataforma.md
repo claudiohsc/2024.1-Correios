@@ -1,4 +1,4 @@
-# Verificação do Artefato X
+# Verificação das Características da Plataforma
 
 ## Introdução
 
@@ -68,8 +68,8 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 11/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
-| `1.1`  | 12/06/2024 | Aplicação do Checklist | []() | []() |
+| `1.0`  | 11/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
+| `1.1`  | 12/06/2024 | Aplicação do Checklist | [Gabriel B. Bertolazi][GabrielBGH] | [Pablo S. Costa](https://github.com/pabloheika) |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

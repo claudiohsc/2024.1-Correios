@@ -1,4 +1,4 @@
-# Verificação do Artefato X
+# Verificação do Planejamento do Relato
 
 ## Introdução
 
@@ -59,6 +59,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 11/06/2024 | Criação do Checklist | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S][PabloGH] |
 | `1.1`  | 12/06/2024 | Aplicação do Checklist | [Gabriel B. Bertolazi](https://github.com/Bertolazi) |[Pablo S][PabloGH] |
+
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
