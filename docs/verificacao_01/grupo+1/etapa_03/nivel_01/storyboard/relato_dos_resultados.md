@@ -182,7 +182,7 @@ Na Tabela 1 temos a lista de verificação elaborada, ja nas Tabelas de 2 a 7 a 
 | **9** | São informadas as funções dos participantes? (Avaliadores e entrevistados) | Sim | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
 | **10** | Há um sumário dos dados coletados, incluindo tabelas e gráficos? | Sim | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/10.jpeg) |
 | **11** | Há o relato da interpretação e análise dos dados? | Não | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/11.jpeg) |
-| **12** | Há uma lista dos problemas encontrados? | Sim | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/12.jpeg) |
+| **12** | Há uma lista dos problemas encontrados? | Não se aplica | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/12.jpeg) |
 | **13** | Existe um planejamento para o reprojeto do storyboard? | Não se aplica | <a href="#ref1">1.</a> 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/13.jpeg) |
 
 </center>
@@ -191,9 +191,17 @@ Na Tabela 1 temos a lista de verificação elaborada, ja nas Tabelas de 2 a 7 a 
 
 ### Problemas Encontrados
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 01: Foi buscado recorrência nos resultados para distinguir características representativas do grupo?
+    - Avaliação: Não
+    - Comentário: Não foi relatado pelo grupo
+
+- ID 08: É informado o perfil do usuário dos participantes?
+    - Avaliação: Não
+    - Comentário: O grupo não informa esse tópico
+
+- ID 11: Há o relato da interpretação e análise dos dados?
+    - Avaliação: Não
+    - Comentário: Não houve o relato da interpretação e análise dos dados
 
 ## Bibliografia
 
