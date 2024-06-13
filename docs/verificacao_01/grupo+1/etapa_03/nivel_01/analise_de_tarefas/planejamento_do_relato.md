@@ -36,26 +36,32 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <center>
 
 | ID | Descrição | Avaliação | Referência | Print |
-|:--:| --------- | :-------: | :--------: | :---: |
-| **1** | O planejamento aborda o tópico dos objetivos da avaliação? |  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
-| **2** | O planejamento descreve qual será o método de avaliação que será realizado? |  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
-| **3** | O artefato define a quantidade e o perfil dos entrevistadores e dos entrevistados que participarão das avaliações? |  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
-| **4** | O planejamento prevê um sumário dos dados coletados e suas interpretações? |  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
-| **5** | O planejamento descreve que existirá uma lista de problemas encontrados? |  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
-| **6** | O grupo fez um planejamento para o reprojeto? |  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| --- | --- | --- | --- | --- |
+| **1** | O planejamento aborda o tópico dos objetivos da avaliação? | Sim | [1](#ref1) | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **2** | O planejamento descreve qual será o método de avaliação que será realizado? | Sim | [1](#ref1) | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **3** | O artefato define a quantidade e o perfil dos entrevistadores e dos entrevistados que participarão das avaliações? | Incompleto | [1](#ref1) | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **4** | O planejamento prevê um sumário dos dados coletados e suas interpretações? | Não | [1](#ref1) | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **5** | O planejamento descreve que existirá uma lista de problemas encontrados? | Sim | [1](#ref1) | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **6** | O grupo fez um planejamento para o reprojeto? | Não | [1](#ref1) | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
-
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+*   ID 3: O artefato define a quantidade e o perfil dos entrevistadores e dos entrevistados que participarão das avaliações?
+    *   Avaliação: Incompleto
+    *   Comentário: Durante a avaliação constatei que não há referência ao perfil de usuário selecionado para entrevista. Embora haja o nome dos usuários não não é informado a quantidade de participantes de forma clara.
+*   ID 4: O planejamento prevê um sumário dos dados coletados e suas interpretações?
+    *   Avaliação: Não
+    *   Comentário: Não há uma estrutura indicando onde será apresentado todos os dados da entrevista.
+*   ID 6: O grupo fez um planejamento para o reprojeto?
+    
+    *   Avaliação: Não
+    *   Comentário: Não há indicação de uma estrutura para reprojeto.
 
 ## Bibliografia
 

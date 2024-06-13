@@ -35,7 +35,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 ### Checklist de verificação
 
-<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com as referências.</p></font>
 
 <center>
 
@@ -54,7 +54,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [GAbriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 
 ## Problemas Encontrados
@@ -73,7 +73,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 11/06/2024 | Criação do Checklist | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
+| `1.0`  | 11/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
 | `1.1`  | 12/06/2024 | Aplicação do Checklist | [Gabriel B. Brtolazi](GabrielbGH) | []() |
 
 [ClaudioGH]: https://github.com/claudiohsc

@@ -9,11 +9,11 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 |:---:|:--:|:----:|:----:|:----:|:----:|
 |Etapa 3| N1 - AT - Planejamento da avaliação | `1.2`|24/05/2024| Raissa Andrade | [Gabriel F.][GabrielFGH]  |
 |Etapa 3| N1 - AT - Planejamento do relato | `1.1`|27/05/2024| Giovana Barbosa |  [Pablo S.][PabloGH]  |
-|Etapa 3| N1 - AT - Relato dos resultados | `1.0`|29/05/2024| Giovana Barbosa | Todos  |
+|Etapa 3| N1 - AT - Relato dos resultados | `1.0`|29/05/2024| Giovana Barbosa | [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH]  |
 |Etapa 3| N1 - SB - Planejamento da avaliação	 | `1.3`|25/05/2024| Renata Quadros | [Ricardo A.][RicardoGH]  |
 |Etapa 3| N1 - SB - Planejamento do relato	 | `2.0`|25/05/2024| Rayene Almeida | [Claudio H][ClaudioGH]   |
-|Etapa 3| N1 - SB - Relato dos resultados	 | `1.2`|02/06/2024| Rayene Almeida | Todos  |
-|Etapa 3| N1 - SB - Storyboards	 | `2.0`|01/06/2024| Lara Giuliana | Todos  |
+|Etapa 3| N1 - SB - Relato dos resultados	 | `1.2`|02/06/2024| Rayene Almeida | [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH]  |
+|Etapa 3| N1 - SB - Storyboards	 | `2.0`|01/06/2024| Lara Giuliana | [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH]  |
 |Etapa 3| N2 - PP - Planejamento da avaliação	 | `1.1`|29/05/2024| Renata Quadros | [Elias F.][EliasGH]   |
 |Etapa 3| N2 - PP - Planejamento do relato	 | `1.0`|29/05/2024| Raissa Andrade | [Gabriel B.][GabrielBGH]  |
 
@@ -60,9 +60,46 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 ## N1 - AT - Relato dos resultados
 
+<font size="2"><p style="text-align: center">Tabela 4 - Perguntas elaboradas de acordo com as referências bibliográficas para os relatos do resultado.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência| Print |
+|:--:| --------- | :-------: | :-------: | :---: | 
+| **1** | Estão descritos os objetivos da avaliação? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **2** | Possui uma explicação sobre o método de avaliação usado? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **3** | Apresenta o número e perfil dos avaliadores e participantes da avaliação? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **4** | Possui um sumário dos dados coletados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **5** | Faz uma interpretação e análise dos dados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **6** | Apresenta uma lista dos problemas encontrados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **7** | Possui planejamento para um reprojeto do sistema? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **8** | A coleta de dados ocorreu de acordo com o planejamento e método de avaliação escolhido? |  | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **10** | Caso a coleta de dados tenha sido feita em um laboratório (ambiente controlado), o ambiente de teste foi apresentado ao participante? |  | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) e <br>[pg 301](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20ambiente%20controlado%20~%20lab.jpeg) |
+| **11** | O avaliador explicou para o participante os objetivos do estudo, procedimentos da avaliação e cuidados éticos tomados? |  | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **12** | Enquanto o participante realizava as tarefas previstas, ele foi interrompido ou questionado? |  | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **13** | Caso o participante demonstre não conseguir completar a tarefa, o avaliador passa para uma próxima etapa a fim de evitar emoções desagradáveis? |  | <a href="#ref1">1</a> | [pg 278](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados%202.jpeg) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 5 - Perguntas elaboradas para o artefato em geral</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência| Print |
+|:--:| --------- | :-------: | :-------: | :---: | 
+| **1** | É apresentada uma consolidação dos dados (análise conjunta dos dados individuais)? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **2** | Foram identificadas recorrências na consolidação dos dados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **3*** | Todos os participantes receberam as mesmas orientações? |  | <a href="#ref1">1</a> | [pg 275](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados%20(informações%20iguais).jpeg) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
 ## N1 - SB - Planejamento da avaliação
 
-<font size="2"><p style="text-align: center">Tabela 5 - Lista de verificação do planejamento da avaliação dos storyboards.</p></font>
+<font size="2"><p style="text-align: center">Tabela 6 - Lista de verificação do planejamento da avaliação dos storyboards.</p></font>
 
 <center>
 
@@ -90,7 +127,7 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 ## N1 - SB - Relato dos resultados
 
-<font size="2"><p style="text-align: center">Tabela 7 - Lista de verificação do relato dos resultados dos storyboards.</p></font>
+<font size="2"><p style="text-align: center">Tabela 8 - Lista de verificação do relato dos resultados dos storyboards.</p></font>
 
 <center>
 
@@ -117,7 +154,7 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 ## N1 - SB - Storyboards
 
-<font size="2"><p style="text-align: center">Tabela 8 - Lista de verificação do artefato storyboards.</p></font>
+<font size="2"><p style="text-align: center">Tabela 9 - Lista de verificação do artefato storyboards.</p></font>
 
 <center>
 

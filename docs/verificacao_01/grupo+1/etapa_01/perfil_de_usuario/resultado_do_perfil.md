@@ -37,6 +37,13 @@ Na Tabela 1 temos a lista de verificação elaborada, ja na Tabelas 2 a aplicaç
 
 <center>
 
+| ID | Descrição | Avaliação | Referência | Print |
+|:--:| --------- | :-------: | :--------: | :---: |
+| **1** | É traçado um perfil respondendo quem são e quais são os objetivos dos usuários do sistema? | sim | <a href="#ref1">1.</a> "8.1 Perfil de Usuário"  | [página 165](../../../../assets/prints_verificacao/pablo/resultado_perfil/1.jpeg) |
+| **2** | São identificadas as características de interesse como cargo, função, experiência, nível de instrução, atividades principais, faixa etária e etc? | incompleto | <a href="#ref1">1.</a> "8.1 Perfil de Usuário"  | [página 166](../../../../assets/prints_verificacao/pablo/resultado_perfil/2.jpeg) |
+| **3** | Foram conduzidos estudos através de entrevistas ou questionários para coletar os dados dos usuários? | sim | <a href="#ref1">1.</a> "8.1 Perfil de Usuário"  | [página 166](../../../../assets/prints_verificacao/pablo/resultado_perfil/3.jpeg) |
+| **4** | São levados em considerações dados sobre sua relação com tecnologia, os conhecimentos e o domínio sobre o produto e das tarefas que realizaram utilizando o produto? | sim | <a href="#ref1">1.</a> "8.1 Perfil de Usuário"  | [página 166](../../../../assets/prints_verificacao/pablo/resultado_perfil/4.jpeg) |
+| **5** | No tratamento dos dados foram categorizados os seus usuários em grupos baseado em suas semelhanças como os grupos comuns idade, experiência, atitudes e tarefas primárias? | sim | <a href="#ref1">1.</a> "8.1 Perfil de Usuário"  | [página 166](../../../../assets/prints_verificacao/pablo/resultado_perfil/5.jpeg) |
 
 
 </center>
@@ -45,9 +52,9 @@ Na Tabela 1 temos a lista de verificação elaborada, ja na Tabelas 2 a aplicaç
 
 ### Problemas Encontrados
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID xx: São identificadas as características de interesse como cargo, função, experiência, nível de instrução, atividades principais, faixa etária e etc?
+    - Avaliação: incompleto
+    - Comentário: não foram identificados nível de instrução e nem cargo.
 
 
 ## Bibliografia
@@ -59,6 +66,7 @@ Na Tabela 1 temos a lista de verificação elaborada, ja na Tabelas 2 a aplicaç
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 12/06/2024 | Criação do documento |[Pablo S. Costa][PabloGH] | [Ricardo Augusto][RicardoGH] |
+| `1.0`  | 12/06/2024 | Aplicação do checklist |[Pablo S. Costa][PabloGH] | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

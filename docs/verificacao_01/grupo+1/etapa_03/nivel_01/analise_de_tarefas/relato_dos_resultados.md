@@ -6,7 +6,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Re
 
 ## Metodologia
 
-Este artefato foi verificado por [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH] e [Ricardo][RicardoGH], com o checklist produzido por [Gabriel Fernando][GabrielFGH], seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `x` datada do dia x/x/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi verificado por [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH] e [Ricardo][RicardoGH], com o checklist produzido por [Gabriel Fernando][GabrielFGH], seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 29/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 Na Tabela 1 temos os itens referentes a cada relato de resultados individualmente, com as Tabelas de 3 a 8, contendo a aplicação do checklist para os relatos. Já na Tabela 2, os itens se referem a uma verificação do conjunto dos relatos, sendo a Tabela 10 a aplicação dela. 
 
@@ -69,6 +69,52 @@ Aqui será apresentado os resultados de cada checklist com as observações dos 
 
 
 ### Pesquisar Procurados
+
+
+<font size="2"><p style="text-align: center">Tabela 3 - Verificação do relato dos resultados da Análise de Tarefas "Pesquisar procurados".</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência| Print |
+|:--:| --------- | :-------: | :-------: | :---: | 
+| **1** | Estão descritos os objetivos da avaliação? | Não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **2** | Possui uma explicação sobre o método de avaliação usado? | Não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **3** | Apresenta o número e perfil dos avaliadores e participantes da avaliação? | Não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **4** | Possui um sumário dos dados coletados? | Sim | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **5** | Faz uma interpretação e análise dos dados? | Não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **6** | Apresenta uma lista dos problemas encontrados? | Não se aplica | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **7** | Possui planejamento para um reprojeto do sistema? | Não se aplica | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **8** | A coleta de dados ocorreu de acordo com o planejamento e método de avaliação escolhido? | Sim | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **10** | Caso a coleta de dados tenha sido feita em um laboratório (ambiente controlado), o ambiente de teste foi apresentado ao participante? | Sim | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) e <br>[pg 301](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20ambiente%20controlado%20~%20lab.jpeg) |
+| **11** | O avaliador explicou para o participante os objetivos do estudo, procedimentos da avaliação e cuidados éticos tomados? | Sim | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **12** | Enquanto o participante realizava as tarefas previstas, ele foi interrompido ou questionado? | Não | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **13** | Caso o participante demonstre não conseguir completar a tarefa, o avaliador passa para uma próxima etapa a fim de evitar emoções desagradáveis? | Não se aplica | <a href="#ref1">1</a> | [pg 278](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados%202.jpeg) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
+
+
+#### Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+
+- ID 01:  Estão descritos os objetivos da avaliação?
+    - Avaliação: Não.
+    - Comentário: Os objetivos não foram descritos no artefato. Seria interessante citar para facilitar a avaliação da entrevista.
+
+- ID 02:  Possui uma explicação sobre o método de avaliação usado?
+    - Avaliação: Não.
+    - Comentário: Não explica qual foi o método utilizado, por mais que seja perceptível pela gravação.
+
+- ID 03: Apresenta o número e perfil dos avaliadores e participantes da avaliação?
+    - Avaliação: Não.
+    - Comentário: Não apresenta o perfil da pessoa entrevista e nem informações do cronograma realizado.
+
+- ID 05: Faz uma interpretação e análise dos dados?
+    - Avaliação: Não.
+    - Comentário: Não apresenta uma análise dos dados coletados na entrevista, ficando os dados soltos no documento.
+
 
 O artefato verificado pode ser visualizado [aqui](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel1/analise_tarefas/relato/#pesquisar-procurados).
 
@@ -164,37 +210,43 @@ O artefato verificado pode ser visualizado [aqui](https://interacao-humano-compu
 
 #### Checklist de verificação
 
-<font size="2"><p style="text-align: center">Tabela 5 - checklist preenchido para "Solicitar Antecedentes Criminais".</p></font>
+<font size="2"><p style="text-align: center">Tabela 5 - checklist preenchido para "Denúncia online".</p></font>
 
 <center>
 
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :---: | 
-| **1** | Estão descritos os objetivos da avaliação? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **2** | Possui uma explicação sobre o método de avaliação usado? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **3** | Apresenta o número e perfil dos avaliadores e participantes da avaliação? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **4** | Possui um sumário dos dados coletados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **5** | Faz uma interpretação e análise dos dados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **6** | Apresenta uma lista dos problemas encontrados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **7** | Possui planejamento para um reprojeto do sistema? |  | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **8** | A coleta de dados ocorreu de acordo com o planejamento e método de avaliação escolhido? |  | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
-| **10** | Caso a coleta de dados tenha sido feita em um laboratório (ambiente controlado), o ambiente de teste foi apresentado ao participante? |  | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) e <br>[pg 301](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20ambiente%20controlado%20~%20lab.jpeg) |
-| **11** | O avaliador explicou para o participante os objetivos do estudo, procedimentos da avaliação e cuidados éticos tomados? |  | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
-| **12** | Enquanto o participante realizava as tarefas previstas, ele foi interrompido ou questionado? |  | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
-| **13** | Caso o participante demonstre não conseguir completar a tarefa, o avaliador passa para uma próxima etapa a fim de evitar emoções desagradáveis? |  | <a href="#ref1">1</a> | [pg 278](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados%202.jpeg) |
+| **1** | Estão descritos os objetivos da avaliação? | Não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **2** | Possui uma explicação sobre o método de avaliação usado? | Não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **3** | Apresenta o número e perfil dos avaliadores e participantes da avaliação? | Sim | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **4** | Possui um sumário dos dados coletados? | Sim | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **5** | Faz uma interpretação e análise dos dados? | Sim | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **6** | Apresenta uma lista dos problemas encontrados? | Sim | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **7** | Possui planejamento para um reprojeto do sistema? |  Não | <a href="#ref1">1</a> | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
+| **8** | A coleta de dados ocorreu de acordo com o planejamento e método de avaliação escolhido? | Sim | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **10** | Caso a coleta de dados tenha sido feita em um laboratório (ambiente controlado), o ambiente de teste foi apresentado ao participante? | Sim | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) e <br>[pg 301](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20ambiente%20controlado%20~%20lab.jpeg) |
+| **11** | O avaliador explicou para o participante os objetivos do estudo, procedimentos da avaliação e cuidados éticos tomados? | Sim | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **12** | Enquanto o participante realizava as tarefas previstas, ele foi interrompido ou questionado? | Não | <a href="#ref1">1</a> | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **13** | Caso o participante demonstre não conseguir completar a tarefa, o avaliador passa para uma próxima etapa a fim de evitar emoções desagradáveis? | Não | <a href="#ref1">1</a> | [pg 278](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados%202.jpeg) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 #### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
-
+- ID 01
+    - Não
+    - Não apresenta
+- ID 02
+    - Não
+    - Não apresenta
+- ID 07
+    - Não 
+    - Não apresenta
+    
 ### Solicitar carteira de identidade
 
 O artefato verificado pode ser visualizado [aqui](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel1/analise_tarefas/relato/#solicitar-carteira-de-identidade).
@@ -333,13 +385,13 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação: Incompleto
     - Comentário: Não foi apresentado os objetivos da avaliação
     
-### Relato dos Resultados em Geral
+### Conjunto do Relato dos Resultados 
 
 O artefato verificado pode ser visualizado [aqui](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel1/analise_tarefas/relato/#solicitar-antecedentes-criminais).
 
 #### Checklist de Verificação
 
-<font size="2"><p style="text-align: center">Tabela 2 - Perguntas elaboradas para o artefato em geral</p></font>
+<font size="2"><p style="text-align: center">Tabela 9 - itens sobre o conjunto de relatos</p></font>
 
 <center>
 
@@ -369,7 +421,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 11/06/2024 | Criação do Checklist | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
+| `1.0`  | 11/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
 | `1.1`  | 12/06/2024 | Aplicação do Checklist | []() | []() |
 
 [ClaudioGH]: https://github.com/claudiohsc

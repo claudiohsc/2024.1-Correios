@@ -4,7 +4,7 @@ Neste artefato, está descrito os resultados da verificação do artefato da an�
 
 ## Metodologia
 
-Este artefato foi verificado por [Elias][EliasGH], seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `x` datada do dia x/x/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
+Este artefato foi verificado por todos os integrantes do grupo como mostrado nos checklists feitos por cada um, seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `x` datada do dia x/x/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
 
 
 ## Checklist
