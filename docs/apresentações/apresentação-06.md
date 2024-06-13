@@ -5,9 +5,9 @@ Esta página tem como foco o vídeo de apresentação da etapa 6.1 do projeto. A
 
 ## Apresentação
 
-<iframe width="1519" height="542" src="https://www.youtube.com/embed/xi4moNjtlIE" title="Apresentação do projeto etapa 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1519" height="542" src="https://www.youtube.com/embed/UH26VVGD_jM" title="Reunião em  General  20240612 232944 Gravação de Reunião" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Link para o vídeo](https://www.youtube.com/xi4moNjtlIE)
+[Link para o vídeo](https://www.youtube.com/UH26VVGD_jM)
 
 
 ## Bibliografia
