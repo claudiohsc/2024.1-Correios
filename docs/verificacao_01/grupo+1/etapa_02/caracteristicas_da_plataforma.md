@@ -34,22 +34,25 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
-| **1** | Foram definidas restrições para o software do projeto (ex: sistema operacional)? |  | <a href="#ref1">1</a> | [pg 145](../../../assets/prints_verificacao/gabrielf/Caracteristicas%20da%20plataforama%20ref%20-%201%20e%202.jpeg) |
-| **2** | Foram definidas restrições para o hardware do projeto (ex: tela de display)? |  | <a href="#ref1">1</a> | [pg 147](../../../assets/prints_verificacao/gabrielf/Caracteristicas%20da%20plataforama%20ref%20-%202%20e.g%20(pg%20147).jpeg) |
-| **3** | Foram identificadas limitações que afunilam as restrições básicas do projeto (ex: ferramentas usadas para acessar o projeto)? |  | <a href="#ref1">1</a> | [pg 146](../../../assets/prints_verificacao/gabrielf/Caracteristicas%20da%20plataforama%20ref%20-%203.jpeg) |
+| **1** | Foram definidas restrições para o software do projeto (ex: sistema operacional)? | Incompleto | <a href="#ref1">1</a> | [pg 145](../../../assets/prints_verificacao/gabrielf/Caracteristicas%20da%20plataforama%20ref%20-%201%20e%202.jpeg) |
+| **2** | Foram definidas restrições para o hardware do projeto (ex: tela de display)? | Não | <a href="#ref1">1</a> | [pg 147](../../../assets/prints_verificacao/gabrielf/Caracteristicas%20da%20plataforama%20ref%20-%202%20e.g%20(pg%20147).jpeg) |
+| **3** | Foram identificadas limitações que afunilam as restrições básicas do projeto (ex: ferramentas usadas para acessar o projeto)? | Sim | <a href="#ref1">1</a> | [pg 146](../../../assets/prints_verificacao/gabrielf/Caracteristicas%20da%20plataforama%20ref%20-%203.jpeg) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 
 ## Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 01: Foram definidas restrições para o software do projeto (ex: sistema operacional)?
+    - Incompleto
+    - Faltou o sistema operacional
+- ID 02: Foram definidas restrições para o hardware do projeto (ex: tela de display)? 
+    - Não
+    - Só falam do mobile
 
 ## Bibliografia
 
