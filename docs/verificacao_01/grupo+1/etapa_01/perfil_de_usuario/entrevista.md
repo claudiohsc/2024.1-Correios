@@ -13,7 +13,7 @@ font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de a
 |:--:| --------- | :-------: | :-------: | :---: | 
 | **1** | Foram utilizadas perguntas abertas ou fechadas com um objetivo claro? | | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 144 | [pg. 144](../../../../assets/prints_verificacao/gabrielb/pg.%20144.png) |
 | **2** | Foi feito um roteiro para realização dessa entrevista? |  | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 144 | [pg. 144](../../../../assets/prints_verificacao/gabrielb/pg.%20144.png) |
-| **3** | Foi apresentado quem estava entrevistado no início da entrevista? |  | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 145 | [pg. 145](../../../../assets/prints_verificacao/gabrielb/Pg.145.png) |
+| **3** | Foi apresentado quem estava sendo entrevistado no início da entrevista? |  | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 145 | [pg. 145](../../../../assets/prints_verificacao/gabrielb/Pg.145.png) |
 | **4** | O entrevistador foi apresentado no início da entrevista? |  | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 145 | [pg. 145](../../../../assets/prints_verificacao/gabrielb/Pg.145.png) |
 | **5** | Foi dado um período de aquecimento para ajudar o foco do entrevistado?|  | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 145 | [pg. 145](../../../../assets/prints_verificacao/gabrielb/Pg.145.png) |
 | **6** | A escolha do entrevistado teve base no perfil de usuário definido | | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 144 | [pg. 144](../../../../assets/prints_verificacao/gabrielb/pg.%20144.png) |
@@ -27,30 +27,30 @@ Abaixo estarão apresentados os dados da verificação:
 
 ## Checklist de verificação
 
-font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com as referências bibliográficas.</p></font>
+font size="2"><p style="text-align: center">Tabela 1 - verificação das entrevistas.</p></font>
 
 <center>
 
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :---: | 
-| **1** | Foram utilizadas perguntas abertas ou fechadas com um objetivo claro? | | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 144 | [pg. 144](../../../../assets/prints_verificacao/gabrielb/pg.%20144.png) |
-| **2** | Foi feito um roteiro para realização dessa entrevista? |  | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 144 | [pg. 144](../../../../assets/prints_verificacao/gabrielb/pg.%20144.png) |
-| **3** | Foi apresentado quem estava entrevistado no início da entrevista? |  | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 145 | [pg. 145](../../../../assets/prints_verificacao/gabrielb/Pg.145.png) |
-| **4** | O entrevistador foi apresentado no início da entrevista? |  | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 145 | [pg. 145](../../../../assets/prints_verificacao/gabrielb/Pg.145.png) |
-| **5** | Foi dado um período de aquecimento para ajudar o foco do entrevistado?|  | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 145 | [pg. 145](../../../../assets/prints_verificacao/gabrielb/Pg.145.png) |
-| **6** | A escolha do entrevistado teve base no perfil de usuário definido | | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 144 | [pg. 144](../../../../assets/prints_verificacao/gabrielb/pg.%20144.png) |
-| **7** | O entrevistado foi coagidp a dar respostas mais completas? | | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 146 | [pg. 146](../../../../assets/prints_verificacao/gabrielb/pg%20146%20e%20147.png) |
+| **1** | Foram utilizadas perguntas abertas ou fechadas com um objetivo claro? | Sim. | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 144 | [pg. 144](../../../../assets/prints_verificacao/gabrielb/pg.%20144.png) |
+| **2** | Foi feito um roteiro para realização dessa entrevista? | Não. | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 144 | [pg. 144](../../../../assets/prints_verificacao/gabrielb/pg.%20144.png) |
+| **3** | Foi apresentado quem estava sendo entrevistado no início da entrevista? | Sim. | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 145 | [pg. 145](../../../../assets/prints_verificacao/gabrielb/Pg.145.png) |
+| **4** | O entrevistador foi apresentado no início da entrevista? | Sim. | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 145 | [pg. 145](../../../../assets/prints_verificacao/gabrielb/Pg.145.png) |
+| **5** | Foi dado um período de aquecimento para ajudar o foco do entrevistado?| Não. | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 145 | [pg. 145](../../../../assets/prints_verificacao/gabrielb/Pg.145.png) |
+| **6** | A escolha do entrevistado teve base no perfil de usuário definido | Sim. | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 144 | [pg. 144](../../../../assets/prints_verificacao/gabrielb/pg.%20144.png) |
+| **7** | O entrevistado foi coagido a dar respostas mais completas? | Não | <a href="#ref1"> REF1 </a>. Cap. 7.5 - Pgs. 146 | [pg. 146](../../../../assets/prints_verificacao/gabrielb/pg%20146%20e%20147.png) |
 
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ## Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 05: Foi dado um período de aquecimento para ajudar o foco do entrevistado?
+    - Avaliação: Não.
+    - Comentário: Não foi dado ao usuário um tempo para se ambientar a dinâmica da entrevista.
 
 
 ## Bibligrafia
