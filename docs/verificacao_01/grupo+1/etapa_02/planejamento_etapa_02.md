@@ -68,7 +68,7 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 11/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] e [Claudio Henrique][ClaudioGH]  | [][] |
+|`1.0`| 11/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] e [Claudio Henrique][ClaudioGH]  | [Pablo S][PabloGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

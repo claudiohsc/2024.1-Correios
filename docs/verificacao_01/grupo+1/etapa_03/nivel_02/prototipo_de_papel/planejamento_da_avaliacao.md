@@ -46,16 +46,14 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F](https://github.com/EliasOliver21), 2024.</p></font>
 
 
 ## Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
-
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+ 
+ Não foram encontrados problemas.
 
 ## Bibliografia
 
@@ -65,7 +63,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 09/06/2024 | Criação do documento |[Gabriel B. Bertolazi](https://github.com/Bertolazi) | []() |
+| `1.0`  | 09/06/2024 | Criação do documento |[Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Pablo S][PabloGH]|
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

@@ -6,7 +6,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Pe
 
 ## Metodologia
 
-Este artefato foi produzido por [Elias F.][EliasFGH] e verificado por [Claudio Henrique][ClaudioGH], seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `1.1` datada do dia 18/04/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi produzido por [Elias F.][EliasGH] e verificado por [Claudio Henrique][ClaudioGH], seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `1.1` datada do dia 18/04/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 ## Apresentação dos Dados
 
@@ -100,4 +100,9 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 06/06/2024 | Criação do documento |[Elias F. Oliveira](https://github.com/EliasOliver21) | [Gabriel B][GabrielBGH] |
 
+[ClaudioGH]: https://github.com/claudiohsc
+[EliasGH]: https://github.com/EliasOliver21
 [GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
