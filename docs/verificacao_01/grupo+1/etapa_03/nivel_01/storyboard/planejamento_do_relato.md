@@ -1,10 +1,10 @@
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato do planejamento [relato dos resultados](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel1/storyboard/planejamento_relato/) feito pelo [Grupo 04](https://interacao-humano-computador.github.io/2024.1-PCDF/) da disciplina de Interação Humano Computador referente ao site [PCDF](https://www.pcdf.df.gov.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+
 
 ## Metodologia
 
-Este artefato foi produzido por [Elias F. Oliveira][EliasGH] e verificado por [Claudio Henrique][ClaudioGH], seguindo a divisão planejada pelo grupo na reunião 6. Para a verificação do artefato, foi utilizada a versão `2.0` datada do dia 25/05/2024. Adotamos a metodologia de inspeção por checklist neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de Problemas Encontrados, são comentados os itens negativos.
+
 
 ## Checklist
 
