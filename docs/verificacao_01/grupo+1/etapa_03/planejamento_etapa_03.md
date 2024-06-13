@@ -117,6 +117,21 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 ## N1 - SB - Storyboards
 
+<font size="2"><p style="text-align: center">Tabela 8 - Lista de verificação do artefato storyboards.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência| Print |
+|:--:| --------- | :-------: | :-------: | :-:|
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | | <a href="#ref3">3</a> |  [página 263](../../../assets/prints_verificacao/ricardo/storyboard1.png)
+| **2** | O cenário (propósito) está sendo bem descrito no storyboard? |  | <a href="#ref4">4</a> | [Tópico : Quais são as principais características de um storyboard?](../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? |  | <a href="#ref4">4</a> | [Tópico : Quais são as principais características de um storyboard?](../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? |  | <a href="#ref4">4</a> | [Tópico : Quais são as principais características de um storyboard?](../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+
 ## N2 - PP - Planejamento da avaliação
 
 ## N2 - PP - Planejamento do relato
@@ -126,6 +141,10 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 > <a id="ref1">1</a>. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 
 > <a id="ref2">2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="ref3">3.</a> ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: Além da interação humano-computador. Bookman Editora, 2013.
+
+> <a id="ref4">4.</a> O que é Storyboard? Como fazer? Veja modelos e exemplos. Disponível em: <https://miro.com/pt/storyboard/o-que-e-storyboard/>. Acesso em: 11 jun. 2024.
 
 
 ## Histórico de Versão
