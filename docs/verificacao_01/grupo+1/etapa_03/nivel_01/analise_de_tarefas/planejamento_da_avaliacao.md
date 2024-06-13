@@ -38,7 +38,15 @@ Na Tabela 1 temos a lista de verificação elaborada, ja na Tabelas 2 a aplicaç
 
 <center>
 
-
+| ID | Descrição | Avaliação | Referência | Print |
+|:--:| --------- | :-------: | :--------: | :---: |
+| **1** | Foi usado o framework DECIDE para realizar o planejamento? | sim | <a href="#ref1">1.</a> "Capítulo 11 - Planejamento da Avaliação de IHC"  | [página 280](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/1.jpeg) |
+| **2** | Foram elaboradas perguntas que detalhem os objetivos da avaliação? | sim | <a href="#ref1">1.</a> "Capítulo 11 - Planejamento da Avaliação de IHC"  | [página 265](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/2%20e%203.jpeg) |
+| **3** | A elaboração de perguntas considerou o público-alvo das atividades? | sim | <a href="#ref1">1.</a> "Capítulo 11 - Planejamento da Avaliação de IHC"  | [página 265](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/2%20e%203.jpeg) |
+| **4** | Escolheram os métodos de avaliação mais adequados para atingir os objetivos esperados, considerando prazo, orçamento, equipamentos disponíveis e experiência dos avaliadores? | sim | <a href="#ref1">1.</a> "Capítulo 11 - Planejamento da Avaliação de IHC"  | [página 264](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/4.jpeg) |
+| **5** | Foram seguidas as atividades básicas como método na avaliação incluindo preparação, coleta de dados, interpretação, consolidação e relato dos resultados? | incompleto | <a href="#ref1">1.</a> "Capítulo 11 - Planejamento da Avaliação de IHC"  | [página 273](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/5.jpeg) |
+| **6** | No caso de a avaliação encontrar problemas ou oportunidades de melhorias foram planejados um reprojeto do sistema? | não | <a href="#ref1">1.</a> "Capítulo 11 - Planejamento da Avaliação de IHC"  | [página 273](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/6.jpeg) |
+| **7** | O planejamento da avaliação envolve as questões práticas, que incluem alocar pessoal, recursos e equipamentos, preparar o material de apoio, preparação do ambiente de teste, a realização de um teste-piloto, recrutamento dos participantes e as questões éticas? | sim | <a href="#ref1">1.</a> "Capítulo 11 - Planejamento da Avaliação de IHC"  | [página 275](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/7.jpeg) |
 
 </center>
 
@@ -46,9 +54,13 @@ Na Tabela 1 temos a lista de verificação elaborada, ja na Tabelas 2 a aplicaç
 
 ### Problemas Encontrados
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 5: Foram seguidas as atividades básicas como método na avaliação incluindo preparação, coleta de dados, interpretação, consolidação e relato dos resultados?
+    - Avaliação: incompleto
+    - Comentário: não houve o planejamento para uma consoidação dos dados, que é a análise conjunta de todos os dados individuais coletados.
+
+- ID 6:  No caso de a avaliação encontrar problemas ou oportunidades de melhorias foram planejados um reprojeto do sistema?
+    - Avaliação: não
+    - Comentário: não foi planejado um reprojeto
 
 
 ## Bibliografia
@@ -59,7 +71,8 @@ Na Tabela 1 temos a lista de verificação elaborada, ja na Tabelas 2 a aplicaç
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 12/06/2024 | Criação do documento |[Pablo S. Costa][PabloGH] | [Ricardo Augusto][RicardoGH] |
+| `1.0`  | 12/06/2024 | Criação do checklist |[Pablo S. Costa][PabloGH] | [Ricardo Augusto][RicardoGH] |
+| `1.1`  | 12/06/2024 | Aplicação do checklist |[Pablo S. Costa][PabloGH] | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
