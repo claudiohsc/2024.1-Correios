@@ -37,24 +37,17 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :---: | 
-| **1** | Está descrito os objetivos da avaliação? |  | <a href="#ref1">1</a> | [pg 318](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20318.jpeg) |
-| **2** | Apresenta uma breve descrição do método de observação por protótipo de papel? |  | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
-| **3** | Será apresentado o número e o perfil tanto dos avaliadores quanto dos participantes? |  | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
-| **4** | Prevê a descrição das tarefas que cada participante realizou? |  | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
-| **5** | Prevê uma lista com os problemas encontrados durante a avaliação e reprojeto (local no protótipo, qual meta de usabilidade foi prejudicada, descrição, justificativa, correções realizadas e se houve persistência dos problemas)? |  | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
+| **1** | Está descrito os objetivos da avaliação? | Sim | <a href="#ref1">1</a> | [pg 318](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20318.jpeg) |
+| **2** | Apresenta uma breve descrição do método de observação por protótipo de papel? | Sim | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
+| **3** | Será apresentado o número e o perfil tanto dos avaliadores quanto dos participantes? | Sim | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
+| **4** | Prevê a descrição das tarefas que cada participante realizou? | Sim | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
+| **5** | Prevê uma lista com os problemas encontrados durante a avaliação e reprojeto (local no protótipo, qual meta de usabilidade foi prejudicada, descrição, justificativa, correções realizadas e se houve persistência dos problemas)? | Sim | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 
-## Problemas Encontrados
-
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
-
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
 
 ## Referências Bibliograficas
 
@@ -65,7 +58,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 11/06/2024 | Criação do Checklist | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
-| `1.1`  | 12/06/2024 | Aplicação do Checklist | []() | []() |
+| `1.1`  | 12/06/2024 | Aplicação do Checklist | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | []() |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
