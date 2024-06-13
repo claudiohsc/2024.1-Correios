@@ -235,15 +235,14 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 |ID| Descrição | Avaliação | Referência| Print|
 |:--:|:--:|:--:|:--:|:----:|
-|1| O cenário possui os elementos básicos: título, objetivos, contexto, atores, recursos, episódios e exceções? | Sim | <a href="#ref1">REF1</a>. pg 49 | [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)  |
-|2| O modo para atingir o objetivo está descrito no cenário ? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)   |
-|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)   |
-|4|  As características pessoais dos atores são relevantes ao cenário? | Sim | <a href="#ref2">REF2</a>. pg 172 | [Página 172](docs\assets\prints_verificacao\claudio\pag172cenarios.png)  |
-|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)   |
-|6|  Os cenários possuem alguma ligação com os léxicos? | Não | <a href="#ref1">REF1</a>. pg 50 |   [Página 50](docs\assets\prints_verificacao\claudio\pag50cenarios.png) |
-|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 | Sim | <a href="#ref1">REF1</a>. pg 50 | [Página 50](docs\assets\prints_verificacao\claudio\pag50cenarios.png) |
-|8| O título do cenário é autoexplicativo?	 | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](docs\assets\prints_verificacao\claudio\pag49cenarios.png)  |
-|9| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 | Sim | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](docs\assets\prints_verificacao\claudio\pag172cenariosPersonas.png) |
+|1| O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? | Sim | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenariosDef.png)  |
+|2| O modo para atingir o objetivo está descrito no cenário ? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|4|  As características pessoais dos atores são relevantes ao cenário? | Sim | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenarios.png)  |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|6|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 | Sim | <a href="#ref1">REF1</a>. pg 50 | [Página 50](../../../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
+|7| O título do cenário é autoexplicativo?	 | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)  |
+|8| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 | Sim | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
 
 </center>
 
@@ -254,9 +253,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/).
 
-- ID 6: Os cenários possuem alguma ligação com os léxicos?
-    - Avaliação: Não
-    - Comentário: No artefato o grupo não cita a utilização de léxicos.
+- Não houveram problemas encontrados.
 
 
 
