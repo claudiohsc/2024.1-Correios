@@ -1,4 +1,4 @@
-# Verificação do Artefato X
+# Verificação das Características da Plataforma
 
 ## Introdução
 
