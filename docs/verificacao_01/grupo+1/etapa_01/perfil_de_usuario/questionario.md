@@ -4,13 +4,9 @@
 
 Neste artefato, está descrito os resultados da verificação do artefato de [Perfil do Usuário - Questionário](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/perfil_do_usuario/questionario/) feito pelo [Grupo 04](https://interacao-humano-computador.github.io/2024.1-PCDF/) da disciplina de Requisitos de Software, e referente ao site da Polícia Civil do Distrito Federal [PCDF](https://www.pcdf.df.gov.br/). Para essa verificação do artefato será utilizada a versão `1.1` datada do dia 18/04/2024.
 
-## Objetivo
-
-O objetivo dessa verificação é detectar prováveis problemas no [artefato](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/perfil_do_usuario/questionario/) em questão produzido pelo  [Grupo 04](https://interacao-humano-computador.github.io/2024.1-PCDF/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
-
 ## Metodologia
 
-Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos o checklist do Perfil do Usuário e para cada item será atribuído uma avaliação entre: Sim, Não ou Incompleto. Ao final será melhor comentado os itens negativos na seção de [Problemas Encontrados](#problemas-encontrados).
+Este artefato foi produzido por [Elias F.][EliasFGH] e verificado por [Claudio Henrique][ClaudioGH], seguindo a divisão planejada pelo grupo na [reunião 6](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata6/). Para a verificação do artefato, foi utilizada a versão `1.1` datada do dia 18/04/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 ## Apresentação dos Dados
 
@@ -54,6 +50,42 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Comentário:
 
 
+## Apresentação dos Dados
+
+Na tabela 2 está a verificação do artefato de [Perfil do Usuário - Questionário](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/perfil_do_usuario/questionario/).
+
+
+
+<font size="2"><p style="text-align: center">Tabela 2 - Verificação do artefato de questionário.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|Print|
+|:--:|:--:|:--:|:--:|:--:|
+|1| O artefato possui uma explicação sobre o que é o Perfil do Usuário? | Sim | <a href="#ref1">REF1</a>. pg 166|[Pg.166][Pg.166]|
+|2| Foram utilizados entrevistas ou questionários, para coletar dados para o perfil de usuário?|  Sim |  <a href="#ref1">REF1</a>. pg 166|[Pg.166][Pg.166]|
+| 3 | Têm-se as seguintes características de interesse(cargo, função, experiência, nível de instrução, atividades principais, faixa etária etc.)? |Sim | <a href="#ref1">REF1</a>. pg 166|[Pg.166][Pg.166]|
+| 4| A partir dos dados coletados, é possível agrupar os valores em grupos e faixas na qual os usuários se encaixam? | Sim| <a href="#ref1">REF1</a>. pg 166|[Pg.166][Pg.166]|
+| 5| Foi coletado dados sobre tarefas primárias realizadas no aplicativo? | Sim | <a href="#ref1">REF1</a>. pg 166|[Pg.166][Pg.166]|
+| 6| A formulação das perguntas foi cuidadosa, evitando ambiguidades e mal-entendidos? | Sim| <a href="#ref1">REF1</a>. pg 149|[Pg.149][Pg.149]|
+|7| O questionário apresenta perguntas abertas e fechadas, na tentativa de obter informações mais detalhadas? | Sim |  <a href="#ref1">REF1</a>. pg 150 |[Pg.150][Pg.150]|
+|8| O perfil de usuário considera a faixa etária dos usuários? | Sim| <a href="#ref1">REF1</a>. pg 166|[Pg.166][Pg.166]|
+|9| O perfil de usuário abrange informações sobre a experiência dos usuários? | Sim | <a href="#ref1">REF1</a>. pg 166|[Pg.166][Pg.166]|
+|10| O perfil de usuário avalia a relação dos usuários com a tecnologia? | Sim | <a href="#ref1">REF1</a>. pg 166|[Pg.166][Pg.166]|
+|11| O perfil de usuário descreve as atividades principais dos usuários? | Sim| <a href="#ref1">REF1</a>. pgs 150,166|[Pg.166][Pg.166] e [Pg.150][Pg.150]|
+|12| Foi definido e informado o prazo para o preenchimento do questionário?|Não | <a href="#ref1">REF1</a>. pg 150|[Pg.150][Pg.150]|
+
+
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
+
+
+## Problemas Encontrados
+
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+
+- ID 12: Foi definido e informado o prazo para o preenchimento do questionário?
+    - Avaliação: Não
+    - Comentário: Não foi encontrado no artefato informações sobre a quantidade de dias que foi veiculado o questionário.
 
 
 ## Bibliografia
@@ -66,4 +98,6 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 06/06/2024 | Criação do documento |[Claudio Henrique](https://github.com/claudiohsc) | [ ]() |
+| `1.0`  | 06/06/2024 | Criação do documento |[Elias F. Oliveira](https://github.com/EliasOliver21) | [Gabriel B][GabrielBGH] |
+
+[GabrielBGH]: https://github.com/Bertolazi
