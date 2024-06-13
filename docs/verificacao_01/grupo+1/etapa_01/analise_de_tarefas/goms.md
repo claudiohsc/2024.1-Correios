@@ -81,7 +81,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 |04| Os métodos estão representados como subobjetivos que permitem atingir um objetivo maior? | não | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
 |05| Todas as vezes que temos mais de um método para um mesmo objetivo temos uma regra de seleção? | não se aplica | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
 |06| As regras de seleção representam tomadas de decisão do usuário sobre qual método utilizar? | não se aplica | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
-|07| A identação do GOMS está da maneira correta? Como os operadores dentro dos métodos? | sim | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/pg%20182.png) |
+|07| A identação do GOMS está da maneira correta? Como os operadores dentro dos métodos? | não | <a href="#ref1"> REF1 </a>. Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/pg%20182.png) |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielfGH], 2024.</p></font>
@@ -98,13 +98,17 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação: não
     - Comentário: o GOMS não apresenta métodos
 
-- ID 5: Os métodos estão representados como subobjetivos que permitem atingir um objetivo maior?
+- ID 5: Todas as vezes que temos mais de um método para um mesmo objetivo temos uma regra de seleção?
     - Avaliação: não se aplica
     - Comentário: o GOMS não apresenta métodos
 
 - ID 6: As regras de seleção representam tomadas de decisão do usuário sobre qual método utilizar?
     - Avaliação: não se aplica
     - Comentário: o GOMS não apresenta métodos
+
+- ID 7: A identação do GOMS está da maneira correta? Como os operadores dentro dos métodos?
+    - Avaliação: não 
+    - Comentário: os operadores não estão dentro de métodos pois não há métodos.
 
 ## Registrar ocorrência
 
