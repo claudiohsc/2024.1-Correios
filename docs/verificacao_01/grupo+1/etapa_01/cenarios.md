@@ -151,13 +151,37 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ### Verificação do Cenário 197- Denúncia Online.
 
+<font size="2"><p style="text-align: center">Tabela 04 - Checklist de Verificação do Cenário: Pesquisar Procurados.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência| Print|
+|:--:|:--:|:--:|:--:|:----:|
+|1| O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? | Sim | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenariosDef.png)  |
+|2| O modo para atingir o objetivo está descrito no cenário ? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|4|  As características pessoais dos atores são relevantes ao cenário? | Não | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenarios.png)  |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|6|  Os cenários possuem alguma ligação com os léxicos? | Não | <a href="#ref1">REF1</a>. pg 50 |   [Página 50](../../../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
+|7|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	|  Sim | <a href="#ref1">REF1</a>. pg 50 | [Página 50](../../../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
+|8| O título do cenário é autoexplicativo?	 | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)  |
+|9| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 | Não se aplica | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
+
+
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+
 #### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/).
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 04: As características pessoais dos atores são relevantes ao cenário?
+    - Não
+    - Não importa o local onde ela mora, nem se tem família ou não
+
+- ID 06: Os cenários possuem alguma ligação com os léxicos?
+    - Não
+    - Não há nenhuma conexão por hyperlink ou coisa do tipo no cenário.
+
 
 ### Verificação do Cenário Solicitar Carteira de Identidade.
 

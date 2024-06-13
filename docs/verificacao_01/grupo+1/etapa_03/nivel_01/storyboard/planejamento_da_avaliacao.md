@@ -61,13 +61,21 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
 - ID 08: O documento apresenta a gravação do teste piloto com o local, data e participantes?
     - Avaliação: Incompleto
     - Comentário: O grupo apresentou a gravação do teste piloto, mas não informou a data e o local onde ocorreu.
+
+### Vídeo de verificação
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DgOQONjdOsE?si=n5QTUwzvWV03pqFi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 ## Bibliografia
 
