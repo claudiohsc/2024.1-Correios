@@ -71,7 +71,7 @@ Na Tabela 1 temos a lista de verificação elaborada, ja na Tabelas 2 a aplicaç
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 12/06/2024 | Criação do checklist |[Pablo S. Costa][PabloGH] | [Ricardo Augusto][RicardoGH] |
+| `1.0`  | 12/06/2024 | Criação do documento |[Pablo S. Costa][PabloGH] | [Ricardo Augusto][RicardoGH] |
 | `1.1`  | 12/06/2024 | Aplicação do checklist |[Pablo S. Costa][PabloGH] | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
