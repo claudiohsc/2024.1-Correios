@@ -20,7 +20,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :-:|
-| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | | <a href="ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | | <a href="#ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
 | **2** | O cenário (propósito) está sendo bem descrito no storyboard? |  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 | **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? |  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 | **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? |  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
@@ -50,7 +50,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :-:|
-| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | Sim. | <a href="ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | Sim. | <a href="#ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
 | **2** | O cenário (propósito) está sendo bem descrito no storyboard? | Sim. | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 | **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? | Sim. | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 | **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | Sim.  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
@@ -95,7 +95,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :-:|
-| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | sim | <a href="ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | sim | <a href="#ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
 | **2** | O cenário (propósito) está sendo bem descrito no storyboard? | sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 | **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? | não | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 | **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
@@ -120,7 +120,7 @@ O storyboard verificado, "Solicitar Carteira de Identidade", pode ser encontrado
 
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :-:|
-| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | Sim | <a href="ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | Sim | <a href="#ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
 | **2** | O cenário (propósito) está sendo bem descrito no storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 | **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 | **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
@@ -146,7 +146,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :-:|
-| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | Sim | <a href="ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | Sim | <a href="#ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
 | **2** | O cenário (propósito) está sendo bem descrito no storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 | **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 | **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
