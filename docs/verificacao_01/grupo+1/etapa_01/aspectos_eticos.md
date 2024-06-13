@@ -77,6 +77,15 @@ Na Tabela 1 temos a lista de verificação elaborada, ja na Tabelas 2 a aplicaç
     - Avaliação: não
     - Comentário: não foi informado se é necessário ou não a confidenciabilidade dos dados apresentados, no projeto, para os participantes.
 
+### Gravação da Verificação
+
+<iframe width="1519" height="542" src="https://www.youtube.com/embed/EonemYQ-7zc" title="(IHC) Entrega 6.1 - Verificação do Artefato de Aspectos Éticos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<center>
+
+O link direto pra gravação pode ser acessado [aqui](https://www.youtube.com/watch?v=EonemYQ-7zc).
+
+</center>
 
 ## Bibliografia
 
