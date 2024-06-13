@@ -181,7 +181,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 09/06/2024 | Criação do documento |[Ricardo Augusto](https://github.com/avmricardo) | []() |
+| `1.0`  | 09/06/2024 | Criação do documento |[Ricardo Augusto](https://github.com/avmricardo) | [Claudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
