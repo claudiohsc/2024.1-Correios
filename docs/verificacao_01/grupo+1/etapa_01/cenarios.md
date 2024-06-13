@@ -87,7 +87,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 |:--:|:--:|:--:|:--:|:----:|
 |1| O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? | Sim | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenariosDef.png)  |
 |2| O modo para atingir o objetivo está descrito no cenário ? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 | Não|  [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim | <a href="#ref1">REF1</a>. pg 49 | Não|  [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
 |4|  As características pessoais dos atores são relevantes ao cenário? | Sim | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenarios.png)  |
 |5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
 |6|  Os cenários possuem alguma ligação com os léxicos? | Não | <a href="#ref1">REF1</a>. pg 50 |   [Página 50](../../../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
