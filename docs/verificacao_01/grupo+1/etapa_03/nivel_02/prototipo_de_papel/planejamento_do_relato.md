@@ -57,8 +57,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 11/06/2024 | Criação do Checklist | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
-| `1.1`  | 12/06/2024 | Aplicação do Checklist | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | []() |
+| `1.0`  | 11/06/2024 | Criação do Checklist | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
