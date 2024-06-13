@@ -51,6 +51,27 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 ## Perfil usuário - Análise competitiva
 
+<font size="2"><p style="text-align: center">Tabela 5 - Perguntas elaboradas de acordo com as referências bibliográficas.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência| Print |
+|:--:| --------- | :-------: | :-------: | :---: | 
+| **1** | Foi analisado se o site permite a condução de uma análise competitiva? |  | <a href="#ref1">1</a> | [pg 139](../../../../assets/prints_verificacao/gabrielf/Análise%20competitiva%20ref%20-%202.jpeg) |
+| **2** | Foram analisados produtos semelhantes ou complementares ao site escolhido? |  | <a href="#ref1">1</a> | [pg 117](../../../../assets/prints_verificacao/gabrielf/Análise%20competitiva%20ref%20-%201.jpeg) |
+| **3** | Foram levantadas informações sobre o que funciona ou não funciona nos sistemas analisados? |  | <a href="#ref1">1</a> | [pg 117](../../../../assets/prints_verificacao/gabrielf/Análise%20competitiva%20ref%20-%201.jpeg) |
+| **4** | Foram levantadas informações sobre o que pode ser aperfeiçoado nos sistemas analisados? |  | <a href="#ref1">1</a> | [pg 117](../../../../assets/prints_verificacao/gabrielf/Análise%20competitiva%20ref%20-%201.jpeg) |
+| **5** | Foram levantadas informações sobre as funcionalidades dos sistemas semelhantes ou complementares? |  | <a href="#ref1">1</a> | [pg 139](../../../../assets/prints_verificacao/gabrielf/Análise%20competitiva%20ref%20-%202.jpeg) |
+| **6** | Foram levantadas informações sobre o estilo dos sistemas analisados? |  | <a href="#ref1">1</a> | [pg 139](../../../../assets/prints_verificacao/gabrielf/Análise%20competitiva%20ref%20-%202.jpeg) |
+| **7** | Foram identificadas informações sobre as características da interface com o usuário no sistema analisado? |  | <a href="#ref1">1</a> | [pg 139](../../../../assets/prints_verificacao/gabrielf/Análise%20competitiva%20ref%20-%202.jpeg) |
+| **8** | Foram coletadas informações sobre a satisfação dos usuários com os sistemas analisados? |  | <a href="#ref1">1</a> | [pg 139](../../../../assets/prints_verificacao/gabrielf/Análise%20competitiva%20ref%20-%202.jpeg) |
+| **9** | Foi abordado sobre a terminologia usada nos sistemas analisados? |  | <a href="#ref1">1</a> | [pg 139](../../../../assets/prints_verificacao/gabrielf/Análise%20competitiva%20ref%20-%202.jpeg) |
+| **10** | Foram identificadas as estruturas das tarefas dos sistemas analisados? |  | <a href="#ref1">1</a> | [pg 139](../../../../assets/prints_verificacao/gabrielf/Análise%20competitiva%20ref%20-%202.jpeg) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
 ## Perfil usuário - Resultado perfil do usuário
 
 <font size="2"><p style="text-align: center">Tabela 6 - Lista de verificação do Resultado do Perfil do Usuário.</p></font>

@@ -385,13 +385,13 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação: Incompleto
     - Comentário: Não foi apresentado os objetivos da avaliação
     
-### Relato dos Resultados em Geral
+### Conjunto do Relato dos Resultados 
 
 O artefato verificado pode ser visualizado [aqui](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel1/analise_tarefas/relato/#solicitar-antecedentes-criminais).
 
 #### Checklist de Verificação
 
-<font size="2"><p style="text-align: center">Tabela 2 - Perguntas elaboradas para o artefato em geral</p></font>
+<font size="2"><p style="text-align: center">Tabela 9 - itens sobre o conjunto de relatos</p></font>
 
 <center>
 
@@ -421,7 +421,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 11/06/2024 | Criação do Checklist | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
+| `1.0`  | 11/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
 | `1.1`  | 12/06/2024 | Aplicação do Checklist | []() | []() |
 
 [ClaudioGH]: https://github.com/claudiohsc

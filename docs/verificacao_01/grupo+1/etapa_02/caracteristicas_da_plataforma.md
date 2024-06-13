@@ -20,7 +20,7 @@ Este artefato foi verificado por [X](https://github.com/), seguindo a divisão p
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ## Apresentação dos Dados
 
@@ -68,7 +68,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 11/06/2024 | Criação do Checklist | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
+| `1.0`  | 11/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
 | `1.1`  | 12/06/2024 | Aplicação do Checklist | []() | []() |
 
 [ClaudioGH]: https://github.com/claudiohsc
