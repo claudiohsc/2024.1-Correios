@@ -20,7 +20,7 @@ Este artefato foi verificado por [Elias][EliasGH], seguindo a divisão planejada
 |04| Os objetivos e operações são utilizados de maneira correta na análise? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
 |05| A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] | 
 |06| São utilizadas as relações de: seleção, sequencial ou paralelo nos subobjetivos que compõem o plano? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|07| As relações entre os subojetivos são utilizadas de maneira correta? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|07| As relações entre os subobjetivos são utilizadas de maneira correta? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
 |08| É apresentada a representação da análise em tabela?  ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180| [Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
 |09| As operações são especificadas com: inputs, actions e feedbacks? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
 |10| É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs.180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
@@ -42,6 +42,31 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 ## Verificações
 
 ## Pesquisar procurados
+
+<font size="2"><p style="text-align: center">Tabela 2 - Verificação do HTA: Pesquisar procurados.</p></font>
+
+
+|ID| Descrição | Avaliação | Referência|Print|
+|:--:|:--:|:--:|:--:|:--:|
+|01| O diagrama HTA se inicia com as definições dos objetivos das tarefas?|Não|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|02| O diagrama HTA apresenta objetivos e operações? |Não|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
+|03| O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas? |Não|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|04| Os objetivos e operações são utilizados de maneira correta na análise? |Não|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
+|05| A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo? |Não|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] | 
+|06| São utilizadas as relações de: seleção, sequencial ou paralelo nos subobjetivos que compõem o plano? |Não|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|07| As relações entre os subobjetivos são utilizadas de maneira correta? |Não|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|08| É apresentada a representação da análise em tabela?  |Sim|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180| [Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+|09| As operações são especificadas com: inputs, actions e feedbacks? |Sim|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+|10| É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema? |Não|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs.180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+## Problemas Encontrados
+
+- ID 01 ao 07, 10: Todas as perguntas da 01 a 07 e o 10
+    - Avaliação: Não
+    - Comentário: Não foi feito nenhum diagrama HTA para está funcioalidade, então todos os itens foram avaliados como "Não". Há somente a tabela do HTA.
+
 
 ## Solicitar antecedentes criminais
 
@@ -112,9 +137,9 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação: Não
     - Comentário: Não foi feito nenhum diagrama HTA para está funcioalidade
 
-- ID 09: É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema?
+- ID 10: É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema?
     - Avaliação: Não
-    - Comentário: No artefato não é apresentado nenhum argumento de parada para as desomposições
+    - Comentário: No artefato não é apresentado nenhum argumento de parada para as decomposições
 
 ## 197
 
@@ -136,7 +161,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 |09| As operações são especificadas com: inputs, actions e feedbacks? | sim |<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
 |10| É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema? | não |<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs.180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielfGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
 [Pg. 179]:../../../../assets/prints_verificacao/elias/hta/179_1.png
 [Pg. 179.2]:../../../../assets/prints_verificacao/elias/hta/179_2.png
@@ -195,7 +220,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 - ID 02: O diagrama HTA apresenta objetivos e operações?
     - Avaliação: Incompleto
-    - Comentário: Faltou descrever as operações com a barra embaixo
+    - Comentário: Faltou descrever as operações com a barra embaixo.
 
 - ID 03: O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas?
     - Avaliação: Incompleto
@@ -224,10 +249,10 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| `1.0` | 11/06/2024 | Criação do documento | [Elias F. Oliveira](EliasGH) |
+| `1.0` | 11/06/2024 | Criação do documento | [Elias F. Oliveira](EliasGH) | [Gabriel B.][GabrielBGH] |
 
-[GabrielfGH]: https://github.com/MMcLovin
-[GabrielbGH]: https://github.com/https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[GabrielBGH]: https://github.com/https://github.com/Bertolazi
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://www.github.com/EliasOliver21
 [PabloGH]: https://github.com/pabloheika
