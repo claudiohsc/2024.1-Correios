@@ -41,6 +41,23 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 ## N1 - AT - Planejamento do relato
 
+<font size="2"><p style="text-align: center">Tabela 3 - Lista de verificação do Artefato Planejamento do Relato da Análise de Tarefas.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência | Print |
+|:--:| --------- | :-------: | :--------: | :---: |
+| **1** | O planejamento aborda o tópico dos objetivos da avaliação? |  | <a href="#ref2">2</a> | [página 279](../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **2** | O planejamento descreve qual será o método de avaliação que será realizado? |  | <a href="#ref2">2</a> | [página 279](../../../assets/prints_verificacao/ricardo/planejrelato1.png)  |
+| **3** | O artefato define a quantidade e o perfil dos entrevistadores e dos entrevistados que participarão das avaliações? |  | <a href="#ref2">2</a> | [página 279](../../../assets/prints_verificacao/ricardo/planejrelato1.png)  |
+| **4** | O planejamento prevê um sumário dos dados coletados e suas interpretações? |  | <a href="#ref2">2</a> | [página 279](../../../assets/prints_verificacao/ricardo/planejrelato1.png)  |
+| **5** | O planejamento descreve que existirá uma lista de problemas encontrados? |  | <a href="#ref2">2</a> | [página 279](../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **6** | O grupo fez um planejamento para o reprojeto? |  | <a href="#ref2">2</a> | [página 279](../../../assets/prints_verificacao/ricardo/planejrelato1.png)  |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
+
 ## N1 - AT - Relato dos resultados
 
 ## N1 - SB - Planejamento da avaliação
