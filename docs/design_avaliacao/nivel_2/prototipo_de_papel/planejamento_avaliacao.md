@@ -42,9 +42,11 @@ Os avaliadores devem elaborar perguntas específicas para cada objetivo, que dev
 | **9** | Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? | <a href="#ob3">3</a> |
 | **10** | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? | <a href="#ob3">3</a> |
 
-<font size="2"><p style="text-align: center">Fonte - [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
 </center>
+
+### QUESTÕES ANTIGAS QUE NÃO APGAGUEI
 
 1. Quais são os principais desafios enfrentados pelos usuários durante a interação com os protótipos de papel?
 2. Quais elementos da interface apresentam maior dificuldade de compreensão ou utilização pelos usuários?
@@ -93,7 +95,7 @@ Equipamentos para a entrevista:
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte - [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
 ##### Questionário pré-teste
 
@@ -110,7 +112,7 @@ Equipamentos para a entrevista:
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte - [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
 ##### Questionário pós-teste
 
@@ -121,14 +123,14 @@ Equipamentos para a entrevista:
 | ID | Pergunta | 
 | :---: | --------- |
 | **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | <a href="#ob1">1</a> |
-| **3** | Caso tenha sido identificado alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | <a href="#ob2">2</a> |
-| **4** | Qual delas você preferem? Por quê? | <a href="#ob2">2</a> |
-| **7** | Que parte da interface e da interação o deixa insatisfeito? |<a href="#ob3">3</a>  |
+| **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | <a href="#ob2">2</a> |
+| **4** | Qual delas você prefere? Por quê? | <a href="#ob2">2</a> |
+| **7** | Alguma parte da interface e da interação o deixa insatisfeito? |<a href="#ob3">3</a>  |
 | **8** | Você entende o que significa e para que serve cada elemento de interface? |<a href="#ob3">3</a>  |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte - [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
 
 #### Prazos
