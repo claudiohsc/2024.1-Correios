@@ -17,9 +17,9 @@ Para a avaliação dos protótipos de papel, será utilizado o framework DECIDE,
 
 O foco da avaliação dos protótipos de papel será em explorar a eficácia da interação usuário-protótipo e avaliar a usabilidade da interface proposta. A identificação de problemas potenciais permitirá gerar ideias para refinamento e aprimoramento do design, visando garantir uma experiência satisfatória e intuitiva para os usuários finais. Os objetivos selecionados foram:
 
-<a id = "ob1">1.</a> Analisar apropriação da tecnologia  
-<a id = "ob2">2.</a> Comparar ideias alternativas de design<br>
-<a id = "ob3">3.</a> Identificar problemas na interação e interface 
+1. Analisar apropriação da tecnologia  
+2. Comparar ideias alternativas de design<br>
+3. Identificar problemas na interação e interface 
 
 ### E - Explorar
 
@@ -30,17 +30,17 @@ Os avaliadores devem elaborar perguntas específicas para cada objetivo, que dev
 <center>
 
 | ID | Pergunta | Objetivo Relacionado |
-| :-:| -------- | :------------------: |
-| **1** | De que maneira os usuários utilizam o sistema? Em que difere do planejado? | <a href="#ob1">1</a> |
-| **2** | Quais são os pontos fortes e fracos do sistema, na opinião dos usuários? | <a href="#ob1">1</a> |
-| **3** | Caso tenha sido identificado alternativas de design, qual delas alternativas é a mais eficiente? Mais fácil de aprender? | <a href="#ob2">2</a> |
-| **4** | Qual delas os usuários preferem? Por quê? | <a href="#ob2">2</a> |
-| **5** | O usuário consegue operar o sistema? | <a href="#ob3">3</a> |
-| **6** | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? |<a href="#ob3">3</a>  |
-| **7** | Que parte da interface e da interação o deixa insatisfeito? |<a href="#ob3">3</a>  |
-| **8** | Ele entende o que significa e para que serve cada elemento de interface? |<a href="#ob3">3</a>  |
-| **9** | Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? | <a href="#ob3">3</a> |
-| **10** | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? | <a href="#ob3">3</a> |
+| :-:| -------- | ------------------ |
+| **1** | De que maneira os usuários utilizam o sistema? Em que difere do planejado? | Analisar apropriação da tecnologia |
+| **2** | Quais são os pontos fortes e fracos do sistema, na opinião dos usuários? | Analisar apropriação da tecnologia |
+| **3** | Caso tenha sido identificado alternativas de design, qual delas alternativas é a mais eficiente? Mais fácil de aprender? | Comparar ideias alternativas de design |
+| **4** | Qual delas os usuários preferem? Por quê? | Comparar ideias alternativas de design |
+| **5** | O usuário consegue operar o sistema? | Identificar problemas na interação e interface |
+| **6** | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? |Identificar problemas na interação e interface  |
+| **7** | Que parte da interface e da interação o deixa insatisfeito? |Identificar problemas na interação e interface  |
+| **8** | Ele entende o que significa e para que serve cada elemento de interface? |Identificar problemas na interação e interface  |
+| **9** | Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? | Identificar problemas na interação e interface |
+| **10** | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? | Identificar problemas na interação e interface |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
@@ -56,7 +56,7 @@ Os avaliadores devem elaborar perguntas específicas para cada objetivo, que dev
 
 ### C - Escolher
 
-O método de avaliação que será utilizado será o de observação por meio do protótipo de papel, com um questionário pré-teste para identificar aspectos do participante que podem influenciar na avaliação e um questionário pós-teste para coletar feedbacks. Durante as reuniões, o entrevistador irá observar o participante interagir com o protótipo de papel e a partir dessa observação, irá fazer anotações sobre os problemas e as sugestões de melhora para o protópico sendo avaliado. A sessão deverá seguir o roteiro da Tabela 1.
+O método de avaliação que será utilizado será o de observação por meio do protótipo de papel, com um questionário pré-teste, Tabela 3, para identificar aspectos do participante que podem influenciar na avaliação e um questionário pós-teste, Tabela 4, para coletar feedbacks. Durante as reuniões, o entrevistador irá observar o participante interagir com o protótipo de papel e a partir dessa observação, irá fazer anotações sobre os problemas e as sugestões de melhora para o protópico sendo avaliado. A sessão deverá seguir o roteiro da Tabela 1.
 
 ### I - Identificar
 
@@ -68,12 +68,11 @@ Para selecionar as pessoas que irão ser chamadas para as sessões teste, será 
 
 Haverá um total de 6 sessões presenciais, cada uma contará com um participante voluntário, um avaliador para simular a execução do sistema e outro avaliador para observar a experiência de uso do protótipo de papel, que ele próprio desenvolveu. Os avaliadores que guiarem as sessões poderão realizar pequenos ajustes no protótipo a fim de solucionar problemas de usabilidade.
 
-Equipamentos para a entrevista:
+Equipamentos e materiais para a entrevista:
 
-- Cenário
 - Protótipo de papel pronto para validação
 - Câmera
-- Roteiro da entrevista
+- Roteiro da sessão
 - 2 vias impressas do Termo de consentimento (uma para ficar com o avaliador e outra com o participante)
 - Questionário pré-teste
 - Questionário pós-teste
@@ -90,8 +89,8 @@ Equipamentos para a entrevista:
 | **2** | Apresentação do ambiente de teste |
 | **3** | Explicação dos objetivos do estudo, desenvolvimento da avaliação e cuidados éticos |
 | **4** | Realização do questionário pré-teste |
-| **5** | Observação da sessão com o protótipo de papel |
-| **6** | Entrevista pós-teste |
+| **5** | Observação e gravação da sessão com o protótipo de papel |
+| **6** | Gravação da entrevista pós-teste |
 
 </center>
 
@@ -104,11 +103,11 @@ Equipamentos para a entrevista:
 <center>
 
 | ID | Pergunta | 
-| :---: | --------- |
+| :-:| -------- |
 | **1** | Qual o seu nome completo? |
-| **2** | Qual a sua idade? |
-| **3** | Qual a sua ocupação? |
-| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" |
+| **2** | Qual a sua idade? | 
+| **3** | Qual a sua ocupação? | 
+| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | 
 
 </center>
 
@@ -120,13 +119,13 @@ Equipamentos para a entrevista:
 
 <center>
 
-| ID | Pergunta | 
-| :---: | --------- |
-| **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | <a href="#ob1">1</a> |
-| **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | <a href="#ob2">2</a> |
-| **4** | Qual delas você prefere? Por quê? | <a href="#ob2">2</a> |
-| **7** | Alguma parte da interface e da interação o deixa insatisfeito? |<a href="#ob3">3</a>  |
-| **8** | Você entende o que significa e para que serve cada elemento de interface? |<a href="#ob3">3</a>  |
+| ID | Pergunta | Objetivo Relacionado |
+| :-:| -------- | ------------------ |
+| **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Analisar apropriação da tecnologia | 
+| **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | Comparar ideias alternativas de design |
+| **4** | Qual delas você prefere? Por quê? | Comparar ideias alternativas de design |
+| **7** | Alguma parte da interface e da interação o deixa insatisfeito? |Identificar problemas na interação e interface |
+| **8** | Você entende o que significa e para que serve cada elemento de interface? |Identificar problemas na interação e interface  |
 
 </center>
 
