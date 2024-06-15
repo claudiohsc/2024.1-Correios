@@ -155,7 +155,7 @@ Abaixo, na tabela 1, estão descritas as informações sobre o planejamento das 
 
 ### D - Decidir
 
-Serão levados em consideração os princípios éticos estabelecidos no documento [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/aspectos-eticos/), junto ao [termo de consentimento](https://interacao-humano-computador.github.io/2024.1-Correios/assets/Termo_de_consentimento%28new%29.pdf), elaborado no mesmo artefato, para as atividades necessárias à validação do protótipo de papel por meio das entrevistas. 
+Serão levados em consideração os princípios éticos estabelecidos no documento [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/aspectos-eticos/), junto ao [termo de consentimento](../../../assets/termos-de-consentimento/Termo_de_consentimento_template(protótipo_de_papel).pdf), elaborado no mesmo artefato, para as atividades necessárias à validação do protótipo de papel por meio das entrevistas. 
 
 ### E - Avaliar
 
