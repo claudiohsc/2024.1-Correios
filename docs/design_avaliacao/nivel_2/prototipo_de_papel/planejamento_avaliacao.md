@@ -18,7 +18,7 @@ Para a avaliação dos protótipos de papel, será utilizado o framework DECIDE,
 O foco da avaliação dos protótipos de papel será em explorar a eficácia da interação usuário-protótipo e avaliar a usabilidade da interface proposta. A identificação de problemas potenciais permitirá gerar ideias para refinamento e aprimoramento do design, visando garantir uma experiência satisfatória e intuitiva para os usuários finais. Os objetivos selecionados foram:
 
 1. Analisar apropriação da tecnologia  
-2. Comparar ideias alternativas de design<br>
+2. Comparar ideias alternativas de design
 3. Identificar problemas na interação e interface 
 
 ### E - Explorar
