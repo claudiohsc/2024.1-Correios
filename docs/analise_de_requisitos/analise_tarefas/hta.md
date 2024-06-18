@@ -98,7 +98,7 @@ Prevenção de erros, estética, design minimalista, ajuda para a recuperação 
 
 <font size="2"><p style="text-align: center">Figura 3: Diagrama HTA da utilização da loja online.</p></font>
 
-![Loja HTA](../../assets/analiseHTA/Análise%20loja%20HTA.png)
+![Loja HTA](../../assets/analiseHTA/Análise_loja_%20HTA.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
@@ -230,7 +230,7 @@ Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA
 
     <center>
 
-    ![legenda](../../assets/analiseHTA/HTA%20-%20Pré-postagem.drawio.svg)
+    ![legenda](../../assets/analiseHTA/HTA%20-%20Pré-postagem.drawio(old).svg)
 
     </center>
 
