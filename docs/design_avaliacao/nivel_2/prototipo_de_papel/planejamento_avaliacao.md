@@ -46,13 +46,6 @@ Os avaliadores devem elaborar perguntas específicas para cada objetivo, que dev
 
 </center>
 
-### QUESTÕES ANTIGAS QUE NÃO APGAGUEI
-
-1. Quais são os principais desafios enfrentados pelos usuários durante a interação com os protótipos de papel?
-2. Quais elementos da interface apresentam maior dificuldade de compreensão ou utilização pelos usuários?
-3. Como as ideias e alternativas de design propostas são percebidas e avaliadas pelos usuários?
-4. Existem padrões de comportamento ou preferências de interação que emergem durante a utilização dos protótipos?
-5. Quais são as sugestões e feedback dos usuários para melhorias na interação e na interface dos protótipos de papel?
 
 ### C - Escolher
 
@@ -76,6 +69,10 @@ Equipamentos e materiais para a entrevista:
 - 2 vias impressas do Termo de consentimento (uma para ficar com o avaliador e outra com o participante)
 - Questionário pré-teste
 - Questionário pós-teste
+
+Custos:
+
+- R$ 6,00 para impressão dos termos de consentimento;
 
 ##### Roteiro da sessão
 
@@ -195,7 +192,7 @@ Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 02/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH], [Gabriel Basto][GabrielBGH] | [Elias Oliveira][EliasGH] |
-| `1.1`  | 13/06/2024 | Complementação dos tópicos "[D](#d-definir)", "[E](#e-explorar)", "[C](#c-escolher)" e "[I](#i-identificar)"  |  [Gabriel F. J. Silva][GabrielFGH] | [][] |
+| `1.1`  | 13/06/2024 | Complementação dos tópicos "[D](#d-definir)", "[E](#e-explorar)", "[C](#c-escolher)" e "[I](#i-identificar)"  |  [Gabriel F. J. Silva][GabrielFGH] | [Claudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
