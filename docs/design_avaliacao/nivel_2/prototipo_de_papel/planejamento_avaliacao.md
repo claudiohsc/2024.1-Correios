@@ -59,7 +59,7 @@ Para selecionar as pessoas que irão ser chamadas para as sessões teste, será 
 
 #### Preparação e uso de equipamentos necessários
 
-Haverá um total de 6 sessões presenciais, cada uma contará com um participante voluntário, um avaliador para simular a execução do sistema e outro avaliador para observar a experiência de uso do protótipo de papel, que ele próprio desenvolveu. Os avaliadores que guiarem as sessões poderão realizar pequenos ajustes no protótipo a fim de solucionar problemas de usabilidade.
+Haverá um total de 6 sessões presenciais, cada uma contará com um participante voluntário, um avaliador para simular a execução do sistema, que ele próprio desenvolveu, e outro avaliador para observar a experiência de uso do protótipo de papel. Os avaliadores que guiarem as sessões poderão realizar pequenos ajustes no protótipo a fim de solucionar problemas de usabilidade encontradas na hora.
 
 Equipamentos e materiais para a entrevista:
 
