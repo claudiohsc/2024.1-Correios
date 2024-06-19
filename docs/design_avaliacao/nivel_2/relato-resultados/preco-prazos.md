@@ -52,11 +52,15 @@ Além dos avaliadores, também esteve presente o usuário Renato Medeiros de 28 
 ## Lista de Problemas de usabilidade corrigidos
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
 
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Correção realizada no protótipo em papel;
-- Indicação se o problema voltou a ocorrer depois da correção;
+- Preenchimento de informações sobre o objeto;
+- Demora no preenchimento e desistência do usuário;
+- Cadastro de medidas do objeto e o tipo deixam o usuário impaciente;
+- Alternativa na escolha prévia do formato do objeto e recomendação do uso da embalagem pronta dos Correios;
+- A solução foi satisfatória para o usuário;
+
+A única mudança indicada a ser realizada no nível 1 foi com relação a mudança do preenchimento de informações durante o cadastro do objeto. Foi feito uma alternativa no design proposto para que o objeto seja cadastrado de forma menos confusa e mais rápida. 
+
+No protótipo de papel isso se fez presente na parte de informações do objeto, onde é informada o tipo do objeto antes do tipo de serviço, e depois recomendando a escolha da embalagem dos Correios para facilitar e agilizar o cálculo.
 
 ## Lista de Problemas de usabilidade não corrigidos
 Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
