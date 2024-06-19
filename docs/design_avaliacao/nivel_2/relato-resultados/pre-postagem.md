@@ -32,12 +32,12 @@ Na Tabela 1, temos o cronograma de fato executado para a sessão (o cronograma p
 <center>
 
 | ID | Pergunta | Resposta | Objetivo Relacionado |
-| :-:| -------- | -------- | ------------------ |
-| **2** | | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Analisar apropriação da tecnologia | 
-| **3** | | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | Comparar ideias alternativas de design |
-| **4** | | Qual delas você prefere? Por quê? | Comparar ideias alternativas de design |
-| **7** | | Alguma parte da interface e da interação o deixa insatisfeito? |Identificar problemas na interação e interface |
-| **8** | | Você entende o que significa e para que serve cada elemento de interface? |Identificar problemas na interação e interface  |
+| :-:| -------- | -------- | -------------------- |
+| **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Objetividade da disposição das informações | Analisar apropriação da tecnologia | 
+| **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | (Foi identificada a alternativa proposta no [problema 2](#problema-2)) A alternativa proposta foi considerada mais eficiente, com iguais níveis de dificuldade de aprendizado . | Comparar ideias alternativas de design |
+| **4** | Qual delas você prefere? Por quê? | (Foi identificada a alternativa proposta no [problema 2](#problema-2)) A alternativa proposta foi preferida pois ela agiliza o preenchimento dos muitos campos obrigatórios. | Comparar ideias alternativas de design |
+| **7** | Alguma parte da interface e da interação o deixa insatisfeito? | Não | Identificar problemas na interação e interface |
+| **8** | Você entende o que significa e para que serve cada elemento de interface? | Sim | Identificar problemas na interação e interface |
 
 </center>
 
@@ -104,15 +104,14 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 - Sugestões de correção;
 - Indicações de partes do sistema que podem ser mais bem elaboradas.
 
-
 ## Bibliografia
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/06/2024 | Criação do documento |[Elias F. Oliveira][EliasGH] e [Claudio Henrique][ClaudioGH] | [Gabriel Basto][GabrielBGH] |
+| `1.0`  | 19/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] |  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
