@@ -1,10 +1,10 @@
 ## Introdução
 
-Este documento tem como ojetivo apresentar a forma como se dará a avaliação do protótipo de alta fidelidade, que é necessário para verificar o design e as funcionalidades em seu uso.
+Este documento tem como objetivo apresentar a forma como se dará a avaliação do protótipo de alta fidelidade, que é necessário para verificar o design e as funcionalidades já alteradas com base nas constatações que o grupo obteve nas etapas anteriores, como o protótipo de papel.
 
 ## Metodologia
 
-Para a avaliação dos protótipos de papel, será utilizado o framework DECIDE, elaborado por Preece et al. (2002) para orientar o planejamento, a execução e a análise de uma avaliação de IHC. Esse framework abrange as seguintes etapas:
+Para a avaliação dos protótipos de alta fidelidade, será utilizado o framework DECIDE, elaborado por Preece et al. (2002) para orientar o planejamento, a execução e a análise de uma avaliação de IHC. Esse framework abrange as seguintes etapas:
 
 - D Definir os objetivos da avaliação;
 - E Explorar as perguntas a serem respondidas;
@@ -15,18 +15,17 @@ Para a avaliação dos protótipos de papel, será utilizado o framework DECIDE,
 
 ### D - Definir
 
-O foco da avaliação dos protótipos de papel será em explorar a eficácia da interação usuário-protótipo e avaliar a usabilidade da interface proposta. A identificação de problemas potenciais permitirá gerar ideias para refinamento e aprimoramento do design, visando garantir uma experiência satisfatória e intuitiva para os usuários finais. Os objetivos selecionados foram:
+O foco da avaliação dos protótipos de alta fidelidade será em explorar a eficácia da interação usuário-protótipo e avaliar a usabilidade da interface proposta. A identificação de problemas potenciais permitirá gerar ideias para refinamento e aprimoramento do design, visando garantir uma experiência satisfatória e intuitiva para os usuários finais. Os objetivos selecionados foram:
 
 1. Analisar apropriação da tecnologia  
 2. Comparar ideias alternativas de design
 3. Identificar problemas na interação e interface
-4. Verificar a conformidade com o pradrão
 
 ### E - Explorar
 
 Os avaliadores devem elaborar perguntas específicas para cada objetivo, que deverão ser respondidas durante a avaliação. De acordo com os objetivos citados no tópico anterior, usadas as perguntas propostas por Barbosa e Silva (2021, p. 266), que estão presentes na Tabela 1.
 
-<font size="2"><p style="text-align: center">Tabela 1 - Tabela de Planejamento para realização das entrevistas do protótipo de papel.</p></font>
+<font size="2"><p style="text-align: center">Tabela 1 - Tabela de Planejamento para realização das entrevistas do protótipo de alta fidelidade.</p></font>
 
 <center>
 
@@ -50,7 +49,7 @@ Os avaliadores devem elaborar perguntas específicas para cada objetivo, que dev
 
 ### C - Escolher
 
-O método de avaliação que será utilizado será o de observação por meio do protótipo de papel, com um questionário pré-teste, Tabela 3, para identificar aspectos do participante que podem influenciar na avaliação e um questionário pós-teste, Tabela 4, para coletar feedbacks. Durante as reuniões, o entrevistador irá observar o participante interagir com o protótipo de papel e a partir dessa observação, irá fazer anotações sobre os problemas e as sugestões de melhora para o protópico sendo avaliado. A sessão deverá seguir o roteiro da Tabela 1.
+O método de avaliação que será utilizado será o de teste de usabilidade através do protótipo de alta fidelidade, com um questionário para o usuário e um para ser respondido com base nas ações do usuário ao utilizar e avaliar o protótipo, nas Tabelas 3 e 4 respectivamente, para identificar as impressões e opiniões que o usuário obteve ao utilizar o protótipo e também se a utilização do protótipo pelo participante se dá de maneira correta cumprindo com os objetivos propostos.
 
 ### I - Identificar
 
@@ -60,7 +59,7 @@ Para selecionar as pessoas que irão ser chamadas para as sessões teste, será 
 
 #### Preparação e uso de equipamentos necessários
 
-Haverá um total de 6 sessões presenciais, cada uma contará com um participante voluntário, um avaliador para simular a execução do sistema e outro avaliador para observar a experiência de uso do protótipo de alta fidelidade, que ele próprio desenvolveu com base nos estudos e dificuldades e problemas constatados nas etapas anteriores e nas avaliações dos protótipos de papel.
+Haverá um total de 6 sessões presenciais, cada uma contará com um participante voluntário, um avaliador para simular a execução do sistema e outro avaliador para observar a experiência de uso do protótipo de alta fidelidade, que ele próprio desenvolveu com base nos estudos e dificuldades e problemas constatados nas etapas anteriores e nas avaliações dos protótipos de alta fidelidade.
 
 Equipamentos e materiais para a entrevista:
 
@@ -68,8 +67,7 @@ Equipamentos e materiais para a entrevista:
 - Câmera
 - Roteiro da sessão
 - 2 vias impressas do Termo de consentimento (uma para ficar com o avaliador e outra com o participante)
-- Questionário pré-teste
-- Questionário pós-teste
+- Questionários
 
 Custos:
 
@@ -87,14 +85,13 @@ Custos:
 | **2** | Apresentação do ambiente de teste |
 | **3** | Explicação dos objetivos do estudo, desenvolvimento da avaliação e cuidados éticos |
 | **4** | Realização do questionário pré-teste |
-| **5** | Observação e gravação da sessão com o protótipo de papel |
+| **5** | Observação e gravação da sessão com o protótipo de alta fidelidade |
 | **6** | Gravação da entrevista pós-teste |
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
-##### Questionário pré-teste
 
 <font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário pré-teste.</p></font>
 
@@ -102,16 +99,19 @@ Custos:
 
 | ID | Pergunta | 
 | :-:| -------- |
-| **1** | Qual o seu nome completo? |
-| **2** | Qual a sua idade? | 
-| **3** | Qual a sua ocupação? | 
-| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | 
+| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) |
+| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | 
+| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | 
+| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? |
+| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? |
+| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? |
+
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
 
-##### Questionário pós-teste
+
 
 <font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário pós-teste.</p></font>
 
@@ -119,33 +119,33 @@ Custos:
 
 | ID | Pergunta | Objetivo Relacionado |
 | :-:| -------- | ------------------ |
-| **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Analisar apropriação da tecnologia | 
-| **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | Comparar ideias alternativas de design |
-| **4** | Qual delas você prefere? Por quê? | Comparar ideias alternativas de design |
-| **7** | Alguma parte da interface e da interação o deixa insatisfeito? |Identificar problemas na interação e interface |
-| **8** | Você entende o que significa e para que serve cada elemento de interface? |Identificar problemas na interação e interface  |
+| **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | 
+| **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia |
+| **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface|
+| **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  |
+| **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface|
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
 
 
 #### Prazos
 
-Abaixo, na tabela 1, estão descritas as informações sobre o planejamento das entrevistas.
+Abaixo, na tabela 5, estão descritas as informações sobre o planejamento das entrevistas.
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 1 - Tabela de Planejamento para realização das entrevistas do protótipo de papel.</p></font>
+<font size="2"><p style="text-align: center">Tabela 5 - Tabela de Planejamento para realização das entrevistas do protótipo de alta fidelidade.</p></font>
 
 | Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
 | :----- | :-----------: | :----------: | :-----: |:----:| :----:| 
-| **Calcular preços e prazos de entrega** | Cláudio | Renato Medeiros | 10:00 - 10:30  | 07/06/2024  | UnB-FGA | 
-| **Realizar compras na loja online** | Elias | Heitor | 10:40 - 11:10 | 07/06/2024 | UnB-FGA | 
-| **Recebimento de encomendas** | Gabriel B. Bertolazi | Gabriel Bevilaqua | 11:20 - 11:50 | 07/06/2024 | UnB-FGA | 
-| **Realizar pré-postagem** | Gabriel F. J. Silva| Patrício Reittler | 12:00 - 12:30 | 07/06/2024 | UnB-FGA | 
-| **Gerenciar minhas importações**| Pablo | Matheus | 14:00 - 14:30 | 07/06/2024 | UnB-FGA | 
-| **Rastrear encomendas** | Ricardo | Johnny Lopes | 14:40 - 15:10 | 07/06/2024  | UnB-FGA | 
+| **Calcular preços e prazos de entrega** | Cláudio | Renato Medeiros | 10:00 - 10:30  | -/06/2024  | UnB-FGA | 
+| **Realizar compras na loja online** | Elias | Heitor | 10:40 - 11:10 | 22/06/2024 | UnB-FGA ou MS-Teams| 
+| **Recebimento de encomendas** | Gabriel B. Bertolazi | Gabriel Bevilaqua | 11:20 - 11:50 | -/06/2024 | UnB-FGA | 
+| **Realizar pré-postagem** | Gabriel F. J. Silva| Patrício Reittler | 12:00 - 12:30 | -/06/2024 | UnB-FGA | 
+| **Gerenciar minhas importações**| Pablo | Matheus | 14:00 - 14:30 | -/06/2024 | UnB-FGA | 
+| **Rastrear encomendas** | Ricardo | Johnny Lopes | 14:40 - 15:10 | -/06/2024  | UnB-FGA | 
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
@@ -153,7 +153,7 @@ Abaixo, na tabela 1, estão descritas as informações sobre o planejamento das 
 
 ### D - Decidir
 
-Serão levados em consideração os princípios éticos estabelecidos no documento [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/aspectos-eticos/), junto ao [termo de consentimento](../../../assets/termos-de-consentimento/Termo_de_consentimento_template(protótipo_de_papel).pdf), elaborado no mesmo artefato, para as atividades necessárias à validação do protótipo de papel por meio das entrevistas. 
+Serão levados em consideração os princípios éticos estabelecidos no documento [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/aspectos-eticos/), junto ao [termo de consentimento](../../../assets/termos-de-consentimento/Termo_de_consentimento_template(protótipo_de_papel).pdf), elaborado no mesmo artefato, para as atividades necessárias à validação do protótipo de alta fidelidade por meio das entrevistas. 
 
 ### E - Avaliar
 
@@ -175,7 +175,7 @@ Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando
 
 |    Data    | Horário de início e fim | Local            |     Avaliadores    |
 | :--------: | :---------------------: | :----------------: | :----------------------: |
-| 22/06/2024 | 12:00 - 14:00 | MS - Teams | Gabriel B. Bertolazi e Ricardo |
+| 22/06/2024 | 12:00 - 14:00 | MS - Teams | Integrantes |
 
 </center>
 
