@@ -14,7 +14,8 @@ O foco dessa avaliação do protótipo de papel será em explorar a eficácia da
 
 ## Metodologia da prototipação
 
-Nessa avaliação foi utilizada duas técnicas para coleta de dados: entrevista e observação. Na parte da entrevista, primeiramente foi perguntado ao usuário as questões pré-teste, definidas anteriormente no [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/), e após a observação da interação do usuário com o protótipo de papel, foi feito as perguntas do questionário pós-teste. Assim, além de conseguirmos coletar dados diretamente do usuário, conseguimos também, por meio da observação, dados de como foi a interação do usuário de uma outra perspectiva. O usuário, Renato, executou o fluxo de Calcular Preços e Prazos de Entrega
+Nessa avaliação foi utilizada duas técnicas para coleta de dados: entrevista e observação. Na parte da entrevista, primeiramente foi perguntado ao usuário as questões pré-teste, definidas anteriormente no [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/), e após a observação da interação do usuário com o protótipo de papel, foi feito as perguntas do questionário pós-teste. Assim, além de conseguirmos coletar dados diretamente do usuário, conseguimos também, por meio da observação, dados de como foi a interação do usuário de uma outra perspectiva. O usuário, Renato, executou o fluxo de Calcular Preços e Prazos de Entrega.
+
 
 ## Número e perfil dos avaliadores e participantes
 
@@ -48,6 +49,43 @@ Além dos avaliadores, também esteve presente o usuário Renato Medeiros de 28 
 
 
 [Link direto para o vídeo](https://www.youtube.com/watch?v=TjY9CRpZmgM)
+
+### Resposta das Perguntas
+
+Nas tabelas 1 e 2 estão presentes as perguntas e as respostas dos questionários pré e pós-teste:
+
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas e respostas do questionário pré-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | Resposta
+| :-:| -------- | -|
+| **1** | Qual o seu nome completo? | Renato Santos Fernandes de Medeiros |
+| **2** | Qual a sua idade? | 28 anos |
+| **3** | Qual a sua ocupação? | Estudante de Eng. Aeroespacial|
+| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | Muito boa |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+
+<font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas do questionário pós-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | Resposta |
+| :-:| -------- | ------------------ |
+| **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Pontos fortes: eficiência, objetividade e rapidez. Não encontrou pontos fracos. | 
+| **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | O usuário achou mais eficiente a primeira alternativa proposta no Protótipo de Papel. |
+| **4** | Qual delas você prefere? Por quê? | Ele preferiu a primeira porque foi uma proposta mais objetiva informando o formato do objeto antes da escolha do serviço. |
+| **7** | Alguma parte da interface e da interação o deixa insatisfeito? | Não |
+| **8** | Você entende o que significa e para que serve cada elemento de interface? | Sim |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
 
 ## Lista de Problemas de usabilidade corrigidos
 
