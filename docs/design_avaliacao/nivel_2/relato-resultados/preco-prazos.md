@@ -1,26 +1,53 @@
 ## Introdução
 
-Neste artefato será apresentado um modelo para a realização e apresentação do relato dos resultados da análise do protótipo de papel.
+Este documento apresenta os resultados da avaliação do protótipo de papel da tarefa de "Calcular preços e prazos de entrega". Assim, serão discutidos os tópicos mencionados no [Planejamento do Relato dos Resultados](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados/) do Protótipo de Papel.
 
-## Metodologia
-
-Este artefato leva como base alguns tópicos elecandos no livro IHC por Barbosa e Silva(2021, p.319), para estruturar o relato dos resultados da análise do protótipo de papel e também leva em consideração o artefato do planejamento da análise. Os tópicos a serem desenvolvidos pela equipe são:
-
-- Objetivos da avaliação;
-- Metodologia da prototipação
-- Número e perfil dos avaliadores e participantes
-- Lista de Problemas de usabilidade:
-    - Corrigidos durante os ciclos de avaliação e reprojeto
-    - Ainda não corrigidos
 
 ## Objetivos da avaliação
-O relato deve conter uma descrição sobre seus objetivos e intenções, e o que o grupo almeja realizando a análise.
+
+O foco dessa avaliação do protótipo de papel será em explorar a eficácia da interação usuário-protótipo e avaliar a usabilidade da interface proposta. A identificação de problemas potenciais permitirá gerar ideias para refinamento e aprimoramento do design, visando garantir uma experiência satisfatória e intuitiva para os usuários finais. Os objetivos que foram elencados para serem avaliados nessa seção foram:
+
+1. Analisar apropriação da tecnologia  
+2. Comparar ideias alternativas de design
+3. Identificar problemas na interação e interface 
+
 
 ## Metodologia da prototipação
-O relato deve possuir também uma descrição sobre os métodos utilizados para a realização da análise. Será utilizado o método de observação por meio de um teste de usabilidade com o usuário utilizando o protótipo de papel produzido.
+
+Nessa avaliação foi utilizada duas técnicas para coleta de dados: entrevista e observação. Na parte da entrevista, primeiramente foi perguntado ao usuário as questões pré-teste, definidas anteriormente no [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/), e após a observação da interação do usuário com o protótipo de papel, foi feito as perguntas do questionário pós-teste. Assim, além de conseguirmos coletar dados diretamente do usuário, conseguimos também, por meio da observação, dados de como foi a interação do usuário de uma outra perspectiva. O usuário, Renato, executou o fluxo de Calcular Preços e Prazos de Entrega
 
 ## Número e perfil dos avaliadores e participantes
-O relato deve mostrar quantos e quais pessoas participaram da análise do protótipo, deverá ser relatado informações como o perfil dos participantes e avaliadores.
+
+Nessa avaliação houve a participação de dois avaliadores:
+ - Claudio, como computador realizando as ações e também como facilitador;
+ - Gabriel, como observador anotando possíveis problemas e dificuldades durante a interação.
+
+Além dos avaliadores, também esteve presente o usuário Renato Medeiros de 28 anos de idade e Estudante de Engenharia Aeroespacial na FGA.
+
+<font size="2"><p style="text-align: center">Tabela 1 - Cronograma Executado da Avaliação.</p></font>
+
+<center>
+
+|    Data    | Horário de início e fim | Local            |     Avaliadores    | Entrevistado |
+| :--------: | :---------------------: | :----------------: | :----------------------: | :----: |
+| 18/06/2024 | 13:25 - 13:40 |FGA - UnB | Claudio Henrique e Gabriel Fernando | Renato Medeiros |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+ ### Gravação
+
+
+<font size="2"><p style="text-align: center">Vídeo 1 - Gravação da Avaliação do Protótipo.</p></font>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TjY9CRpZmgM?si=fi4b4OEuvCxrdqgx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+
+[Link direto para o vídeo](https://www.youtube.com/watch?v=TjY9CRpZmgM)
 
 ## Lista de Problemas de usabilidade corrigidos
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
@@ -49,7 +76,7 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/06/2024 | Criação do documento |[Elias F. Oliveira][EliasGH] e [Claudio Henrique][ClaudioGH] | [Gabriel Basto][GabrielBGH] |
+| `1.0`  | 18/06/2024 | Criação do documento |[Claudio Henrique][ClaudioGH] | |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
