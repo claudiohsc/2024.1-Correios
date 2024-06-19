@@ -64,15 +64,8 @@ A única mudança indicada a ser realizada no nível 1 foi com relação a mudan
 No protótipo de papel isso se fez presente na parte de informações do objeto, onde é informada o tipo do objeto antes do tipo de serviço, e depois recomendando a escolha da embalagem dos Correios para facilitar e agilizar o cálculo.
 
 ## Lista de Problemas de usabilidade não corrigidos
-Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
-
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Prioridade para correção;
-- Sugestões de correção;
-- Indicações de partes do sistema que podem ser mais bem elaboradas.
-
+ 
+ O protótipo de papel foi apresentado com uma alternativa no design do sistema de cálculo de preços e prazos, especificamente na parte de cadastro de informações do objeto. Assim, foi validado junto ao usuário e por meio da observação e do questionário pós-teste foi constatado que o usuário não presenciou inconsistências na usabilidade da tarefa.
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
