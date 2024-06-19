@@ -1,89 +1,45 @@
 ## Introdução
 
-O planejamento do relato de resultados tem como objetivo ser um guia para o documento que apresentará os resultados e conclusões obtidos na avaliação. O planejamento servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
+Neste artefato será apresentado um modelo para a realização e apresentação do relato dos resultados da análise do protótipo de papel.
 
 ## Metodologia
 
-Faremos uma avaliação de intersujeito ou interparticipante de acordo com Barbosa e Silva(2021, p.279), para a consolidação e análise dos dados e informações coletados pela previsão dos avaliadores ou pelas experiências dos participantes observados. O documento a ser concebido pela equipe deve conter os seguintes tópicos retirados do livro IHC de Barboa e Silva, com um pequeno complemento do tópico de sugestão e feedback dos usuários. Abaixo os tópicos a serem utilizados:
+Este artefato leva como base alguns tópicos elecandos no livro IHC por Barbosa e Silva(2021, p.319), para estruturar o relato dos resultados da análise do protótipo de papel e também leva em consideração o artefato do planejamento da análise. Os tópicos a serem desenvolvidos pela equipe são:
 
-* Objetivo da Avaliação;
-* Método empregado;
-* Número e o perfil dos usuários e avaliadores;
-* Sumário dos dados coletados, com tabelas e gráficos;
-* Um relato da interpretação e análise dos dados;
-* Problemas encontrados;
-* Planejamento para o reprojeto da aplicação;
-* Sugestão e feedback dos usuários.
+- Objetivos da avaliação;
+- Metodologia da prototipação
+- Número e perfil dos avaliadores e participantes
+- Lista de Problemas de usabilidade:
+    - Corrigidos durante os ciclos de avaliação e reprojeto
+    - Ainda não corrigidos
 
+## Objetivos da avaliação
+O relato deve conter uma descrição sobre seus objetivos e intenções, e o que o grupo almeja realizando a análise.
 
-## Tópicos
+## Metodologia da prototipação
+O relato deve possuir também uma descrição sobre os métodos utilizados para a realização da análise. Será utilizado o método de observação por meio de um teste de usabilidade com o usuário utilizando o protótipo de papel produzido.
 
-Os tópicos da avaliação da análise de tarefas deverão ser descritos e estruturados de acordo com as descrições apresentados abaixo:
+## Número e perfil dos avaliadores e participantes
+O relato deve mostrar quantos e quais pessoas participaram da análise do protótipo, deverá ser relatado informações como o perfil dos participantes e avaliadores.
 
+## Lista de Problemas de usabilidade corrigidos
+O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
 
-## Objetivo da Avaliação
+- Local onde ocorreu;
+- Fatores de usabilidade prejudicados;
+- Descrição e justificativa do problema;
+- Correção realizada no protótipo em papel;
+- Indicação se o problema voltou a ocorrer depois da correção;
 
-Neste tópico o integrante responsável deverá descrever quais os motivos e intenções da realização da avaliação que esta sendo feita, os objetivos e aspirações do grupo com os resultados obtidos.
+## Lista de Problemas de usabilidade não corrigidos
+Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
 
-## Método empregado
-
-Deverá estar descrito qual a metodologia e como foi empregada na avaliação, ou seja, de que forma os dados foram coletados e como a avaliação aconteceu. No caso do nosso grupo será utilizada a técnica de entrevista descrita no livro IHC de Barbosa e Silva, o responsável pelo documento deverá observar e seguir o cronograma planejado que é apresentado abaixo na figura 01 e posteriormente adicionar o cronograma executado apresentando como aconteceu a entrevista.
-
-<center>
-<font size="2"><p style="text-align: center">**Figura 01:** Tabela planejamento das reuniões</p></font>
-
-| **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
-|--|--|--|--|--|--|
-|[Cláudio][ClaudioGH]|Renato Medeiros|16:00|16:30|24/05/24|A definir|
-|[Elias F. Oliveira][EliasGH]|Heitor|14:00|14:30|24/05/24|A definir|
-|[Gabriel Basto][GabrielbGH]|Gabriel Bevilaqua|20:00|20:30|27/05/24|A definir|
-|[Gabriel Fernando][GabrielfGH]|Patricio Reitter|14:00|14:30|29/05/24|A definir|
-|[Pablo][PabloGH]|Miguel Costa|15:00|15:30|29/05/24|A definir|
-|[Ricardo][RicardoGH]|Jhonny Lopes|14:00|14:30|29/05/24|A definir|
-
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
-</center>
-
-## Número e o perfil dos usuários e avaliadores
-
-Para se ter uma melhor compreensão dos participantes deve-se declarar: a quantidade dos participantes da entrevista detalhando melhormente cada um e se possível descrevendo o perfil deles.
-
-## Sumário dos dados coletados
-
-O participante avaliador deverá apresentar os dados no documento elucidando de maneira simples e clara para se extrair e entregar uma melhor compreensão dos dados e informações obtidos na avaliação.
-
-## Relato da interpretação e análise dos dados
-
-O entrevistador deve analisar e interpretar cuidadosamente os dados e informações obtidos apartir da entrevista, elucidando os principais padrões e tendências que detectar nas respostas dos participantes e retirar informações relevantes para o objetivo da avaliação.
-
-## Problemas encontrados
-
-Neste tópico, o entrevistador precisará elencar de maneira ordenada e de fácil entendimento os principais obstáculos e falhas que o usuário enfrentou ao utilizar a funcionalidade que está em foco.
-
-## Planejamento para o reprojeto da aplicação
-
-Tendo como base os resultados levantados apartir dos dados e informações obtidos nas entrevistas, deve-se realizar um reprojeto mantendo a estrutura do original e efetuando pequenas mudanças que levem em consideração as mudanças sugeridas e problemas encontrados para a realização de tais modificações no projeto. Para isso deve-se seguir o cronograma planejado abaixo na figura 02, que deve ser executado um dia após a entrevista.
-
-<center>
-
-<font size="2"><p style="text-align: center">**Figura 02:** Tabela planejamento do reprojeto</p></font>
-
-| **Entrevistador** |**Horário do início**|**Horário do Fim**|**Data**|
-|--|--|--|--|
-|[Cláudio][ClaudioGH]|--|--|--/05/24|
-|[Elias F. Oliveira][EliasGH]|--|--|--/05/24|
-|[Gabriel Basto][GabrielbGH]|--|--|--/05/24|
-|[Gabriel Fernando][GabrielfGH]|--|--|--/05/24|
-|[Pablo][PabloGH]|--|--|--/05/24|
-|[Ricardo][RicardoGH]|--|--|--/05/24|
-
-<font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH] e [Gabriel Basto][GabrielbGH] </p></font>
-</center>
-
-
-## Sugestão e feedback dos usuários
-
-É de extrema importância a documentação ser feita de maneira cautelosa, tomando nota de todos os passos do usuário e captando suas percepções e feedbacks positivos e negativos. Com isso o entrevistador deve sugerir mudanças para atender as espectativas do usuário e extinguir os problemas encontrados na avaliação, sendo feitas alterações por exemplo de: remodelagem de design, melhorias na interface e em funcionalidades do sistema.
+- Local onde ocorreu;
+- Fatores de usabilidade prejudicados;
+- Descrição e justificativa do problema;
+- Prioridade para correção;
+- Sugestões de correção;
+- Indicações de partes do sistema que podem ser mais bem elaboradas.
 
 
 ## Bibliografia
