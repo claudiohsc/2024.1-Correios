@@ -73,10 +73,10 @@ nav:
           - Realizar Pré-postagem: design_avaliacao/nivel_2/relato-resultados/pre-postagem.md
           - Gerenciar Minhas Importações: design_avaliacao/nivel_2/relato-resultados/gerenciar-importacoes.md
           - Rastrear Encomendas: design_avaliacao/nivel_2/relato-resultados/rastrear-encomendas.md
-      - Nível 3:
-        - Protótipo de Alta Fidelidade:
-          - Planejamento da Avaliação: design_avaliacao/nivel_3/planejamento_avaliacao.md
-          - Planejamento do Relato dos Resultados: design_avaliacao/nivel_3/planejamento-do-relato.md
+    - Nível 3:
+      - Protótipo de Alta Fidelidade:
+        - Planejamento da Avaliação: design_avaliacao/nivel_3/planejamento_avaliacao.md
+        - Planejamento do Relato dos Resultados: design_avaliacao/nivel_3/planejamento-do-relato.md
   - Verificação:
     - Grupo+1:
         - Etapa 01:
