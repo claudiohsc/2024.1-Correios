@@ -64,6 +64,41 @@ A avaliação foi realizada na data: 19/06/2024 entre 13:10 e 13:30 da tarde na 
 
 </center>
 
+## Questionários respondidos
+
+Abaixo nas tabelas 02 e 03 estão as perguntas com as respostas do entrevistado que participou da avaliação.
+
+<font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas do questionário pré-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | Resposta
+| :-:| -------- | -|
+| **1** | Qual o seu nome completo? | Renato |
+| **2** | Qual a sua idade? | 28 anos |
+| **3** | Qual a sua ocupação? | Graduando em Engenharia Aeroespacial |
+| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | Muito boa |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 3 - Perguntas e respostas do questionário pós-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | Resposta |
+| :-:| -------- | ------------------ |
+| **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | O usuário achou acertiva a inclusão de opções de filtragem e ordenação dos produtos da loja online. | 
+| **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | O usuário gostou bastante da versão criada para o protótipo de papel, pontuando como positivas as mudanças como a diminuição da poluição visual e oferecer um maior direcionamento para o usuário. |
+| **4** | Qual delas você prefere? Por quê? | O usuário preferiu a versão representada no protótipo de papel principalmente pelas mudanças no design e facilitação no entendimento das funcionalidades do site. |
+| **7** | Alguma parte da interface e da interação o deixa insatisfeito? | A unica insatisfação do usuário foi pelo motivo de que no protótipo de papel a loja online esta representada como um site a parte e não integrado ao site principal dos correios, e já deixou a sujestão de realizar essa integração. |
+| **8** | Você entende o que significa e para que serve cada elemento de interface? | Sim. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+
 ## Lista de Problemas de usabilidade corrigidos
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
 
