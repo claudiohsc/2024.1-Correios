@@ -46,16 +46,23 @@ A avaliação foi realizada na data: 19/06/2024 entre 13:10 e 13:30 da tarde na 
 ### Gravação
 
 <center>
+
 <font size="2"><p style="text-align: center">Vídeo 1 - Gravação da Avaliação do Protótipo.</p></font>
 
 
 <iframe src="https://drive.google.com/file/d/1r1xLpFxhMNqrQ-SdNVDnKsuYzBvdNY96/preview" width="540" height="315" allow="autoplay"></iframe>
 
-<font size="2"><p style="text-align: center">Fonte:[Elias F. Oliveira][EliasGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+
 
 </center>
 
+<center>
+
 [Link direto para o vídeo](https://drive.google.com/file/d/1r1xLpFxhMNqrQ-SdNVDnKsuYzBvdNY96/preview)
+
+</center>
 
 ## Lista de Problemas de usabilidade corrigidos
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
@@ -73,7 +80,7 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 - Fatores de usabilidade prejudicados: Ambiguidade da funcionalidade.
 - Descrição e justificativa do problema:É disponibilizado no carrinho de compras uma opção para calculo de frete, mas já existe essa opção quando o usuário clica em um produto para ver a sua descrição.
 - Prioridade para correção: Média.
-- Sugestões de correção: Existem duas opções de correção uma dela seria em caso de o usuário não estiver logado a opção de calculo de frete no carrinho é apresentada, mas quando o usuário estiver logado essa opção seria ocultada, ou até podería-se manter apresentando o endereço ja cadastrado e uma opção caso o usuário precise inesperadamente alterar o endereço de entrega.
+- Sugestões de correção: Existem duas opções de correção uma delas seria em caso de o usuário não estiver logado a opção de calculo de frete no carrinho é apresentada, mas quando o usuário estiver logado essa opção seria ocultada, ou até podería-se manter apresentando o endereço ja cadastrado e uma opção caso o usuário precise inesperadamente alterar o endereço de entrega.
 - Indicações de partes do sistema que podem ser mais bem elaboradas: 
   - O usuário recomendou integrar a loja online ao site principal dos correios retirando a necessidade de um site paraleli hospedado fora do domínio principal e enchugando informações e outros detalhes desnecessários do site.
   - Foi perceptível também após a avaliação a falta da tela de meus dados que também é vital para possibilitar ao usuário editar e visualizar seus dados cadastrados.
