@@ -182,10 +182,31 @@ Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando
 
 ### Gravação do teste piloto
 
-*Em Breve*
+A mudança dos participantes do Teste Piloto foi necessária, pois é uma recomendação da bibliografia<sup><a href="#ref1">1</a></sup> que o participante não deve ter sido envolvido no planejamento e na preparação da avaliação. Assim, o cronograma executado do teste piloto está na tabela 6, seguido do vídeo da gravação.
+
+
+<font size="2"><p style="text-align: center">Tabela 6 - Cronograma Executado do Teste Piloto.</p></font>
+
+<center>
+
+|    Data    | Horário de início e fim | Local            |     Avaliadores    |
+| :--------: | :---------------------: | :----------------: | :----------------------: |
+| 18/06/2024 | 12:30 - 12:40 |FGA - UnB |  [Gabriel F. J. Silva][GabrielFGH], [Claudio Henrique][ClaudioGH] e [Elias Faria][EliasGH] |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH] e [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Vídeo 1: Gravação do Teste Piloto da Avaliação do Protótipo de Papel</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hgg42DUB9m4?si=hMfIjiWgTDXQqWlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH] e [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+[Link direto para o vídeo](https://www.youtube.com/watch?v=hgg42DUB9m4)
 
 ## Bibliografia
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> 1.<a id="ref1"></a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versões
 
@@ -193,6 +214,7 @@ Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 02/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH], [Gabriel Basto][GabrielBGH] | [Elias Oliveira][EliasGH] |
 | `1.1`  | 13/06/2024 | Complementação dos tópicos "[D](#d-definir)", "[E](#e-explorar)", "[C](#c-escolher)" e "[I](#i-identificar)"  |  [Gabriel F. J. Silva][GabrielFGH] | [Claudio Henrique][ClaudioGH] |
+| `1.2`  | 18/06/2024 | Adicionando a gravação do Teste Piloto  |  [Claudio Henrique][ClaudioGH] | [Gabriel F. J. Silva][GabrielFGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
