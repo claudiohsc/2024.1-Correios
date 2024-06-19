@@ -1,6 +1,6 @@
 ## Introdução
 
-Neste artefato será apresentado um modelo para a realização e apresentação do relato dos resultados da análise do protótipo de papel.
+Esse planejamento do relato de resultados tem como objetivo ser um guia para o documento que apresentará os resultados e conclusões obtidos na avaliação do Protótipo de Alta Fidelidade. O planejamento servirá para certificar que as informações principais e de extrema importância para o projeto sejam exploradas e representadas de forma clara e ordenada, auxiliando na compreensão dos dados e informações coletadas nas análises para se obter o melhor uso dessas, assim trazendo melhorias para o projeto.
 
 ## Metodologia
 
