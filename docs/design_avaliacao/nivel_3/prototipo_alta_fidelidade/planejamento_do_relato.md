@@ -17,13 +17,13 @@ Este artefato leva como base alguns tópicos elecandos no livro IHC por Barbosa 
 O relato deve conter uma descrição sobre seus objetivos e intenções, e o que o grupo almeja realizando a análise.
 
 ## Metodologia da prototipação
-O relato deve possuir também uma descrição sobre os métodos utilizados para a realização da análise. Será utilizado o método de observação por meio de um teste de usabilidade com o usuário utilizando o protótipo de papel produzido.
+O relato deve possuir também uma descrição sobre os métodos utilizados para a realização da análise. Será utilizado o método de observação por meio de um teste de usabilidade com o usuário utilizando o protótipo de alta fidelidade produzido.
 
 ## Número e perfil dos avaliadores e participantes
-O relato deve mostrar quantos e quais pessoas participaram da análise do protótipo, deverá ser relatado informações como o perfil dos participantes e avaliadores.
+O relato deve mostrar quantos e quais pessoas participaram da análise do protótipo de alta fidelidade, deverá ser relatado informações como o perfil dos participantes e avaliadores, bem como a função de cada um. 
 
 ## Lista de Problemas de usabilidade corrigidos
-O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
+O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados no nível anterior pelo grupo. Deverá ser indicado:
 
 - Local onde ocorreu;
 - Fatores de usabilidade prejudicados;
