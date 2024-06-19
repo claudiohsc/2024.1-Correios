@@ -32,14 +32,14 @@ O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de a
 - Indicação se o problema voltou a ocorrer depois da correção;
 
 ## Lista de Problemas de usabilidade não corrigidos
-Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
+Deverá ser apresentado pelo no relato também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
 
 - Local onde ocorreu;
 - Fatores de usabilidade prejudicados;
 - Descrição e justificativa do problema;
 - Prioridade para correção;
 - Sugestões de correção;
-- Indicações de partes do sistema que podem ser mais bem elaboradas.
+- Indicações de partes do sistema que podem ser melhor elaboradas.
 
 
 ## Bibliografia
