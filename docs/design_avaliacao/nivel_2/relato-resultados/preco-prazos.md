@@ -68,7 +68,7 @@ No protótipo de papel isso se fez presente na parte de informações do objeto,
  O protótipo de papel foi apresentado com uma alternativa no design do sistema de cálculo de preços e prazos, especificamente na parte de cadastro de informações do objeto. Assim, foi validado junto ao usuário e por meio da observação e do questionário pós-teste foi constatado que o usuário não presenciou inconsistências na usabilidade da tarefa.
 
 ## Bibliografia
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versões
 
