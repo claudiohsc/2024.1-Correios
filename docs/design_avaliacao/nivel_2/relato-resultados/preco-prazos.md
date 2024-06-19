@@ -50,13 +50,14 @@ Além dos avaliadores, também esteve presente o usuário Renato Medeiros de 28 
 [Link direto para o vídeo](https://www.youtube.com/watch?v=TjY9CRpZmgM)
 
 ## Lista de Problemas de usabilidade corrigidos
-O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
 
-- Preenchimento de informações sobre o objeto;
-- Demora no preenchimento e desistência do usuário;
-- Cadastro de medidas do objeto e o tipo deixam o usuário impaciente;
-- Alternativa na escolha prévia do formato do objeto e recomendação do uso da embalagem pronta dos Correios;
-- A solução foi satisfatória para o usuário;
+Nessa seção está uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo.
+
+- Local onde ocorreu: Preenchimento de informações sobre o objeto;
+- Fatores de usabilidade prejudicados: Demora no preenchimento e desistência do usuário;
+- Descrição e justificativa do problema: Cadastro de medidas do objeto e o do tipo de objeto deixavam o usuário impaciente;
+- Correção realizada no protótipo em papel: Alternativa na escolha prévia do formato do objeto e recomendação do uso da embalagem pronta dos Correios;
+- Indicação se o problema voltou a ocorrer depois da correção: A solução foi satisfatória para o usuário;
 
 A única mudança indicada a ser realizada no nível 1 foi com relação a mudança do preenchimento de informações durante o cadastro do objeto. Foi feito uma alternativa no design proposto para que o objeto seja cadastrado de forma menos confusa e mais rápida. 
 
