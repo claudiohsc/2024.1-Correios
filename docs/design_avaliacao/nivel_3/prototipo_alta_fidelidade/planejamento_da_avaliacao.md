@@ -55,7 +55,7 @@ O método de avaliação que será utilizado será o de teste de usabilidade atr
 
 #### Recrutamento
 
-Para selecionar as pessoas que irão ser chamadas para as sessões teste, será levado em conta o [perfil de usuário](../analise_de_requisitos/perfil_de_usuario/perfil_de_usuario.md) elaborado pelo grupo, de forma que as pessoas se encaixem nesse perfil. Será necessário também que todos os participantes estejam cientes e tenham aceitado o termo de consentimento, para que a entrevista esteja de acordo com os aspectos éticos.
+Para selecionar as pessoas que irão ser chamadas para as sessões teste, será levado em conta o [perfil de usuário](../analise_de_requisitos/perfil_de_usuario/perfil_de_usuario.md) elaborado pelo grupo, de forma que as pessoas se encaixem nesse perfil. Será necessário também que todos os participantes estejam cientes e tenham aceitado o termo de consentimento, para que a entrevista esteja de acordo com os aspectos éticos. A Quantidade de participantes a realizarem o teste de usabilidade do protótipo serão três, escolhemos esse número de usuários levando em consideração o que Krug afirma: "Testar um participante é 100% melhor que nenhum", isso pelo enorme desalinhamento de horários dos integrantes.
 
 #### Preparação e uso de equipamentos necessários
 
