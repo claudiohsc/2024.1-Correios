@@ -98,11 +98,11 @@ O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de a
 ## Lista de Problemas de usabilidade não corrigidos
 Deverá ser apresentado no relato também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
 
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Prioridade para correção;
-- Sugestões de correção;
+- Local onde ocorreu: leitura do captcha
+- Fatores de usabilidade prejudicados: entendimento da imagem para digitar o texto
+- Descrição e justificativa do problema: existe uma figura que existe para digitar o texto na imagem, algumas vezes a imagem pode ser muito ruim de visualizar e atrapalha a análise do texto
+- Prioridade para correção: Baixa
+- Sugestões de correção: Trocar o critério de verificação
 - Indicações de partes do sistema que podem ser mais bem elaboradas.
 
 
