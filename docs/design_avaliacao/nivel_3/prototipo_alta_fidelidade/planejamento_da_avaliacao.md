@@ -141,7 +141,7 @@ Abaixo, na tabela 5, estão descritas as informações sobre o planejamento das 
 | Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
 | :----- | :-----------: | :----------: | :-----: |:----:| :----:| 
 | **Calcular preços e prazos de entrega** | Cláudio | Renato Medeiros , Heitor, Gabriel B. Bertolazi | 10:00 - 10:30  | 26/06/2024  | UnB-FGA | 
-| **Realizar compras na loja online** | Elias | Renato Medeiros , Heitor, Gabriel B. Bertolazi | 10:40 - 11:10 | 26/06/2024 | UnB-FGA ou MS-Teams| 
+| **Realizar compras na loja online** | Elias | Renato Medeiros , Heitor, Gabriel B. Bertolazi | 10:40 - 11:10 | 26/06/2024 | UnB-FGA | 
 | **Recebimento de encomendas** | Gabriel B. Bertolazi | Renato Medeiros , Heitor, Gabriel B. Bertolazi | 11:20 - 11:50 |26/06/2024 | UnB-FGA | 
 | **Realizar pré-postagem** | Gabriel F. J. Silva| Patrício Reittler, Matheus, Johnny Lopes | 12:00 - 12:30 | 26/06/2024 | UnB-FGA | 
 | **Gerenciar minhas importações**| Pablo | Patrício Reittler, Matheus, Johnny Lopes | 14:00 - 14:30 | 26/06/2024 | UnB-FGA | 
@@ -175,7 +175,7 @@ Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando
 
 |    Data    | Horário de início e fim | Local            |     Avaliadores    |
 | :--------: | :---------------------: | :----------------: | :----------------------: |
-| 22/06/2024 | 12:00 - 14:00 | MS - Teams | Integrantes |
+| 22/06/2024 | 12:00 - 14:00 | Unb-FGA | Ricardo e Gabriel. B |
 
 </center>
 
