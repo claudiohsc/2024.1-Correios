@@ -4,14 +4,13 @@ Esse planejamento do relato de resultados tem como objetivo ser um guia para o d
 
 ## Metodologia
 
-Este artefato leva como base alguns tópicos elecandos no livro IHC por Barbosa e Silva(2021, p.319), para estruturar o relato dos resultados da análise do protótipo de papel e também leva em consideração o artefato do planejamento da análise. Os tópicos a serem desenvolvidos pela equipe são:
+Este artefato leva como base alguns tópicos elecandos no livro IHC por Barbosa e Silva(2021, p.303), para estruturar o relato dos resultados da análise do protótipo de papel e também leva em consideração o artefato do planejamento da análise. Os tópicos a serem desenvolvidos pela equipe são:
 
 - Objetivos da avaliação;
 - Metodologia da prototipação
 - Número e perfil dos avaliadores e participantes
-- Lista de Problemas de usabilidade:
-    - Corrigidos durante os ciclos de avaliação e reprojeto
-    - Ainda não corrigidos
+- Tarefas executadas pelos participantes
+- Lista de Problemas encontrados.
 
 ## Objetivos da avaliação
 
@@ -47,7 +46,7 @@ Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e
 </center>
 
 ## Lista de Problemas de usabilidade corrigidos
-O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
+O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados no nível anterior pelo grupo. Deverá ser indicado:
 
 - Local onde ocorreu;
 - Fatores de usabilidade prejudicados;
