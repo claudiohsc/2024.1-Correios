@@ -25,19 +25,19 @@ Os objetivos da avaliação do protótipo de papel são:
 
 O método utilizado para a realização da análise foi de inspeção e observação, através de um teste de usabilidade realizado com um protótipo de papel apresentando uma ilustração da interface criada para Minhas Importações dos correios, onde essa será apresentada a um entrevistado para verificar as suas impressões e feedbacks sobre a qualidade da interface apresentada.
 
-## Cronograma Executado com o Número e perfil dos avaliadores e participantes
+## Número e perfil dos avaliadores e participantes
 
 A avaliação foi realizada na data: 19/06/2024 entre 17:10 e 17:30 da tarde na Unb-FGA. Abaixo na tabela 01 temos o perfil e quantidade dos participantes da avaliação e o video da entrevista.
 
 
-<font size="2"><p style="text-align: center">Tabela 1 - Participantes da avaliação.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 1:** Participantes da avaliação.</p></font>
 
 <center>
 
 | Nome | Perfil | Função |
 | :--------:| :--------: | :---------------------: |
 | [Pablo S. Costa ][PabloGH] | Graduando em Engenharia de Software - 25 anos | Avaliador & computador | 19/06/2024 |
-| [Gabriel .F][GabrielFGH] | Graduando em Engenharia de Software - 21 anos | Observador | 19/06/2024 |
+| [Gabriel F. J. Silva ][GabrielFGH] | Graduando em Engenharia de Software - 23 anos | Observador | 19/06/2024 |
 | Matheus Moreira Lima | Graduando em Engenharia Software - 25 anos | Entrevistado | 19/06/2024 |
 
 </center>
@@ -65,12 +65,12 @@ A avaliação foi realizada na data: 19/06/2024 entre 17:10 e 17:30 da tarde na 
 
 Nas tabelas 2 e 3 temos as respostas do intrevistado.
 
-<font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas do questionário pré-teste.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 2:** Perguntas e respostas do questionário pré-teste.</p></font>
 
 <center>
 
 | ID | Pergunta | Resposta |
-| :-:| -------- | -|
+| :-:| -------- | -------- |
 | **1** | Qual o seu nome completo? | Matheus Moreira Lima |
 | **2** | Qual a sua idade? | 25 anos |
 | **3** | Qual a sua ocupação? | Estudante |
@@ -80,7 +80,7 @@ Nas tabelas 2 e 3 temos as respostas do intrevistado.
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa ][PabloGH], 2024</p></font>
 
-<font size="2"><p style="text-align: center">Tabela 3 - Perguntas e respostas do questionário pós-teste.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 3:** Perguntas e respostas do questionário pós-teste.</p></font>
 
 <center>
 
@@ -138,7 +138,7 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 19/06/2024 | Criação do documento | [Pablo S. Costa ][PabloGH] | [Ricardo Augusto][RicardoGH] |
+| `1.0`  | 19/06/2024 | Criação do documento | [Pablo S. Costa ][PabloGH] | [Gabriel F. J. Silva][GabrielFGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
