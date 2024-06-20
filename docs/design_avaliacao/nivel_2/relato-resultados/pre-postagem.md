@@ -100,14 +100,8 @@ O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de a
 - Indicação se o problema voltou a ocorrer depois da correção: Não
 
 ## Lista de Problemas de usabilidade não corrigidos
-Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
 
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Prioridade para correção;
-- Sugestões de correção;
-- Indicações de partes do sistema que podem ser mais bem elaboradas.
+Não foram identificados problemas pendentes a serem corrigidos.
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
