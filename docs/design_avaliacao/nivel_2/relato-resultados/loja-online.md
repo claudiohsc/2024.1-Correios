@@ -35,8 +35,8 @@ A avaliação foi realizada na data: 19/06/2024 entre 13:10 e 13:30 da tarde na 
 | Nome | Perfil| Função |
 | :--------:| :--------: | :---------------------: |
 |[Elias F. Oliveira][EliasGH]| Graduando em Engenharia de Software - 21 anos | Avaliador | 17/06/2024 |
-|[Gabriel .F][GabrielFGH]| Graduando em Engenharia de Software - 21 anos | Observador | 17/06/2024 |
-|[Claudio][ClaudioGH]| Graduando em Engenharia de Software - 21 anos | Observador | 17/06/2024 |
+|[Gabriel .F][GabrielFGH]| Graduando em Engenharia de Software - 23 anos | Observador | 17/06/2024 |
+|[Claudio][ClaudioGH]| Graduando em Engenharia de Software - 20 anos | Observador | 17/06/2024 |
 |Renato Medeiros| Graduando em Engenharia Aeroespacial - 28 anos | Entrevistado | 17/06/2024 |
 
 </center>
