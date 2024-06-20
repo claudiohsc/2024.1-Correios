@@ -112,7 +112,7 @@ No protótipo de papel isso se fez presente na parte de informações do objeto,
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 18/06/2024 | Criação do documento |[Claudio Henrique][ClaudioGH] | [Elias Oliveira][EliasGH] |
+| `1.0`  | 18/06/2024 | Criação do documento |[Claudio Henrique][ClaudioGH] | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
