@@ -22,7 +22,6 @@ Os objetivos da avaliação do protótipo de papel são:
 3. Identificar problemas na interação e interface 
 
 ## Metodologia da prototipação
-O relato deve possuir também uma descrição sobre os métodos utilizados para a realização da análise. Será utilizado o método de observação por meio de um teste de usabilidade com o usuário utilizando o protótipo de papel produzido.
 
 Para a avaliação do protótipo dois métodos foram utilizados: uma entrevista guiada por questionários, sendo um pré-teste e outro pós-teste, e a observação, em que o avaliador observa o participante para analisar sua interação com o protótipo. Nas tabelas 1 e 2 estão presentes as perguntas e as respostas dos questionários pré e pós-teste:
 
