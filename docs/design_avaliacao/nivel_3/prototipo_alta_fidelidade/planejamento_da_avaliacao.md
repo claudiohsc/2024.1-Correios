@@ -175,7 +175,7 @@ Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando
 
 |    Data    | Horário de início e fim | Local            |     Avaliadores    |
 | :--------: | :---------------------: | :----------------: | :----------------------: |
-| 22/06/2024 | 12:00 - 14:00 | Unb-FGA | Ricardo e Gabriel. B |
+| 25/06/2024 | 12:00 - 14:00 | Unb-FGA | Ricardo e Gabriel. B |
 
 </center>
 
