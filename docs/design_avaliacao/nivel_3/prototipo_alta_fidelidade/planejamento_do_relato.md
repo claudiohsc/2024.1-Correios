@@ -73,7 +73,7 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 19/06/2024 | Criação do documento| [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH]| [Gabriel Bastos][GabrielBGH] e [RicardoGH][RicardoGH]|
+|`1.0`| 19/06/2024 | Criação do documento| [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH]| [Gabriel Bastos][GabrielBGH] e [Ricardo Augusto][RicardoGH]|
 
 [GabrielFGH]: https://github.com/MMcLovin
 [GabrielBGH]: https://github.com/https://github.com/Bertolazi
