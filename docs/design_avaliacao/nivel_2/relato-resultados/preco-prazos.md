@@ -103,7 +103,7 @@ Nas tabelas 3 e 4 estão presentes as perguntas e as respostas dos questionário
 Nessa seção está uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo.
 
 - Local onde ocorreu: Preenchimento de informações sobre o objeto;
-- Fatores de usabilidade prejudicados: Demora no preenchimento e desistência do usuário;
+- Fatores de usabilidade prejudicados: Eficiência;
 - Descrição e justificativa do problema: Cadastro de medidas do objeto e o do tipo de objeto deixavam o usuário impaciente;
 - Correção realizada no protótipo em papel: Alternativa na escolha prévia do formato do objeto e recomendação do uso da embalagem pronta dos Correios;
 - Indicação se o problema voltou a ocorrer depois da correção: A solução foi satisfatória para o usuário;
