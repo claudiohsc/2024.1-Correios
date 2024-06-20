@@ -24,13 +24,15 @@ Na Tabela 1, temos o cronograma de fato executado para a sessão (o cronograma p
 | -- | -- | :--: | :--: | :--: | :--: |
 | [Gabriel F. J. Silva][GabrielfGH] | Renato Medeiros | 13:30 | 13:49  | 19/06/2024  | UnB-FGA | 
 
+</center>
+
 <font size="2"><p style="text-align: center">**Fonte:** [Gabriel F. J. Silva][GabrielfGH], 2024 </p></font>
 
 ## Número e perfil dos avaliadores e participantes
 
 Na tabela 4, temos os avaliadores que participaram da sessão: [Gabriel F. J. Silva][GabrielfGH], que confeccionou o protótipo atuou como o mediador entre usuário e sistema, e [Claudio Henrique][ClaudioGH], que atuou como observador. Na tabela 5, temos o perfil do usuário obtido pelas respostas ao questionário pré-teste.
 
-<font size="2"><p style="text-align: center">Tabela 2 - local, hora e envolvidos na sessão de teste do protótipo de papel.</p></font>
+<font size="2"><p style="text-align: center">**Tabela 2:** local, hora e envolvidos na sessão de teste do protótipo de papel.</p></font>
 
 <center>
 
