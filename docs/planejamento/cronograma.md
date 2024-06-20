@@ -296,21 +296,29 @@ Na tabela 15, tem-se o planejado das atividades previstas para sétima entrega
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | --- | --- | --- | --- | --- |
-| Análise do resultados do protótipo em papel | Início: 25/05 <br> Fim: 25/05 | Gabriel B. Bertolazi e Ricardo | Início: 26/05 Fim: 27/05 | Pablo e Elias |
-| Planejamento do protótipo de alta fidelidade | Início: 25/05 <br> Fim: 27/05 | Pablo e Elias | Início: 28/05 Fim: 28/05 | Gabriel F. J. Silva e Cláudio |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 28/05 <br>Fim: 01/06 | Cláudio e Gabriel F. J. Silva  | Início: 02/06 Fim: 03/06 | Gabriel B. Bertolazi e Ricardo |
-| Gravação da apresentação | Início: 04/06 <br>Fim: 04/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 05/05 Fim: 05/05 |  Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo|
-| Correção pós apresentação | Início: 07/06 <br>Fim: 10/06 | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 10/06 Fim: 12/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+| Avaliação do resultados do protótipo em papel | Início: 12/06 <br> Fim: 18/06 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo  | Início: 18/06 Fim: 19/06 | Pablo e Elias |
+| Planejamento do protótipo de alta fidelidade | Início: 17/06 <br> Fim: 18/06 | Pablo e Elias | Início: 18/06 Fim: 19/06 | Gabriel F. J. Silva e Cláudio |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 17/06 <br> Fim: 18/06 | Cláudio e Gabriel F. J. Silva  | Início: 18/06 Fim: 19/06 | Gabriel B. Bertolazi e Ricardo |
+| Gravação da apresentação | Início: 19/06 <br>Fim: 19/06 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 19/06 Fim: 19/06 |  Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo|
+| Correção pós apresentação |  Início: 19/06 Fim: 31/06 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 05/07 Fim: 06/07  | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ### Executado
 
 <font size="2"><p style="text-align: center;">
-    <b>Na tabela 15, tem-se o executado das atividades previstas para sétima entrega</b> - 
+    <b>Na tabela 16, tem-se o executado das atividades previstas para sétima entrega</b> - 
 </p></font> 
 
-*EM BREVE...*
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Avaliação do resultados do protótipo em papel | Início: 12/06 <br> Fim: 18/06 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo  | Início: 18/06 Fim: 19/06 | Pablo e Elias |
+| Planejamento do protótipo de alta fidelidade | Início: 17/06 <br> Fim: 18/06 | Pablo e Elias | Início: 18/06 Fim: 19/06 | Gabriel F. J. Silva e Cláudio |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 17/06 <br> Fim: 18/06 | Cláudio e Gabriel F. J. Silva  | Início: 18/06 Fim: 19/06 | Gabriel B. Bertolazi e Ricardo |
+| Gravação da apresentação | Início: 19/06 <br>Fim: 19/06 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 19/06 Fim: 19/06 |  Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo|
+
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ## Entrega 8 
  
