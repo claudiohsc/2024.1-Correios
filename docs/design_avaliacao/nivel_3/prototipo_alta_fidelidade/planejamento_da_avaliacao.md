@@ -192,7 +192,7 @@ Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 18/06/2024 | Criação do documento | [Elias Oliveira][EliasGH] e [Pablo][PabloGH] |  |
+| `1.0`  | 18/06/2024 | Criação do documento | [Elias Oliveira][EliasGH] e [Pablo][PabloGH] | [Claudio Henrique][ClaudioGH] e [Gabriel Fernando][GabrielFGH]  |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
