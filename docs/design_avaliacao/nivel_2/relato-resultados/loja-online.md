@@ -94,11 +94,11 @@ Abaixo nas tabelas 02 e 03 estão as perguntas com as respostas do entrevistado 
 ## Lista de Problemas de usabilidade corrigidos
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
 
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Correção realizada no protótipo em papel;
-- Indicação se o problema voltou a ocorrer depois da correção;
+- Local onde ocorreu: Todo o site da loja online
+- Fatores de usabilidade prejudicados: Estética e design minimalista.
+- Descrição e justificativa do problema: A loja online possui uma enorme poluição visual de botões desnecessários, também faltava uma opção de filtragem e ordenação dos produtos.
+- Correção realizada no protótipo em papel: Foi feita uma repaginação da tela inicial da loja com os itens estando melhormente dispostos e apresentando uma página menos poluída. Foi adicionado também opções de filtragem e ordenação na tela inicial para filtrar e ordenar os produtos.
+- Indicação se o problema voltou a ocorrer depois da correção: Os problemas não ocorreram novamente na realização da avaliação do protótipo.
 
 ## Lista de Problemas de usabilidade não corrigidos
 Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
