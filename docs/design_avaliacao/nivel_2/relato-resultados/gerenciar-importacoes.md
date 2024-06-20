@@ -27,8 +27,7 @@ O método utilizado para a realização da análise foi de inspeção e observa�
 
 ## Cronograma Executado com o Número e perfil dos avaliadores e participantes
 
-A avaliação foi realizada na data: 19/06/2024 entre 17:10 e 17:30 da tarde na Unb-FGA. Abaixo na tabela 01 temos o perfil e quantidade dos participantes da avaliação e o video da entrevista.
-
+A avaliação foi realizada na data: 19/06/2024 entre 17:10 e 17:30 da tarde na Unb-FGA. Abaixo na tabela 01 temos o perfil e quantidade dos participantes da avaliação e o video da entrevista. Para escolher o entrevistado, consideramos o perfil de usuário pré-determinado, bem como a disponibilidade e aceitação do participante.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Participantes da avaliação.</p></font>
 
@@ -101,7 +100,7 @@ Nas tabelas 2 e 3 temos as respostas do intrevistado.
 
 Abaixo temos a tabela 4 com os problemas de usabilidades encontados ao usar o Minhas Importações e que nesse prototipo ja foram corrijidos antes da avaliação.
 
-<font size="2"><p style="text-align: center">Tabela 4 - Perguntas e respostas do questionário pós-teste.</p></font>
+<font size="2"><p style="text-align: center">Tabela 4 - Lista de Problemas de usabilidade corrigidos.</p></font>
 
 <center>
 
@@ -120,14 +119,21 @@ Abaixo temos a tabela 4 com os problemas de usabilidades encontados ao usar o Mi
 
 
 ## Lista de Problemas de usabilidade não corrigidos
-Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
 
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Prioridade para correção;
-- Sugestões de correção;
-- Indicações de partes do sistema que podem ser mais bem elaboradas.
+Abaixo temos a tabela 5 com os problemas de usabilidades encontados pelo entrevistado ao usar o Minhas Importações e que nesse prototipo não foram corrijidos.
+
+<font size="2"><p style="text-align: center">Tabela 5 - Lista de Problemas de usabilidade não corrigidos.</p></font>
+
+<center>
+
+| **Local onde ocorreu** | **Fatores de Usabilidade Prejudicados** | **Descrição e Justificativa do Problema** | **Prioridade para Correção** | **Sugestões de Correção** | **Indicações de Partes do Sistema que Podem ser Mais Bem Elaboradas** |
+| --- | --- | --- | --- | --- | --- |
+| Minhas Importações | O controle de usuários e liberdade. | O usuário relatou que gostaria de fazer o pagamento sem se identificar e sem colocar os documentos fiscais | Não se pode corrigir por ir contra as normas da Receita Federal. | \- | \- |
+| Minhas Importações | O controle de usuários e liberdade. | Usuário relatou que gostaria de utilizar o rastreio para poder ver a situação fiscal e os documentos emitidos sem realizar a autenticação. | Não se pode corrigir pois vai de encontro com a privacidade dos dados. | \- | \- |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa ][PabloGH], 2024</p></font>
 
 
 ## Bibliografia
