@@ -66,6 +66,10 @@ nav:
       - Protótipo de Papel:
         - Planejamento da Avaliação: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao.md
         - Planejamento do Relato dos Resultados: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados.md
+    - Nível 3:
+      - Protótipo de Alta Fidelidade:
+        - Planejamento da Avaliação: design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_da_avaliacao.md
+        - Planejamento do Relato dos Resultados: design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_do_relato.md
         - Relato dos Resultados:
           - Calcular Preços e Prazos: design_avaliacao/nivel_2/relato-resultados/preco-prazos.md
           - Realizar Compras Online: design_avaliacao/nivel_2/relato-resultados/loja-online.md
