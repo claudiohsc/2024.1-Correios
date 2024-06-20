@@ -25,29 +25,12 @@ Na Tabela 1, temos o cronograma de fato executado para a sessão (o cronograma p
 | [Gabriel F. J. Silva][GabrielfGH] | Renato Medeiros | 13:30 | 13:49  | 19/06/2024  | UnB-FGA | 
 
 <font size="2"><p style="text-align: center">**Fonte:** [Gabriel F. J. Silva][GabrielfGH], 2024 </p></font>
-</center>
-
-<font size="2"><p style="text-align: center">**Tabela 03:** Perguntas e respostas do questionário pós-teste.</p></font>
-
-<center>
-
-| ID | Pergunta | Resposta | Objetivo Relacionado |
-| :-:| -------- | -------- | -------------------- |
-| **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Objetividade da disposição das informações | Analisar apropriação da tecnologia | 
-| **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | (Foi identificada a alternativa proposta no [problema 2](#problema-2)) A alternativa proposta foi considerada mais eficiente, com iguais níveis de dificuldade de aprendizado . | Comparar ideias alternativas de design |
-| **4** | Qual delas você prefere? Por quê? | (Foi identificada a alternativa proposta no [problema 2](#problema-2)) A alternativa proposta foi preferida pois ela agiliza o preenchimento dos muitos campos obrigatórios. | Comparar ideias alternativas de design |
-| **7** | Alguma parte da interface e da interação o deixa insatisfeito? | Não | Identificar problemas na interação e interface |
-| **8** | Você entende o que significa e para que serve cada elemento de interface? | Sim | Identificar problemas na interação e interface |
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
 ## Número e perfil dos avaliadores e participantes
 
 Na tabela 4, temos os avaliadores que participaram da sessão: [Gabriel F. J. Silva][GabrielfGH], que confeccionou o protótipo atuou como o mediador entre usuário e sistema, e [Claudio Henrique][ClaudioGH], que atuou como observador. Na tabela 5, temos o perfil do usuário obtido pelas respostas ao questionário pré-teste.
 
-<font size="2"><p style="text-align: center">Tabela 4 - local, hora e envolvidos na sessão de teste do protótipo de papel.</p></font>
+<font size="2"><p style="text-align: center">Tabela 2 - local, hora e envolvidos na sessão de teste do protótipo de papel.</p></font>
 
 <center>
 
@@ -59,7 +42,7 @@ Na tabela 4, temos os avaliadores que participaram da sessão: [Gabriel F. J. Si
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielfGH], 2024.</p></font>
 
-<font size="2"><p style="text-align: center">**Tabela 05:** perfil do participante</p></font>
+<font size="2"><p style="text-align: center">**Tabela 03:** perfil do participante</p></font>
 
 <center>
 
@@ -69,6 +52,26 @@ Na tabela 4, temos os avaliadores que participaram da sessão: [Gabriel F. J. Si
 
 <font size="2"><p style="text-align: center">**Fonte:** [Gabriel F. J. Silva][GabrielfGH], 2024 </p></font>
 </center>
+
+</center>
+
+<font size="2"><p style="text-align: center">**Tabela 04:** Perguntas e respostas do questionário pós-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | Resposta | Objetivo Relacionado |
+| :-:| -------- | -------- | -------------------- |
+| **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Objetividade da disposição das informações | Analisar apropriação da tecnologia | 
+| **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | (Foi identificada a alternativa proposta no [problema 1](#problema-1)) A alternativa proposta foi considerada mais eficiente, com iguais níveis de dificuldade de aprendizado . | Comparar ideias alternativas de design |
+| **3.1** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | (Foi identificada a alternativa proposta no [problema 2](#problema-2)) A alternativa proposta foi considerada mais eficiente, com iguais níveis de dificuldade de aprendizado . | Comparar ideias alternativas de design |
+| **4** | Qual delas você prefere? Por quê? | (Foi identificada a alternativa proposta no [problema 1](#problema-1)) A alternativa proposta foi preferida pois ela agiliza o preenchimento dos muitos campos obrigatórios. | Comparar ideias alternativas de design |
+| **4.1** | Qual delas você prefere? Por quê? | (Foi identificada a alternativa proposta no [problema 2](#problema-2)) A alternativa proposta foi preferida pois permite outros meios de pagamento. | Comparar ideias alternativas de design |
+| **7** | Alguma parte da interface e da interação o deixa insatisfeito? | Não | Identificar problemas na interação e interface |
+| **8** | Você entende o que significa e para que serve cada elemento de interface? | Sim | Identificar problemas na interação e interface |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
 ## Gravação do Teste
 
@@ -111,7 +114,7 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 19/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] |  |
+| `1.0`  | 19/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [Gabriel B. Bertolazi][[GabrielBGH]] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
