@@ -78,7 +78,7 @@ Nas tabelas 2 e 3 estão presentes as perguntas e as respostas dos questionário
 
 ## Lista de Problemas de usabilidade corrigidos
 
-O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
+Neste tópico está uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo.
 
 - Local onde ocorreu: tela de rastreamento
 - Fatores de usabilidade prejudicados: aprendizagem
@@ -88,7 +88,7 @@ O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de a
 
 ## Lista de Problemas de usabilidade não corrigidos
 
-Deverá ser apresentado no relato também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
+Neste tópico está uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
 
 - Local onde ocorreu: leitura do captcha
 - Fatores de usabilidade prejudicados: eficiência
