@@ -22,11 +22,39 @@ Os objetivos da avaliação do protótipo de papel são:
 3. Identificar problemas na interação e interface 
 
 ## Metodologia da prototipação
-O relato deve possuir também uma descrição sobre os métodos utilizados para a realização da análise. Será utilizado o método de observação por meio de um teste de usabilidade com o usuário utilizando o protótipo de papel produzido.
 
-Para a avaliação do protótipo dois métodos foram utilizados: uma entrevista guiada por questionários, sendo um pré-teste e outro pós-teste, e a observação, em que o avaliador observa o participante para analisar sua interação com o protótipo. Nas tabelas 1 e 2 estão presentes as perguntas e as respostas dos questionários pré e pós-teste:
+Para a avaliação do protótipo dois métodos foram utilizados: uma entrevista guiada por questionários, sendo um pré-teste e outro pós-teste, e a observação, em que o avaliador observa o participante para analisar sua interação com o protótipo. 
 
-<font size="2"><p style="text-align: center">Tabela 1 - Perguntas e respostas do questionário pré-teste.</p></font>
+## Número e perfil dos avaliadores e participantes
+
+A avaliação contou com 2 participantes: o [Ricardo][RicardoGH], sendo o integrante do grupo que fez o papel de observador e quem realizou as funcionalidades do protótipo durante a avaliação; e o [Johnny](https://github.com/JohnnyLopess) que foi o entrevistado que participou da avaliação, ele foi escolhido por ter um perfil que se encaixe no [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/) elaborado pelo grupo. As informações completas da reunião estão presentes na tabela 1.
+
+<font size="2"><p style="text-align: center">Tabela 1 - Cronograma Executado da Avaliação.</p></font>
+
+<center>
+
+|    Data    | Horário de início e fim | Local            |     Avaliadores    | Entrevistado |
+| :--------: | :---------------------: | :----------------: | :----------------------: | :----: |
+| 19/06/2024 | 15:10 - 15:20 | FGA - UnB | [Ricardo Augusto][RicardoGH] | [Johnny Lopes](https://github.com/JohnnyLopess) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+### Gravação da avaliação
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8vHrbUuwRCU?si=VHQvqZSRaTj0uwWB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+
+### Respostas dos questionários
+
+Nas tabelas 2 e 3 estão presentes as perguntas e as respostas dos questionários pré e pós-teste:
+
+<font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas do questionário pré-teste.</p></font>
 
 <center>
 
@@ -41,7 +69,7 @@ Para a avaliação do protótipo dois métodos foram utilizados: uma entrevista 
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
 
-<font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas do questionário pós-teste.</p></font>
+<font size="2"><p style="text-align: center">Tabela 3 - Perguntas e respostas do questionário pós-teste.</p></font>
 
 <center>
 
@@ -57,30 +85,6 @@ Para a avaliação do protótipo dois métodos foram utilizados: uma entrevista 
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
 
-## Número e perfil dos avaliadores e participantes
-
-A avaliação contou com 2 participantes: o [Ricardo][RicardoGH], sendo o integrante do grupo que fez o papel de observador e quem realizou as funcionalidades do protótipo durante a avaliação; e o [Johnny](https://github.com/JohnnyLopess) que foi o entrevistado que participou da avaliação, ele foi escolhido por ter um perfil que se encaixe no [Perfil de Usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/) elaborado pelo grupo. As informações completas da reunião estão presentes na tabela 3.
-
-<font size="2"><p style="text-align: center">Tabela 3 - Cronograma Executado da Avaliação.</p></font>
-
-<center>
-
-|    Data    | Horário de início e fim | Local            |     Avaliadores    | Entrevistado |
-| :--------: | :---------------------: | :----------------: | :----------------------: | :----: |
-| 19/06/2024 | 15:10 - 15:20 | FGA - UnB | [Ricardo Augusto][RicardoGH] | [Johnny Lopes](https://github.com/JohnnyLopess) |
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
-
-## Gravação da avaliação
-
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8vHrbUuwRCU?si=VHQvqZSRaTj0uwWB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</center>
-
 ## Lista de Problemas de usabilidade corrigidos
 
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
@@ -92,13 +96,13 @@ O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de a
 - Indicação se o problema voltou a ocorrer depois da correção;
 
 ## Lista de Problemas de usabilidade não corrigidos
-Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
+Deverá ser apresentado no relato também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
 
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Prioridade para correção;
-- Sugestões de correção;
+- Local onde ocorreu: leitura do captcha
+- Fatores de usabilidade prejudicados: entendimento da imagem para digitar o texto
+- Descrição e justificativa do problema: existe uma figura que existe para digitar o texto na imagem, algumas vezes a imagem pode ser muito ruim de visualizar e atrapalha a análise do texto
+- Prioridade para correção: Baixa
+- Sugestões de correção: Trocar o critério de verificação
 - Indicações de partes do sistema que podem ser mais bem elaboradas.
 
 
@@ -109,7 +113,7 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] | [Gabriel Basto][GabrielBGH] |
+| `1.0`  | 01/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] | [Cláudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

@@ -23,7 +23,7 @@ Nessa avaliação houve a participação de dois avaliadores:
  - Claudio, como computador realizando as ações e também como facilitador;
  - Gabriel, como observador anotando possíveis problemas e dificuldades durante a interação.
 
-Além dos avaliadores, também esteve presente o usuário Renato Medeiros de 28 anos de idade e Estudante de Engenharia Aeroespacial na FGA.
+Além dos avaliadores, também esteve presente o usuário Renato Medeiros de 28 anos de idade e Estudante de Engenharia Aeroespacial na FGA. Ele foi escolhido porque se adequa ao Perfil do Usuário definido anteriormente.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma Executado da Avaliação.</p></font>
 
@@ -37,7 +37,7 @@ Além dos avaliadores, também esteve presente o usuário Renato Medeiros de 28 
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
- ### Gravação
+### Gravação
 
 
 <font size="2"><p style="text-align: center">Vídeo 1 - Gravação da Avaliação do Protótipo.</p></font>
@@ -112,7 +112,7 @@ No protótipo de papel isso se fez presente na parte de informações do objeto,
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 18/06/2024 | Criação do documento |[Claudio Henrique][ClaudioGH] | [Elias Oliveira][EliasGH] |
+| `1.0`  | 18/06/2024 | Criação do documento |[Claudio Henrique][ClaudioGH] | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

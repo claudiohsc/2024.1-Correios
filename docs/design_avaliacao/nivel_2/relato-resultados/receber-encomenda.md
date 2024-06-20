@@ -1,23 +1,20 @@
 ## Introdução
 
-Neste artefato será apresentado um modelo para a realização e apresentação do relato dos resultados da análise do protótipo de papel.
+Este documento apresenta os resultados da avaliação do protótipo de papel da tarefa de "Calcular preços e prazos de entrega". Assim, serão discutidos os tópicos mencionados no [Planejamento do Relato dos Resultados](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados/) do Protótipo de Papel.
 
-## Metodologia
-
-Este artefato leva como base alguns tópicos elecandos no livro IHC por Barbosa e Silva(2021, p.319), para estruturar o relato dos resultados da análise do protótipo de papel e também leva em consideração o artefato do planejamento da análise. Os tópicos a serem desenvolvidos pela equipe são:
-
-- Objetivos da avaliação;
-- Metodologia da prototipação
-- Número e perfil dos avaliadores e participantes
-- Lista de Problemas de usabilidade:
-    - Corrigidos durante os ciclos de avaliação e reprojeto
-    - Ainda não corrigidos
 
 ## Objetivos da avaliação
-O relato deve conter uma descrição sobre seus objetivos e intenções, e o que o grupo almeja realizando a análise.
+
+O foco dessa avaliação do protótipo de papel será em explorar a eficácia da interação usuário-protótipo e avaliar a usabilidade da interface proposta. A identificação de problemas potenciais permitirá gerar ideias para refinamento e aprimoramento do design, visando garantir uma experiência satisfatória e intuitiva para os usuários finais. Os objetivos que foram elencados para serem avaliados nessa seção foram:
+
+1. Analisar apropriação da tecnologia  
+2. Comparar ideias alternativas de design
+3. Identificar problemas na interação e interface 
+
 
 ## Metodologia da prototipação
-O relato deve possuir também uma descrição sobre os métodos utilizados para a realização da análise. Será utilizado o método de observação por meio de um teste de usabilidade com o usuário utilizando o protótipo de papel produzido.
+
+Nessa avaliação foi utilizada duas técnicas para coleta de dados: entrevista e observação. Na parte da entrevista, primeiramente foi perguntado ao usuário as questões pré-teste, definidas anteriormente no [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/), e após a observação da interação do usuário com o protótipo de papel, foi feito as perguntas do questionário pós-teste. Assim, além de conseguirmos coletar dados diretamente do usuário, conseguimos também, por meio da observação, dados de como foi a interação do usuário de uma outra perspectiva. O usuário, Renato, executou o fluxo de Calcular Preços e Prazos de Entrega.
 
 ## Número e perfil dos avaliadores e participantes
 Nessa avaliação houve a participação de apenas um avaliador:
@@ -49,6 +46,44 @@ Além do avaliador, também esteve presente o usuário Filipe Oliveira de 23 ano
 
 </center>
 
+
+### Resposta das Perguntas
+
+Nas tabelas 1 e 2 estão presentes as perguntas e as respostas dos questionários pré e pós-teste:
+
+<font size="2"><p style="text-align: center">Tabela 1 - Perguntas e respostas do questionário pré-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | Resposta
+| :-:| -------- | -|
+| **1** | Qual o seu nome completo? | Filipe Oliveira Barrreto Campos |
+| **2** | Qual a sua idade? | 23 anos |
+| **3** | Qual a sua ocupação? | Estudante de psicologia e design de jogos |
+| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | Média |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
+
+
+<font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas do questionário pós-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | Resposta |
+| :-:| -------- | ------------------ |
+| **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Pontos fortes: eficiência, objetividade e rapidez. Pntos fracos: Excesso de pop-ups | 
+| **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | Ele achou a segunda opção melhor. |
+| **4** | Qual delas você prefere? Por quê? | A segunda, pois foi mais simples de achar as informações |
+| **7** | Alguma parte da interface e da interação o deixa insatisfeito? | Sim, o excesso de pop-ups |
+| **8** | Você entende o que significa e para que serve cada elemento de interface? | Sim |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
+
+
 ## Lista de Problemas de usabilidade corrigidos
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
 
@@ -76,7 +111,7 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 18/06/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [Gabriel F.][GabrielFGH] |
+| `1.0`  | 18/06/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [Elias][EliasGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
