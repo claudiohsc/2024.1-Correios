@@ -108,7 +108,7 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] | [Gabriel Basto][GabrielBGH] |
+| `1.0`  | 01/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] | [Cláudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
