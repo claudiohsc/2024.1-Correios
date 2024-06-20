@@ -89,10 +89,10 @@ Nas tabelas 2 e 3 estão presentes as perguntas e as respostas dos questionário
 
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
 
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Correção realizada no protótipo em papel;
+- Local onde ocorreu: tela de rastreamento
+- Fatores de usabilidade prejudicados: design do site
+- Descrição e justificativa do problema: a tela de rastreamento não seguia muito o guia de estilo do site
+- Correção realizada no protótipo em papel: alteração em detalhes de design da tela
 - Indicação se o problema voltou a ocorrer depois da correção;
 
 ## Lista de Problemas de usabilidade não corrigidos
