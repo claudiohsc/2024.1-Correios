@@ -37,7 +37,7 @@ Além dos avaliadores, também esteve presente o usuário Renato Medeiros de 28 
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
- ### Gravação
+### Gravação
 
 
 <font size="2"><p style="text-align: center">Vídeo 1 - Gravação da Avaliação do Protótipo.</p></font>
