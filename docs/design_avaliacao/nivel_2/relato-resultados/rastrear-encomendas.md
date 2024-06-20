@@ -90,7 +90,7 @@ Nas tabelas 2 e 3 estão presentes as perguntas e as respostas dos questionário
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
 
 - Local onde ocorreu: tela de rastreamento
-- Fatores de usabilidade prejudicados: design do site
+- Fatores de usabilidade prejudicados: aprendizagem
 - Descrição e justificativa do problema: a tela de rastreamento não seguia muito o guia de estilo do site
 - Correção realizada no protótipo em papel: alteração em detalhes de design da tela
 - Indicação se o problema voltou a ocorrer depois da correção;
@@ -99,7 +99,7 @@ O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de a
 Deverá ser apresentado no relato também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
 
 - Local onde ocorreu: leitura do captcha
-- Fatores de usabilidade prejudicados: entendimento da imagem para digitar o texto
+- Fatores de usabilidade prejudicados: eficiência
 - Descrição e justificativa do problema: existe uma figura que existe para digitar o texto na imagem, algumas vezes a imagem pode ser muito ruim de visualizar e atrapalha a análise do texto
 - Prioridade para correção: Baixa
 - Sugestões de correção: Trocar o critério de verificação
