@@ -104,7 +104,7 @@ Deverá ser apresentado no relato também uma lista dos problemas de usabilidade
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] | [Cláudio Henrique][ClaudioGH] |
+| `1.0`  | 19/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] | [Cláudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
