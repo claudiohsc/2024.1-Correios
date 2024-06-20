@@ -104,7 +104,7 @@ O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de a
 Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
 
 - Local onde ocorreu: Carrinho de compras.
-- Fatores de usabilidade prejudicados: Ambiguidade da funcionalidade.
+- Fatores de usabilidade prejudicados: Estética e design minimalista.
 - Descrição e justificativa do problema:É disponibilizado no carrinho de compras uma opção para calculo de frete, mas já existe essa opção quando o usuário clica em um produto para ver a sua descrição.
 - Prioridade para correção: Média.
 - Sugestões de correção: Existem duas opções de correção uma delas seria em caso de o usuário não estiver logado a opção de calculo de frete no carrinho é apresentada, mas quando o usuário estiver logado essa opção seria ocultada, ou até podería-se manter apresentando o endereço ja cadastrado e uma opção caso o usuário precise inesperadamente alterar o endereço de entrega.

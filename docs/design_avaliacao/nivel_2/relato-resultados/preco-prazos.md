@@ -37,6 +37,17 @@ Além dos avaliadores, também esteve presente o usuário Renato Medeiros de 28 
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
+<font size="2"><p style="text-align: center">Tabela 02: perfil do participante</p></font>
+
+<center>
+
+| **Nome** |**Ocupação**|**Idade**|**Experiência e facilidade com tecnologia**|
+| -- | -- | :--: | :--: |
+| Renato Medeiros | Estudante de Engenharia Aeroespacial | 28 Anos |  Boa | 
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024 </p></font>
+</center>
+
 ### Gravação
 
 
@@ -52,9 +63,9 @@ Além dos avaliadores, também esteve presente o usuário Renato Medeiros de 28 
 
 ### Resposta das Perguntas
 
-Nas tabelas 1 e 2 estão presentes as perguntas e as respostas dos questionários pré e pós-teste:
+Nas tabelas 3 e 4 estão presentes as perguntas e as respostas dos questionários pré e pós-teste:
 
-<font size="2"><p style="text-align: center">Tabela 1 - Perguntas e respostas do questionário pré-teste.</p></font>
+<font size="2"><p style="text-align: center">Tabela 3 - Perguntas e respostas do questionário pré-teste.</p></font>
 
 <center>
 
@@ -70,7 +81,7 @@ Nas tabelas 1 e 2 estão presentes as perguntas e as respostas dos questionário
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 
-<font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas do questionário pós-teste.</p></font>
+<font size="2"><p style="text-align: center">Tabela 4 - Perguntas e respostas do questionário pós-teste.</p></font>
 
 <center>
 

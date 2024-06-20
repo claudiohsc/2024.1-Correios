@@ -44,7 +44,7 @@ Na tabela 4, temos os avaliadores que participaram da sessão: [Gabriel F. J. Si
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielfGH], 2024.</p></font>
 
-<font size="2"><p style="text-align: center">**Tabela 03:** perfil do participante</p></font>
+<font size="2"><p style="text-align: center">**Tabela 03:** perfil do participante obtido pelo questionário pré-teste</p></font>
 
 <center>
 
