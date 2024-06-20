@@ -14,13 +14,37 @@ Este artefato leva como base alguns tópicos elecandos no livro IHC por Barbosa 
     - Ainda não corrigidos
 
 ## Objetivos da avaliação
-O relato deve conter uma descrição sobre seus objetivos e intenções, e o que o grupo almeja realizando a análise.
+
+Os objetivos desse artefato, conforme estabelecido no planejamento da avaliação, são:
+
+1. Analisar apropriação da tecnologia
+2. Comparar ideias alternativas de design
+3. Identificar problemas na interação e interface
 
 ## Metodologia da prototipação
-O relato deve possuir também uma descrição sobre os métodos utilizados para a realização da análise. Será utilizado o método de observação por meio de um teste de usabilidade com o usuário utilizando o protótipo de papel produzido.
+
+O método de avaliação que será utilizado será o de teste de usabilidade através do protótipo de alta fidelidade, com um questionário para o usuário e um para ser respondido com base nas ações do usuário ao utilizar e avaliar o protótipo, nas Tabelas 3 e 4 respectivamente, para identificar as impressões e opiniões que o usuário obteve ao utilizar o protótipo e também se a utilização do protótipo pelo participante se dá de maneira correta cumprindo com os objetivos propostos.
 
 ## Número e perfil dos avaliadores e participantes
-O relato deve mostrar quantos e quais pessoas participaram da análise do protótipo, deverá ser relatado informações como o perfil dos participantes e avaliadores.
+
+Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e seus papeis, das sessões do teste de usabilidade.
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 5 - Tabela de Planejamento para realização das entrevistas do protótipo de alta fidelidade.</p></font>
+
+| Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
+| :----- | :-----------: | :----------: | :-----: |:----:| :----:| 
+| **Calcular preços e prazos de entrega** | Cláudio | Renato Medeiros , Heitor, Gabriel B. Bertolazi | 10:00 - 10:30  | 26/06/2024  | UnB-FGA | 
+| **Realizar compras na loja online** | Elias | Renato Medeiros , Heitor, Gabriel B. Bertolazi | 10:40 - 11:10 | 26/06/2024 | UnB-FGA ou MS-Teams| 
+| **Recebimento de encomendas** | Gabriel B. Bertolazi | Renato Medeiros , Heitor, Gabriel B. Bertolazi | 11:20 - 11:50 |26/06/2024 | UnB-FGA | 
+| **Realizar pré-postagem** | Gabriel F. J. Silva| Patrício Reittler, Matheus, Johnny Lopes | 12:00 - 12:30 | 26/06/2024 | UnB-FGA | 
+| **Gerenciar minhas importações**| Pablo | Patrício Reittler, Matheus, Johnny Lopes | 14:00 - 14:30 | 26/06/2024 | UnB-FGA | 
+| **Rastrear encomendas** | Ricardo | Patrício Reittler, Matheus, Johnny Lopes | 14:40 - 15:10 | 26/06/2024  | UnB-FGA | 
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
+
+</center>
 
 ## Lista de Problemas de usabilidade corrigidos
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
@@ -50,7 +74,7 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 19/06/2024 | Criação do documento| [Claudio Henrique][ClaudioGH] e [Gabriel Fernando][GabrielFGH]| [Gabriel Bastos][GabrielBGH] e [RicardoGH][RicardoGH]|
+|`1.0`| 19/06/2024 | Criação do documento| [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH]| [Gabriel Bastos][GabrielBGH] e [RicardoGH][RicardoGH]|
 
 [GabrielFGH]: https://github.com/MMcLovin
 [GabrielBGH]: https://github.com/https://github.com/Bertolazi

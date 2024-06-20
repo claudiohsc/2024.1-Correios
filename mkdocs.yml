@@ -66,6 +66,10 @@ nav:
       - Protótipo de Papel:
         - Planejamento da Avaliação: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao.md
         - Planejamento do Relato dos Resultados: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados.md
+    - Nível 3:
+      - Protótipo de Alta Fidelidade:
+        - Planejamento da Avaliação: design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_da_avaliacao.md
+        - Planejamento do Relato dos Resultados: design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_do_relato.md
   - Verificação:
     - Grupo+1:
         - Etapa 01:
