@@ -23,7 +23,7 @@ Nessa avaliação houve a participação de dois avaliadores:
  - Claudio, como computador realizando as ações e também como facilitador;
  - Gabriel, como observador anotando possíveis problemas e dificuldades durante a interação.
 
-Além dos avaliadores, também esteve presente o usuário Renato Medeiros de 28 anos de idade e Estudante de Engenharia Aeroespacial na FGA.
+Além dos avaliadores, também esteve presente o usuário Renato Medeiros de 28 anos de idade e Estudante de Engenharia Aeroespacial na FGA. Ele foi escolhido porque se adequa ao Perfil do Usuário definido anteriormente.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma Executado da Avaliação.</p></font>
 
