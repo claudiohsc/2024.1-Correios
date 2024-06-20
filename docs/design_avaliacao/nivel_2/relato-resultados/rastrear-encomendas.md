@@ -1,21 +1,9 @@
 ## Introdução
 
-Neste artefato será apresentado o relato da avaliação do protótipo de papel para a funcionalidade de rastreamento de encomendas. O documento foi elaborado de acordo com o [Planejamento do Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados/) e a avaliação foi guiada de acordo com o artefato [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/).
-
-## Metodologia
-
-Este artefato leva como base alguns tópicos elecandos no livro IHC por Barbosa e Silva(2021, p.319), para estruturar o relato dos resultados da análise do protótipo de papel e também leva em consideração o artefato do planejamento da análise. Os tópicos a serem desenvolvidos pela equipe são:
-
-- Objetivos da avaliação;
-- Metodologia da prototipação
-- Número e perfil dos avaliadores e participantes
-- Lista de Problemas de usabilidade:
-    - Corrigidos durante os ciclos de avaliação e reprojeto
-    - Ainda não corrigidos
+Este artefato contém o relato dos resultados obtidos na sessão de observação do protótipo de papel produzido por [Ricardo Augusto][RicardoGH], que tem como foco a funcionalidade de realizar uma pré-postagem. Ele servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
 
 ## Objetivos da avaliação
-
-Os objetivos da avaliação do protótipo de papel são: 
+Assim como foi definido no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/), os objetivos da avaliação são:
 
 1. Analisar apropriação da tecnologia  
 2. Comparar ideias alternativas de design
@@ -23,7 +11,10 @@ Os objetivos da avaliação do protótipo de papel são:
 
 ## Metodologia da prototipação
 
-Para a avaliação do protótipo dois métodos foram utilizados: uma entrevista guiada por questionários, sendo um pré-teste e outro pós-teste, e a observação, em que o avaliador observa o participante para analisar sua interação com o protótipo. 
+Para a realização da avaliação, foi seguido o artefato de planejamento da avaliação e, para a construção deste relato, o de [planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados/). A observação foi realizada em uma sessão aonde um participante, que se encaixa no [perfil do usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/), interage com o protótipo de papel, para isso, um avaliador faz o papel de "computador", simulando as interações do usuário com o sistema e outro avaliador atua como o observador.  
+
+Antes do começo da sessão  de teste, foi apresentado ao participante o [termo de consentimento](../../../assets/termos-de-consentimento/Termo_de_consentimento_template(protótipo_de_papel).pdf), que lido e assinado pelo mesmo. Também foi seguido o  [roteiro da sessão](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/#roteiro-da-sessao) para uma melhor organização. As perguntas feitas ao participante foram as do questionário [pré-teste](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/#questionario-pre-teste) - para identificar caracterisiticas pessoais relevantes para a avaliação - e as do [pós-teste](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/#questionario-pos-teste) para coletar feedbacks. 
+Na Tabela 1, temos o cronograma de fato executado para a sessão (o cronograma planejado pode ser acessado [aqui](http://127.0.0.1:8000/Interacao-Humano-Computador/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/#prazos)).
 
 ## Número e perfil dos avaliadores e participantes
 
