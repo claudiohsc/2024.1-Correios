@@ -88,8 +88,8 @@ O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de a
 
 - Local onde ocorreu: Página de preenchimento dos dados de uma pré postagem, como pode ser visto [aqui](../../../assets/metas-usabilidade/portalPrePostagem.png)
 - Fatores de usabilidade prejudicados: Eficiência
-- Descrição e justificativa do problema: 
-- Correção realizada no protótipo em papel:
+- Descrição e justificativa do problema: há muitos campos de preenchimento obrigatório nos dados do remetente e destinatário, o que aumenta o tempo de execução da tarefa.
+- Correção realizada no protótipo em papel: foram implementadas no protótipo de papel opções para adicionar os dados já salvos, no caso de endereços alternativos do remetente ou no caso de destinatários recorrentes.
 - Indicação se o problema voltou a ocorrer depois da correção: Não
 
 ### Problema 2
@@ -110,7 +110,7 @@ Não foram identificados problemas pendentes a serem corrigidos.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 19/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [Gabriel B. Bertolazi][[GabrielBGH]] |
+| `1.0`  | 19/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [Gabriel B. Bertolazi][GabrielBGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
