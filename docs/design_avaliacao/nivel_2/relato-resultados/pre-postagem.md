@@ -110,7 +110,7 @@ Não foram identificados problemas pendentes a serem corrigidos.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 19/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [Gabriel B. Bertolazi][[GabrielBGH]] |
+| `1.0`  | 19/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [Gabriel B. Bertolazi][GabrielBGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
