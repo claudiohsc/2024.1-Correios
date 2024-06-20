@@ -1,25 +1,20 @@
 ## Introdução
 
-O relato dos resultados contém as informações e os feedbacks obtidos e extraídos da entrevista realizada para a avaliação do prototipo de papel para gerenciar Minha Importações dos Correios. Como descrito no artefato do planejamento dos resultados das análises do prototipo de papel, cada relato deve conter os seguintes tópicos:
-
-## Metodologia
-
-Este artefato leva como base alguns tópicos elecandos no livro IHC por Barbosa e Silva(2021, p.319), para estruturar o relato dos resultados da análise do protótipo de papel e também leva em consideração o artefato do planejamento da análise. Os tópicos a serem desenvolvidos pela equipe são:
-
-- Objetivos da avaliação;
-- Metodologia da prototipação
-- Número e perfil dos avaliadores e participantes
-- Lista de Problemas de usabilidade:
-    - Corrigidos durante os ciclos de avaliação e reprojeto
-    - Ainda não corrigidos
+Este artefato contém o relato dos resultados obtidos na sessão de observação do protótipo de papel produzido por [Pablo S. Costa ][PabloGH], que tem como foco a funcionalidade de realizar uma pré-postagem. Ele servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
 
 ## Objetivos da avaliação
-
-Os objetivos da avaliação do protótipo de papel são: 
+Assim como foi definido no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/), os objetivos da avaliação são:
 
 1. Analisar apropriação da tecnologia  
 2. Comparar ideias alternativas de design
 3. Identificar problemas na interação e interface 
+
+## Metodologia da prototipação
+
+Para a realização da avaliação, foi seguido o artefato de planejamento da avaliação e, para a construção deste relato, o de [planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados/). A observação foi realizada em uma sessão aonde um participante, que se encaixa no [perfil do usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/), interage com o protótipo de papel, para isso, um avaliador faz o papel de "computador", simulando as interações do usuário com o sistema e outro avaliador atua como o observador.  
+
+Antes do começo da sessão  de teste, foi apresentado ao participante o [termo de consentimento](../../../assets/termos-de-consentimento/termo%20de%20consentimento%20(protótipo%20de%20papel%20Gabriel%20Fernando)%20-%20renato.pdf), que lido e assinado pelo mesmo. Também foi seguido o  [roteiro da sessão](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/#roteiro-da-sessao) para uma melhor organização. As perguntas feitas ao participante foram as do questionário [pré-teste](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/#questionario-pre-teste) - para identificar caracterisiticas pessoais relevantes para a avaliação - e as do [pós-teste](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/#questionario-pos-teste) para coletar feedbacks. 
+Na Tabela 1, temos o cronograma de fato executado para a sessão (o cronograma planejado pode ser acessado [aqui](http://127.0.0.1:8000/Interacao-Humano-Computador/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/#prazos)).
 
 ## Metodologia da prototipação
 

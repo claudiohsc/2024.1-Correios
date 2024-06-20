@@ -1,20 +1,20 @@
 ## Introdução
 
-Este documento apresenta os resultados da avaliação do protótipo de papel da tarefa de "Calcular preços e prazos de entrega". Assim, serão discutidos os tópicos mencionados no [Planejamento do Relato dos Resultados](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados/) do Protótipo de Papel.
-
+Este artefato contém o relato dos resultados obtidos na sessão de observação do protótipo de papel produzido por [Gabriel B. Bertolazi][GabrielBGH], que tem como foco a funcionalidade de realizar uma pré-postagem. Ele servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
 
 ## Objetivos da avaliação
-
-O foco dessa avaliação do protótipo de papel será em explorar a eficácia da interação usuário-protótipo e avaliar a usabilidade da interface proposta. A identificação de problemas potenciais permitirá gerar ideias para refinamento e aprimoramento do design, visando garantir uma experiência satisfatória e intuitiva para os usuários finais. Os objetivos que foram elencados para serem avaliados nessa seção foram:
+Assim como foi definido no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/), os objetivos da avaliação são:
 
 1. Analisar apropriação da tecnologia  
 2. Comparar ideias alternativas de design
 3. Identificar problemas na interação e interface 
 
-
 ## Metodologia da prototipação
 
-Nessa avaliação foi utilizada duas técnicas para coleta de dados: entrevista e observação. Na parte da entrevista, primeiramente foi perguntado ao usuário as questões pré-teste, definidas anteriormente no [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/), e após a observação da interação do usuário com o protótipo de papel, foi feito as perguntas do questionário pós-teste. Assim, além de conseguirmos coletar dados diretamente do usuário, conseguimos também, por meio da observação, dados de como foi a interação do usuário de uma outra perspectiva. O usuário, Renato, executou o fluxo de Calcular Preços e Prazos de Entrega.
+Para a realização da avaliação, foi seguido o artefato de planejamento da avaliação e, para a construção deste relato, o de [planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados/). A observação foi realizada em uma sessão aonde um participante, que se encaixa no [perfil do usuário](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/perfil_de_usuario/perfil_de_usuario/), interage com o protótipo de papel, para isso, um avaliador faz o papel de "computador", simulando as interações do usuário com o sistema e outro avaliador atua como o observador.  
+
+Antes do começo da sessão  de teste, foi apresentado ao participante o [termo de consentimento](../../../assets/termos-de-consentimento/termo%20de%20consentimento%20(protótipo%20de%20papel%20Gabriel%20Fernando)%20-%20renato.pdf), que lido e assinado pelo mesmo. Também foi seguido o  [roteiro da sessão](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/#roteiro-da-sessao) para uma melhor organização. As perguntas feitas ao participante foram as do questionário [pré-teste](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/#questionario-pre-teste) - para identificar caracterisiticas pessoais relevantes para a avaliação - e as do [pós-teste](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/#questionario-pos-teste) para coletar feedbacks. 
+Na Tabela 1, temos o cronograma de fato executado para a sessão (o cronograma planejado pode ser acessado [aqui](http://127.0.0.1:8000/Interacao-Humano-Computador/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/#prazos)).
 
 ## Número e perfil dos avaliadores e participantes
 Nessa avaliação houve a participação de apenas um avaliador:
