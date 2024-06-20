@@ -81,16 +81,17 @@ Nas tabelas 2 e 3 estão presentes as perguntas e as respostas dos questionário
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados anteriormente pelo grupo. Deverá ser indicado:
 
 - Local onde ocorreu: tela de rastreamento
-- Fatores de usabilidade prejudicados: [aprendizagem](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/metas-usabilidade/#5-aprendizagem)
+- Fatores de usabilidade prejudicados: aprendizagem
 - Descrição e justificativa do problema: a tela de rastreamento não seguia muito o guia de estilo do site
 - Correção realizada no protótipo em papel: alteração em detalhes de design da tela
 - Indicação se o problema voltou a ocorrer depois da correção;
 
 ## Lista de Problemas de usabilidade não corrigidos
+
 Deverá ser apresentado no relato também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
 
 - Local onde ocorreu: leitura do captcha
-- Fatores de usabilidade prejudicados: [eficiência](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/metas-usabilidade/#2-eficiencia)
+- Fatores de usabilidade prejudicados: eficiência
 - Descrição e justificativa do problema: existe uma figura que existe para digitar o texto na imagem, algumas vezes a imagem pode ser muito ruim de visualizar e atrapalha a análise do texto
 - Prioridade para correção: Baixa
 - Sugestões de correção: Trocar o critério de verificação
@@ -98,13 +99,14 @@ Deverá ser apresentado no relato também uma lista dos problemas de usabilidade
 
 
 ## Bibliografia
+
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 01/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] | [Cláudio Henrique][ClaudioGH] |
+| `1.0`  | 19/06/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] | [Pablo S. Costa][PabloGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
