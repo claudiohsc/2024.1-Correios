@@ -177,23 +177,29 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :-:|
-| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | | <a href="#ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
-| **2** | O cenário (propósito) está sendo bem descrito no storyboard? |  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
-| **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? |  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
-| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? |  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | Não | <a href="#ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
+| **2** | O cenário (propósito) está sendo bem descrito no storyboard? | Não | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? | Sim | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | Incompleto | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 
 #### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 01: O storyboard está relacionado a um cenário elaborado pelo grupo?
+    - Avaliação: Não
+    - Comentário: Não foi comentado o uso de cenários para a fabricação do storyboard;
+- ID 02: O cenário (propósito) está sendo bem descrito no storyboard?
+    - Avaliação: Não
+    - Comentário: A razão para a criação do storyboard não é especificada;
+- ID 04: Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard?
+    - Avaliação: Incompleto
+    - Comentário: O storyboard não possui muitas etapas diferentes, apenas o personagem acessando o recurso de minhas importações.
 
 ## Bibliografia
 
