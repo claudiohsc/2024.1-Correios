@@ -70,7 +70,7 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
         'pieOuterStrokeWidth': '0px',
         'pieOpacity': '1',
         'pieSectionTextColor': '#fff',
-        'pieSectionTextSize': '20px'
+        'pieSectionTextSize': '19px'
     }
   }
 }%%
