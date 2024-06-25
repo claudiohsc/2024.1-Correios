@@ -54,7 +54,7 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center style="background-color: #fff;">
+<center>
 
 ``` mermaid
 %%{
@@ -65,9 +65,12 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
         'secondaryColor': '#0083CA',
         'tertiaryColor': '#CD992B',
         'pie4': '#00416B',
-        'primaryTextColor': '#424242',
+        'primaryTextColor': '#8e8e8e',
         'pieStrokeWidth': '0px',
-        'pieOuterStrokeWidth': '0px'
+        'pieOuterStrokeWidth': '0px',
+        'pieOpacity': '1',
+        'pieSectionTextColor': '#fff',
+        'pieSectionTextSize': '20px'
     }
   }
 }%%
