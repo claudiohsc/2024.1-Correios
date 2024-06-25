@@ -192,4 +192,13 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Mudar para o modo claro
-
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+extra:
+  analytics:
+    provider: google
+    property: G-7QVWYC7EZJ
