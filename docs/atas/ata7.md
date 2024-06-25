@@ -154,7 +154,7 @@ Design, avaliação desenvolvimento:
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 25/06/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Cláudio Henrique][ClaudioGH] |
+|`1.0`| 25/06/2024 | Criação do documento| [Ricardo Augusto][RicardoGH] | [Gabriel Bertolazi][GabrielBGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
