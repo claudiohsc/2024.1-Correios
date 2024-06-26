@@ -137,7 +137,7 @@ nav:
         - Planejamento da Verificação do Design, Avaliação e Desenvolvimento: verificacao_01/grupo/DAD/planejamento_verificacao.md
         - Nível 1:
           - Análise de Tarefas:
-            - Planejamento da Avaliação: verificacao_01/grupo/template.md
+            - Planejamento da Avaliação: verificacao_01/grupo/DAD/nivel1/analise_tarefas/planejamento_avaliacao.md
             - Planejamento do Relato dos Resultados: verificacao_01/grupo/DAD/nivel1/analise_tarefas/planejamento_relato.md
             - Relato dos Resultados:
               - Calcular Preços e Prazos: verificacao_01/grupo/DAD/nivel1/analise_tarefas/relato-resultados/preco-prazos.md
