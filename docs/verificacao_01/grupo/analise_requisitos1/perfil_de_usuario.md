@@ -89,7 +89,40 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ### Vídeo de verificação
 
+### Sumário de verificação
 
+<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+
+<center>
+
+``` mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+        'primaryColor': '#FFD400',
+        'secondaryColor': '#0083CA',
+        'tertiaryColor': '#CD992B',
+        'pie4': '#00416B',
+        'primaryTextColor': '#8e8e8e',
+        'pieStrokeWidth': '0px',
+        'pieOuterStrokeWidth': '0px',
+        'pieOpacity': '1',
+        'pieSectionTextColor': '#fff',
+        'pieSectionTextSize': '19px'
+    }
+  }
+}%%
+pie
+    "Sim" : 
+    "Não" : 
+    "Incompleto" : 
+    "Não se Aplica" : 
+```
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 ## Bibliografia
 
