@@ -37,25 +37,70 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | O planejamento aborda o tópico dos objetivos da avaliação? |  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
-| **2** | O planejamento descreve qual será o método de avaliação que será realizado? |  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
-| **3** | O artefato define a quantidade e o perfil dos entrevistadores e dos entrevistados que participarão das avaliações? |  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
-| **4** | O planejamento prevê um sumário dos dados coletados e suas interpretações? |  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
-| **5** | O planejamento descreve que existirá uma lista de problemas encontrados? |  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
-| **6** | O grupo fez um planejamento para o reprojeto? |  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **1** | O planejamento aborda o tópico dos objetivos da avaliação? |Sim  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **2** | O planejamento descreve qual será o método de avaliação que será realizado? |Sim  | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **3** | O artefato define a quantidade e o perfil dos entrevistadores e dos entrevistados que participarão das avaliações? | Sim | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **4** | O planejamento prevê um sumário dos dados coletados e suas interpretações? |  Sim | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **5** | O planejamento descreve que existirá uma lista de problemas encontrados? | Sim | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
+| **6** | O grupo fez um planejamento para o reprojeto? | Sim | <a href="#ref1">1</a> | [página 279](../../../../../assets/prints_verificacao/ricardo/planejrelato1.png) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+Não foram encontrados problemas nesse artefato, visto que os itens foram marcados com "sim", e estão seguindo corretamente a bibliografia.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+### Gravação da verificação
+
+<!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HE-_qiLmeOo?si=9rmCojrTzSjTU3-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=HE-_qiLmeOo"> Link para o vídeo </a>
+</p>
+
+
+### Sumário dos resultados
+
+<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
+A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+
+<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+
+<center>
+
+``` mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+        'primaryColor': '#FFD400',
+        'secondaryColor': '#0083CA',
+        'tertiaryColor': '#CD992B',
+        'pie4': '#00416B',
+        'primaryTextColor': '#8e8e8e',
+        'pieStrokeWidth': '0px',
+        'pieOuterStrokeWidth': '0px',
+        'pieOpacity': '1',
+        'pieSectionTextColor': '#fff',
+        'pieSectionTextSize': '19px'
+    }
+  }
+}%%
+pie
+    "Sim" : 6
+    "Não" : 0
+    "Incompleto" : 0
+    "Não se Aplica" : 0
+```
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 ## Bibliografia
 
