@@ -28,7 +28,7 @@ Este artefato foi produzido por [Pablo S. Costa][PabloGH] e verificado por [Rica
 
 ## Apresentação dos Dados
 
-Aqui será apresentado os resultados do checklist e logo após as observações dos itens com resultado negativo.
+Na Tabela 2 temos a aplicação do checklist para os Planejamento da Avaliação da Análise de Tarefas, em seguida o video da verificação. 
 
 ### Checklist de verificação
 
@@ -37,8 +37,14 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <center>
 
 | ID | Descrição | Avaliação | Referência | Print |
-|:--:| --------- | :-------: | :--------: | :---: |
-| **1** | O artefato possui uma explicação sobre o que é o Perfil do Usuário? |  | [1.](#ref1) | [página 166]() |
+| --- | --- | --- | --- | --- |
+| **1** | Foi usado o framework DECIDE para realizar o planejamento? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 280](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/1.jpeg) |
+| **2** | Foram elaboradas perguntas que detalhem os objetivos da avaliação? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 265](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/2%20e%203.jpeg) |
+| **3** | A elaboração de perguntas considerou o público-alvo das atividades? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 265](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/2%20e%203.jpeg) |
+| **4** | Escolheram os métodos de avaliação mais adequados para atingir os objetivos esperados, considerando prazo, orçamento, equipamentos disponíveis e experiência dos avaliadores? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 264](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/4.jpeg) |
+| **5** | Foram seguidas as atividades básicas como método na avaliação incluindo preparação, coleta de dados, interpretação, consolidação e relato dos resultados? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 273](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/5.jpeg) |
+| **6** | No caso de a avaliação encontrar problemas ou oportunidades de melhorias foram planejados um reprojeto do sistema? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 273](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/6.jpeg) |
+| **7** | O planejamento da avaliação envolve as questões práticas, que incluem alocar pessoal, recursos e equipamentos, preparar o material de apoio, preparação do ambiente de teste, a realização de um teste-piloto, recrutamento dos participantes e as questões éticas? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 275](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/7.jpeg) |
 
 </center>
 
