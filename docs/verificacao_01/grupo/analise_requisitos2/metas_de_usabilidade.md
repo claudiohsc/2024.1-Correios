@@ -1,13 +1,12 @@
-# Verificação do Artefato X
+# Verificação do Artefato Metas de Usabilidade
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Metas de Usabilidade
-](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/metas-usabilidade/) feito pelo [Grupo 03](https://interacao-humano-computador.github.io/2024.1-Correios/) da disciplina de Interação Humano Computador referente ao site [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de [Metas de Usabilidade](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/metas-usabilidade/) feito pelo [Grupo 03](https://interacao-humano-computador.github.io/2024.1-Correios/) da disciplina de Interação Humano Computador referente ao site [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Este artefato foi produzido por [Claudio Henrique][ClaudioGH] e verificado por [Elias Faria][EliasGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.1` datada do dia 13/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi produzido por [Claudio Henrique][ClaudioGH] e verificado por [Elias Faria][EliasGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 12/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 Na Tabela 1 temos a lista de verificação elaborada, ja na Tabelas 2 a aplicação do checklist para os Aspectos Éticos. 
 
@@ -15,18 +14,22 @@ Na Tabela 1 temos a lista de verificação elaborada, ja na Tabelas 2 a aplicaç
 
 <center>
 
-| ID | Descrição | Avaliação | Referência | Print |
-|:--:| --------- | :-------: | :--------: | :---: |
-| **1** | No artefato desenvolvido eles citam evitar causar danos ou consequências negativas aos outros? tais como os perdas de informações, perdas de bens, danos a propriedades, ou impactos ambientais indesejados; respeitar a privacidade dos outros; e honrar a confidenciabilidade das informações; prejudicar ou causar danos a outras pessoas, seus bens, reputação um emprego. |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 140](../../../assets/prints_verificacao/pablo/aspectos_eticos/1.jpeg) |
-| **2** | São levados em considerações os princípios de autonomia, beneficência, não maleficiência, justiça e equidade? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 140](../../../assets/prints_verificacao/pablo/aspectos_eticos/2.jpeg) |
-| **3** | Informado os objetivos da pesquisa aos participantes? dizendo exatamente como vai ser a participação deles; informando o que vai ocorrer durante a coleta de dados; o tempo aproximado da coleta; os tipos de dados que serão coletados; e ainda como eles serão analisados. |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/3.jpeg) |
-| **4** | São informados a confiabilidade e a privacidade durante o tratamento dos dados? Tração do como isso será tratado na divulgação dos resultados? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/4.jpeg) |
-| **5** | É solicitado permissão para gravar voz ou imagem? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/5.jpeg) |
-| **6** | O consentimento livre e esclarecido dos participantes é garantidos através de um termo de consentimento? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/6.jpeg) |
-| **7** | É deixado claro para o participante o direito à Liberdade de se recusar a participar em qualquer momento ou fase da pesquisa? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 142](../../../assets/prints_verificacao/pablo/aspectos_eticos/7.jpeg) |
-| **8** | São explicadas ou tratadas as formas de incentivo para participar das pesquisas do projeto? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 142](../../../assets/prints_verificacao/pablo/aspectos_eticos/8.jpeg) |
-| **9** | No projeto é informado a validade e a confiabilidade dos dados coletados? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 143](../../../assets/prints_verificacao/pablo/aspectos_eticos/9.jpeg) |
-| **10** | No projeto é informado a necessidade ou não de assegurar a confiabilidade dos dados dos sistemas apresentados ao participante? como um acordo de confidenciabilidade? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 143](../../../assets/prints_verificacao/pablo/aspectos_eticos/10.jpeg) |
+|ID| Descrição | Avaliação | Referência|Print|
+|:--:|:--:|:--:|:--:|:--:|
+|01| No documento são elencadas as metas de usabilidade almejadas? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36 | [Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|02| No artefato são apresentados os motivos e métodos para a escolha das metas de usabilidade? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|03| É apresentada a definição das metas de usabilidade? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|04| São elencadas no artefato as metas de usabilidade de: facilidade de aprendizado, memorabilidade, eficiência, segurança e satisfação do usuário? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|05| É apresentado no artefato a  meta de usabilidade: facilidade de aprendizado ? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|06| A verificação da meta de usabilidade de facilidade de aprendizado está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] | 
+|07| A verificação da meta de usabilidade de memorabilidade está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|08| A verificação da meta de usabilidade de eficiência está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|09| A verificação da meta de usabilidade de segurança está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|10| A verificação da meta de usabilidade de satisfação do usuário está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+
+
+[Pg. 35]:../../../assets/prints_verificacao/elias/metas/35.png
+[Pg. 36]:../../../assets/prints_verificacao/elias/metas/36.png
 
 </center>
 
@@ -40,20 +43,25 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
 
+
 <center>
 
-| ID | Descrição | Avaliação | Referência | Print |
-|:--:| --------- | :-------: | :--------: | :---: |
-| **1** | No artefato desenvolvido eles citam evitar causar danos ou consequências negativas aos outros? tais como os perdas de informações, perdas de bens, danos a propriedades, ou impactos ambientais indesejados; respeitar a privacidade dos outros; e honrar a confidenciabilidade das informações; prejudicar ou causar danos a outras pessoas, seus bens, reputação um emprego. |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 140](../../../assets/prints_verificacao/pablo/aspectos_eticos/1.jpeg) |
-| **2** | São levados em considerações os princípios de autonomia, beneficência, não maleficiência, justiça e equidade? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 140](../../../assets/prints_verificacao/pablo/aspectos_eticos/2.jpeg) |
-| **3** | Informado os objetivos da pesquisa aos participantes? dizendo exatamente como vai ser a participação deles; informando o que vai ocorrer durante a coleta de dados; o tempo aproximado da coleta; os tipos de dados que serão coletados; e ainda como eles serão analisados. |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/3.jpeg) |
-| **4** | São informados a confiabilidade e a privacidade durante o tratamento dos dados? Tração do como isso será tratado na divulgação dos resultados? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/4.jpeg) |
-| **5** | É solicitado permissão para gravar voz ou imagem? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/5.jpeg) |
-| **6** | O consentimento livre e esclarecido dos participantes é garantidos através de um termo de consentimento? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/6.jpeg) |
-| **7** | É deixado claro para o participante o direito à Liberdade de se recusar a participar em qualquer momento ou fase da pesquisa? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 142](../../../assets/prints_verificacao/pablo/aspectos_eticos/7.jpeg) |
-| **8** | São explicadas ou tratadas as formas de incentivo para participar das pesquisas do projeto? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 142](../../../assets/prints_verificacao/pablo/aspectos_eticos/8.jpeg) |
-| **9** | No projeto é informado a validade e a confiabilidade dos dados coletados? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 143](../../../assets/prints_verificacao/pablo/aspectos_eticos/9.jpeg) |
-| **10** | No projeto é informado a necessidade ou não de assegurar a confiabilidade dos dados dos sistemas apresentados ao participante? como um acordo de confidenciabilidade? |  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 143](../../../assets/prints_verificacao/pablo/aspectos_eticos/10.jpeg) |
+|ID| Descrição | Avaliação | Referência|Print|
+|:--:|:--:|:--:|:--:|:--:|
+|01| No documento são elencadas as metas de usabilidade almejadas? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36 | [Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|02| No artefato são apresentados os motivos e métodos para a escolha das metas de usabilidade? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|03| É apresentada a definição das metas de usabilidade? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|04| São elencadas no artefato as metas de usabilidade de: facilidade de aprendizado, memorabilidade, eficiência, segurança e satisfação do usuário? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|05| É apresentado no artefato a  meta de usabilidade: facilidade de aprendizado ? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|06| A verificação da meta de usabilidade de facilidade de aprendizado está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] | 
+|07| A verificação da meta de usabilidade de memorabilidade está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|08| A verificação da meta de usabilidade de eficiência está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|09| A verificação da meta de usabilidade de segurança está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|10| A verificação da meta de usabilidade de satisfação do usuário está adequada? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+
+
+[Pg. 35]:../../../assets/prints_verificacao/elias/metas/35.png
+[Pg. 36]:../../../assets/prints_verificacao/elias/metas/36.png
 
 </center>
 

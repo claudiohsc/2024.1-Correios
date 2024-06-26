@@ -1,4 +1,4 @@
-# Verificação do Artefato X
+# Verificação do Artefato Aspectos Éticos de Pesquisas Envolvendo Pessoas
 
 ## Introdução
 
