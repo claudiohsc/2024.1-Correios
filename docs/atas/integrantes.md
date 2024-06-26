@@ -13,7 +13,7 @@ Ricardo
 [Elias][EliasGH] 
 [Gabriel Bertolazi][GabrielBGH]
 [Gabriel Fernando][GabrielFGH]
-[Pablo][PabloGH]
+[Pablo S. Costa][PabloGH]
 [Ricardo][RicardoGH]
 
 Claúdio Henrique dos Santos Carvalho
