@@ -13,19 +13,20 @@ Este artefato foi produzido por [Gabriel B. Bertolazi][GabrielFGH] e verificado 
 <center>
 
 | ID | Descrição | Avaliação | Referência| Print |
-|:--:| --------- | :-------: | :-------: | :---: | 
-| **1** | Estão descritos os objetivos da avaliação? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **2** | Possui uma explicação sobre o método de avaliação usado? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **3** | Apresenta o número e perfil dos avaliadores e participantes da avaliação? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **4** | Possui um sumário dos dados coletados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **5** | Faz uma interpretação e análise dos dados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **6** | Apresenta uma lista dos problemas encontrados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **7** | Possui planejamento para um reprojeto do sistema? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **8** | A coleta de dados ocorreu de acordo com o planejamento e método de avaliação escolhido? |  | <a href="#ref1">1</a> | [pg 277](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
-| **10** | Caso a coleta de dados tenha sido feita em um laboratório (ambiente controlado), o ambiente de teste foi apresentado ao participante? |  | <a href="#ref1">1</a> | [pg 277](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) e <br>[pg 301](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20ambiente%20controlado%20~%20lab.jpeg) |
-| **11** | O avaliador explicou para o participante os objetivos do estudo, procedimentos da avaliação e cuidados éticos tomados? |  | <a href="#ref1">1</a> | [pg 277](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
-| **12** | Enquanto o participante realizava as tarefas previstas, ele foi interrompido ou questionado? |  | <a href="#ref1">1</a> | [pg 277](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
-| **13** | Caso o participante demonstre não conseguir completar a tarefa, o avaliador passa para uma próxima etapa a fim de evitar emoções desagradáveis? |  | <a href="#ref1">1</a> | [pg 278](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados%202.jpeg) |
+|:--:| --------- | :-------: | :-------: | :---: |
+| **1** | Nos relatos, tem-se os objetivos das avaliações? |  | <a href="#ref1">1</a>  | [pg 318](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **2** | Possui uma breve descrição do método de prototipação de papel? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png)  | 
+| **3** | O número e o perfil dos avaliadores e dos participantes presentes na avaliação? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **4** | Possui as tarefas realizadas pelos participantes durante o método de avaliação em questão? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **5** | Tem-se duas listas de usabilidade? Uma com os problemas corrigidos e uma com os problemas ainda não corrigidos? | | <a href="#ref1">1</a> | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **6** | Essas listas possuem o local onde ocorreu a avaliação? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **7** | Essas listas possuem quais fatores de usabilidade foram prejudicados? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **8** | Essas listas possuem a descrição e a justificativa dos problemas? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **9** | A lista com os problemas de usabilidade já resolvidos possui a correção que foi realizada no protótipo de papel? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **10** | A lista com os problemas de usabilidade já corrigidos indica se o problema voltou a ocorrer após a correção? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **11** | A lista com com os problemas de usabilidade ainda não corrigidos possui uma prioridade para correção? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **12** | A lista com com os problemas de usabilidade ainda não corrigidos possui as sugestões para correção? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **13** | A lista com com os problemas de usabilidade ainda não corrigidos possui indicações de partes do sistema que podem ser mais bem elaboradas? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
 
 </center>
 
@@ -42,19 +43,21 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <center>
 
 | ID | Descrição | Avaliação | Referência| Print |
-|:--:| --------- | :-------: | :-------: | :---: | 
-| **1** | Estão descritos os objetivos da avaliação? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **2** | Possui uma explicação sobre o método de avaliação usado? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **3** | Apresenta o número e perfil dos avaliadores e participantes da avaliação? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **4** | Possui um sumário dos dados coletados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **5** | Faz uma interpretação e análise dos dados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **6** | Apresenta uma lista dos problemas encontrados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **7** | Possui planejamento para um reprojeto do sistema? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **8** | A coleta de dados ocorreu de acordo com o planejamento e método de avaliação escolhido? |  | <a href="#ref1">1</a> | [pg 277](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
-| **10** | Caso a coleta de dados tenha sido feita em um laboratório (ambiente controlado), o ambiente de teste foi apresentado ao participante? |  | <a href="#ref1">1</a> | [pg 277](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) e <br>[pg 301](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20ambiente%20controlado%20~%20lab.jpeg) |
-| **11** | O avaliador explicou para o participante os objetivos do estudo, procedimentos da avaliação e cuidados éticos tomados? |  | <a href="#ref1">1</a> | [pg 277](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
-| **12** | Enquanto o participante realizava as tarefas previstas, ele foi interrompido ou questionado? |  | <a href="#ref1">1</a> | [pg 277](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
-| **13** | Caso o participante demonstre não conseguir completar a tarefa, o avaliador passa para uma próxima etapa a fim de evitar emoções desagradáveis? |  | <a href="#ref1">1</a> | [pg 278](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados%202.jpeg) |
+|:--:| --------- | :-------: | :-------: | :---: |
+| **1** | Nos relatos, tem-se os objetivos das avaliações? |  | <a href="#ref1">1</a>  | [pg 318](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **2** | Possui uma breve descrição do método de prototipação de papel? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png)  | 
+| **3** | O número e o perfil dos avaliadores e dos participantes presentes na avaliação? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **4** | Possui as tarefas realizadas pelos participantes durante o método de avaliação em questão? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **5** | Tem-se duas listas de usabilidade? Uma com os problemas corrigidos e uma com os problemas ainda não corrigidos? | | <a href="#ref1">1</a> | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **6** | Essas listas possuem o local onde ocorreu a avaliação? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **7** | Essas listas possuem quais fatores de usabilidade foram prejudicados? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **8** | Essas listas possuem a descrição e a justificativa dos problemas? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **9** | A lista com os problemas de usabilidade já resolvidos possui a correção que foi realizada no protótipo de papel? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **10** | A lista com os problemas de usabilidade já corrigidos indica se o problema voltou a ocorrer após a correção? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **11** | A lista com com os problemas de usabilidade ainda não corrigidos possui uma prioridade para correção? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **12** | A lista com com os problemas de usabilidade ainda não corrigidos possui as sugestões para correção? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **13** | A lista com com os problemas de usabilidade ainda não corrigidos possui indicações de partes do sistema que podem ser mais bem elaboradas? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+
 
 </center>
 
