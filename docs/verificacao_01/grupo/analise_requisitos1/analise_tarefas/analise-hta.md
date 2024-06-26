@@ -50,16 +50,16 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 |ID| Descrição | Avaliação | Referência|Print|
 |:--:|:--:|:--:|:--:|:--:|
-|01| O diagrama HTA se inicia com as definições dos objetivos das tarefas?||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|02| O diagrama HTA apresenta objetivos e operações(ações realizadas pelo usuário)? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
-|03| O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|04| Os objetivos e operações são utilizados de maneira correta na análise? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
-|05| A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] | 
-|06| São utilizadas as relações de: seleção, sequencial ou paralelo nos subobjetivos que compõem o plano? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|07| As relações entre os subobjetivos são utilizadas de maneira correta? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|08| É apresentada a representação da análise em tabela?  ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180| [Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
-|09| As operações são especificadas com: inputs, actions e feedbacks? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
-|10| É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs.180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+|01| O diagrama HTA se inicia com as definições dos objetivos das tarefas?|Sim.|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|02| O diagrama HTA apresenta objetivos e operações(ações realizadas pelo usuário)? |Sim.|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
+|03| O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas? |Sim.|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|04| Os objetivos e operações são utilizados de maneira correta na análise? |Incompleto.|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
+|05| A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo? |Não|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] | 
+|06| São utilizadas as relações de: seleção, sequencial ou paralelo nos subobjetivos que compõem o plano? |Sim.|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|07| As relações entre os subobjetivos são utilizadas de maneira correta? |Sim.|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|08| É apresentada a representação da análise em tabela?  |Sim.|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180| [Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+|09| As operações são especificadas com: inputs, actions e feedbacks? |Sim.|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+|10| É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema? |Não.|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs.180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
 
 
 [Pg. 179]:../../../../assets/prints_verificacao/elias/hta/179_1.png
@@ -86,6 +86,14 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 ## Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
+
+- ID 04: Descrição
+    - Avaliação:
+    - Comentário:
+
+- ID xx: Descrição
+    - Avaliação:
+    - Comentário:
 
 - ID xx: Descrição
     - Avaliação:
