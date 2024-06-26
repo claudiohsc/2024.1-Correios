@@ -38,8 +38,11 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 |Design, avaliação e desenvolvimento| N1 - SB - Storyboards	 | `2.0`|01/06/2024| [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]  |
 |Design, avaliação e desenvolvimento| N2 - PP - Planejamento da avaliação	 | `1.2`|18/06/2024|  [Gabriel B.][GabrielBGH] e [Ricardo A.][RicardoGH]  | [Elias F.][EliasGH]   |
 |Design, avaliação e desenvolvimento| N2 - PP - Planejamento do relato	 | `1.0`|01/06/2024|[Claudio H][ClaudioGH] e [Elias F.][EliasGH] | [Ricardo A.][RicardoGH]   |
-|Design, avaliação e desenvolvimento| N2 - PP - Planejamento do relato	 | `1.0`|01/06/2024|[Claudio H][ClaudioGH] e [Elias F.][EliasGH] | [Ricardo A.][RicardoGH]   |
+|Design, avaliação e desenvolvimento| N2 - PP - Relato dos Resultados	 | `1.0`|01/06/2024|[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]   |
+|Design, avaliação e desenvolvimento| N3 - PAF - Planejamento da avaliação	 | `1.0`|18/06/2024|[Elias F.][EliasGH] e [Pablo S.][PabloGH] |[Pablo S.][PabloGH]  |
+|Design, avaliação e desenvolvimento| N3 - PAF - Planejamento do relato | `1.0`|19/06/2024| [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH] | [Gabriel B.][GabrielBGH]  |
 
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 ## Bibliografia
 
