@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de Relato da análise de tarefas para [Calcular preços e prazos.](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/relato-resultados/preco-prazos/) feito pelo [Grupo 03](https://interacao-humano-computador.github.io/2024.1-Correios/) da disciplina de Interação Humano Computador referente ao site [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de Relato da análise de tarefas para [Pré postagem.](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/relato-resultados/preco-prazos/) feito pelo [Grupo 03](https://interacao-humano-computador.github.io/2024.1-Correios/) da disciplina de Interação Humano Computador referente ao site [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
