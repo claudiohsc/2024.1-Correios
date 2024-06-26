@@ -120,3 +120,4 @@ João observa enquanto seu filho insere os códigos de rastreamento das encomend
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 21/04/2024 | Criação do documento e adição cenários | [Claudio Henrique](https://www.github.com/claudiohsc) e [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://www.github.com/pabloheika) |
+|`1.1`| 26/06/2024 | Atualiza cenário "Certificado Digital" para "Recebimento de Encomendas" | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Gabriel B. Bertolazi](https://github.com/Bertolazi) |
