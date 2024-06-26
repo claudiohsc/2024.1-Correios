@@ -125,7 +125,7 @@ nav:
         - Personas: verificacao_01/grupo/analise_requisitos1/personas.md
         - Cenários: verificacao_01/grupo/analise_requisitos1/cenarios.md
         - Análise de tarefas:
-          - Análise Hierárquica de Tarefas: verificacao_01/grupo/analise_requisitos1/analise_tarefas/hta.md
+          - Análise Hierárquica de Tarefas: verificacao_01/grupo/analise_requisitos1/analise_tarefas/analise-hta.md
           - CMN-GOMS: verificacao_01/grupo/analise_requisitos1/analise_tarefas/goms.md
       - Análise de Requisitos II:
         - Planejamento da Verificação da Análise de Requisitos II: verificacao_01/grupo/analise_requisitos2/planejamento_verificacao.md
