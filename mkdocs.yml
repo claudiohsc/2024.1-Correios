@@ -142,7 +142,7 @@ nav:
               - Gerenciar Minhas Importações: verificacao_01/grupo/DAD/nivel1/analise_tarefas/relato-resultados/gerenciar-importacoes.md
               - Rastrear Encomendas: verificacao_01/grupo/DAD/nivel1/analise_tarefas/relato-resultados/rastrear-encomendas.md
           - Storyboard:
-            - Planejamento da Avaliação: design_avaliacao/nivel_1/analise_dos_storyboards/planej_storyboard.md
+            - Planejamento da Avaliação: verificacao_01/grupo/DAD/nivel1/storyboard/planej_storyboard.md 
             - Planejamento do Relato dos Resultados: design_avaliacao/nivel_1/analise_dos_storyboards/planejamento-relato-storyboard.md
             - Relato dos Resultados:
               - Calcular Preços e Prazos: design_avaliacao/nivel_1/analise_dos_storyboards/Relatos_StoryBoards/Relato_calculo_de_preços.md
