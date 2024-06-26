@@ -152,26 +152,24 @@ pie
 
 |ID| Descrição | Avaliação | Referência| Print|
 |:--:|:--:|:--:|:--:|:----:|
-|1| O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? |  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosDef.png)  |
-|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenarios.png)  |
-|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|6|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 | [Página 50](../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
-|7| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)  |
-|8| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 |  | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
+|1| O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? | Sim | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosDef.png)  |
+|2| O modo para atingir o objetivo está descrito no cenário ? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|4|  As características pessoais dos atores são relevantes ao cenário? | Sim | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenarios.png)  |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|6|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 | Sim | <a href="#ref1">REF1</a>. pg 50 | [Página 50](../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
+|7| O título do cenário é autoexplicativo?	 | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)  |
+|8| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 | Sim | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
 
 
 
-<font size="2"><p style="text-align: center">Fonte: [x](x), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 #### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/).
 
-- ID XX: Descrição
-    - Avaliação: 
-    - Comentário: 
+Não foram encontrados problemas.
 
 ## Cenário 04 - Recebimento de Encomendas 
 
@@ -338,7 +336,7 @@ A seguir, apresentamos a Figura 7 com o gráfico de pizza do sumário total dos 
   }
 }%%
 pie
-    "Sim" : 7
+    "Sim" : 15
     "Não" : 0
     "Incompleto" : 1
     "Não se Aplica" : 0
