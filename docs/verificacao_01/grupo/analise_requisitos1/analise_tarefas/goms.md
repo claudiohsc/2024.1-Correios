@@ -114,7 +114,7 @@ pie
 
 ### Checklists verificação
 
-<font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
+<font size="2"><p style="text-align: center">Tabela 3 - Checklist preenchido na verificação</p></font>
 
 <center>
 
@@ -155,9 +155,9 @@ pie
 ### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
-A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos resultados.
 
-<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+<font size="2"><p style="text-align: center">Figura 2 - Gráfico de pizza do sumário dos resultados.</p></font>
 
 <center>
 
@@ -194,7 +194,7 @@ pie
 
 ### Checklists verificação
 
-<font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
+<font size="2"><p style="text-align: center">Tabela 4 - Checklist preenchido na verificação</p></font>
 
 <center>
 
@@ -235,9 +235,9 @@ pie
 ### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
-A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+A seguir, apresentamos a Figura 3 com o gráfico de pizza do sumário dos resultados.
 
-<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+<font size="2"><p style="text-align: center">Figura 3 - Gráfico de pizza do sumário dos resultados.</p></font>
 
 <center>
 
@@ -274,7 +274,7 @@ pie
 
 ### Checklists verificação
 
-<font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
+<font size="2"><p style="text-align: center">Tabela 5 - Checklist preenchido na verificação</p></font>
 
 <center>
 
@@ -315,9 +315,9 @@ pie
 ### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
-A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+A seguir, apresentamos a Figura 4 com o gráfico de pizza do sumário dos resultados.
 
-<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+<font size="2"><p style="text-align: center">Figura 4 - Gráfico de pizza do sumário dos resultados.</p></font>
 
 <center>
 
@@ -354,7 +354,7 @@ pie
 
 ### Checklists verificação
 
-<font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
+<font size="2"><p style="text-align: center">Tabela 6 - Checklist preenchido na verificação</p></font>
 
 <center>
 
@@ -395,9 +395,9 @@ pie
 ### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
-A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+A seguir, apresentamos a Figura 5 com o gráfico de pizza do sumário dos resultados.
 
-<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+<font size="2"><p style="text-align: center">Figura 5 - Gráfico de pizza do sumário dos resultados.</p></font>
 
 <center>
 
@@ -434,7 +434,7 @@ pie
 
 ### Checklists verificação
 
-<font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
+<font size="2"><p style="text-align: center">Tabela 7 - Checklist preenchido na verificação</p></font>
 
 <center>
 
@@ -475,9 +475,9 @@ pie
 ### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
-A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+A seguir, apresentamos a Figura 6 com o gráfico de pizza do sumário dos resultados.
 
-<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+<font size="2"><p style="text-align: center">Figura 6 - Gráfico de pizza do sumário dos resultados.</p></font>
 
 <center>
 
@@ -513,9 +513,9 @@ pie
 ## Sumário total dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
-A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+A seguir, apresentamos a Figura 7 com o gráfico de pizza do sumário total dos resultados.
 
-<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+<font size="2"><p style="text-align: center">Figura 7 - Gráfico de pizza do sumário total dos resultados.</p></font>
 
 <center>
 
