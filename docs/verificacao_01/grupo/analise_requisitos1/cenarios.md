@@ -190,20 +190,63 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 | 8 | Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente? | sim | [REF2](#ref2). pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
 
 
-
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+
+#### Gravação da Verificação
+
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Idp_qcjeA9s" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<p style="text-align: center">
+    <a href="https://youtu.be/Idp_qcjeA9s"> Link para o vídeo </a>
+</p>
 
 #### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/).
+detalhar problemas
 
-- ID XX: Descrição
-    - Avaliação: 
-    - Comentário: 
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de Cenário para [Recebimento de Encomendas](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/#recebimento-de-encomendas).
 
-sim = 6
-não = 0
-não se aplica = 
+- ID 02: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
+    - Avaliação: incompleto
+    - Comentário: não apresenta pré-condições e nem o tempo 
+- ID 02: O título do cenário é autoexplicativo?
+- Avaliação: incompleto
+- Comentário: é possível entender que se trata do recebimento de encomendas, mas não da alteração do endereço de entrega
+
+### Sumário dos resultados
+
+<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
+A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos resultados.
+
+<font size="2"><p style="text-align: center">Figura 2 - Gráfico de pizza do sumário dos resultados.</p></font>
+
+<div style="text-align: center;">
+
+``` mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+        'primaryColor': '#FFD400',
+        'secondaryColor': '#0083CA',
+        'tertiaryColor': '#CD992B',
+        'pie4': '#00416B',
+        'primaryTextColor': '#8e8e8e',
+        'pieStrokeWidth': '0px',
+        'pieOuterStrokeWidth': '0px',
+        'pieOpacity': '1',
+        'pieSectionTextColor': '#fff',
+        'pieSectionTextSize': '19px'
+    }
+  }
+}%%
+pie
+    "Sim" : 6
+    "Incompleto" : 2
+```
+</div>
 
 ## Cenário 05 - Minhas Importações
 
