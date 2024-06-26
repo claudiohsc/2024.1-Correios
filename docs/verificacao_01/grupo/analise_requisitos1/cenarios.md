@@ -46,31 +46,31 @@ Após as verificações dos itens, os que possuirem resultado negativo serão co
 
 ## Cenário 01 - Cálculo de Preços e prazos
 
-<font size="2"><p style="text-align: center">Tabela 2 - Cenário x </p></font>
+<font size="2"><p style="text-align: center">Tabela 2 - Cenário Cálculo de Preços e prazos </p></font>
 
 
 |ID| Descrição | Avaliação | Referência| Print|
 |:--:|:--:|:--:|:--:|:----:|
-|1| O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? |  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosDef.png)  |
-|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenarios.png)  |
-|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|6|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 | [Página 50](../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
-|7| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)  |
-|8| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 |  | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
+|1| O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? | Sim.  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosDef.png)  |
+|2| O modo para atingir o objetivo está descrito no cenário ? | Sim. | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim. | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|4|  As características pessoais dos atores são relevantes ao cenário? | Sim. | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenarios.png)  |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Não.  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|6|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 | Sim. | <a href="#ref1">REF1</a>. pg 50 | [Página 50](../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
+|7| O título do cenário é autoexplicativo?	 | Sim. | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)  |
+|8| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 | Sim.  | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
 
 
 
-<font size="2"><p style="text-align: center">Fonte: [x](x), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. oliveira][EliasGH], 2024.</p></font>
 
 #### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/).
 
-- ID XX: Descrição
-    - Avaliação: 
-    - Comentário: 
+- ID 05:  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis?
+    - Avaliação: Não.
+    - Comentário: No cenário apenas é descrito o ator Gabriel Anacleto que é uma persona, não apresentando nenhum outro ator especificamente.
 
 ## Cenário 02 - Realização de Pré-Postagem
 
@@ -168,43 +168,41 @@ não se aplica =
 
 |ID| Descrição | Avaliação | Referência| Print|
 |:--:|:--:|:--:|:--:|:----:|
-|1| O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? |  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosDef.png)  |
-|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenarios.png)  |
-|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|6|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 | [Página 50](../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
-|7| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)  |
-|8| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 |  | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
+|1| O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? | Sim | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosDef.png)  |
+|2| O modo para atingir o objetivo está descrito no cenário ? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|4|  As características pessoais dos atores são relevantes ao cenário? | Não | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenarios.png)  |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|6|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 | Sim | <a href="#ref1">REF1</a>. pg 50 | [Página 50](../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
+|7| O título do cenário é autoexplicativo?	 | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)  |
+|8| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 | Sim | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
 
 
 
-<font size="2"><p style="text-align: center">Fonte: [x](x), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 #### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/).
 
-- ID XX: Descrição
-    - Avaliação: 
-    - Comentário:
+Não foram encontrados problemas.
 
 
 ## Cenário 06 - Rastreamento de Encomendas
 
-<font size="2"><p style="text-align: center">Tabela 2 - Cenário x </p></font>
+<font size="2"><p style="text-align: center">Tabela 7 - Cenário Rastreamento de Encomendas </p></font>
 
 
-| ID | Descrição | Avaliação | Referência | Print |
-| --- | --- | --- | --- | --- |
-| 1 | O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? | sim | [REF2](#ref2). pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenariosDef.png) |
-| 2 | O modo para atingir o objetivo está descrito no cenário ? | sim | [REF1](#ref1). pg 49 | [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png) |
-| 3 | O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | incompleto | [REF1](#ref1). pg 49 | [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png) |
-| 4 | As características pessoais dos atores são relevantes ao cenário? | sim | [REF2](#ref2). pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenarios.png) |
-| 5 | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | sim | [REF1](#ref1). pg 49 | [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png) |
-| 6 | Os episódios do cenário seguem uma ordem lógica para atingir o objetivo? | sim | [REF1](#ref1). pg 50 | [Página 50](../../../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
-| 7 | O título do cenário é autoexplicativo? | incomplento | [REF1](#ref1). pg 49 | [Página 49](../../../../../assets/prints_verificacao/claudio/pag49cenarios.png) |
-| 8 | Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente? | sim | [REF2](#ref2). pg 172 | [Página 172](../../../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
+|ID| Descrição | Avaliação | Referência| Print|
+|:--:|:--:|:--:|:--:|:----:|
+|1| O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? | Sim | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosDef.png)  |
+|2| O modo para atingir o objetivo está descrito no cenário ? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|4|  As características pessoais dos atores são relevantes ao cenário? |Incompleto  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenarios.png)  |
+|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |Sim  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
+|6|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 | Sim | <a href="#ref1">REF1</a>. pg 50 | [Página 50](../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
+|7| O título do cenário é autoexplicativo?	 | Sim | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)  |
+|8| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 | Incompleto | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
 
 
 
@@ -214,10 +212,59 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/).
 
-- ID XX: Descrição
-    - Avaliação: 
-    - Comentário: 
+- ID 04,08:  As características pessoais dos atores são relevantes ao cenário? / Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?
+    - Avaliação: Incompleto
+    - Comentário: Nesse caso, a persona escolhida tem uma profissão e ações diferentes no cenário, sendo que na definição das personas ela possui outra profissão.
 
+
+### Gravação da verificação
+
+<!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fClYl_ROj_Y?si=_64KSXmlFqs1lMs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=fClYl_ROj_Y"> Link para o vídeo </a>
+</p>
+
+
+### Sumário dos resultados
+
+<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
+A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+
+<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+
+<center>
+
+``` mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+        'primaryColor': '#FFD400',
+        'secondaryColor': '#0083CA',
+        'tertiaryColor': '#CD992B',
+        'pie4': '#00416B',
+        'primaryTextColor': '#8e8e8e',
+        'pieStrokeWidth': '0px',
+        'pieOuterStrokeWidth': '0px',
+        'pieOpacity': '1',
+        'pieSectionTextColor': '#fff',
+        'pieSectionTextSize': '19px'
+    }
+  }
+}%%
+pie
+    "Sim" : 6
+    "Não" : 0
+    "Incompleto" : 2
+    "Não se Aplica" : 0
+```
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 
 ## Bibliografia
