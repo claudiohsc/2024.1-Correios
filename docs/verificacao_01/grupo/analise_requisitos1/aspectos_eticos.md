@@ -45,7 +45,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 |:--:| --------- | :-------: | :--------: | :---: |
 | **1** | No artefato desenvolvido eles citam evitar causar danos ou consequências negativas aos outros? tais como os perdas de informações, perdas de bens, danos a propriedades, ou impactos ambientais indesejados; respeitar a privacidade dos outros; e honrar a confidenciabilidade das informações; prejudicar ou causar danos a outras pessoas, seus bens, reputação um emprego. | Sim.  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 140](../../../assets/prints_verificacao/pablo/aspectos_eticos/1.jpeg) |
 | **2** | São levados em considerações os princípios de autonomia, beneficência, não maleficiência, justiça e equidade? | Sim. | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 140](../../../assets/prints_verificacao/pablo/aspectos_eticos/2.jpeg) |
-| **3** | Informado os objetivos da pesquisa aos participantes? dizendo exatamente como vai ser a participação deles; informando o que vai ocorrer durante a coleta de dados; o tempo aproximado da coleta; os tipos de dados que serão coletados; e ainda como eles serão analisados. | Sim.| <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/3.jpeg) |
+| **3** | Informado os objetivos da pesquisa aos participantes? dizendo exatamente como vai ser a participação deles; informando o que vai ocorrer durante a coleta de dados; o tempo aproximado da coleta; os tipos de dados que serão coletados; e ainda como eles serão analisados. | Incompleto.| <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/3.jpeg) |
 | **4** | São informados a confiabilidade e a privacidade durante o tratamento dos dados? Tração do como isso será tratado na divulgação dos resultados? | Sim.  | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/4.jpeg) |
 | **5** | É solicitado permissão para gravar voz ou imagem? | Sim. | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/5.jpeg) |
 | **6** | O consentimento livre e esclarecido dos participantes é garantidos através de um termo de consentimento? | Sim. | <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"  | [página 141](../../../assets/prints_verificacao/pablo/aspectos_eticos/6.jpeg) |
@@ -57,6 +57,14 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Elias Faria][EliasGH], 2024.</p></font>
+
+Problemas Encontrados:
+
+ID 03: Informado os objetivos da pesquisa aos participantes? dizendo exatamente como vai ser a participação deles; informando o que vai ocorrer durante a coleta de dados; o tempo aproximado da coleta; os tipos de dados que serão coletados; e ainda como eles serão analisados. | Incompleto.| <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"
+
+- Avaliação: Incompleto.
+- Comentário: É informado apenas que será utlizado os dados obtidos nas entrevistas e em outros métodos, mas não informa como acontecerá as etapas da coleta de dados como: quanto tempo durará a coleta de dados?, tipos de dados coletados e etc. 
+
 
 
 ### Gravação da verificação
