@@ -247,20 +247,14 @@ Na tabela 11, tem-se o planejado das atividades previstas para a primeira parte 
 
 ### Executado
 
-Na tabela 12, tem-se o executado das atividades previstas para a primeira parte da sexta entrga
-
-<font size="2"><p style="text-align: center;">
-    <b>Tabela 12</b> - 
-</p></font> 
-
-*EM BREVE...*
+Na tabela 12, tem-se o executado das atividades previstas para a segunda parte da sexta entrga
 
 ## Entrega 6.2
  
 ### Planejado
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 13</b> - 
+    <b>Tabela 12</b> - 
 </p></font> 
 
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
@@ -278,9 +272,21 @@ Na tabela 12, tem-se o executado das atividades previstas para a primeira parte 
 
 ### Executado
 
+Na tabela 13, tem-se o executado das atividades previstas para segunda parte da sexta entrega.
+
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 14</b> - Executado da entrega 6
+    <b>Tabela 13</b> - 
 </p></font> 
+
+| Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+| --- | --- | --- | --- | --- |
+| Verificação de artefato: Análise de Requisitos I| Início: 25/06 <br> Fim: 26/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi| Início: 26/06 <br> Fim: 26/06 | Gabriel F. e Pablo |
+| Verificação de artefato: Análise de Requisitos II| Início: 25/06 <br> Fim: 26/06  | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi| Início: 26/06 <br> Fim: 26/06 |Ricardo e Claudio |
+| Verificação de artefato: Processo de design| Início: 25/06 <br> Fim: 26/06  | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi| Início: 26/06 <br> Fim: 26/06 |Gabriel B. Bertolazi e Elias |
+| Gravação da apresentação | Início: 26/06 <br> Fim: 26/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 26/06 <br> Fim: 26/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+| Correção pós apresentação | Início: 28/06 <br> Fim: 29/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 28/06 <br> Fim: 28/06 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+
+<font size="2"><p style="text-align: center">Fonte: [Elias Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 *EM BREVE...*
 
