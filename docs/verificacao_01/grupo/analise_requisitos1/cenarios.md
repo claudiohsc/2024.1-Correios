@@ -74,32 +74,76 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Cenário 02 - Realização de Pré-Postagem
 
-<font size="2"><p style="text-align: center">Tabela 2 - Cenário x </p></font>
+<font size="2"><p style="text-align: center">Tabela 2 - Cenário de Pré-Postagem </p></font>
 
+| ID | Descrição | Avaliação | Referência | Print |
+| --- | --- | --- | --- | --- |
+| 1 | O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? | Incompleto | [REF2](#ref2). pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosDef.png) |
+| 2 | O modo para atingir o objetivo está descrito no cenário ? | Sim | [REF1](#ref1). pg 49 | [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png) |
+| 3 | O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? | Sim | [REF1](#ref1). pg 49 | [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png) |
+| 4 | As características pessoais dos atores são relevantes ao cenário? | Sim | [REF2](#ref2). pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenarios.png) |
+| 5 | Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? | Sim | [REF1](#ref1). pg 49 | [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png) |
+| 6 | Os episódios do cenário seguem uma ordem lógica para atingir o objetivo? | Sim | [REF1](#ref1). pg 50 | [Página 50](../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
+| 7 | O título do cenário é autoexplicativo? | Sim | [REF1](#ref1). pg 49 | [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png) |
+| 8 | Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente? | Sim | [REF2](#ref2). pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
 
-|ID| Descrição | Avaliação | Referência| Print|
-|:--:|:--:|:--:|:--:|:----:|
-|1| O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação? |  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosDef.png)  |
-|2| O modo para atingir o objetivo está descrito no cenário ? |  | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|3|  O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo? |  | <a href="#ref1">REF1</a>. pg 49 |   [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|4|  As características pessoais dos atores são relevantes ao cenário? |  | <a href="#ref2">REF2</a>. pg 172 | [Página 172](../../../assets/prints_verificacao/claudio/pag172cenarios.png)  |
-|5|  Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis? |  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)   |
-|6|  Os episódios do cenário seguem uma ordem lógica para atingir o objetivo?	 |  | <a href="#ref1">REF1</a>. pg 50 | [Página 50](../../../assets/prints_verificacao/claudio/pag50cenarios.png) |
-|7| O título do cenário é autoexplicativo?	 |  | <a href="#ref1">REF1</a>. pg 49 |  [Página 49](../../../assets/prints_verificacao/claudio/pag49cenarios.png)  |
-|8| Caso os cenários sejam utilizados em conjunto com personas, os atores dos cenários são as personas elaboradas previamente?	 |  | <a href="#ref2">REF2</a>. pg 172 |  [Página 172](../../../assets/prints_verificacao/claudio/pag172cenariosPersonas.png) |
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
+### Gravação da verificação
 
+<!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
-<font size="2"><p style="text-align: center">Fonte: [x](x), 2024.</p></font>
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7zLTZyF2S1s?si=0OqdsbmYLCfJ5dy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
-#### Problemas Encontrados
+<p style="text-align: center">
+    <a href="https://youtu.be/7zLTZyF2S1s?si=0OqdsbmYLCfJ5dy8"> Link para o vídeo </a>
+</p>
+
+### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/).
 
-- ID XX: Descrição
-    - Avaliação: 
-    - Comentário: 
+*   ID 1: O cenário possui os elementos básicos: ambiente ou contexto, atores, objetivos, planejamento, ações, eventos e avaliação?
+    *   Avaliação: Incompleto
+    *   Comentário: Durante a leitura pude constar que há avaliação quanto uma etapa de preenchimento, porém não há avaliação final quanto à satisfação ao usar a ferramenta de pré postagem.
 
+### Sumário dos resultados
+
+<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
+A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos resultados.
+
+<font size="2"><p style="text-align: center">Figura 2 - Gráfico de pizza do sumário dos resultados.</p></font>
+
+<center>
+
+``` mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+        'primaryColor': '#FFD400',
+        'secondaryColor': '#0083CA',
+        'tertiaryColor': '#CD992B',
+        'pie4': '#00416B',
+        'primaryTextColor': '#8e8e8e',
+        'pieStrokeWidth': '0px',
+        'pieOuterStrokeWidth': '0px',
+        'pieOpacity': '1',
+        'pieSectionTextColor': '#fff',
+        'pieSectionTextSize': '19px'
+    }
+  }
+}%%
+pie
+    "Sim" : 7
+    "Incompleto" : 1
+```
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## Cenário 03 - Loja Online
 
@@ -262,6 +306,44 @@ pie
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+## Sumário total dos resultados
+
+<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
+A seguir, apresentamos a Figura 7 com o gráfico de pizza do sumário total dos resultados.
+
+<font size="2"><p style="text-align: center">Figura 7 - Gráfico de pizza do sumário total dos resultados.</p></font>
+
+<center>
+
+``` mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+        'primaryColor': '#FFD400',
+        'secondaryColor': '#0083CA',
+        'tertiaryColor': '#CD992B',
+        'pie4': '#00416B',
+        'primaryTextColor': '#8e8e8e',
+        'pieStrokeWidth': '0px',
+        'pieOuterStrokeWidth': '0px',
+        'pieOpacity': '1',
+        'pieSectionTextColor': '#fff',
+        'pieSectionTextSize': '19px'
+    }
+  }
+}%%
+pie
+    "Sim" : 7
+    "Não" : 0
+    "Incompleto" : 1
+    "Não se Aplica" : 0
+```
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
 
 
 ## Bibliografia
