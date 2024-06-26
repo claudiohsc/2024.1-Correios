@@ -70,13 +70,21 @@ Quando Erivaldo entra no site dos correios ele entra nas opções de compra e na
 
 Erivaldo ao conclui ao final de tudo que o serviço da loja online o auxiliou, mas o mesmo não ficou muito satisfeito quanto a usabilidade e visual da página, pois a mesma tem um estilo ultrapassado, itens mal dispostos, recursos que não funcioman, redirecionamentos desnecessários, falta liberdade para o usuário nas etapas de finalização de compra. Devido a experiência que Erivaldo obteve com o site da loja o mesmo se ve totalmente contrário ao pensamento de voltar a utilizar o site.
 
-### Emitir certificados 
+### Recebimento de encomendas
 
 Atores: [Erivaldo Virginio Silva](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/personas/)
 
-Erivaldo, um advogado de 30 anos, precisava obter um certificado digital para acessar alguns serviços online relacionados ao seu trabalho. Ele decidiu ir até uma agência dos Correios para solicitar o documento. Na agência, o atendente informou a Erivaldo que, para obter o certificado, ele precisaria realizar o processo pelo site dos Correios. Seguindo as orientações, Erivaldo acessou o site e iniciou o procedimento. Ao navegar pelo site, Erivaldo se sentiu um pouco frustrado. Ele achou a interface não muito intuitiva e o processo para obter o certificado muito demorado e complicado. Erivaldo precisou preencher vários formulários, fazer uploads de documentos e seguir uma série de etapas antes de concluir a solicitação.
+Erivaldo, um advogado de 30 anos, estava aguardando uma encomenda importante relacionada ao seu trabalho. Ele decidiu mudar o local de recebimento, optando por retirar a encomenda em um locker dos Correios ao invés de recebê-la em casa, pois isso se encaixaria melhor em sua agenda ocupada.
 
-Durante todo o processo, Erivaldo ficou impaciente, pois esperava que o site fosse mais fácil de usar e que o procedimento fosse mais ágil. Após alguns minutos de navegação e preenchimento de informações, ele finalmente conseguiu realizar a solicitação do certificado digital. Mesmo tendo concluído a operação, Erivaldo não ficou totalmente satisfeito com a experiência. Ele acreditava que o site dos Correios poderia ser mais intuitivo e simplificar o processo de obtenção do certificado digital, tornando-o mais eficiente e acessível para os usuários.
+Erivaldo foi até a agência dos Correios para obter informações sobre como proceder com a alteração. O atendente informou que o processo poderia ser feito através do site dos Correios. Então, Erivaldo voltou para casa e acessou o site, pronto para realizar a mudança.
+
+No entanto, ao navegar pelo site, Erivaldo novamente se deparou com uma interface pouco intuitiva. Ele teve dificuldade em encontrar a opção para alterar o local de recebimento da encomenda. Depois de algum tempo explorando o site, ele finalmente localizou a funcionalidade e iniciou o processo.
+
+Para realizar a alteração, Erivaldo precisou inserir várias informações, incluindo o código de rastreamento da encomenda e seus dados pessoais. Além disso, ele precisou selecionar o locker dos Correios de sua preferência e confirmar a mudança. O processo envolveu preencher formulários, verificar dados e aguardar a confirmação da alteração.
+
+Durante todo o procedimento, Erivaldo se sentiu frustrado e impaciente, desejando que o site fosse mais fácil de usar e que o processo de alteração do local de recebimento fosse mais rápido e simplificado. Após alguns minutos, ele finalmente conseguiu concluir a solicitação e recebeu a confirmação de que sua encomenda seria redirecionada para o locker escolhido.
+
+Embora Erivaldo tenha conseguido realizar a mudança, ele não ficou totalmente satisfeito com a experiência. Ele acreditava que o site dos Correios deveria ser mais intuitivo e que o procedimento para alterar o local de recebimento de encomendas deveria ser mais ágil e menos complicado, proporcionando uma experiência mais eficiente e acessível para os usuários.
 
 
 ### Minhas importações
