@@ -29,7 +29,7 @@ Este artefato foi produzido por [Gabriel B. Bertolazi][GabrielBGH] e verificado 
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 ## Apresentação dos Dados
 
@@ -58,7 +58,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabrie F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias][EliasGH], 2024.</p></font>
 
 
 ### Problemas Encontrados
