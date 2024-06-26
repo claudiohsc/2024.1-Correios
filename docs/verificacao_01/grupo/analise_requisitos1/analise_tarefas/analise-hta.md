@@ -2,7 +2,8 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Aspectos Éticos de Pesquisas Envolvendo Pessoas](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/aspectos-eticos/) feito pelo [Grupo 03](https://interacao-humano-computador.github.io/2024.1-Correios/) da disciplina de Interação Humano Computador referente ao site [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de [Análise Hierárquica de Tarefas (HTA)
+](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/hta/) feito pelo [Grupo 03](https://interacao-humano-computador.github.io/2024.1-Correios/) da disciplina de Interação Humano Computador referente ao site [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
