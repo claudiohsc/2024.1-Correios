@@ -87,17 +87,17 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID 04: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 04: Os objetivos e operações são utilizados de maneira correta na análise?
+    - Avaliação: Incompleto.
+    - Comentário: Os objetivos e operações são usados de forma correta tirando somente o elemento "2.2.1" que é o nível mais baixo do subobjetivo, mas não esta com a estrutura correta que descreve uma operação.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 05: A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo?
+    - Avaliação: Não.
+    - Comentário: A operação 2.2.1 é apresentada como objetivo.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 10: É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema?
+    - Avaliação: Não.
+    - Comentário: Não é citado em nenhum lugar do artefato a utilização de um critério de parada de decomposição na analise de tarefas HTA.
 
 ## Sumário dos resultados
 
