@@ -50,7 +50,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
     <a href="link"> Link para o vídeo </a>
 </p>
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
@@ -58,7 +58,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
     - Avaliação:
     - Comentário:
 
-## Sumário dos resultados
+### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
