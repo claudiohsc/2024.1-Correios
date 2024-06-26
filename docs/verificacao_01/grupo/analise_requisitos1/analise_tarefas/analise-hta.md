@@ -503,16 +503,16 @@ pie
 
 |ID| Descrição | Avaliação | Referência|Print|
 |:--:|:--:|:--:|:--:|:--:|
-|01| O diagrama HTA se inicia com as definições dos objetivos das tarefas?||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|02| O diagrama HTA apresenta objetivos e operações(ações realizadas pelo usuário)? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
-|03| O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|04| Os objetivos e operações são utilizados de maneira correta na análise? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
-|05| A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] | 
-|06| São utilizadas as relações de: seleção, sequencial ou paralelo nos subobjetivos que compõem o plano? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|07| As relações entre os subobjetivos são utilizadas de maneira correta? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|08| É apresentada a representação da análise em tabela?  ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180| [Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
-|09| As operações são especificadas com: inputs, actions e feedbacks? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
-|10| É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs.180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+|01| O diagrama HTA se inicia com as definições dos objetivos das tarefas?|Sim|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|02| O diagrama HTA apresenta objetivos e operações(ações realizadas pelo usuário)? |Sim|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
+|03| O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas? |Sim|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|04| Os objetivos e operações são utilizados de maneira correta na análise? |Sim|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
+|05| A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo? |Sim|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] | 
+|06| São utilizadas as relações de: seleção, sequencial ou paralelo nos subobjetivos que compõem o plano? |Sim|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|07| As relações entre os subobjetivos são utilizadas de maneira correta? |Sim|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+|08| É apresentada a representação da análise em tabela?  |Sim|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180| [Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+|09| As operações são especificadas com: inputs, actions e feedbacks? |Sim|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+|10| É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema? |Não se aplica|<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs.180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
 
 
 [Pg. 179]:../../../../assets/prints_verificacao/elias/hta/179_1.png
@@ -528,28 +528,22 @@ pie
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
-<div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MG3WecUuYv8?si=TvyWhhcJjEMfD6Dq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://www.youtube.com/watch?v=MG3WecUuYv8"> Link para o vídeo </a>
 </p>
 
 ## Problemas Encontrados
 
-<!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
-
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+Não foram encontrados problemas no HTA de Rastrear Encomendas. Seguiu a bibliografia corretamente e está bem implementado.
 
 ## Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
-A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+A seguir, apresentamos a Figura 6 com o gráfico de pizza do sumário dos resultados.
 
-<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+<font size="2"><p style="text-align: center">Figura 6 - Gráfico de pizza do sumário dos resultados.</p></font>
 
 <center>
 
@@ -572,15 +566,15 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
+    "Sim" : 9
+    "Não" : 0
+    "Incompleto" : 0
     "Não se Aplica" : 1
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 
 
