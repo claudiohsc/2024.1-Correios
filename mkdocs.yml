@@ -117,7 +117,7 @@ nav:
               - Planejamento do Relato do Protótipo de Papel: verificacao_01/grupo+1/etapa_03/nivel_02/prototipo_de_papel/planejamento_do_relato.md
     - Grupo 3:
       - Análise de Requisitos:
-        - Aspectos Éticos: verificacao_01/grupo/template.md
+        - Aspectos Éticos: verificacao_01/grupo/analise_requisitos1/aspectos_eticos.md
         - Perfil de Usuário: verificacao_01/grupo/analise_requisitos1/perfil_de_usuario.md
         - Personas: verificacao_01/grupo/analise_requisitos1/personas.md
         - Cenários: verificacao_01/grupo/template.md
@@ -127,7 +127,7 @@ nav:
       - Análise de Requisitos II:
         - Características da plataforma para o projeto: verificacao_01/grupo/analise_requisitos2/caracteristicas_plataforma.md
         - Princípios Gerais: verificacao_01/grupo/analise_requisitos2/principios_gerais.md
-        - Metas de Usabilidade: verificacao_01/grupo/template.md
+        - Metas de Usabilidade: verificacao_01/grupo/metas_de_usabilidade.md
         - Guia de Estilo: verificacao_01/grupo/analise_requisitos2/guia-de-estilo.md
       - Design, Avaliação e Desenvolvimento:
         - Nível 1:
