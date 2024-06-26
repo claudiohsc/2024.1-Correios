@@ -38,37 +38,37 @@ Na Tabela 2 temos a aplicação do checklist para os Planejamento da Avaliação
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
-| **1** | Foi usado o framework DECIDE para realizar o planejamento? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 280](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/1.jpeg) |
-| **2** | Foram elaboradas perguntas que detalhem os objetivos da avaliação? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 265](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/2%20e%203.jpeg) |
-| **3** | A elaboração de perguntas considerou o público-alvo das atividades? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 265](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/2%20e%203.jpeg) |
-| **4** | Escolheram os métodos de avaliação mais adequados para atingir os objetivos esperados, considerando prazo, orçamento, equipamentos disponíveis e experiência dos avaliadores? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 264](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/4.jpeg) |
-| **5** | Foram seguidas as atividades básicas como método na avaliação incluindo preparação, coleta de dados, interpretação, consolidação e relato dos resultados? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 273](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/5.jpeg) |
-| **6** | No caso de a avaliação encontrar problemas ou oportunidades de melhorias foram planejados um reprojeto do sistema? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 273](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/6.jpeg) |
-| **7** | O planejamento da avaliação envolve as questões práticas, que incluem alocar pessoal, recursos e equipamentos, preparar o material de apoio, preparação do ambiente de teste, a realização de um teste-piloto, recrutamento dos participantes e as questões éticas? |   | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 275](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/7.jpeg) |
+| **1** | Foi usado o framework DECIDE para realizar o planejamento? | Sim  | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 280](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/1.jpeg) |
+| **2** | Foram elaboradas perguntas que detalhem os objetivos da avaliação? | Sim  | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 265](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/2%20e%203.jpeg) |
+| **3** | A elaboração de perguntas considerou o público-alvo das atividades? | Sim  | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 265](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/2%20e%203.jpeg) |
+| **4** | Escolheram os métodos de avaliação mais adequados para atingir os objetivos esperados, considerando prazo, orçamento, equipamentos disponíveis e experiência dos avaliadores? | Sim  | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 264](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/4.jpeg) |
+| **5** | Foram seguidas as atividades básicas como método na avaliação incluindo preparação, coleta de dados, interpretação, consolidação e relato dos resultados? | Sim  | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 273](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/5.jpeg) |
+| **6** | No caso de a avaliação encontrar problemas ou oportunidades de melhorias foram planejados um reprojeto do sistema? | Não  | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 273](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/6.jpeg) |
+| **7** | O planejamento da avaliação envolve as questões práticas, que incluem alocar pessoal, recursos e equipamentos, preparar o material de apoio, preparação do ambiente de teste, a realização de um teste-piloto, recrutamento dos participantes e as questões éticas? | Sim  | [1.](#ref1) "Capítulo 11 - Planejamento da Avaliação de IHC" | [página 275](../../../../../assets/prints_verificacao/pablo/planejamento_avaliacao_hta/7.jpeg) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo][RicardoGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8l0lFE-XOvs?si=JrFYpeUFfHarLH1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://youtu.be/8l0lFE-XOvs?si=ubZhnOm6Zxxga_pq"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 06: No caso de a avaliação encontrar problemas ou oportunidades de melhorias foram planejados um reprojeto do sistema?
+    - Avaliação: Não
+    - Comentário: Não é citado o reprojeto caso tenha erros na avaliação
 
 ### Sumário dos resultados
 
@@ -98,15 +98,15 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 6
+    "Não" : 1
+    "Incompleto" : 0
+    "Não se Aplica" : 0
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo][RicardoGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ## Bibliografia
 
