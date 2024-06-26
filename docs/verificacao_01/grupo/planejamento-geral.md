@@ -25,10 +25,10 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 |Análise de Requisitos 1| Cenários | `1.0`|21/05/2024|  [Claudio H][ClaudioGH] e   [Gabriel F.][GabrielFGH] |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
 |Análise de Requisitos 1| Análise tarefas - HTA	 | `1.1`|01/06/2024| [Gabriel F.][GabrielFGH] e [Ricardo A.][RicardoGH]  |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
 |Análise de Requisitos 1| Análise tarefas - GOMS | `1.1`|03/06/2024|[Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
-|Análise de Requisitos 2| Princípios gerais do projeto | `1.4`|16/05/2024| Giovana Barbosa | [Ricardo A.][RicardoGH] |
-|Análise de Requisitos 2| Metas usabilidade | `1.2`|20/05/2024| Rayene Almeida |[Claudio H][ClaudioGH] |
-|Análise de Requisitos 2| Guia de estilo | `1.2`|18/05/2024| Rayene Almeida |[Elias F.][EliasGH]  |
-|Análise de Requisitos 2| Características da plataforma | `1.0`|11/05/2024| João Pedro |  [Gabriel B.][GabrielBGH] |
+|Análise de Requisitos 2| Princípios gerais do projeto | `1.0`|12/05/2024|  [Claudio H][ClaudioGH] e [Elias F.][EliasGH] | [Gabriel F.][GabrielFGH]|
+|Análise de Requisitos 2| Metas usabilidade | `1.0`|12/05/2024| [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Elias F.][EliasGH] |
+|Análise de Requisitos 2| Guia de estilo | `1.0`|10/05/2024| [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |[Elias F.][EliasGH]  |
+|Análise de Requisitos 2| Características da plataforma | `1.0`|13/05/2024| [Gabriel B.][GabrielBGH] e [Pablo S.][PabloGH] |  [Pablo S.][PabloGH] |
 |Design, avaliação e desenvolvimento| N1 - AT - Planejamento da avaliação | `1.2`|24/05/2024| Raissa Andrade | [Gabriel F.][GabrielFGH]  |
 |Design, avaliação e desenvolvimento| N1 - AT - Planejamento do relato | `1.1`|27/05/2024| Giovana Barbosa |  [Pablo S.][PabloGH]  |
 |Design, avaliação e desenvolvimento| N1 - AT - Relato dos resultados | `1.0`|29/05/2024| Giovana Barbosa | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]  |
