@@ -43,39 +43,50 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <center>
 
+
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :---: |
-| **1** | Nos relatos, tem-se os objetivos das avaliações? |  | <a href="#ref1">1</a>  | [pg 318](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
-| **2** | Possui uma breve descrição do método de prototipação de papel? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png)  | 
-| **3** | O número e o perfil dos avaliadores e dos participantes presentes na avaliação? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
-| **4** | Possui as tarefas realizadas pelos participantes durante o método de avaliação em questão? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
-| **5** | Tem-se duas listas de usabilidade? Uma com os problemas corrigidos e uma com os problemas ainda não corrigidos? | | <a href="#ref1">1</a> | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
-| **6** | Essas listas possuem o local onde ocorreu a avaliação? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
-| **7** | Essas listas possuem quais fatores de usabilidade foram prejudicados? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
-| **8** | Essas listas possuem a descrição e a justificativa dos problemas? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
-| **9** | A lista com os problemas de usabilidade já resolvidos possui a correção que foi realizada no protótipo de papel? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
-| **10** | A lista com os problemas de usabilidade já corrigidos indica se o problema voltou a ocorrer após a correção? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
-| **11** | A lista com com os problemas de usabilidade ainda não corrigidos possui uma prioridade para correção? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
-| **12** | A lista com com os problemas de usabilidade ainda não corrigidos possui as sugestões para correção? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
-| **13** | A lista com com os problemas de usabilidade ainda não corrigidos possui indicações de partes do sistema que podem ser mais bem elaboradas? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **1** | Nos relatos, tem-se os objetivos das avaliações? | Sim | <a href="#ref1">1</a>  | [pg 318](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **2** | Possui uma breve descrição do método de prototipação de papel? | Sim | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png)  | 
+| **3** | O número e o perfil dos avaliadores e dos participantes presentes na avaliação? | Sim | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **4** | Possui as tarefas realizadas pelos participantes durante o método de avaliação em questão? | Incompleto | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **5** | Tem-se duas listas de usabilidade? Uma com os problemas corrigidos e uma com os problemas ainda não corrigidos? | Sim| <a href="#ref1">1</a> | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **6** | Essas listas possuem o local onde ocorreu a avaliação? | Sim | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **7** | Essas listas possuem quais fatores de usabilidade foram prejudicados? |Sim  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **8** | Essas listas possuem a descrição e a justificativa dos problemas? |Sim  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **9** | A lista com os problemas de usabilidade já resolvidos possui a correção que foi realizada no protótipo de papel? | Sim | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **10** | A lista com os problemas de usabilidade já corrigidos indica se o problema voltou a ocorrer após a correção? | Não | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **11** | A lista com com os problemas de usabilidade ainda não corrigidos possui uma prioridade para correção? |Sim  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **12** | A lista com com os problemas de usabilidade ainda não corrigidos possui as sugestões para correção? |Sim  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **13** | A lista com com os problemas de usabilidade ainda não corrigidos possui indicações de partes do sistema que podem ser mais bem elaboradas? | Não | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Cláudio][ClaudioGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Cláudio Henrique][ClaudioGH], 2024.</p></font>
 
 ### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKxxcl4EYf8?si=qFTWCvmG_B6zvRnJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[Link para o vídeo](https://www.youtube.com/watch?v=aKxxcl4EYf8)
 
 ## Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 04: Possui as tarefas realizadas pelos participantes durante o método de avaliação em questão?
+    - Avaliação: Incompleto
+    - Comentário: Não possui uma explicação de quais tarefas o usuário realizou no protótipo de papel.
+
+- ID 10:  A lista com os problemas de usabilidade já corrigidos indica se o problema voltou a ocorrer após a correção?
+    - Avaliação: Não
+    - Comentário: Não possui uma explicação se o problema voltou a ocorrer ou não.
+
+- ID 13: A lista com com os problemas de usabilidade ainda não corrigidos possui indicações de partes do sistema que podem ser mais bem elaboradas?
+    - Avaliação: Não
+    - Comentário: Não possui indicações de partes que podem ser melhor elaboradas, o que seria interessante devido as sugestões do usuário.
 
 ## Sumário dos resultados
 
@@ -105,15 +116,15 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 1
-    "Não" : 1
+    "Sim" : 10
+    "Não" : 2
     "Incompleto" : 1
-    "Não se Aplica" : 1
+    "Não se Aplica" : 0
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 ## Bibliografia
 
