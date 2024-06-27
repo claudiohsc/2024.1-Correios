@@ -73,7 +73,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 ### Gravação da verificação
 
-<!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
+<!-- para o iframe do vídeo, bote width = 560 e height = 315
 
 <div style="text-align: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -82,6 +82,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <p style="text-align: center">
     <a href="link"> Link para o vídeo </a>
 </p>
+ -->
 
 ## Problemas Encontrados
 

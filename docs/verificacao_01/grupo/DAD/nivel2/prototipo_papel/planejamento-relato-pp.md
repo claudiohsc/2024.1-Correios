@@ -36,11 +36,11 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :---: | 
-| **1** | Está descrito os objetivos da avaliação? |  | <a href="#ref1">1</a> | [pg 318](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20318.jpeg) |
-| **2** | Apresenta uma breve descrição do método de observação por protótipo de papel? |  | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
-| **3** | Será apresentado o número e o perfil tanto dos avaliadores quanto dos participantes? |  | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
-| **4** | Prevê a descrição das tarefas que cada participante realizou? |  | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
-| **5** | Prevê uma lista com os problemas encontrados durante a avaliação e reprojeto (local no protótipo, qual meta de usabilidade foi prejudicada, descrição, justificativa, correções realizadas e se houve persistência dos problemas)? |  | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
+| **1** | Está descrito os objetivos da avaliação? | Incompleto | <a href="#ref1">1</a> | [pg 318](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20318.jpeg) |
+| **2** | Apresenta uma breve descrição do método de observação por protótipo de papel? | Sim | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
+| **3** | Será apresentado o número e o perfil tanto dos avaliadores quanto dos participantes? | Sim | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
+| **4** | Prevê a descrição das tarefas que cada participante realizou? | Sim | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
+| **5** | Prevê uma lista com os problemas encontrados durante a avaliação e reprojeto (local no protótipo, qual meta de usabilidade foi prejudicada, descrição, justificativa, correções realizadas e se houve persistência dos problemas)? | Incompleto | <a href="#ref1">1</a> | [pg 319](../../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Papel)%20Planejamento%20do%20Relato%20ref%20-%20o%20relato%20deve%20conter%20pag%20319.jpeg) |
 
 </center>
 
@@ -51,20 +51,24 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-JBe2ndeNdY?si=n3m877KoIo4bzGo1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://youtu.be/-JBe2ndeNdY"> Link para o vídeo </a>
 </p>
 
 ## Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 01: Está descrito os objetivos da avaliação?
+    - Avaliação: Incompleto.
+    - Comentário: O artefato prevê que terá os objetivos, mas não descreve eles.
+
+- ID 05: Prevê uma lista com os problemas encontrados durante a avaliação e reprojeto (local no protótipo, qual meta de usabilidade foi prejudicada, descrição, justificativa, correções realizadas e se houve persistência dos problemas)?
+    - Avaliação: Incompleto.
+    - Comentário: O artefao não prevê um reprojeto caso seja necessário.
 
 ## Sumário dos resultados
 
@@ -94,10 +98,10 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 3
+    "Não" : 0
+    "Incompleto" : 2
+    "Não se Aplica" : 0
 ```
 
 </center>
