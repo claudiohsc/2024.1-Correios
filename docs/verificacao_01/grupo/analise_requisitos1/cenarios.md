@@ -64,21 +64,6 @@ Após as verificações dos itens, os que possuirem resultado negativo serão co
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. oliveira][EliasGH], 2024.</p></font>
 
-https://youtube.com/video/IML64DyoiPs
-
-### Gravação da verificação
-
-<!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
-
-<div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/IML64DyoiPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-<p style="text-align: center">
-    <a href="https://youtube.com/video/IML64DyoiPs"> Link para o vídeo </a>
-</p>
-
-
 #### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/).
@@ -186,6 +171,14 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 Não foram encontrados problemas.
 
+### Grvação verificação
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GJUTFmMmx7U?si=QyO_i3CRdqCg5GTl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
 ## Cenário 04 - Recebimento de Encomendas 
 
 <font size="2"><p style="text-align: center">Tabela 2 - Cenário x </p></font>
@@ -207,11 +200,11 @@ Não foram encontrados problemas.
 
 #### Gravação da Verificação
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GJUTFmMmx7U?si=QyO_i3CRdqCg5GTl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<center>
 
-<p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=ntXGajFrB_I"> Link para o vídeo </a>
-</p>
+<iframe width="880" height="495" src="https://www.youtube.com/embed/ntXGajFrB_I" title="(Entrega 6.2) Verificação: Cenários - Receber Encomendas (Editar)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
 
 #### Problemas Encontrados
 
@@ -280,52 +273,11 @@ A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
-#### Gravação da Verificação
-
-<div style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/klwUVDzgPLM?si=s68MpxRCamFhl0Lv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-<p style="text-align: center">
-    <a href="https://youtu.be/klwUVDzgPLM"> Link para o vídeo </a>
-</p>
-
 #### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/).
 
 Não foram encontrados problemas.
-
-### Sumário dos resultados
-
-<font size="2"><p style="text-align: center">Figura 2 - Gráfico de pizza do sumário dos resultados.</p></font>
-
-<div style="text-align: center;">
-    ``` mermaid
-    %%{
-    init: {
-        'theme': 'base',
-        'themeVariables': {
-            'primaryColor': '#FFD400',
-            'secondaryColor': '#0083CA',
-            'tertiaryColor': '#CD992B',
-            'pie4': '#00416B',
-            'primaryTextColor': '#8e8e8e',
-            'pieStrokeWidth': '0px',
-            'pieOuterStrokeWidth': '0px',
-            'pieOpacity': '1',
-            'pieSectionTextColor': '#fff',
-            'pieSectionTextSize': '19px'
-        }
-    }
-    }%%
-    pie
-        "Sim" : 7
-        "Não" : 1
-    ```
-</div>
-
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 
 ## Cenário 06 - Rastreamento de Encomendas

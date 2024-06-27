@@ -64,11 +64,11 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xJOyV1n45d8?si=ovzUPsofDtZFyVui" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
-</p>
+</center>
 
 ## Problemas Encontrados
 
