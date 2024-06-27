@@ -114,8 +114,6 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 #### Problemas Encontrados
 
-detalhar problemas
-
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de Cenário para [Recebimento de Encomendas](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/#recebimento-de-encomendas).
 
 - ID 01: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
