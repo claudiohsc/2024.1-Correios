@@ -641,7 +641,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [][] |
+| `1.0`  | 25/06/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Gabriel B.][GabrielBGH] |
 | `1.1`  | 27/06/2024 | Conserta Indíce, fontes, links e gráifcos | [Gabriel F. J. Silva][GabrielFGH] | [][] |
 
 [ClaudioGH]: https://github.com/claudiohsc

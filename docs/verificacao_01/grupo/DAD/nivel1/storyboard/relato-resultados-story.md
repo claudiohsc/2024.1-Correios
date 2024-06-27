@@ -46,19 +46,19 @@ Abaixo temos as tabelas de 2 a 7 com as listas verificadas para cada storyboard 
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
-| **1** | Foi buscado recorrência nos resultados para distinguir características representativas do grupo? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/1.jpeg) |
+| **1** | Foi buscado recorrência nos resultados para distinguir características representativas do grupo? | Sim.   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/1.jpeg) |
 | **2** | Na consolidação dos resultados foram endereçados novamente as questões que motivaram os estudos buscando respondê-las ou justificar de alguma forma uma resposta não encontrada? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/2.jpeg) |
-| **3** | Foram levadas em considerações fatores que prejudicam a qualidade e o uso dos dados? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/3.jpeg) |
+| **3** | Foram levadas em considerações fatores que prejudicam a qualidade e o uso dos dados? | Sim.   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/3.jpeg) |
 | **4** | Quando não encontrado problemas durante a avaliação não foram afirmados categoricamente que o storyboard tenha alta qualidade, mas sim que neste planejamento de avaliação não foram revelados problemas? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/4.jpeg) |
-| **5** | Há objetivos e escopo da avaliação? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/5.jpeg) |
-| **6** | Há forma como a avaliação foi realizada? (Método de avaliação empregado) |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/6.jpeg) |
-| **7** | É informada a quantidade de participantes? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
-| **8** | É informado o perfil do usuário dos participantes? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
-| **9** | São informadas as funções dos participantes? (Avaliadores e entrevistados) |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
-| **10** | Há um sumário dos dados coletados, incluindo tabelas e gráficos? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/10.jpeg) |
-| **11** | Há o relato da interpretação e análise dos dados? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/11.jpeg) |
-| **12** | Há uma lista dos problemas encontrados? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/12.jpeg) |
-| **13** | Existe um planejamento para o reprojeto do storyboard? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/13.jpeg) |
+| **5** | Há objetivos e escopo da avaliação? |  Sim.  | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/5.jpeg) |
+| **6** | Há forma como a avaliação foi realizada? (Método de avaliação empregado) |  Sim.  | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/6.jpeg) |
+| **7** | É informada a quantidade de participantes? |  Sim.  | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
+| **8** | É informado o perfil do usuário dos participantes? | Sim.   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
+| **9** | São informadas as funções dos participantes? (Avaliadores e entrevistados) | Sim.   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
+| **10** | Há um sumário dos dados coletados, incluindo tabelas e gráficos? |  Sim.  | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/10.jpeg) |
+| **11** | Há o relato da interpretação e análise dos dados? | Sim.   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/11.jpeg) |
+| **12** | Há uma lista dos problemas encontrados? |  Sim.  | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/12.jpeg) |
+| **13** | Existe um planejamento para o reprojeto do storyboard? | Sim.   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/13.jpeg) |
 
 </center>
 
@@ -69,11 +69,11 @@ Abaixo temos as tabelas de 2 a 7 com as listas verificadas para cada storyboard 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLy6hlCyBC58oRa-71RzKUpsPNZthYWjow" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://www.youtube.com/playlist?list=PLy6hlCyBC58oRa-71RzKUpsPNZthYWjow"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
