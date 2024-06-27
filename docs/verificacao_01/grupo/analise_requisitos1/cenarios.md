@@ -209,7 +209,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 - ID 02: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
     - Avaliação: incompleto
     - Comentário: não apresenta pré-condições e nem o tempo 
-- ID 02: O título do cenário é autoexplicativo?
+- ID 07: O título do cenário é autoexplicativo?
 - Avaliação: incompleto
 - Comentário: é possível entender que se trata do recebimento de encomendas, mas não da alteração do endereço de entrega
 
