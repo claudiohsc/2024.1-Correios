@@ -326,18 +326,18 @@ pie
 
 <center>
 
-|ID| Descrição | Avaliação | Referência|Print|
-|:--:|:--:|:--:|:--:|:--:|
-|01| O diagrama HTA se inicia com as definições dos objetivos das tarefas?| | <a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|02| O diagrama HTA apresenta objetivos e operações(ações realizadas pelo usuário)? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
-|03| O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|04| Os objetivos e operações são utilizados de maneira correta na análise? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179| [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2]|
-|05| A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] | 
-|06| São utilizadas as relações de: seleção, sequencial ou paralelo nos subobjetivos que compõem o plano? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|07| As relações entre os subobjetivos são utilizadas de maneira correta? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179|[Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
-|08| É apresentada a representação da análise em tabela?  ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180| [Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
-|09| As operações são especificadas com: inputs, actions e feedbacks? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs. 179 e 180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
-|10| É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema? ||<a href="#ref1"> REF1 </a>. Cap. 8.4.1 - Pgs.180|[Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+| ID | Descrição | Avaliação | Referência | Print |
+| --- | --- | --- | --- | --- |
+| 01 | O diagrama HTA se inicia com as definições dos objetivos das tarefas? | sim | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+| 02 | O diagrama HTA apresenta objetivos e operações(ações realizadas pelo usuário)? | sim | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+| 03 | O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas? | incompleto | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+| 04 | Os objetivos e operações são utilizados de maneira correta na análise? | incompleto | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+| 05 | A análise apresenta uma operação nos níveis mais baixos de cada subobjetivo? | sim | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+| 06 | São utilizadas as relações de: seleção, sequencial ou paralelo nos subobjetivos que compõem o plano? | sim | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+| 07 | As relações entre os subobjetivos são utilizadas de maneira correta? | incompleto | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 | [Pg. 179][Pg. 179] e [Pg. 179.2][Pg. 179.2] |
+| 08 | É apresentada a representação da análise em tabela? | sim | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 e 180 | [Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+| 09 | As operações são especificadas com: inputs, actions e feedbacks? | incompleto | [REF1](#ref1) . Cap. 8.4.1 - Pgs. 179 e 180 | [Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
+| 10 | É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema? | não | [REF1](#ref1) . Cap. 8.4.1 - Pgs.180 | [Pg. 179.2][Pg. 179.2] e [Pg. 180][Pg. 180] |
 
 
 [Pg. 179]:../../../../assets/prints_verificacao/elias/hta/179_1.png
@@ -346,7 +346,7 @@ pie
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
 
 ### Gravação da verificação
@@ -354,20 +354,34 @@ pie
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oQH7CAcIT_Y" title="(Entrega 6.2) Verificação: HTA - Receber Encomendas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://www.youtube.com/watch?v=oQH7CAcIT_Y"> Link para o vídeo </a>
 </p>
 
 ## Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 03: O diagrama HTA realiza de maneira correta a decomposição dos objetivos das tarefas?
+    - Avaliação: incompleto
+    - Comentário: as operações/objetivos 2.2. 4.1, 2.2.2 e 4.2 estão incorretos.
+
+- ID 04: Os objetivos e operações são utilizados de maneira correta na análise?
+
+- ID 07: As relações entre os subobjetivos são utilizadas de maneira correta?
+    - Avaliação: incompleto
+    - Comentário: nem todos estão corretos, ver elementos citados no ID 03.
+
+- ID 09: As operações são especificadas com: inputs, actions e feedbacks?
+    - Avaliação: incompleto
+    - Comentário: há inputs, mas não actions ou feedbacks.
+
+- ID 10: É utilizado como critério de parada das decomposições o critério p x c, ou identificação de um problema?
+    - Avaliação: não
+    - Comentário: não foi utilizado, ou citado, um critério de parada.
 
 ## Sumário dos resultados
 
@@ -397,15 +411,14 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 5
+    "Não" : 1
+    "Incompleto" : 4
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
 
 
