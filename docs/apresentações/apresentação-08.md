@@ -1,4 +1,4 @@
-# Apresentação 08:
+# Apresentação 6.2:
 
 ## Introdução
 Esta página tem como foco o vídeo de apresentação da etapa 6.2 do projeto. A gravação da apresentação ocorreu no dia 26/06/2024.
