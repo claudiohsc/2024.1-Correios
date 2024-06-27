@@ -65,11 +65,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
- 
-- ID XX:
-    - Avaliação:
-    - Comentário:
+Não foram encontrados problemas nos artefatos.
 
 ### Vídeo da verificação
 
