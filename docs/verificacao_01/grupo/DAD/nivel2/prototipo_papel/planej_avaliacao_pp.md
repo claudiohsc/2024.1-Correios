@@ -55,10 +55,11 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLy6hlCyBC58pd-LPuDQbQfSOqCNqn2wXq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+<center>
 <p style="text-align: center">
     <a href="https://www.youtube.com/playlist?list=PLy6hlCyBC58pd-LPuDQbQfSOqCNqn2wXq"> Link para o vídeo </a>
 </p>
-
+</center>
 
 
 

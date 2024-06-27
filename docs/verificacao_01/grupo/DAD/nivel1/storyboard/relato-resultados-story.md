@@ -47,9 +47,9 @@ Abaixo temos as tabelas de 2 a 7 com as listas verificadas para cada storyboard 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
 | **1** | Foi buscado recorrência nos resultados para distinguir características representativas do grupo? | Sim.   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/1.jpeg) |
-| **2** | Na consolidação dos resultados foram endereçados novamente as questões que motivaram os estudos buscando respondê-las ou justificar de alguma forma uma resposta não encontrada? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/2.jpeg) |
-| **3** | Foram levadas em considerações fatores que prejudicam a qualidade e o uso dos dados? | Sim.   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/3.jpeg) |
-| **4** | Quando não encontrado problemas durante a avaliação não foram afirmados categoricamente que o storyboard tenha alta qualidade, mas sim que neste planejamento de avaliação não foram revelados problemas? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/4.jpeg) |
+| **2** | Na consolidação dos resultados foram endereçados novamente as questões que motivaram os estudos buscando respondê-las ou justificar de alguma forma uma resposta não encontrada? | Sim.  | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/2.jpeg) |
+| **3** | Foram levadas em considerações fatores que prejudicam a qualidade e o uso dos dados? | Sim.  | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/3.jpeg) |
+| **4** | Quando não encontrado problemas durante a avaliação não foram afirmados categoricamente que o storyboard tenha alta qualidade, mas sim que neste planejamento de avaliação não foram revelados problemas? |  Não se aplica. | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/4.jpeg) |
 | **5** | Há objetivos e escopo da avaliação? |  Sim.  | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/5.jpeg) |
 | **6** | Há forma como a avaliação foi realizada? (Método de avaliação empregado) |  Sim.  | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/6.jpeg) |
 | **7** | É informada a quantidade de participantes? |  Sim.  | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
@@ -62,7 +62,7 @@ Abaixo temos as tabelas de 2 a 7 com as listas verificadas para cada storyboard 
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ### Gravação da verificação
 
