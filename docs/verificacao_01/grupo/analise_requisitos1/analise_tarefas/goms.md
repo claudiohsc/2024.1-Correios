@@ -40,17 +40,17 @@ Abaixo temos as tabelas de 2 a 7 com as listas verificadas para cada tarefa com 
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
-| **01** | O GOMS possui objetivos, métodos, operadores e regras de seleção? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pergunta%201%20pagina%20181%20GOMS.png) |
-| **02** | OS objetivos demonstram o que o usuário pretende usando o software? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
-| **03** | Os operadores estão representando a ação concreta que o software permite que os usuários façam? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
-| **04** | Os métodos estão representados como subobjetivos que permitem atingir um objetivo maior? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
-| **05** | Todas as vezes que temos mais de um método para um mesmo objetivo temos uma regra de seleção? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
-| **06** | As regras de seleção representam tomadas de decisão do usuário sobre qual método utilizar? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
-| **07** | A identação do GOMS está da maneira correta? Como os operadores dentro dos métodos? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/pg%20182.png) |
+| **01** | O GOMS possui objetivos, métodos, operadores e regras de seleção? | Sim.  | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pergunta%201%20pagina%20181%20GOMS.png) |
+| **02** | OS objetivos demonstram o que o usuário pretende usando o software? |  Sim. | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+| **03** | Os operadores estão representando a ação concreta que o software permite que os usuários façam? | Sim.  | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+| **04** | Os métodos estão representados como subobjetivos que permitem atingir um objetivo maior? | Sim.   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+| **05** | Todas as vezes que temos mais de um método para um mesmo objetivo temos uma regra de seleção? |  Sim.  | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+| **06** | As regras de seleção representam tomadas de decisão do usuário sobre qual método utilizar? | Sim.   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+| **07** | A identação do GOMS está da maneira correta? Como os operadores dentro dos métodos? | Sim.   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/pg%20182.png) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ### Gravação da verificação
 
@@ -68,9 +68,7 @@ Abaixo temos as tabelas de 2 a 7 com as listas verificadas para cada tarefa com 
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+Nenhum problema foi encontrado.
 
 ### Sumário dos resultados
 
