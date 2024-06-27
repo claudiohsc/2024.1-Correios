@@ -37,16 +37,16 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | Fica claro no planejamento o objetivo da avaliação no protótipo de papel? |  | <a href="#ref1">1</a> | [página 316](../../../../../assets/prints_verificacao/gabrielb/Captura%20de%20tela%202024-06-12%20223205.png) |
-| **2** | Foi escolhido um usuário ou potencial usuário para avaliação? |  | <a href="#ref1">1</a> |[página 316](../../../../../assets/prints_verificacao/gabrielb/Captura%20de%20tela%202024-06-12%20223205.png) |
-| **3** | No planejamento já temos quantas pessoas vão participar da avaliação? |  | <a href="#ref1">1</a> |[página 316](../../../../../assets/prints_verificacao/gabrielb/Captura%20de%20tela%202024-06-12%20223205.png) |
-| **4** | Foram formuladas perguntas? |  | <a href="#ref1">1</a> |[página 316](../../../../../assets/prints_verificacao/gabrielb/Captura%20de%20tela%202024-06-12%20223205.png) |
-| **5** | Tem-se um roteiro já pronto? |  | <a href="#ref1">1</a> | [página 316](../../../../../assets/prints_verificacao/gabrielb/Captura%20de%20tela%202024-06-12%20223205.png) |
+| **1** | Fica claro no planejamento o objetivo da avaliação no protótipo de papel? | Sim. | <a href="#ref1">1</a> | [página 316](../../../../../assets/prints_verificacao/gabrielb/Captura%20de%20tela%202024-06-12%20223205.png) |
+| **2** | Foi escolhido um usuário ou potencial usuário para avaliação? | Sim. | <a href="#ref1">1</a> |[página 316](../../../../../assets/prints_verificacao/gabrielb/Captura%20de%20tela%202024-06-12%20223205.png) |
+| **3** | No planejamento já temos quantas pessoas vão participar da avaliação? | Sim. | <a href="#ref1">1</a> |[página 316](../../../../../assets/prints_verificacao/gabrielb/Captura%20de%20tela%202024-06-12%20223205.png) |
+| **4** | Foram formuladas perguntas? | Sim. | <a href="#ref1">1</a> |[página 316](../../../../../assets/prints_verificacao/gabrielb/Captura%20de%20tela%202024-06-12%20223205.png) |
+| **5** | Tem-se um roteiro já pronto? | Sim. | <a href="#ref1">1</a> | [página 316](../../../../../assets/prints_verificacao/gabrielb/Captura%20de%20tela%202024-06-12%20223205.png) |
 
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F](https://github.com/EliasOliver21), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 
 ## Problemas Encontrados
