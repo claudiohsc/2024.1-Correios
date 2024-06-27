@@ -537,7 +537,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [][] |
+| `1.0`  | 25/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [Claudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
