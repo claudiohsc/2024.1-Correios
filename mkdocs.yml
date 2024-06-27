@@ -131,7 +131,7 @@ nav:
         - Planejamento da Verificação da Análise de Requisitos II: verificacao_01/grupo/analise_requisitos2/planejamento_verificacao.md
         - Características da plataforma para o projeto: verificacao_01/grupo/analise_requisitos2/caracteristicas_plataforma.md
         - Princípios Gerais: verificacao_01/grupo/analise_requisitos2/principios_gerais.md
-        - Metas de Usabilidade: verificacao_01/grupo/metas_de_usabilidade.md
+        - Metas de Usabilidade: verificacao_01/grupo/analise_requisitos2/metas_de_usabilidade.md
         - Guia de Estilo: verificacao_01/grupo/analise_requisitos2/guia-de-estilo.md
       - Design, Avaliação e Desenvolvimento:
         - Planejamento da Verificação do Design, Avaliação e Desenvolvimento: verificacao_01/grupo/DAD/planejamento_verificacao.md
@@ -164,7 +164,7 @@ nav:
               - Rastrear Encomendas: verificacao_01/grupo/DAD/nivel2/prototipo_papel/relato_dos_resultados_PP/rastrear encomendas-pp.md
         - Nível 3:
           - Protótipo de Alta Fidelidade:
-            - Planejamento da Avaliação: design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_da_avaliacao.md
+            - Planejamento da Avaliação: verificacao_01/grupo/DAD/nivel3/planejamento-avaliacao-paf.md
             - Planejamento do Relato dos Resultados: verificacao_01/grupo/DAD/nivel3/planejamento-relato-paf.md
 
 extra_css:
