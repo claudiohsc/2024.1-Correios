@@ -27,9 +27,9 @@ Este artefato foi produzido por [Ricardo][RicardoGH] e cada integrante do grupo 
 
 Aqui será apresentado os resultados do checklist e logo após as observações dos itens com resultado negativo.
 
-### Pré postagem
+#### Pré postagem
 
-#### Checklist de verificação
+##### Checklist de verificação
 
 <font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
 
@@ -47,7 +47,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 
-#### Gravação da verificação
+##### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
@@ -59,13 +59,13 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
     <a href="https://www.youtube.com/watch?v=Q2HJFgm-AfI"> Link para o vídeo </a>
 </p>
 
-#### Problemas Encontrados
+##### Problemas Encontrados
 
 - ID 1: O storyboard está relacionado a um cenário elaborado pelo grupo?
     - Avaliação: Não
     - Comentário: Não se trata do mesmo cenario, porem tem a mesma atividade
 
-### Sumário dos resultados
+##### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
@@ -101,9 +101,9 @@ pie
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
-### Cálculo de preços e prazos de entrega
+#### Cálculo de preços e prazos de entrega
 
-#### Checklist de verificação
+##### Checklist de verificação
 
 <font size="2"><p style="text-align: center">Tabela 3 - Checklist preenchido na verificação</p></font>
 
@@ -122,7 +122,7 @@ pie
 
 
 
-#### Gravação da Verificação
+##### Gravação da Verificação
 
 <div style="text-align: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/-mEM9Uj_AOQ" title="(Entrega 6.2) Verificação: Storyboard - Receber Encomendas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -132,7 +132,7 @@ pie
     <a href="https://youtu.be/-mEM9Uj_AOQ"> Link para o vídeo </a>
 </p>
 
-#### Problemas Encontrados
+##### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
@@ -140,9 +140,9 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação: Não
     - Comentário: O storyboard não está relacionado a nenhum cenário criado.
 
-### Receber encomendas
+#### Receber encomendas
 
-#### Checklist de verificação
+##### Checklist de verificação
 
 <font size="2"><p style="text-align: center">Tabela 4 - Checklist preenchido na verificação</p></font>
 
@@ -159,7 +159,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
-#### Gravação da Verificação
+##### Gravação da Verificação
 
 <div style="text-align: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/sCPvSt16e9Y" title="(Entrega 6.2) Verificação: Storyboard - Receber Encomendas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -169,7 +169,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     <a href="https://www.youtube.com/watch?v=sCPvSt16e9Y"> Link para o vídeo </a>
 </p>
 
-#### Problemas Encontrados
+##### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de Cenário para [Recebimento de Encomendas](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/#recebimento-de-encomendas).
 
@@ -177,7 +177,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação: incompleto
     - Comentário: Ele está relacionado, porém, o cenário realizado não é exatamente igual e nem há uma ligação por meio de hiperlink
 
-### Sumário dos resultados
+##### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos resultados.
@@ -212,9 +212,9 @@ A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
-### Rastreamento de encomendas
+#### Rastreamento de encomendas
 
-#### Checklist de verificação
+##### Checklist de verificação
 
 <font size="2"><p style="text-align: center">Tabela 5 - Checklist preenchido na verificação</p></font>
 
@@ -232,7 +232,7 @@ A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos result
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 
-#### Problemas Encontrados
+##### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
@@ -240,7 +240,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação: Incompleto
     - Comentário: Faltou nos quadros uma melhor representação, no final, da parte de rastreio do site e quais telas o usuário iria presenciar.
 
-### Gravação da verificação
+##### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
@@ -252,7 +252,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     <a href="https://www.youtube.com/watch?v=v54ijhrZgW4"> Link para o vídeo </a>
 </p>
 
-### Sumário dos resultados
+##### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 4 com o gráfico de pizza do sumário dos resultados.
@@ -290,9 +290,9 @@ pie
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
-### Loja online
+#### Loja online
 
-#### Checklist de verificação
+##### Checklist de verificação
 
 <font size="2"><p style="text-align: center">Tabela 6 - Checklist preenchido na verificação</p></font>
 
@@ -309,7 +309,7 @@ pie
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
-### Gravação da verificação
+##### Gravação da verificação
 
 <center>
 
@@ -318,15 +318,15 @@ pie
 </center>
 
 
-#### Problemas Encontrados
+##### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
 Não foram identificadas falhas.
 
-### Minhas importações
+#### Minhas importações
 
-#### Checklist de verificação
+##### Checklist de verificação
 
 <font size="2"><p style="text-align: center">Tabela 7 - Checklist preenchido na verificação</p></font>
 
@@ -344,7 +344,7 @@ Não foram identificadas falhas.
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto](https://github.com/avmricardo), 2024.</p></font>
 
 
-#### Problemas Encontrados
+##### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
 
@@ -375,6 +375,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 25/06/2024 | Criação do documento |[Ricardo Augusto](https://github.com/avmricardo) | []() |
+| `1.1`  | 27/06/2024 | Conserta Index | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

@@ -83,7 +83,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
     <a href="https://youtu.be/9hmmQH0JTCE"> Link para o vídeo </a>
 </p>
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
@@ -99,7 +99,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
     - Avaliação: Não.
     - Comentário: Não é citado em nenhum lugar do artefato a utilização de um critério de parada de decomposição na analise de tarefas HTA.
 
-## Sumário dos resultados
+### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
@@ -135,7 +135,7 @@ pie
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias Faria][EliasGH], 2024.</p></font>
 
 ## HTA - Pré-postagem	
 
@@ -262,7 +262,11 @@ pie
 
 </center>
 
-## Problemas Encontrados
+<p style="text-align: center">
+    <a href="https://www.youtube.com/embed/AeIqM5WXweo?si=rs3B_LbmGKHc0tnP"> Link para o vídeo </a>
+</p>
+
+### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
@@ -274,7 +278,7 @@ pie
     - Avaliação: Incompleto.
     - Comentário: faltou as actions.
 
-## Sumário dos resultados
+### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
@@ -305,12 +309,11 @@ pie
     "Sim" : 8
     "Não" : 1
     "Incompleto" : 1
-    "Não se Aplica" : 0
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 
 
@@ -358,7 +361,7 @@ pie
     <a href="https://www.youtube.com/watch?v=oQH7CAcIT_Y"> Link para o vídeo </a>
 </p>
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
@@ -380,7 +383,7 @@ pie
     - Avaliação: não
     - Comentário: não foi utilizado, ou citado, um critério de parada.
 
-## Sumário dos resultados
+### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
@@ -463,7 +466,7 @@ pie
     <a href="https://youtu.be/fLxrNQU9oLU"> Link para o vídeo </a>
 </p>
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
@@ -471,7 +474,7 @@ pie
     - Avaliação: Não
     - Comentário: Não é citado esse critério no artefato
 
-## Sumário dos resultados
+### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
@@ -501,8 +504,6 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
 pie
     "Sim" : 9
     "Não" : 1
-    "Incompleto" : 0
-    "Não se Aplica" : 0
 ```
 
 </center>
@@ -545,17 +546,20 @@ pie
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MG3WecUuYv8?si=TvyWhhcJjEMfD6Dq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center"> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MG3WecUuYv8?si=TvyWhhcJjEMfD6Dq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+</div>
+
 
 <p style="text-align: center">
     <a href="https://www.youtube.com/watch?v=MG3WecUuYv8"> Link para o vídeo </a>
 </p>
 
-## Problemas Encontrados
+### Problemas Encontrados
 
 Não foram encontrados problemas no HTA de Rastrear Encomendas. Seguiu a bibliografia corretamente e está bem implementado.
 
-## Sumário dos resultados
+### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
 A seguir, apresentamos a Figura 6 com o gráfico de pizza do sumário dos resultados.
@@ -584,8 +588,6 @@ A seguir, apresentamos a Figura 6 com o gráfico de pizza do sumário dos result
 }%%
 pie
     "Sim" : 9
-    "Não" : 0
-    "Incompleto" : 0
     "Não se Aplica" : 1
 ```
 
@@ -621,10 +623,9 @@ A seguir, apresentamos a Figura 7 com o gráfico de pizza do sumário total dos 
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 0
-    "Incompleto" : 0
-    "Não se Aplica" : 0
+    "Sim" : 51
+    "Não" : 8
+    "Incompleto" : 10
 ```
 
 </center>
@@ -641,6 +642,7 @@ pie
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 25/06/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Gabriel B.][GabrielBGH] |
+| `1.1`  | 27/06/2024 | Conserta Indíce, fontes, links e gráifcos | [Gabriel F. J. Silva][GabrielFGH] | [][] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

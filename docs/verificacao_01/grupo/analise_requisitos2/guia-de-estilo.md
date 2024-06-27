@@ -128,15 +128,13 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 22
+    "Não" : 1
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo][PabloGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -146,8 +144,8 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [][] |
-| `1.1`  | 26/06/2024 | Aplicação do Checklist | [Elias F. Oliveira][EliasGH] | [][] |
+| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [Gabriel][GabrielBGH]  |
+| `1.1`  | 26/06/2024 | Aplicação do Checklist | [Elias F. Oliveira][EliasGH] | [Gabriel][GabrielBGH]  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

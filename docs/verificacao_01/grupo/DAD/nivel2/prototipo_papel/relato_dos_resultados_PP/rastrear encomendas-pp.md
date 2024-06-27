@@ -119,7 +119,6 @@ pie
     "Sim" : 10
     "Não" : 2
     "Incompleto" : 1
-    "Não se Aplica" : 0
 ```
 
 </center>

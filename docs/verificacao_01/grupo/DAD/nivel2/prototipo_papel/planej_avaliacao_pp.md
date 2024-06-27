@@ -55,20 +55,17 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLy6hlCyBC58pd-LPuDQbQfSOqCNqn2wXq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+<center>
 <p style="text-align: center">
     <a href="https://www.youtube.com/playlist?list=PLy6hlCyBC58pd-LPuDQbQfSOqCNqn2wXq"> Link para o vídeo </a>
 </p>
-
+</center>
 
 
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
- 
-- ID XX:
-    - Avaliação:
-    - Comentário:
+Não foram encontrados problemas nos artefatos.
 
 ### Vídeo da verificação
 
@@ -80,7 +77,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 26/06/2024 | Criação do documento |[Gabriel B. Bertolazi](https://github.com/Bertolazi) | |
+| `1.0`  | 26/06/2024 | Criação do documento |[Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Gabriel F.][GabrielFGH]|
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
