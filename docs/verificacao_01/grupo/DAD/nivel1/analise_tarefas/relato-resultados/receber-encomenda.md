@@ -42,82 +42,87 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <center>
 
-| ID | Descrição | Avaliação | Referência| Print |
-|:--:| --------- | :-------: | :-------: | :---: | 
-| **1** | Estão descritos os objetivos da avaliação? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **2** | Possui uma explicação sobre o método de avaliação usado? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **3** | Apresenta o número e perfil dos avaliadores e participantes da avaliação? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **4** | Possui um sumário dos dados coletados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **5** | Faz uma interpretação e análise dos dados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **6** | Apresenta uma lista dos problemas encontrados? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **7** | Possui planejamento para um reprojeto do sistema? |  | <a href="#ref1">1</a> | [pg 279](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20tópicos.jpeg) |
-| **8** | A coleta de dados ocorreu de acordo com o planejamento e método de avaliação escolhido? |  | <a href="#ref1">1</a> | [pg 277](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
-| **10** | Caso a coleta de dados tenha sido feita em um laboratório (ambiente controlado), o ambiente de teste foi apresentado ao participante? |  | <a href="#ref1">1</a> | [pg 277](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) e <br>[pg 301](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20ambiente%20controlado%20~%20lab.jpeg) |
-| **11** | O avaliador explicou para o participante os objetivos do estudo, procedimentos da avaliação e cuidados éticos tomados? |  | <a href="#ref1">1</a> | [pg 277](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
-| **12** | Enquanto o participante realizava as tarefas previstas, ele foi interrompido ou questionado? |  | <a href="#ref1">1</a> | [pg 277](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
-| **13** | Caso o participante demonstre não conseguir completar a tarefa, o avaliador passa para uma próxima etapa a fim de evitar emoções desagradáveis? |  | <a href="#ref1">1</a> | [pg 278](../../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados%202.jpeg) |
+| ID | Descrição | Avaliação | Referência | Print |
+| --- | --- | --- | --- | --- |
+| **1** | Estão descritos os objetivos da avaliação? | incompleto | [1](#ref1) | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20t%C3%B3picos.jpeg) |
+| **2** | Possui uma explicação sobre o método de avaliação usado? | não | [1](#ref1) | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20t%C3%B3picos.jpeg) |
+| **3** | Apresenta o número e perfil dos avaliadores e participantes da avaliação? | sim | [1](#ref1) | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20t%C3%B3picos.jpeg) |
+| **4** | Possui um sumário dos dados coletados? | sim | [1](#ref1) | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20t%C3%B3picos.jpeg) |
+| **5** | Faz uma interpretação e análise dos dados? | sim | [1](#ref1) | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20t%C3%B3picos.jpeg) |
+| **6** | Apresenta uma lista dos problemas encontrados? | não se aplica | [1](#ref1) | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20t%C3%B3picos.jpeg) |
+| **7** | Possui planejamento para um reprojeto do sistema? | sim | [1](#ref1) | [pg 279](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20t%C3%B3picos.jpeg) |
+| **8** | A coleta de dados ocorreu de acordo com o planejamento e método de avaliação escolhido? | sim | [1](#ref1) | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **10** | Caso a coleta de dados tenha sido feita em um laboratório (ambiente controlado), o ambiente de teste foi apresentado ao participante? | não se aplica | [1](#ref1) | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) e [pg 301](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20ambiente%20controlado%20~%20lab.jpeg) |
+| **11** | O avaliador explicou para o participante os objetivos do estudo, procedimentos da avaliação e cuidados éticos tomados? | sim | [1](#ref1) | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **12** | Enquanto o participante realizava as tarefas previstas, ele foi interrompido ou questionado? | não | [1](#ref1) | [pg 277](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados.jpeg) |
+| **13** | Caso o participante demonstre não conseguir completar a tarefa, o avaliador passa para uma próxima etapa a fim de evitar emoções desagradáveis? | não se aplica | [1](#ref1) | [pg 278](../../../../../assets/prints_verificacao/gabrielf/Relato%20dos%20resultados%20ref%20-%20coleta%20dos%20dados%202.jpeg) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/IesrpP2WbMU" title="(Entrega 6.2) Verificação:Relato Resultados HTA - Receber Encomendas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://www.youtube.com/watch?v=IesrpP2WbMU"> Link para o vídeo </a>
 </p>
 
-## Problemas Encontrados
+#### Problemas Encontrados
 
-<!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de Relato dos Resultados da Análise de Tarefas para [Recebimento de Encomendas](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/relato-resultados/pre-postagem/).
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 01: Estão descritos os objetivos da avaliação?
+    - Avaliação: incompleto
+    - Comentário: os objetivos diferem dos escolhidos no [Planejamento da Avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/#d-definir)
+- ID 02: Possui uma explicação sobre o método de avaliação usado?
+    - Avaliação: não
+    - Comentário: não possui explicação
+- ID 12: Enquanto o participante realizava as tarefas previstas, ele foi interrompido ou questionado?
+    - Avaliação: não
+    - Comentário: o participante não foi interrompido nem questionado de maneira prejudicial, o que é bom.
 
-## Sumário dos resultados
+### Sumário dos resultados
 
 <!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
-A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos resultados.
 
-<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+<font size="2"><p style="text-align: center">Figura 2 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<div style="text-align: center;">
 
-``` mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-        'primaryColor': '#FFD400',
-        'secondaryColor': '#0083CA',
-        'tertiaryColor': '#CD992B',
-        'pie4': '#00416B',
-        'primaryTextColor': '#8e8e8e',
-        'pieStrokeWidth': '0px',
-        'pieOuterStrokeWidth': '0px',
-        'pieOpacity': '1',
-        'pieSectionTextColor': '#fff',
-        'pieSectionTextSize': '19px'
+    ``` mermaid
+    %%{
+    init: {
+        'theme': 'base',
+        'themeVariables': {
+            'primaryColor': '#FFD400',
+            'secondaryColor': '#0083CA',
+            'tertiaryColor': '#CD992B',
+            'pie4': '#00416B',
+            'primaryTextColor': '#8e8e8e',
+            'pieStrokeWidth': '0px',
+            'pieOuterStrokeWidth': '0px',
+            'pieOpacity': '1',
+            'pieSectionTextColor': '#fff',
+            'pieSectionTextSize': '19px'
+        }
     }
-  }
-}%%
-pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
-```
+    }%%
+    pie
+        "Sim" : 7
+        "Não" : 2
+        "Não se Aplica": 3
+        "Incompleto" : 1
+    ```
+</div>
 
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ## Bibliografia
 
