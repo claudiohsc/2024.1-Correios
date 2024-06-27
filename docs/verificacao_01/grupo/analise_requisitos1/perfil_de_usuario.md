@@ -77,8 +77,6 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação: incompleto 
     - Comentário: apresenta apenas perguntas fechadas.
 
-### Vídeo de verificação
-
 ### Gravação da Apresentação
 
 <div style="text-align: center;">
