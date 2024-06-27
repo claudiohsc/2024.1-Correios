@@ -41,14 +41,14 @@ Na Tabela 2 temos a aplicação do checklist para os Planejamento do Relato dos 
 
 |ID| Descrição | Avaliação | Referência|Print|
 |:--:|:--:|:--:|:--:|:--:|
-|01| O artefato define os objetivos e escopo da avaliação? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
-|02| O artefato elucida sobre a metodologia de avaliação aplicada? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
-|03| O artefato apresenta o perfil dos participantes e entrevistadores que participaram da avaliação? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
-|04| O artefato apresenta o sumário dos dados coletados com tabelas ou gráficos? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
-|05| É apresentado uma análise e interpretação dos dados coletados? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
-|06| É apresentada uma lista dos problemas encontrados? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
-|07| É feito um planejamento para o reprojeto? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
-|08| O artefato foi construído utilizando como base o planejamento da avaliação? ||<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|01| O artefato define os objetivos e escopo da avaliação? |Sim|<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|02| O artefato elucida sobre a metodologia de avaliação aplicada? |Sim|<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|03| O artefato apresenta o perfil dos participantes e entrevistadores que participaram da avaliação? |Incompleto|<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|04| O artefato apresenta o sumário dos dados coletados com tabelas ou gráficos? |Sim|<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|05| É apresentado uma análise e interpretação dos dados coletados? |Sim|<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|06| É apresentada uma lista dos problemas encontrados? |Sim|<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|07| É feito um planejamento para o reprojeto? |Sim|<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
+|08| O artefato foi construído utilizando como base o planejamento da avaliação? |Sim|<a href="#ref1"> REF1 </a>. Cap. 11.7.5 - Pgs. 279|[Pg.279][Pg.279]|
 
 </center>
 
@@ -59,20 +59,20 @@ Na Tabela 2 temos a aplicação do checklist para os Planejamento do Relato dos 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/A4gYFH0J0Nw?si=j0uQZ3g4H0FAzYb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://www.youtube.com/watch?v=A4gYFH0J0Nw"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 03: O artefato apresenta o perfil dos participantes e entrevistadores que participaram da avaliação?
+    - Avaliação: Incompleto
+    - Comentário: O artefato não possui uma tabela especificando os participantes de cada reunião, sendo que na parte de planejamento da avaliação possui a tabela.
 
 ### Sumário dos resultados
 
@@ -102,9 +102,9 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 0
+    "Sim" : 7
     "Não" : 0
-    "Incompleto" : 0
+    "Incompleto" : 1
     "Não se Aplica" : 0
 ```
 
