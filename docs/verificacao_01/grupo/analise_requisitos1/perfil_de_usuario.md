@@ -20,18 +20,20 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 |ID| Descrição | Avaliação | Referência|Print|
 |:--:|:--:|:--:|:--:|:--:|
-|1| O artefato possui uma explicação sobre o que é o Perfil do Usuário? |  | <a href="#ref1">1</a>|[Pg.166][Pg.166]|
-|2| Foram utilizados entrevistas ou questionários, para coletar dados para o perfil de usuário?|   |  <a href="#ref1">1</a>|[Pg.166][Pg.166]|
-| 3 | Têm-se as seguintes características de interesse(cargo, função, experiência, nível de instrução, atividades principais, faixa etária etc.)? | | <a href="#ref1">1</a>|[Pg.166][Pg.166]|
-| 4| A partir dos dados coletados, é possível agrupar os valores em grupos e faixas na qual os usuários se encaixam? | | <a href="#ref1">1</a>|[Pg.166][Pg.166]|
-| 5| Foi coletado dados sobre tarefas primárias realizadas no aplicativo? | | <a href="#ref1">1</a>|[Pg.166][Pg.166]|
+|1| O artefato possui uma explicação sobre o que é o Perfil do Usuário? |  | <a href="#ref1">1</a> |[Pg.166][Pg.166]|
+|2| Foram utilizados entrevistas ou questionários, para coletar dados para o perfil de usuário?|   |  <a href="#ref1">1</a> |[Pg.166][Pg.166]|
+| 3 | Têm-se as seguintes características de interesse(cargo, função, experiência, nível de instrução, atividades principais, faixa etária etc.)? | | <a href="#ref1">1</a> |[Pg.166][Pg.166]|
+| 4| A partir dos dados coletados, é possível agrupar os valores em grupos e faixas na qual os usuários se encaixam? | | <a href="#ref1">1</a> |[Pg.166][Pg.166]|
+| 5| Foi coletado dados sobre tarefas primárias realizadas no aplicativo? |  | <a href="#ref1">1</a>|[Pg.166][Pg.166]|
 | 6| A formulação das perguntas foi cuidadosa, evitando ambiguidades e mal-entendidos? | | <a href="#ref1">1</a>|[Pg.149][Pg.149]|
-|7| O questionário apresenta perguntas abertas e fechadas, na tentativa de obter informações mais detalhadas? | |  <a href="#ref1">1</a> |[Pg.150][Pg.150]|
+|7| O questionário apresenta perguntas abertas e fechadas, na tentativa de obter informações mais detalhadas? |  |  <a href="#ref1">1</a> |[Pg.150][Pg.150]|
 |8| O perfil de usuário considera a faixa etária dos usuários? | | <a href="#ref1">1</a>|[Pg.166][Pg.166]|
-|9| O perfil de usuário abrange informações sobre a experiência dos usuários? | | <a href="#ref1">1</a>|[Pg.166][Pg.166]|
-|10| O perfil de usuário avalia a relação dos usuários com a tecnologia? | | <a href="#ref1">1</a>|[Pg.166][Pg.166]|
+|9| O perfil de usuário abrange informações sobre a experiência dos usuários? |  | <a href="#ref1">1</a>|[Pg.166][Pg.166]|
+|10| O perfil de usuário avalia a relação dos usuários com a tecnologia? |  | <a href="#ref1">1</a>|[Pg.166][Pg.166]|
 |11| O perfil de usuário descreve as atividades principais dos usuários? | | <a href="#ref1">1</a>|[Pg.166][Pg.166] e [Pg.150][Pg.150]|
 |12| Foi definido e informado o prazo para o preenchimento do questionário?| | <a href="#ref1">1</a>|[Pg.150][Pg.150]|
+|13| Foi feita uma priorização do questionário para com o perfil de usuário | |  <a href="#ref1">1</a> | [Pg.166](../../../assets/prints_verificacao/gabrielb/166.png) |
+|14| O perfil de usuário possui as informações necessárias para definir o mesmo, como idade, experiência, atitudes e tarefas primárias | <a href="#ref1">1</a> | [Pg.166](../../../assets/prints_verificacao/gabrielb/166.png) |
 
 
 
@@ -73,6 +75,8 @@ Na tabela 2 está a verificação do artefato de  [Perfil do Usuário](https://i
 |10| O perfil de usuário avalia a relação dos usuários com a tecnologia? |  | <a href="#ref1">1</a>|[Pg.166][Pg.166]|
 |11| O perfil de usuário descreve as atividades principais dos usuários? | | <a href="#ref1">1</a>|[Pg.166][Pg.166] e [Pg.150][Pg.150]|
 |12| Foi definido e informado o prazo para o preenchimento do questionário?| | <a href="#ref1">1</a>|[Pg.150][Pg.150]|
+|13| Foi feita uma priorização do questionário para com o perfil de usuário | |  <a href="#ref1">1</a> | [Pg.166](../../../assets/prints_verificacao/gabrielb/166.png) |
+|14| O perfil de usuário possui as informações necessárias para definir o mesmo, como idade, experiência, atitudes e tarefas primárias | <a href="#ref1">1</a> | [Pg.166](../../../assets/prints_verificacao/gabrielb/166.png) |
 
 
 
