@@ -77,7 +77,7 @@ Não foram encontrados problemas nos artefatos.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 26/06/2024 | Criação do documento |[Gabriel B. Bertolazi](https://github.com/Bertolazi) | |
+| `1.0`  | 26/06/2024 | Criação do documento |[Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Gabriel F.][GabrielFGH]|
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

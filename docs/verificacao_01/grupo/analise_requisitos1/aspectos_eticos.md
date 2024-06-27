@@ -124,8 +124,8 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Gabriel][] |
-| `1.1`  | 25/06/2024 | Verificação com Checklist| [Elias F. Oliveira][EliasGH] | [][] |
+| `1.0`  | 25/06/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Gabriel][GabrielBGH] |
+| `1.1`  | 25/06/2024 | Verificação com Checklist| [Elias F. Oliveira][EliasGH] | [Gabriel][GabrielBGH]  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

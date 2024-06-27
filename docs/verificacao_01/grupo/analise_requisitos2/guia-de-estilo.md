@@ -144,8 +144,8 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [][] |
-| `1.1`  | 26/06/2024 | Aplicação do Checklist | [Elias F. Oliveira][EliasGH] | [][] |
+| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [Gabriel][GabrielBGH]  |
+| `1.1`  | 26/06/2024 | Aplicação do Checklist | [Elias F. Oliveira][EliasGH] | [Gabriel][GabrielBGH]  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
