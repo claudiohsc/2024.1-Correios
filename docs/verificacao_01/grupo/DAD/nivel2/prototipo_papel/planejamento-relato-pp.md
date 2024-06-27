@@ -99,9 +99,7 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
 }%%
 pie
     "Sim" : 3
-    "Não" : 0
     "Incompleto" : 2
-    "Não se Aplica" : 0
 ```
 
 </center>
@@ -117,7 +115,7 @@ pie
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [][] |
-| `1.1`  | 25/06/2024 | Aplicação do checklist | [Ricardo Augusto][RicardoGH] | [][] |
+| `1.1`  | 26/06/2024 | Aplicação do checklist | [Ricardo Augusto][RicardoGH] | [][] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
