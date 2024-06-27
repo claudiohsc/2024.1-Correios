@@ -128,15 +128,13 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 22
+    "Não" : 1
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo][PabloGH], 2024.</p></font>
 
 ## Bibliografia
 
