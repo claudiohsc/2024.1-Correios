@@ -53,28 +53,28 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID  | Descrição | Avaliação | Referência | Print |
 |:--:|------|:-------:|:-----:|:-----:|
-| **1** | Nesse artefato temos as principais decisões de design tomadas? | | <a href="#ref1">1</a> | [pag.257](../../../assets/prints_verificacao/gabrielb/primeira.png) |                          
-| **2** | No guia de estilo temos os 6 elementos principais? (layout, tipografia, simbolismo, cores, visualização de informação e design de telas e elementos de interface) | | <a href="#ref1">1</a> | [pag.257](../../../assets/prints_verificacao/gabrielb/segunda.png) |
-| **3** | Na introdução, temos os objetivos? | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **4** | Na introdução, temos a organização do conteúdo? | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **5** | Na introdução, temos descrito o público-alvo? | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **6** | Na introdução, temos um tutorial de como usar o guia?  | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **7** | Na introdução, temos como manter o guia? | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **8** | Nos resultados das análises temos a descrição do ambiente de trabalho? | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **9** | Nos elementos de interface, temos a disposição espacial e grid? | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **10** | Nos elementos de interface, temos as janelas? | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **11** | Nos elementos de interface, temos a tipografia?| | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **12** | Nos elementos de interface, temos os símbolos não tipográficos? | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **13** | Nos elementos de interface, temos as cores? | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **14** | Nos elementos de interface, temos as animações?| | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **15** | Nos elementos de interação, temos os estilos de interação? | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **16** | Nos elementos de interação, temos a seleção de um estilo?  | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |  
-| **17** | Nos elementos de interação, temos os aceleradores (teclas de atalho)? | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
-| **18** | Nos elementos de ação, temos o preenchimento de campos?  | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/resto.png) |
-| **19** | Nos elementos de ação, temos a seleção?  | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/resto.png) |     
-| **20** | Nos elementos de ação, temos a ativação?  | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/resto.png) |            
-| **21** | No vocabulário e padrões, temos a terminologia?  | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/resto.png) |                     
-| **23** | No vocabulário e padrões, temos as sequências de diálogos (e.g., para feedback ou confirmação de uma operação)? | | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/resto.png) |
+| **1** | Nesse artefato temos as principais decisões de design tomadas? | sim. | <a href="#ref1">1</a> | [pag.257](../../../assets/prints_verificacao/gabrielb/primeira.png) |                          
+| **2** | No guia de estilo temos os 6 elementos principais? (layout, tipografia, simbolismo, cores, visualização de informação e design de telas e elementos de interface) | Sim. | <a href="#ref1">1</a> | [pag.257](../../../assets/prints_verificacao/gabrielb/segunda.png) |
+| **3** | Na introdução, temos os objetivos? | Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **4** | Na introdução, temos a organização do conteúdo? | Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **5** | Na introdução, temos descrito o público-alvo? | Sim.| <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **6** | Na introdução, temos um tutorial de como usar o guia?  | Sim.| <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **7** | Na introdução, temos como manter o guia? | Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **8** | Nos resultados das análises temos a descrição do ambiente de trabalho? | Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **9** | Nos elementos de interface, temos a disposição espacial e grid? |Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **10** | Nos elementos de interface, temos as janelas? | Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **11** | Nos elementos de interface, temos a tipografia?| Sim.| <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **12** | Nos elementos de interface, temos os símbolos não tipográficos? | Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **13** | Nos elementos de interface, temos as cores? | Sim.| <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **14** | Nos elementos de interface, temos as animações?| Não. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **15** | Nos elementos de interação, temos os estilos de interação? | Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **16** | Nos elementos de interação, temos a seleção de um estilo?  | Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |  
+| **17** | Nos elementos de interação, temos os aceleradores (teclas de atalho)? | Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/3%20a%2017.png) |
+| **18** | Nos elementos de ação, temos o preenchimento de campos?  | Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/resto.png) |
+| **19** | Nos elementos de ação, temos a seleção?  |Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/resto.png) |     
+| **20** | Nos elementos de ação, temos a ativação?  |Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/resto.png) |            
+| **21** | No vocabulário e padrões, temos a terminologia?  | Sim.| <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/resto.png) |                     
+| **23** | No vocabulário e padrões, temos as sequências de diálogos (e.g., para feedback ou confirmação de uma operação)? | Sim. | <a href="#ref1">1</a> | [pag.258](../../../assets/prints_verificacao/gabrielb/resto.png) |
 
 </center>
 
@@ -85,20 +85,20 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/M1EGuUF-AQM" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
-</p>
+<center>
+[Link do Vídeo](https://youtu.be/M1EGuUF-AQM)
+</center>
 
 ## Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 14: Nos elementos de interface, temos as animações?
+    - Avaliação: Não.
+    - Comentário: O artefato não possui as animações nos elementos de interface.
 
 ## Sumário dos resultados
 
