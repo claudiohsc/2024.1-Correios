@@ -91,25 +91,71 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <center>
 
-| ID | Descrição | Avaliação | Referência| Print |
-|:--:| --------- | :-------: | :-------: | :-:|
-| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | | <a href="#ref1">1</a> |  [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png)
-| **2** | O cenário (propósito) está sendo bem descrito no storyboard? |  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
-| **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? |  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
-| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? |  | <a href="#ref2">2</a> | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| ID | Descrição | Avaliação | Referência | Print |
+| --- | --- | --- | --- | --- |
+| **1** | O storyboard está relacionado a um cenário elaborado pelo grupo? | incompleto | [1](#ref1) | [página 263](../../../../../assets/prints_verificacao/ricardo/storyboard1.png) |
+| **2** | O cenário (propósito) está sendo bem descrito no storyboard? | sim | [2](#ref2) | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **3** | As atividades (etapas dos personagens) são representadas com clareza no storyboard? | sim | [2](#ref2) | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
+| **4** | Os visuias (imagens, formas, vídeos) representam diferentes etapas do storyboard? | sim | [2](#ref2) | [Tópico : Quais são as principais características de um storyboard?](../../../../../assets/prints_verificacao/ricardo/storyboard2.png) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
+#### Gravação da Verificação
+
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sCPvSt16e9Y" title="(Entrega 6.2) Verificação: Storyboard - Receber Encomendas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=sCPvSt16e9Y"> Link para o vídeo </a>
+</p>
 
 #### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+detalhar problemas
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de Cenário para [Recebimento de Encomendas](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/#recebimento-de-encomendas).
+
+- ID 01: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
+    - Avaliação: incompleto
+    - Comentário: Ele está relacionado, porém, o cenário realizado não é exatamente igual e nem há uma ligação por meio de hiperlink
+
+### Sumário dos resultados
+
+<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
+A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos resultados.
+
+<font size="2"><p style="text-align: center">Figura 2 - Gráfico de pizza do sumário dos resultados.</p></font>
+
+<div style="text-align: center;">
+
+    ``` mermaid
+    %%{
+    init: {
+        'theme': 'base',
+        'themeVariables': {
+            'primaryColor': '#FFD400',
+            'secondaryColor': '#0083CA',
+            'tertiaryColor': '#CD992B',
+            'pie4': '#00416B',
+            'primaryTextColor': '#8e8e8e',
+            'pieStrokeWidth': '0px',
+            'pieOuterStrokeWidth': '0px',
+            'pieOpacity': '1',
+            'pieSectionTextColor': '#fff',
+            'pieSectionTextSize': '19px'
+        }
+    }
+    }%%
+    pie
+        "Sim" : 3
+        "Incompleto" : 1
+    ```
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ### Rastreamento de encomendas
 
