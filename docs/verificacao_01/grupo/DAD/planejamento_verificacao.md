@@ -7,15 +7,18 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
-|Etapa 3| N1 - AT - Planejamento da avaliação | `1.2`|24/05/2024| Raissa Andrade | [Gabriel F.][GabrielFGH]  |
-|Etapa 3| N1 - AT - Planejamento do relato | `1.1`|27/05/2024| Giovana Barbosa |  [Pablo S.][PabloGH]  |
-|Etapa 3| N1 - AT - Relato dos resultados | `1.0`|29/05/2024| Giovana Barbosa | [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH]  |
-|Etapa 3| N1 - SB - Planejamento da avaliação	 | `1.3`|25/05/2024| Renata Quadros | [Ricardo A.][RicardoGH]  |
-|Etapa 3| N1 - SB - Planejamento do relato	 | `2.0`|25/05/2024| Rayene Almeida | [Claudio H][ClaudioGH]   |
-|Etapa 3| N1 - SB - Relato dos resultados	 | `1.2`|02/06/2024| Rayene Almeida | [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH]  |
-|Etapa 3| N1 - SB - Storyboards	 | `2.0`|01/06/2024| Lara Giuliana | [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH]  |
-|Etapa 3| N2 - PP - Planejamento da avaliação	 | `1.1`|29/05/2024| Renata Quadros | [Elias F.][EliasGH]   |
-|Etapa 3| N2 - PP - Planejamento do relato	 | `1.0`|29/05/2024| Raissa Andrade | [Gabriel B.][GabrielBGH]  |
+|Etapa 3| N1 - AT - Planejamento da avaliação | `1.2`|24/05/2024| [Pablo S.][PabloGH] | [Ricardo][RicardoGH]  |
+|Etapa 3| N1 - AT - Planejamento do relato | `1.1`|27/05/2024| [Ricardo][RicardoGH] |  [Claúdio][ClaudioGH]  |
+|Etapa 3| N1 - AT - Relato dos resultados | `1.0`|29/05/2024| [Gabriel Fernando][GabrielFGH] | [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH]  |
+|Etapa 3| N1 - SB - Planejamento da avaliação	 | `1.3`|25/05/2024| [Gabriel Bertolazi][GabrielBGH] | [Elias][EliasGH]  |
+|Etapa 3| N1 - SB - Planejamento do relato	 | `2.0`|25/05/2024| [Pablo S.][PabloGH] | [Claudio H][ClaudioGH]   |
+|Etapa 3| N1 - SB - Relato dos resultados	 | `1.2`|02/06/2024| [Pablo S.][PabloGH] | [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH]  |
+|Etapa 3| N1 - SB - Storyboards	 | `2.0`|01/06/2024| [Ricardo][RicardoGH] | [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH]  |
+|Etapa 3| N2 - PP - Planejamento da avaliação	 | `1.1`|29/05/2024|[Gabriel Bertolazi][GabrielBGH] | [Elias F.][EliasGH]   |
+|Etapa 3| N2 - PP - Planejamento do relato	 | `1.0`|29/05/2024| [Gabriel Fernando][GabrielFGH] | [Ricardo][RicardoGH]  |
+|Etapa 3| N2 - PP - Planejamento dos resultados	 | `1.0`|29/05/2024| [Gabriel Bertolazi][GabrielBGH] |  [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH] |
+|Etapa 3| N3 - PAF - Planejamento da avaliação	 | `1.0`|29/05/2024| [Ricardo][RicardoGH] | [Pablo][PabloGH]  |
+|Etapa 3| N3 - PAF - Planejamento do relato	 | `1.0`|29/05/2024| [Gabriel Fernando][GabrielFGH] | [Gabriel B.][GabrielBGH]  |
 
 ## Checklists
 

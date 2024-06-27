@@ -7,13 +7,13 @@ Gabriel Fernando
 Pablo
 Ricardo
 
-[Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH]
+[Cláudio Henrique][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH], [Ricardo Augusto][RicardoGH]
 
 [Claúdio][ClaudioGH] 
 [Elias][EliasGH] 
 [Gabriel Bertolazi][GabrielBGH]
 [Gabriel Fernando][GabrielFGH]
-[Pablo][PabloGH]
+[Pablo S. Costa][PabloGH]
 [Ricardo][RicardoGH]
 
 Claúdio Henrique dos Santos Carvalho
