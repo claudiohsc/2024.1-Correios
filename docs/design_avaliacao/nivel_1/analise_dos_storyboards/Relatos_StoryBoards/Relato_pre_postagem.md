@@ -116,7 +116,7 @@ Acredito que para entrevistas futuras, será de grande ajuda fazer perguntas par
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 03/06/2024 | Criação do documento| [Gabriel Fernando][GabrielfGH] | [Gabriel Bertolazi][GabrielbGH] |
-|`1.1`| 27/06/2024 | Correção de [Problemas Encontrados](#lista-dos-problemas-encontrados) e [Reprojeto](#planejamento-para-o-reprojeto-da-aplicacao) e [Sugestões](#sugestoes-de-melhoria)| [Gabriel Fernando][GabrielfGH] | [][] |
+|`1.1`| 27/06/2024 | Correção de [Problemas Encontrados](#lista-dos-problemas-encontrados) e [Reprojeto](#planejamento-para-o-reprojeto-da-aplicacao) e [Sugestões](#sugestoes-de-melhoria)| [Gabriel Fernando][GabrielfGH] | [Pablo S. Costa][PabloGH] |
 
 
 [GabrielfGH]: https://github.com/MMcLovin
