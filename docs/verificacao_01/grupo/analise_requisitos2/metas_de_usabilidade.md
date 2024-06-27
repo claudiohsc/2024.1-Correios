@@ -51,7 +51,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 |01| No documento são elencadas as metas de usabilidade almejadas? |Sim. |<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36 | [Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
 |02| No artefato são apresentados os motivos e métodos para a escolha das metas de usabilidade? |Sim.|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
 |03| É apresentada a definição das metas de usabilidade? |Sim.|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
-|04| São elencadas no artefato as metas de usabilidade de: facilidade de aprendizado, memorabilidade, eficiência, segurança e satisfação do usuário? ||<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
+|04| São elencadas no artefato as metas de usabilidade de: facilidade de aprendizado, memorabilidade, eficiência, segurança e satisfação do usuário? |Sim|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
 |05| É apresentado no artefato a  meta de usabilidade: facilidade de aprendizado ? |Sim.|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
 |06| A verificação da meta de usabilidade de facilidade de aprendizado está adequada? |Sim.|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] | 
 |07| A verificação da meta de usabilidade de memorabilidade está adequada? |Sim.|<a href="#ref1"> REF1 </a>. Cap. 3.2.1 - Pgs. 35 e 36|[Pg. 35][Pg. 35] e [Pg. 36][Pg. 36] |
