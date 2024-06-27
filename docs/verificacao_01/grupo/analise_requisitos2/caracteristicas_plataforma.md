@@ -25,7 +25,7 @@ Este artefato foi produzido por [Ricardo][RicardoGH] e verificado por [Pablo][Pa
 
 ## Apresentação dos Dados
 
-Aqui será apresentado os resultados do checklist e logo após as observações dos itens com resultado negativo.
+Abaixo os temos a tabela 2 com um checklist preenchido sobre as características da plataforma para o projeto.
 
 ### Checklist de verificação
 
@@ -35,22 +35,64 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
-| **1** | Foram definidas restrições para o software do projeto (ex: sistema operacional)? |  | <a href="#ref1">1</a> | [pg 145](../../../assets/prints_verificacao/gabrielf/Caracteristicas%20da%20plataforama%20ref%20-%201%20e%202.jpeg) |
-| **2** | Foram definidas restrições para o hardware do projeto (ex: tela de display)? |  | <a href="#ref1">1</a> | [pg 147](../../../assets/prints_verificacao/gabrielf/Caracteristicas%20da%20plataforama%20ref%20-%202%20e.g%20(pg%20147).jpeg) |
-| **3** | Foram identificadas limitações que afunilam as restrições básicas do projeto (ex: ferramentas usadas para acessar o projeto)? |  | <a href="#ref1">1</a> | [pg 146](../../../assets/prints_verificacao/gabrielf/Caracteristicas%20da%20plataforama%20ref%20-%203.jpeg) |
+| **1** | Foram definidas restrições para o software do projeto (ex: sistema operacional)? | Sim | <a href="#ref1">1</a> | [pg 145](../../../assets/prints_verificacao/gabrielf/Caracteristicas%20da%20plataforama%20ref%20-%201%20e%202.jpeg) |
+| **2** | Foram definidas restrições para o hardware do projeto (ex: tela de display)? | Sim | <a href="#ref1">1</a> | [pg 147](../../../assets/prints_verificacao/gabrielf/Caracteristicas%20da%20plataforama%20ref%20-%202%20e.g%20(pg%20147).jpeg) |
+| **3** | Foram identificadas limitações que afunilam as restrições básicas do projeto (ex: ferramentas usadas para acessar o projeto)? | Sim | <a href="#ref1">1</a> | [pg 146](../../../assets/prints_verificacao/gabrielf/Caracteristicas%20da%20plataforama%20ref%20-%203.jpeg) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
+### Gravação da verificação
 
-## Problemas Encontrados
+<!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0B3Cpm_Dzwc?si=24itPyR3sa3Vc9Cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+<p style="text-align: center">
+    <a href="https://youtu.be/0B3Cpm_Dzwc"> Link para o vídeo </a>
+</p>
+
+### Problemas Encontrados
+
+Não foram encontrados problemas
+
+### Sumário dos resultados
+
+<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
+A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+
+<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+
+<center>
+
+``` mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+        'primaryColor': '#FFD400',
+        'secondaryColor': '#0083CA',
+        'tertiaryColor': '#CD992B',
+        'pie4': '#00416B',
+        'primaryTextColor': '#8e8e8e',
+        'pieStrokeWidth': '0px',
+        'pieOuterStrokeWidth': '0px',
+        'pieOpacity': '1',
+        'pieSectionTextColor': '#fff',
+        'pieSectionTextSize': '19px'
+    }
+  }
+}%%
+pie
+    "Sim" : 3
+```
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## Bibliografia
 
