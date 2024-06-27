@@ -296,6 +296,8 @@ pie
 
 ## Storyboard - Receber encomendas
 
+O artefato de relato dos resultados do storyboard verificado pode ser encontrado [aqui](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_dos_storyboards/Relatos_StoryBoards/Relato_pre_postagem/).
+
 ### Checklists verificação
 
 <font size="2"><p style="text-align: center">Tabela 5 - Checklist preenchido na verificação</p></font>
@@ -304,43 +306,43 @@ pie
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
-| **1** | Foi buscado recorrência nos resultados para distinguir características representativas do grupo? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/1.jpeg) |
-| **2** | Na consolidação dos resultados foram endereçados novamente as questões que motivaram os estudos buscando respondê-las ou justificar de alguma forma uma resposta não encontrada? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/2.jpeg) |
-| **3** | Foram levadas em considerações fatores que prejudicam a qualidade e o uso dos dados? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/3.jpeg) |
-| **4** | Quando não encontrado problemas durante a avaliação não foram afirmados categoricamente que o storyboard tenha alta qualidade, mas sim que neste planejamento de avaliação não foram revelados problemas? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/4.jpeg) |
-| **5** | Há objetivos e escopo da avaliação? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/5.jpeg) |
-| **6** | Há forma como a avaliação foi realizada? (Método de avaliação empregado) |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/6.jpeg) |
-| **7** | É informada a quantidade de participantes? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
-| **8** | É informado o perfil do usuário dos participantes? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
-| **9** | São informadas as funções dos participantes? (Avaliadores e entrevistados) |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
-| **10** | Há um sumário dos dados coletados, incluindo tabelas e gráficos? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/10.jpeg) |
-| **11** | Há o relato da interpretação e análise dos dados? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/11.jpeg) |
-| **12** | Há uma lista dos problemas encontrados? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/12.jpeg) |
-| **13** | Existe um planejamento para o reprojeto do storyboard? |   | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/13.jpeg) |
+| **1** | Foi buscado recorrência nos resultados para distinguir características representativas do grupo? | não se aplica  | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/1.jpeg) |
+| **2** | Na consolidação dos resultados foram endereçados novamente as questões que motivaram os estudos buscando respondê-las ou justificar de alguma forma uma resposta não encontrada? | não | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/2.jpeg) |
+| **3** | Foram levadas em considerações fatores que prejudicam a qualidade e o uso dos dados? | sim | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/3.jpeg) |
+| **4** | Quando não encontrado problemas durante a avaliação não foram afirmados categoricamente que o storyboard tenha alta qualidade, mas sim que neste planejamento de avaliação não foram revelados problemas? | não se aplica | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/4.jpeg) |
+| **5** | Há objetivos e escopo da avaliação? | incompleto | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/5.jpeg) |
+| **6** | Há forma como a avaliação foi realizada? (Método de avaliação empregado) | sim | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/6.jpeg) |
+| **7** | É informada a quantidade de participantes? | sim | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
+| **8** | É informado o perfil do usuário dos participantes? | sim | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
+| **9** | São informadas as funções dos participantes? (Avaliadores e entrevistados) | sim | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/7,%208%20e%209.jpeg) |
+| **10** | Há um sumário dos dados coletados, incluindo tabelas e gráficos? | sim | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/10.jpeg) |
+| **11** | Há o relato da interpretação e análise dos dados? | sim | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/11.jpeg) |
+| **12** | Há uma lista dos problemas encontrados? | sim | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/12.jpeg) |
+| **13** | Existe um planejamento para o reprojeto do storyboard? | sim | [1.](#ref1) 11.7.5 Consolidação e Relato dos Resultado | [página 279](../../../../../assets/prints_verificacao/pablo/relato_dos_storyboards/13.jpeg) |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
 ### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sCPvSt16e9Y" title="(Entrega 6.2) Verificação: Storyboard - Receber Encomendas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="link"> Link para o vídeo </a>
+    <a href="https://www.youtube.com/watch?v=sCPvSt16e9Y"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 05: Há objetivos e escopo da avaliação?
+    - Avaliação: incompleto
+    - Comentário: há objetivos definidos, porém, estes diferem dos estabelecidos no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/#d-definir).
 
 ### Sumário dos resultados
 
@@ -370,15 +372,14 @@ A seguir, apresentamos a Figura 4 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 0
-    "Não" : 0
-    "Incompleto" : 0
-    "Não se Aplica" : 0
+    "Sim" : 10
+    "Incompleto" : 1
+    "Não se Aplica" : 2
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
 ## Storyboard - Minhas importações
 
