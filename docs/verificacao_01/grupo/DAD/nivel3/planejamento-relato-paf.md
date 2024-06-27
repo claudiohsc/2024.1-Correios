@@ -37,12 +37,12 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :---: | 
-| **1** | Está descrito os objetivos da avaliação? |  | <a href="#ref1">1</a> | [pg 303][ref-pg-303] |
-| **2** | Apresenta uma breve descrição do método de observação por teste de usabilidade? |  | <a href="#ref1">1</a> | [pg 303][ref-pg-303] |
-| **3** | Será apresentado o número e o perfil tanto dos avaliadores quanto dos participantes? |  | <a href="#ref1">1</a> | [pg 303][ref-pg-303] |
-| **4** | Prevê a descrição das tarefas que cada participante realizou? |  | <a href="#ref1">1</a> | [pg 303][ref-pg-303] |
-| **5** | Haverá tabelas e gráficos que resumem os dados das medidas coletadas? |  | <a href="#ref1">1</a> | [pg 303][ref-pg-303] |
-| **6** | Prevê uma lista com os problemas encontrados (local onde ocorreu, descrição e justificativa, fatores de usabilidade prejudicados, sugestões de solução)? |  | <a href="#ref1">1</a> | [pg 303][ref-pg-303] |
+| **1** | Está descrito os objetivos da avaliação? | Sim | <a href="#ref1">1</a> | [pg 303][ref-pg-303] |
+| **2** | Apresenta uma breve descrição do método de observação por teste de usabilidade? | Sim | <a href="#ref1">1</a> | [pg 303][ref-pg-303] |
+| **3** | Será apresentado o número e o perfil tanto dos avaliadores quanto dos participantes? | Sim | <a href="#ref1">1</a> | [pg 303][ref-pg-303] |
+| **4** | Prevê a descrição das tarefas que cada participante realizou? | Sim | <a href="#ref1">1</a> | [pg 303][ref-pg-303] |
+| **5** | Haverá tabelas e gráficos que resumem os dados das medidas coletadas? | Sim | <a href="#ref1">1</a> | [pg 303][ref-pg-303] |
+| **6** | Prevê uma lista com os problemas encontrados (local onde ocorreu, descrição e justificativa, fatores de usabilidade prejudicados, sugestões de solução)? | Sim | <a href="#ref1">1</a> | [pg 303][ref-pg-303] |
 
 </center>
 
@@ -64,9 +64,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+Não foram encontrads erros.
 
 ## Sumário dos resultados
 
@@ -96,10 +94,10 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 6
+    "Não" : 0
+    "Incompleto" : 0
+    "Não se Aplica" : 0
 ```
 
 </center>
