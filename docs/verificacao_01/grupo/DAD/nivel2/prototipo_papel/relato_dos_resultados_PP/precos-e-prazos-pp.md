@@ -47,7 +47,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 | **1** | Nos relatos, tem-se os objetivos das avaliações? | Sim  | <a href="#ref1">1</a>  | [pg 318](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
 | **2** | Possui uma breve descrição do método de prototipação de papel? | Sim | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png)  | 
 | **3** | O número e o perfil dos avaliadores e dos participantes presentes na avaliação? | Sim | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
-| **4** | Possui as tarefas realizadas pelos participantes durante o método de avaliação em questão? |  | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
+| **4** | Possui as tarefas realizadas pelos participantes durante o método de avaliação em questão? | Sim. | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
 | **5** | Tem-se duas listas de usabilidade? Uma com os problemas corrigidos e uma com os problemas ainda não corrigidos? | Sim| <a href="#ref1">1</a> | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
 | **6** | Essas listas possuem o local onde ocorreu a avaliação? | Sim | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
 | **7** | Essas listas possuem quais fatores de usabilidade foram prejudicados? | Sim | <a href="#ref1">1</a>  | [pg 319](../../../../../../assets/prints_verificacao/gabrielb/Pag-319.png) |
