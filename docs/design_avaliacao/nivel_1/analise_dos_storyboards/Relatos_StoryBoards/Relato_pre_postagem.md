@@ -62,7 +62,10 @@ Houve a participação de uma pessoa para a entrevista, que foi o Paulo Cerqueir
 
 ### Gravação da Reunião
 
-<iframe width="1519" height="542" src="https://www.youtube.com/embed/NX0eA9hURSg" title="Avaliação do Storyboard - Grupo 03 (Gabriel Fernando)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<center>
+    <iframe width="600" height="350" src="https://www.youtube.com/embed/NX0eA9hURSg" title="Avaliação do Storyboard - Grupo 03 (Gabriel Fernando)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen></iframe>
+</center>
 
 <p style="text-align: center">Link direto para o vídeo <a href="https://www.youtube.com/NX0eA9hURSg">aqui</a>.</p>
 
@@ -93,28 +96,16 @@ Apesar de o entrevistado ter respondido "sim" à todas as perguntas, nota-se que
 
 ## Lista dos problemas encontrados
 
-Neste tópico, o entrevistador precisará elencar de maneira ordenada e de fácil entendimento os principais obstáculos e falhas que o usuário enfrentou ao utilizar a funcionalidade que está em foco.
+Além do ocorrido citado na sessão acima, não foram encontrados problemas persistentes que não puderam ser resolvidos esclarecidos de forma rápida ao participante.
 
 
 ## Planejamento para o reprojeto da aplicação
 
-Como base nos resultados levantados a partir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do storyboard, mantendo a estrutura original e apenas efetuando alterações no quadro em que o personagem realiza a pré-postagem ou adicionando um quadro para representar um esboço da tela que auxilia a tarefa. Isso será feito seguindo o cronograma da Tabela 3.
-
-
-<center>
-
-<font size="2"><p style="text-align: center">**Tabela 3:** cronograma planejado do reprojeto</p></font>
-
-| **Responsável** |**Horário do início**|**Horário do Fim**|**Data**|
-| -- | :--: | :--: | :--: |
-|[Gabriel Fernando][GabrielfGH]| 17:00 | 22:00 | 06/06/24|
-
-<font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
-</center>
+Não foram encontrados problemas que justifiquem um reprojeto, logo, não haverá um.
 
 ## Sugestões de melhoria
 
-Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-da-aplicacao), acredito que para entrevistas futuras, será de grande ajuda fazer perguntas para que o usuário justifique sua reposta, uma vez que, como ocorreu nessa avaliação, o participante responde "sim" às perguntas, porém, apenas quando questionado que possíveis lacunas do storyboard foram discutidas.
+Acredito que para entrevistas futuras, será de grande ajuda fazer perguntas para induzir o participante a justificar sua reposta, uma vez que, como ocorreu nessa avaliação, o participante responde "sim" às perguntas, porém, apenas quando questionado que possíveis lacunas do storyboard foram discutidas.
 
 ## Bibliografia
 
@@ -125,6 +116,7 @@ Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-d
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 03/06/2024 | Criação do documento| [Gabriel Fernando][GabrielfGH] | [Gabriel Bertolazi][GabrielbGH] |
+|`1.1`| 27/06/2024 | Correção de [Problemas Encontrados](#lista-dos-problemas-encontrados) e [Reprojeto](#planejamento-para-o-reprojeto-da-aplicacao) e [Sugestões](#sugestoes-de-melhoria)| [Gabriel Fernando][GabrielfGH] | [][] |
 
 
 [GabrielfGH]: https://github.com/MMcLovin
