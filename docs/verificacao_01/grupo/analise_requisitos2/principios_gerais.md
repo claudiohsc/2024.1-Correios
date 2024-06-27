@@ -33,7 +33,7 @@ Este artefato foi produzido por [Ricardo][RicardoGH] e verificado por [Gabriel F
 
 ## Apresentação dos Dados
 
-Aqui será apresentado os resultados do checklist e logo após as observações dos itens com resultado negativo.
+Abaixo, Tabela 2, estão apresentados os resultados do checklist e logo após, as observações dos itens com resultado negativo.
 
 ### Checklist de verificação
 
@@ -58,16 +58,64 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 
-## Problemas Encontrados
+#### Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato.
+Abaixo estão apresentados todos os problemas identificados durante o processo de verificação do artefato.
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- ID 04: Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas?
+    - Avaliação: não
+    - Comentário: o artefato não possui esse tópico
+- ID 07: Os princípios gerais do projeto contém promoção da eficiência do usuário?
+    - Avaliação: não
+    - Comentário: o artefato não possui esse tópico
+- ID 08: Os princípios gerais do projeto contém antecipação das necessidades do usuário?
+    - Avaliação: não
+    - Comentário: o artefato não possui esse tópico
+- ID 11: Os princípios gerais do projeto contém projeto para erros?
+    - Avaliação: não
+    - Comentário: o artefato não possui esse tópico
+- ID 12: O artefato contém os Princípios Gerais que serão utilizados no projeto?
+    - Avaliação: incompleto
+    - Comentário: apresenta os principios gerais aplicados ao site, mas não é citado de forma clara que esses serão os princípios adotados no projeto.
+
+### Sumário dos resultados
+
+<!-- Conte as quantidade de ocorrencias e coloque no Grafico a quantidade em cada tipo de avaliação (se não ouver incidencia de um tipo como "não se aplica", apague a linha do mesmo)-->
+A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos resultados.
+
+<font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
+
+<div style="text-align: center;">
+
+    ``` mermaid
+    %%{
+    init: {
+        'theme': 'base',
+        'themeVariables': {
+            'primaryColor': '#FFD400',
+            'secondaryColor': '#0083CA',
+            'tertiaryColor': '#CD992B',
+            'pie4': '#00416B',
+            'primaryTextColor': '#8e8e8e',
+            'pieStrokeWidth': '0px',
+            'pieOuterStrokeWidth': '0px',
+            'pieOpacity': '1',
+            'pieSectionTextColor': '#fff',
+            'pieSectionTextSize': '19px'
+        }
+    }
+    }%%
+    pie
+        "Sim" : 7
+        "Não" : 4
+        "Incompleto" : 1
+    ```
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ## Bibliografia
 
@@ -82,6 +130,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 25/06/2024 | Criação do documento |[Ricardo Augusto](https://github.com/avmricardo) | []() |
+| `1.1`  | 26/06/2024 | Aplicação do checklist |[Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
