@@ -42,19 +42,19 @@ Abaixo, Tabela 2, estão apresentados os resultados do checklist e logo após, a
 <center>
 
 | ID | Descrição | Avaliação | Referência | Print |
-|:--:| --------- | :-------: | :--------: | :---: |
-| **1** | Todos os princípios gerais do projeto apresentam uma explicação com embasamento teórico de algum dos seguintes autores: Norman, Tognazzini, Nielsen ou Shneiderman? |  | <a href="#ref1">1</a> | [página 237](../../../assets/prints_verificacao/claudio/pag237principios.png) |
-| **2** | As violações dos princípios gerais que foram identificadas no projeto foram explicitadas? Com a sua motivação, violação(print) e a sugestão de melhoria? |  | <a href="#ref1">1</a> | [Página 238](../../../assets/prints_verificacao/claudio/pag238principios.png) |
-| **3** | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ? |  | <a href="#ref1">1</a> | [Páginas 238,239](../../../assets/prints_verificacao/claudio/pag238-239expectativa.png) |
-| **4** | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ? |  | <a href="#ref1">1</a> | [Página 239](../../../assets/prints_verificacao/claudio/pag239simplicidade.png) |
-| **5** | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ? |  | <a href="#ref1">1</a> | [Páginas 240,241](../../../assets/prints_verificacao/claudio/pag240-241controle.png) |
-| **6** | Os princípios gerais do projeto contém consistência e padronização ? |  | <a href="#ref1">1</a> | [Páginas 241,242](../../../assets/prints_verificacao/claudio/pag241-242consistencia.png) |
-| **7** | Os princípios gerais do projeto contém promoção da eficiência do usuário ? |  | <a href="#ref1">1</a> | [Página 242](../../../assets/prints_verificacao/claudio/pag242eficiencia.png) |
-| **8** | Os princípios gerais do projeto contém antecipação das necessidades do usuário ? |  | <a href="#ref1">1</a> | [Páginas 243,244](../../../assets/prints_verificacao/claudio/pag243-244antecipacao.png) |
-| **9** | Os princípios gerais do projeto contém visibilidade e reconhecimento ? |  | <a href="#ref1">1</a> | [Páginas 244,245](../../../assets/prints_verificacao/claudio/pag244-245visibilidade.png) |
-| **10** | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?	 |  | <a href="#ref1">1</a> | [Página 246](../../../assets/prints_verificacao/claudio/pag246conteudo.png) |
-| **11** | Os princípios gerais do projeto contém projeto para erros ? |  | <a href="#ref1">1</a> | [Página 247](../../../assets/prints_verificacao/claudio/pag247erros.png) |
-| **12** | O artefato contém os Princípios Gerais que serão utilizados no projeto? |  | <a href="#ref1">1</a> | [Página 237](../../../assets/prints_verificacao/claudio/pag237uso.png) |
+| --- | --- | --- | --- | --- |
+| **1** | Todos os princípios gerais do projeto apresentam uma explicação com embasamento teórico de algum dos seguintes autores: Norman, Tognazzini, Nielsen ou Shneiderman? | sim | [1](#ref1) | [página 237](../../../assets/prints_verificacao/claudio/pag237principios.png) |
+| **2** | As violações dos princípios gerais que foram identificadas no projeto foram explicitadas? Com a sua motivação, violação(print) e a sugestão de melhoria? | sim | [1](#ref1) | [Página 238](../../../assets/prints_verificacao/claudio/pag238principios.png) |
+| **3** | Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ? | sim | [1](#ref1) | [Páginas 238,239](../../../assets/prints_verificacao/claudio/pag238-239expectativa.png) |
+| **4** | Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ? | não | [1](#ref1) | [Página 239](../../../assets/prints_verificacao/claudio/pag239simplicidade.png) |
+| **5** | Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ? | sim | [1](#ref1) | [Páginas 240,241](../../../assets/prints_verificacao/claudio/pag240-241controle.png) |
+| **6** | Os princípios gerais do projeto contém consistência e padronização ? | sim | [1](#ref1) | [Páginas 241,242](../../../assets/prints_verificacao/claudio/pag241-242consistencia.png) |
+| **7** | Os princípios gerais do projeto contém promoção da eficiência do usuário ? | não | [1](#ref1) | [Página 242](../../../assets/prints_verificacao/claudio/pag242eficiencia.png) |
+| **8** | Os princípios gerais do projeto contém antecipação das necessidades do usuário ? | não | [1](#ref1) | [Páginas 243,244](../../../assets/prints_verificacao/claudio/pag243-244antecipacao.png) |
+| **9** | Os princípios gerais do projeto contém visibilidade e reconhecimento ? | sim | [1](#ref1) | [Páginas 244,245](../../../assets/prints_verificacao/claudio/pag244-245visibilidade.png) |
+| **10** | Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ? | sim | [1](#ref1) | [Página 246](../../../assets/prints_verificacao/claudio/pag246conteudo.png) |
+| **11** | Os princípios gerais do projeto contém projeto para erros ? | não | [1](#ref1) | [Página 247](../../../assets/prints_verificacao/claudio/pag247erros.png) |
+| **12** | O artefato contém os Princípios Gerais que serão utilizados no projeto? | incompleto | [1](#ref1) | [Página 237](../../../assets/prints_verificacao/claudio/pag237uso.png) |
 
 </center>
 
