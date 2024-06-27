@@ -207,9 +207,7 @@ Não foram encontrados problemas.
 
 #### Gravação da Verificação
 
-<div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ntXGajFrB_I" title="(Entrega 6.2) Verificação: Cenários - Receber Encomendas (Editar)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GJUTFmMmx7U?si=QyO_i3CRdqCg5GTl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p style="text-align: center">
     <a href="https://www.youtube.com/watch?v=ntXGajFrB_I"> Link para o vídeo </a>
