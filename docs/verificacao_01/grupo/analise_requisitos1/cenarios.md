@@ -221,30 +221,31 @@ A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos result
 <font size="2"><p style="text-align: center">Figura 2 - Gráfico de pizza do sumário dos resultados.</p></font>
 
 <div style="text-align: center;">
-
-``` mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-        'primaryColor': '#FFD400',
-        'secondaryColor': '#0083CA',
-        'tertiaryColor': '#CD992B',
-        'pie4': '#00416B',
-        'primaryTextColor': '#8e8e8e',
-        'pieStrokeWidth': '0px',
-        'pieOuterStrokeWidth': '0px',
-        'pieOpacity': '1',
-        'pieSectionTextColor': '#fff',
-        'pieSectionTextSize': '19px'
+    ``` mermaid
+    %%{
+    init: {
+        'theme': 'base',
+        'themeVariables': {
+            'primaryColor': '#FFD400',
+            'secondaryColor': '#0083CA',
+            'tertiaryColor': '#CD992B',
+            'pie4': '#00416B',
+            'primaryTextColor': '#8e8e8e',
+            'pieStrokeWidth': '0px',
+            'pieOuterStrokeWidth': '0px',
+            'pieOpacity': '1',
+            'pieSectionTextColor': '#fff',
+            'pieSectionTextSize': '19px'
+        }
     }
-  }
-}%%
-pie
-    "Sim" : 6
-    "Incompleto" : 2
-```
+    }%%
+    pie
+        "Sim" : 6
+        "Incompleto" : 2
+    ```
 </div>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ## Cenário 05 - Minhas Importações
 
