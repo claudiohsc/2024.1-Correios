@@ -193,11 +193,11 @@ Não foram encontrados problemas.
 #### Gravação da Verificação
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Idp_qcjeA9s" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ntXGajFrB_I" title="(Entrega 6.2) Verificação: Cenários - Receber Encomendas (Editar)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="https://youtu.be/Idp_qcjeA9s"> Link para o vídeo </a>
+    <a href="https://www.youtube.com/watch?v=ntXGajFrB_I"> Link para o vídeo </a>
 </p>
 
 #### Problemas Encontrados
