@@ -92,8 +92,22 @@ Custos:
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
-
 <font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário pré-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | 
+| :-:| -------- |
+| **1** | Qual o seu nome completo? |
+| **2** | Qual a sua idade? | 
+| **3** | Qual a sua ocupação? | 
+| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário pós-teste.</p></font>
 
 <center>
 
@@ -113,7 +127,7 @@ Custos:
 
 
 
-<font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário pós-teste.</p></font>
+<font size="2"><p style="text-align: center">Tabela 5 - Perguntas do questionário para o avaliado responder</p></font>
 
 <center>
 
@@ -169,7 +183,7 @@ Antes de mergulharmos nas entrevistas com os usuários, um passo crucial nos agu
 
 Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando surpresas durante as entrevistas reais. Analisaremos a eficácia do nosso planejamento, ajustando-o para garantir um fluxo suave e eficiente durante as avaliações. Asseguraremos que a avaliação forneça os dados precisos e relevantes para o nosso estudo, respondendo às nossas perguntas e objetivos. Avaliaremos a clareza e a objetividade da linguagem utilizada nas entrevistas, certificando-nos de que as perguntas sejam compreendidas de maneira inequívoca pelos participantes. Conforme Barbosa e Silva (2021, p. 276), o teste piloto vai além de um simples teste de ferramentas. Ele nos permite avaliar o próprio planejamento, garantindo que a avaliação produza os dados necessários para alcançarmos os objetivos do estudo.Durante o teste piloto, os avaliadores conduzirão uma simulação completa de uma sessão de avaliação, incluindo explicações, materiais e interação com os participantes. O cronograma passar essa etapa encontrase na Tabela 2 abaixo.
 
-<font size="2"><p style="text-align: center">Tabela 5 - Planejamento do Teste Piloto.</p></font>
+<font size="2"><p style="text-align: center">Tabela 6 - Planejamento do Teste Piloto.</p></font>
 
 <center>
 
