@@ -215,9 +215,9 @@ Abaixo temos a tabela 06 com o cronograma executado do reprojeto:
 | Funcionalidade | Autor | Revisor | Data | Status |
 | :----- | :-----------: | :----------: |:----------: |:----------: |
 | Filtragem dos itens da loja | Elias | Revisor |03/07/2024| Implementado |
-| Opção de aumentar e diminuir  | Elias | Revisor |03/07/2024| Não Implementado |
-| Edição da quantidade de itens no carrinho | Elias | Revisor |03/07/2024 | Não Implementado |
-| Exclusão de itens no carrinho | Elias | Revisor |03/07/2024| Não Implementado |
+| Opção de aumentar e diminuir a fonte do site  | Elias | Revisor |03/07/2024| Implementado|
+| Edição da quantidade de itens no carrinho | Elias | Revisor |03/07/2024 | Implementado |
+| Exclusão de itens no carrinho | Elias | Revisor |03/07/2024| Implementado |
 
 <font size="2"><p style="text-align: center">[Elias F. Oliveira][EliasGH] </p></font>
 
