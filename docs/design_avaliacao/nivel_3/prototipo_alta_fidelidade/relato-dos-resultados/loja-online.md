@@ -72,7 +72,7 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
 <center>
 
-=== "Gravação 01 - Entrevistado: Renato Medeitos"
+=== "Gravação 01 - Entrevistado: Renato Medeiros"
 
    
     <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista do protótipo de alta fidelidade com o usuário Renato Medeiros.</p></font>
