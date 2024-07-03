@@ -25,58 +25,7 @@ Os objetivos desse artefato, conforme estabelecido no planejamento da avaliaçã
 
 ## Metodologia da prototipação
 
-O método de avaliação que será utilizado será o de teste de usabilidade através do protótipo de alta fidelidade, com um questionário para o usuário e um para ser respondido com base nas ações do usuário ao utilizar e avaliar o protótipo. Nas Tabelas 1, 2 e 3, respectivamente, estão as perguntas pré teste as perguntas para identificar as impressões e opiniões que o usuário obteve ao utilizar o protótipo, e também se a utilização do protótipo pelo participante se dá de maneira correta cumprindo com os objetivos propostos.
-
-<font size="2"><p style="text-align: center">Tabela 1 - Perguntas do questionário pré-teste.</p></font>
-
-<center>
-
-| ID | Pergunta | 
-| :-:| -------- |
-| **1** | Qual o seu nome completo? |
-| **2** | Qual a sua idade? | 
-| **3** | Qual a sua ocupação? | 
-| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | 
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH] e [Pablo S. Costa][PabloGH], 2024</p></font>
-
-<font size="2"><p style="text-align: center">Tabela 2 - Perguntas do questionário para o usuário pós-teste.</p></font>
-
-<center>
-
-| ID | Pergunta | 
-| :-:| -------- |
-| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) |
-| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | 
-| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | 
-| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? |
-| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? |
-| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? |
-
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
-
-
-
-<font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário pós-teste.</p></font>
-
-<center>
-
-| ID | Pergunta | Objetivo Relacionado |
-| :-:| -------- | ------------------ |
-| **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | 
-| **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia |
-| **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface|
-| **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  |
-| **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface|
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+O método de avaliação que será utilizado será o de teste de usabilidade através do protótipo de alta fidelidade, com um questionário para o usuário e um para ser respondido com base nas ações do usuário ao utilizar e avaliar o protótipo. Nas Tabelas 2, 4 e 4, respectivamente, estão as perguntas pré teste, perguntas para identificar as impressões e opiniões que o usuário obteve ao utilizar o protótipo, e também se a utilização do protótipo pelo participante se dá de maneira correta cumprindo com os objetivos propostos.
 
 
 ## Número e perfil dos avaliadores e participantes
@@ -138,6 +87,59 @@ Na tabela 4, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 <p style="text-align: center">
     <a href="https://youtu.be/"> Link para o vídeo </a>
 </p>
+
+### Respstas
+
+<font size="2"><p style="text-align: center">Tabela 2 - Perguntas do questionário pré-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | 
+| :-:| -------- |
+| **1** | Qual o seu nome completo? |
+| **2** | Qual a sua idade? | 
+| **3** | Qual a sua ocupação? | 
+| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH] e [Pablo S. Costa][PabloGH], 2024</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário para o usuário pós-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | 
+| :-:| -------- |
+| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) |
+| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | 
+| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | 
+| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? |
+| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? |
+| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? |
+
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+
+
+
+<font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário pós-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | Objetivo Relacionado |
+| :-:| -------- | ------------------ |
+| **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | 
+| **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia |
+| **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface|
+| **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  |
+| **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface|
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
 
 
 ## Lista de Problemas de usabilidade corrigidos
