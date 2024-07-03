@@ -50,6 +50,16 @@ Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e
 
 ## Teste Piloto
 
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 1 - Gravação da Avaliação do Protótipo Loja Online.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vachq9pNeBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+</center>
+
 ## Gravações das Avaliações do Protótipo
 
 <center>
@@ -76,7 +86,7 @@ Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e
     | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Sim, o usuário se despercebeu não visualizando o filtro logo de início. |
     | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não, tudo conforme o esperado. |
     | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim, pois o protótipo apresenta uma estrutura fidedigna aos sites de compra encontrados atualmente. |
-    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | O usuário sugeriu a inclusão de uma função pára poder aumentar ou diminuir a fonte dos textos no  |
+    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | O usuário sugeriu a inclusão de uma função pára poder aumentar ou diminuir a fonte dos textos no site.  |
 
     OBS: O usuário gostou bastante da opção de filtragem implementada no site, pela economia de tempo que o ele terá ao realizar uma compra.
 
@@ -128,7 +138,7 @@ Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e
     | ID | Pergunta | Resposta|
     | :-:| -------- |-------- |
     | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo, pois está bem simples e intuitivo. |
-    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim, pois as funcionalidades estão be visíveis. |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim, pois as funcionalidades estão bem visíveis. |
     | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não. |
     | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Sim, problema ao realizar a filtragem. |
     | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim, o protótipo está bem fidedigno com a realidade. |
@@ -150,7 +160,6 @@ Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e
 
     <font size="2"><p style="text-align: center">Tabela 5 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
-    <center>
 
     | ID | Pergunta | Resposta|
     | :-:| -------- |-------- |
@@ -185,8 +194,26 @@ Abaixo temos os problemas de usabilidade não corrigidos após a fase de avalia�
 - Descrição e justificativa do problema: Ao avaliar o protótipo alguns usuários relataram dificuldade para enchergar alguns textos, como descrições dos produtos que são textos menores, também foi relatado problemas com as funcionalidades de filtragem que ainda não estavam implementadas corretamente.
 - Prioridade para correção: Alta.
 - Sugestões de correção: Adicionar uma funcionalidade que possibilite o usuário aumentar ou diminuir a fonte do site, para a funcionalidade de filtragem foi-se também sugerido alterar o posicionamento e realizar a implementação correta desta.
-- Indicações de partes do sistema que podem ser mais bem elaboradas.
+- Indicações de partes do sistema que podem ser mais bem elaboradas: Melhoramento da filtragem dos produtos e implementação da edição da quantidade de itens no carrinho e a exclusão.
 
+## Resultado e Reprojeto
+
+Abaixo temos a tabela 06 com o cronograma executado do reprojeto:
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 06 - Cronograma do Reprojeto executado.</p></font>
+
+| Funcionalidade | Autor | Revisor | Data | Status |
+| :----- | :-----------: | :----------: |:----------: |:----------: |
+| Filtragem dos itens da loja | Elias | Revisor |03/07/2024| Implementado |
+| Opção de aumentar e diminuir  | Elias | Revisor |03/07/2024| Não Implementado |
+| Edição da quantidade de itens no carrinho | Elias | Revisor |03/07/2024 | Não Implementado |
+| Exclusão de itens no carrinho | Elias | Revisor |03/07/2024| Não Implementado |
+
+<font size="2"><p style="text-align: center">[Elias F. Oliveira][EliasGH] </p></font>
+
+</center>
 
 ## Bibliografia
 
