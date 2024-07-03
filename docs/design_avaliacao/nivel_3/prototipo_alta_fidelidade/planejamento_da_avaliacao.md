@@ -207,7 +207,7 @@ Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
 | :--------: | :---------------------: | :----------------: | :----------------------: |
 | 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Ricardo e Gabriel. B |
 | 02/07/2024 | 13:00 - 13:20 | Unb-FGA | Elias e Cláudio |
-| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Pablo e Gabriel. F |
+| 28/06/2024 | 19:50 - 19:59 | Teams | Pablo |
 
 </center>
 
@@ -215,7 +215,20 @@ Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
 
 ### Gravação dos testes pilotos
 
-Em Breve ..
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 1 - Gravação do teste piloto da avaliação do Protótipo de alta fidelidade Minhas Importações.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HOYQqycLLjc?si=ehplihczaE79y3wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+</center>
+
+<p style="text-align: center">
+    <a href="https://youtu.be/HOYQqycLLjc"> Link para o vídeo </a>
+</p>
+
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -224,7 +237,7 @@ Em Breve ..
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 18/06/2024 | Criação do documento | [Elias Oliveira][EliasGH] e [Pablo][PabloGH] | [Claudio Henrique][ClaudioGH] e [Gabriel Fernando][GabrielFGH]  |
+| `1.0`  | 18/06/2024 | Criação do documento | [Elias Oliveira][EliasGH] e [Pablo S. Costa][PabloGH] | [Claudio Henrique][ClaudioGH] e [Gabriel Fernando][GabrielFGH]  |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
