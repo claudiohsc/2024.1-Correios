@@ -27,6 +27,9 @@ Os objetivos desse artefato, conforme estabelecido no planejamento da avaliaçã
 
 O método de avaliação que será utilizado será o de teste de usabilidade através do protótipo de alta fidelidade, com um questionário para o usuário e um para ser respondido com base nas ações do usuário ao utilizar e avaliar o protótipo. Nas Tabelas 2, 4 e 4, respectivamente, estão as perguntas pré teste, perguntas para identificar as impressões e opiniões que o usuário obteve ao utilizar o protótipo, e também se a utilização do protótipo pelo participante se dá de maneira correta cumprindo com os objetivos propostos.
 
+### Protótipo
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FEvmhs4yV6im7tc4zwjNC7S%2FSite-Correios---minhas-importa%25C3%25A7%25C3%25B5es%3Fnode-id%3D6402-3060%26t%3D0moSeqIHY0AysZVh-1%26scaling%3Dcontain%26content-scaling%3Dfixed%26page-id%3D0%253A1" allowfullscreen></iframe>
 
 ## Número e perfil dos avaliadores e participantes
 
