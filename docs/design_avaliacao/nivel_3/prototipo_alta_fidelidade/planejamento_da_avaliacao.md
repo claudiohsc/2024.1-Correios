@@ -215,20 +215,7 @@ Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
 
 ### Gravação dos testes pilotos
 
-
-## Teste Piloto do protótipo de alta fidelidade da Loja Online
-
-<center>
-
-<font size="2"><p style="text-align: center">Vídeo 1 - Gravação da Avaliação do Protótipo Loja Online.</p></font>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vachq9pNeBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
-
-</center>
-
-
+Em Breve ..
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
