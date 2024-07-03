@@ -1,5 +1,5 @@
 ## Introdução
-Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na etapa 02, bem como os respectivos integrantes que criaram um checklist para verificar o artefato e os integrantes que verificaram o artefato utilizando o checklist. Nas tabelas mais abaixo temos o checklist referente a cada artefato.
+Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na etapa de análise de requisitos II, bem como os respectivos integrantes que criaram um checklist para verificar o artefato e os integrantes que verificaram o artefato utilizando o checklist. Nas tabelas mais abaixo temos o checklist referente a cada artefato.
 
 ## Artefatos Verificados
 
@@ -7,10 +7,10 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
-|Etapa 2| Princípios gerais do projeto | `1.4`|16/05/2024| Giovana Barbosa | [Ricardo A.][RicardoGH] |
-|Etapa 2| Metas de usabilidade | `1.2`|20/05/2024| Rayene Almeida |[Claudio H][ClaudioGH] |
-|Etapa 2| Guia de estilo | `1.2`|18/05/2024| Rayene Almeida |[Elias F.][EliasGH]  |
-|Etapa 2| Características da plataforma | `1.0`|11/05/2024| João Pedro |  [Gabriel B.][GabrielBGH] |
+|Etapa 2| Princípios gerais do projeto | `1.4`|16/05/2024|[Ricardo A.][RicardoGH] | [Gabriel F.][GabrielFGH] |
+|Etapa 2| Metas de usabilidade | `1.2`|20/05/2024| [Claudio H][ClaudioGH] |[Elias F.][EliasGH]  |
+|Etapa 2| Guia de estilo | `1.2`|18/05/2024| [Gabriel F.][GabrielFGH]|[Elias F.][EliasGH]  |
+|Etapa 2| Características da plataforma | `1.0`|11/05/2024| [Ricardo A.][RicardoGH]  |  [Pablo][PabloGH] |
 
 ## Checklists
 
@@ -37,7 +37,7 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Cláudio Henrique][ClaudioGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [x][x], 2024.</p></font>
 
 ## Metas de usabilidade
 
@@ -57,7 +57,7 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [](https://github.com/), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [x][x], 2024.</p></font>
 
 ## Bibliografia
 
@@ -67,7 +67,7 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|   
 |`1.0`| 11/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] e [Claudio Henrique][ClaudioGH]  | [Pablo S][PabloGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc

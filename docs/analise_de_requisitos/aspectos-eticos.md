@@ -85,4 +85,5 @@ Ao seguir estes princípios éticos, os pesquisadores podem garantir que suas pe
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 03/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) & [Ricardo Augusto](https://www.github.com/avmricardo)  | [Gabriel B. Bertolazi](https://github.com/Bertolazi) |
-| `1.1`  | 13/05/2024 | Adiciona usos dos aspectos | [Pablo S. Costa](https://github.com/pabloheika)  |  |
+| `1.1`  | 13/05/2024 | Adiciona usos dos aspectos | [Pablo S. Costa](https://github.com/pabloheika)  | [Gabriel Fernando](https://github.com/MMcLovin)  |
+

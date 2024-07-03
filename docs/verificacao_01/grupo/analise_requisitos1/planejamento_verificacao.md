@@ -1,8 +1,8 @@
 
-# Verificação dos artefatos produzidos pelo Grupo 4.
+# Verificação dos artefatos produzidos pelo Grupo 3.
 
 ## Introdução
-Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na etapa 01, bem como os respectivos integrantes que criaram um checklist para verificar o artefato e os integrantes que verificaram o artefato utilizando o checklist. Nas tabelas mais abaixo temos o checklist referente a cada artefato.
+Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na etapa de análise de requisitos I, bem como os respectivos integrantes que criaram um checklist para verificar o artefato e os integrantes que verificaram o artefato utilizando o checklist. Nas tabelas mais abaixo temos o checklist referente a cada artefato.
 
 ## Artefatos Verificados
 
@@ -10,15 +10,14 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
-|Etapa 1| Aspectos éticos e termo de consentimento | `1.2`|15/05/2024| Giovana Barbosa e Renata Quadros| [Gabriel F.][GabrielFGH] |
-|Etapa 1| Perfil usuário - Questionário	 | `1.1`|18/04/2024| Raissa Andrade| [Claudio H][ClaudioGH] |
-|Etapa 1| Perfil usuário - Entrevista | `1.0`|10/05/2024| Giovana Barbosa| [Elias F.][EliasGH] |
-|Etapa 1| Perfil usuário - Análise competitiva | `1.0`|14/04/2024| Renata Quadros| [Gabriel B.][GabrielBGH] |
-|Etapa 1| Perfil usuário - Resultado perfil do usuário | `2.0`|15/04/2024| Giovana Barbosa| [Gabriel F.][GabrielFGH] |
+|Etapa 1| Aspectos éticos e termo de consentimento | `1.2`|15/05/2024| [Claudio H][ClaudioGH]| [Gabriel F.][GabrielFGH] |
+|Etapa 1| Perfil usuário - Questionário	 | `1.1`|18/04/2024| [Gabriel B.][GabrielBGH]| [Claudio H][ClaudioGH] |
+|Etapa 1|Perfil usuário - Grupo de Foco	 | `1.1`|18/04/2024| [Gabriel B.][GabrielBGH]| [Claudio H][ClaudioGH] |
+|Etapa 1| Perfil usuário - Resultado perfil do usuário | `2.0`|15/04/2024| [Gabriel B.][GabrielBGH]| [Gabriel F.][GabrielFGH] |
 |Etapa 1| Personas | `1.2`|08/05/2024| João Pedro | [Pablo S.][PabloGH] |
-|Etapa 1| Cenários | `1.7`|15/05/2024| Giovana Barbosa|Todos |
-|Etapa 1| Análise tarefas - HTA	 | `1.8`|21/05/2024| Lara Giuliana |Todos |
-|Etapa 1| Análise tarefas - GOMS | `2.0`|01/06/2024| Lara Giuliana |Todos |
+|Etapa 1| Cenários | `1.7`|15/05/2024| [Elias F. Oliveira][EliasGH]| [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH] |
+|Etapa 1| Análise tarefas - HTA	 | `1.8`|21/05/2024| [Claudio H][ClaudioGH] | [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH]|
+|Etapa 1| Análise tarefas - GOMS | `2.0`|01/06/2024| [Pablo S.][PabloGH] | [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH] |
 
 ## Checklists
 
@@ -141,6 +140,24 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 ## Análise tarefas - HTA
 
 ## Análise tarefas - GOMS
+
+<font size="2"><p style="text-align: center">Tabela 7 - Perguntas elaboradas de acordo com as referências bibliográficas.</p></font>
+
+<center>
+
+| ID | Descrição | Avaliação | Referência | Print |
+| --- | --- | --- | --- | --- |
+| **01** | O GOMS possui objetivos, métodos, operadores e regras de seleção? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pergunta%201%20pagina%20181%20GOMS.png) |
+| **02** | OS objetivos demonstram o que o usuário pretende usando o software? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 181 | [pg. 181](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+| **03** | Os operadores estão representando a ação concreta que o software permite que os usuários façam? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+| **04** | Os métodos estão representados como subobjetivos que permitem atingir um objetivo maior? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+| **05** | Todas as vezes que temos mais de um método para um mesmo objetivo temos uma regra de seleção? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+| **06** | As regras de seleção representam tomadas de decisão do usuário sobre qual método utilizar? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/Pagina%20181%20e%20182.png) |
+| **07** | A identação do GOMS está da maneira correta? Como os operadores dentro dos métodos? |   | [REF1](#ref1) . Cap. 8.4.2 - Pgs. 182 | [pg. 182](../../../../assets/prints_verificacao/gabrielb/pg%20182.png) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 
 ## Bibliografia

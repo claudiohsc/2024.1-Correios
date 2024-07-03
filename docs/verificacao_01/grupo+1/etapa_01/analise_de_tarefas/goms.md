@@ -225,6 +225,18 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
+## Gravação da Verificação
+
+<center>
+
+<font size="2"><p style="text-align: center">Gravação Inspeção do Artefato</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PwVfg233Wbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
+
+</center>
+
 ## Bibligrafia
 
 > 1<a id="ref1">.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
