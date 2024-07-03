@@ -70,35 +70,63 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 3 - Cronograma executado da realização das entrevistas do protótipo de alta fidelidade.</p></font>
+<font size="2"><p style="text-align: center">Tabela 3 - Cronograma executado das entrevistas e perfil dos entrevistados.</p></font>
 
-| Tarefa | Entrevistador | Entrevistado | Data | 
-| :----- | :-----------: | :----------: |:----:|
-| **Calcular preços e prazos de entrega** | Cláudio | Renato Medeiros , Marcos Antônio, Henrique Quenino, Isabelly Sophia | 02/07/2024  | 
-
+| Tarefa | Entrevistador | Entrevistado | Idade |Ocupação | Horário | Data | Local | 
+| :----- | :-----------: | :----------: | :-----: |:-----: | :-----: |:----:| :----:| 
+| **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Renato Medeiros | 28 anos | Graduando em Engenharia Aeroespacial na Unb |13:20 - 13:30 | 02/07/2024 | UnB-FGA| 
+| **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Marcos Antônio| 20 anos | Estudante |13:40 - 13:50 | 02/07/2024 | UnB-FGA| 
+| **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Henrique Quenino | 22 anos | Graduando em Engenharia de Software na Unb e Trabalha na área de T.I  | 13:50 - 13:55 | 02/07/2024 | UnB-FGA| 
+| **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Isabelly Sophia | 18 anos | Graduando em Engenharia de Software na Unb e membro do Ai-Lab | 15:40 - 15:50 | 02/07/2024 | UnB-FGA| 
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 </center>
 
+## Protótipo de Alta Fidelidade
 
-
-## Gravações
-
-<font size="2"><p style="text-align: center">Vídeo 2 - Entrevista do protótipo de alta fidelidade com o usuário Renato Medeiros.</p></font>
+Abaixo nas figuras 1 e 2 é mostrado o protótipo de alta fidelidade e logo abaixo temos o link direto para acessar na ferramenta [Justinmind](https://www.justinmind.com).
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8mlgxoaWHns?si=WmSpsrCRcPsrolG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[Link direto para o vídeo](https://www.youtube.com/watch?v=8mlgxoaWHns)
+<font size="2"><p style="text-align: center">Figura 1 - Página inicial do site e da funcionalidade.</p></font>
 
-</center>
+![img1](../../../../assets/prototipos-AF/Claudio/3.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 
-<font size="2"><p style="text-align: center">Vídeo 3 - Entrevista do protótipo de alta fidelidade com o usuário Henrique Quenino.</p></font>
+<font size="2"><p style="text-align: center">Figura 2 - Páginas de cadastro e resultado da simulação.</p></font>
+
+![img1](../../../../assets/prototipos-AF/Claudio/4.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+
+[Link para acessar o protótipo](https://cloud.justinmind.com/usernote/prototype/522588bc089c1346304eb0283cc2411a0df6aaa214200768bd4134cd86219f9c)
+
+
+</center>
+
+## Gravações das Avaliações do Protótipo
+
+=== "Gravação 01 - Entrevistado: Renato Medeiros"
+
+    <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista do protótipo de alta fidelidade com o usuário Renato Medeiros.</p></font>
+
+    <center>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8mlgxoaWHns?si=WmSpsrCRcPsrolG7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    [Link direto para o vídeo](https://www.youtube.com/watch?v=8mlgxoaWHns)
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+
+<font size="2"><p style="text-align: center">Vídeo 2 - Entrevista do protótipo de alta fidelidade com o usuário Henrique Quenino.</p></font>
 
 <center>
 
@@ -111,7 +139,7 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 
-<font size="2"><p style="text-align: center">Vídeo 4 - Entrevista do protótipo de alta fidelidade com o usuário Marcos Antônio.</p></font>
+<font size="2"><p style="text-align: center">Vídeo 3 - Entrevista do protótipo de alta fidelidade com o usuário Marcos Antônio.</p></font>
 
 <center>
 
@@ -124,7 +152,7 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 
-<font size="2"><p style="text-align: center">Vídeo 5 - Entrevista do protótipo de alta fidelidade com o usuário Isabelly Sophia.</p></font>
+<font size="2"><p style="text-align: center">Vídeo 4 - Entrevista do protótipo de alta fidelidade com o usuário Isabelly Sophia.</p></font>
 
 <center>
 
