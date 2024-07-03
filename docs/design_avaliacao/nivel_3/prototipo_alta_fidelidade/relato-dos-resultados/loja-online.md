@@ -48,7 +48,29 @@ Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e
 
 </center>
 
+## Protótipo de Alta Fidelidade
+
+Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo temos o protótipo direto com a ferramenta figma.
+
+<font size="2"><p style="text-align: center">Figura 01: Protótipo de Alta Fidelidade</p></font>
+
+![Imagem do Protótipo](../../../../assets/prototipos-AF/Elias/loja-online.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH]</p></font>
+
+<center>
+
+<font size="2"><p style="text-align: center">Protótipo de Alta fidelidade</p></font>
+
+</center>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2Fa0P9XJF8KBQ8ywJWyFeuJb%2FProt%25C3%25B3tipo-de-Alta-FIdelidade-Correios---IHC%3Fnode-id%3D0-1%26t%3DON3TkUTgDYKHROOJ-1" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH]</p></font>
+
 ## Teste Piloto
+
+Abaixo temos o teste piloto realizado utilizando o protótipo da loja online.
 
 <center>
 
