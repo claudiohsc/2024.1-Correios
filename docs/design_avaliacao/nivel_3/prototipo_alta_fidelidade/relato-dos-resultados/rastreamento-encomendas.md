@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artefato contém o relato dos resultados obtidos na sessão de observação do protótipo de alta fidelidade produzido por [Ricardo Augusto][RicardoGH], que tem como foco a funcionalidade de realizar uma simulação de envio de encomendas e ter como resultado preços e prazos de envio. Ele servirá para certificar que as informações principais e de extrema importância para o projeto sejam exploradas e representadas de forma clara e ordenada, auxiliando na compreensão dos dados e informações coletadas nas análises para se obter o melhor uso dessas, assim trazendo melhorias para o projeto.
+Este artefato contém o relato dos resultados obtidos na sessão de observação do protótipo de alta fidelidade produzido por [Ricardo Augusto][RicardoGH], que tem como foco a funcionalidade de visualizar as informações de localização e o rastreamento de uma encomenda enviada pelos Correios. Ele servirá para certificar que as informações principais e de extrema importância para o projeto sejam exploradas e representadas de forma clara e ordenada, auxiliando na compreensão dos dados e informações coletadas nas análises para se obter o melhor uso dessas, assim trazendo melhorias para o projeto.
 
 
 ## Metodologia
@@ -74,7 +74,7 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 | Tarefa | Entrevistador | Entrevistado | Data | 
 | :----- | :-----------: | :----------: |:----:|
-| **Rastrear encomendas** | [Ricardo Augusto][RicardoGH] |  | 03/07/2024  | 
+| **Rastrear encomendas** | [Ricardo Augusto][RicardoGH] | [Johnny Lopes](https://www.github.com/JohnnyLopess), [Mateus Orlando](https://www.github.com/MateusPy) | 03/07/2024  | 
 
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
