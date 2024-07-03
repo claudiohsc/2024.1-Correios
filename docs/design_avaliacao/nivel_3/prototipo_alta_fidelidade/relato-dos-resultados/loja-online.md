@@ -100,12 +100,12 @@ Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e
 
     | ID | Pergunta | Resposta|
     | :-:| -------- |-------- |
-    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | |
-    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | |
-    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | |
-    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | |
-    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | |
-    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | |
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo. |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim. |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não. |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Sim, erro no filtro dos produtos. |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim. |
+    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, o protótipo está de acordo. |
 
 
     </center>
@@ -127,12 +127,12 @@ Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e
 
     | ID | Pergunta | Resposta|
     | :-:| -------- |-------- |
-    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | |
-    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | |
-    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | |
-    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | |
-    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | |
-    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | |
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo, pois está bem simples e intuitivo. |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim, pois as funcionalidades estão be visíveis. |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não. |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Sim, problema ao realizar a filtragem. |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim, o protótipo está bem fidedigno com a realidade. |
+    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Alterar a localização do filtro para a parte lateral esquerda do site, ao invés da parte superior onde ele se encontrava. |
 
 
     </center>
@@ -154,12 +154,12 @@ Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e
 
     | ID | Pergunta | Resposta|
     | :-:| -------- |-------- |
-    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | |
-    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | |
-    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | |
-    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | |
-    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | |
-    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | |
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo. |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim. |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não. |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Sim, parte não implementada. |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim. |
+    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Na tela do produto a imagem do produto estar localizada a esquerda, a descrição um pouco menor à direita e a opção de compra logo abaixo da descrição. Outra sugestão seria alterar a cor de alguns textos na tabela de produtos no carrinho para se obter um contraste entre os títulos dos campos e o conteúdo em cada célula. |
 
 
     </center>
@@ -180,11 +180,11 @@ Abaixo temos os problemas de usabilidade corrigidos após a fase de avaliação 
 
 Abaixo temos os problemas de usabilidade não corrigidos após a fase de avaliação do protótipo de papel elaborado na etapa passada do projeto.
 
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Prioridade para correção;
-- Sugestões de correção;
+- Local onde ocorreu: Todas as telas.
+- Fatores de usabilidade prejudicados: Visibilidade e Reconhecimento / Estética e design minimalista 
+- Descrição e justificativa do problema: Ao avaliar o protótipo alguns usuários relataram dificuldade para enchergar alguns textos, como descrições dos produtos que são textos menores, também foi relatado problemas com as funcionalidades de filtragem que ainda não estavam implementadas corretamente.
+- Prioridade para correção: Alta.
+- Sugestões de correção: Adicionar uma funcionalidade que possibilite o usuário aumentar ou diminuir a fonte do site, para a funcionalidade de filtragem foi-se também sugerido alterar o posicionamento e realizar a implementação correta desta.
 - Indicações de partes do sistema que podem ser mais bem elaboradas.
 
 
