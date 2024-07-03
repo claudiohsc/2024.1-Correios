@@ -63,11 +63,11 @@ Haverá um total de 6 sessões presenciais, cada uma contará com um participant
 
 Equipamentos e materiais para a entrevista:
 
-- Protótipo de alta fidelidade
-- Câmera
-- Roteiro da sessão
-- 2 vias impressas do Termo de consentimento (uma para ficar com o avaliador e outra com o participante)
-- Questionários
+- Protótipo de alta fidelidade;
+- Câmera;
+- Roteiro da sessão;
+- 2 vias impressas do Termo de consentimento (uma para ficar com o avaliador e outra com o participante);
+- Questionários;
 
 Custos:
 
@@ -118,7 +118,7 @@ Custos:
 | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | 
 | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? |
 | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? |
-| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? |
+| **6** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? |
 
 
 </center>
@@ -189,15 +189,30 @@ Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando
 
 |    Data    | Horário de início e fim | Local            |     Avaliadores    |
 | :--------: | :---------------------: | :----------------: | :----------------------: |
-| 25/06/2024 | 12:00 - 14:00 | Unb-FGA | Ricardo e Gabriel. B |
+| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Ricardo e Gabriel. B ||
+| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Elias e Cláudio ||
+| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Pablo e Gabriel. F ||
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
-### Gravação do teste piloto
+### Gravação dos testes pilotos
 
-*Em Breve*
+
+## Teste Piloto do protótipo de alta fidelidade da Loja Online
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 1 - Gravação da Avaliação do Protótipo Loja Online.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vachq9pNeBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+</center>
+
+
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
