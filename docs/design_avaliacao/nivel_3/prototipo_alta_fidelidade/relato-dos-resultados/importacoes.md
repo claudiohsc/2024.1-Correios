@@ -48,6 +48,8 @@ Na tabela 4, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 ## Gravações
 
+Abaixo temos as gravações das entrevistas realizadas que estão no vídeos 1, 2 e 3.
+
 <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista do protótipo de alta fidelidade com o usuário Diego Medeiros dos Santos.</p></font>
 
 <center>
@@ -94,34 +96,33 @@ Na tabela 4, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 <center>
 
-| ID | Pergunta | 
-| :-:| -------- |
-| **1** | Qual o seu nome completo? |
-| **2** | Qual a sua idade? | 
-| **3** | Qual a sua ocupação? | 
-| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | 
+| ID | Pergunta | Diego | Heloisa | \-- |
+| --- | --- | --- | --- | --- |
+| **1** | Qual o seu nome completo? | Diego Medeiros dos Santos | Heloísa Lima |   |
+| **2** | Qual a sua idade? | 34 anos | 27 anos |   |
+| **3** | Qual a sua ocupação? | Influenciador digital | Empresária |   |
+| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | Boa | Muito boa |   |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH] e [Pablo S. Costa][PabloGH], 2024</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024</p></font>
 
 <font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
 <center>
 
-| ID | Pergunta | 
-| :-:| -------- |
-| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) |
-| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | 
-| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | 
-| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? |
-| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? |
-| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? |
-
+| ID | Pergunta | Diego | Heloisa |   |
+| --- | --- | --- | --- | --- |
+| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Bom | Ótimo |   |
+| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim. | Está fácil de visualizar e bem organizado |   |
+| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não | Não |   |
+| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não | Não |   |
+| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim | Sim |   |
+| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, Não. | Não está ótimo. |   |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024</p></font>
 
 
 
@@ -129,17 +130,17 @@ Na tabela 4, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 <center>
 
-| ID | Pergunta | Objetivo Relacionado |
-| :-:| -------- | ------------------ |
-| **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | 
-| **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia |
-| **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface|
-| **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  |
-| **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface|
+| ID | Pergunta | Diego | Heloisa | \-- |
+| --- | --- | --- | --- | --- |
+| **1** | O usuário utilizou de forma correta a funcionalidade? | Sim | Sim |   |
+| **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? | Sim | Sim |   |
+| **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? | Não houve obstaculos. | Não houve obstaculos. |   |
+| **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? | Não se aplica. | Não se aplica. |   |
+| **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Não precisou. | Não precisou. |   |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024</p></font>
 
 
 ## Lista de Problemas de usabilidade corrigidos
