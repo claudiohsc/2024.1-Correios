@@ -183,15 +183,31 @@ Antes de mergulharmos nas entrevistas com os usuários, um passo crucial nos agu
 
 Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando surpresas durante as entrevistas reais. Analisaremos a eficácia do nosso planejamento, ajustando-o para garantir um fluxo suave e eficiente durante as avaliações. Asseguraremos que a avaliação forneça os dados precisos e relevantes para o nosso estudo, respondendo às nossas perguntas e objetivos. Avaliaremos a clareza e a objetividade da linguagem utilizada nas entrevistas, certificando-nos de que as perguntas sejam compreendidas de maneira inequívoca pelos participantes. Conforme Barbosa e Silva (2021, p. 276), o teste piloto vai além de um simples teste de ferramentas. Ele nos permite avaliar o próprio planejamento, garantindo que a avaliação produza os dados necessários para alcançarmos os objetivos do estudo.Durante o teste piloto, os avaliadores conduzirão uma simulação completa de uma sessão de avaliação, incluindo explicações, materiais e interação com os participantes. O cronograma passar essa etapa encontrase na Tabela 2 abaixo.
 
-<font size="2"><p style="text-align: center">Tabela 6 - Planejamento do Teste Piloto.</p></font>
+<font size="2"><p style="text-align: center">Tabela 6 - Planejamento dos Testes Piloto.</p></font>
 
 <center>
 
 |    Data    | Horário de início e fim | Local            |     Avaliadores    |
 | :--------: | :---------------------: | :----------------: | :----------------------: |
-| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Ricardo e Gabriel. B ||
-| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Elias e Cláudio ||
-| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Pablo e Gabriel. F ||
+| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Ricardo e Gabriel. B |
+| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Elias e Cláudio |
+| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Pablo e Gabriel. F |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
+
+<font size="2"><p style="text-align: center">Tabela 7 - Cronograma Executado dos Testes Piloto.</p></font>
+
+<center>
+
+|    Data    | Horário de início e fim | Local            |     Avaliadores    |
+| :--------: | :---------------------: | :----------------: | :----------------------: |
+| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Ricardo e Gabriel. B |
+| 02/07/2024 | 13:00 - 13:20 | Unb-FGA | Elias e Cláudio |
+| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Pablo e Gabriel. F |
 
 </center>
 
