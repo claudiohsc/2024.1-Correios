@@ -81,19 +81,6 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 </center>
 
-## Teste Piloto da Funcionalidade
-
-<font size="2"><p style="text-align: center">Vídeo 1 - Teste Piloto da Entrevista do protótipo de alta fidelidade.</p></font>
-
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SC2olngQC3k?si=QaQWCCZ14ZgyrWcF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Link direto para o vídeo](https://www.youtube.com/watch?v=SC2olngQC3k)
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Elias Oliveira][EliasGH], 2024.</p></font>
 
 
 ## Gravações
