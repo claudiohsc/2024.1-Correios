@@ -81,6 +81,10 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 </center>
 
+## Gravações
+
+
+
 ## Lista de Problemas de usabilidade corrigidos
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados no nível anterior pelo grupo. Deverá ser indicado:
 
@@ -109,7 +113,7 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 19/06/2024 | Criação do documento| [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH]| [Gabriel Bastos][GabrielBGH] e [Ricardo Augusto][RicardoGH]|
+|`1.0`| 02/07/2024 | Criação do documento| [Claudio Henrique][ClaudioGH]|[Ricardo Augusto][RicardoGH]|
 
 [GabrielFGH]: https://github.com/MMcLovin
 [GabrielBGH]: https://github.com/https://github.com/Bertolazi
