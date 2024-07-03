@@ -74,7 +74,7 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 | Tarefa | Entrevistador | Entrevistado | Data | 
 | :----- | :-----------: | :----------: |:----:|
-| **Rastrear encomendas** | [Ricardo Augusto][RicardoGH] | [Johnny Lopes](https://www.github.com/JohnnyLopess), [Mateus Orlando](https://www.github.com/MateusPy) | 03/07/2024  | 
+| **Rastrear encomendas** | [Ricardo Augusto][RicardoGH] | [Johnny Lopes](https://www.github.com/JohnnyLopess), [Mateus Orlando](https://www.github.com/MateusPy), [Wildemberg Sales](https://www.github.com/wildemberg-sales) | 03/07/2024  | 
 
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
