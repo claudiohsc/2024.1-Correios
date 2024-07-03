@@ -68,20 +68,6 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH]</p></font>
 
-## Teste Piloto
-
-Abaixo temos o teste piloto realizado utilizando o protótipo da loja online.
-
-<center>
-
-<font size="2"><p style="text-align: center">Vídeo 1 - Gravação da Avaliação do Protótipo Loja Online.</p></font>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vachq9pNeBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
-
-</center>
-
 ## Gravações das Avaliações do Protótipo
 
 <center>
