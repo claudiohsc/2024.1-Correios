@@ -93,7 +93,7 @@ Custos:
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
 
-<font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário pré-teste.</p></font>
+<font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
 <center>
 
