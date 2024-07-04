@@ -195,20 +195,20 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 ## Lista de Problemas de usabilidade corrigidos
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados no nível anterior pelo grupo. Deverá ser indicado:
 
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Correção realizada no protótipo em papel;
+- Local onde ocorreu: tela de rastreamento
+- Fatores de usabilidade prejudicados: aprendizagem
+- Descrição e justificativa do problema: a tela de rastreamento não seguia muito o guia de estilo do site
+- Correção realizada no protótipo em papel: alteração em detalhes de design da tela
 - Indicação se o problema voltou a ocorrer depois da correção;
 
 ## Lista de Problemas de usabilidade não corrigidos
 Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
 
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Prioridade para correção;
-- Sugestões de correção;
+- Local onde ocorreu: leitura do captcha
+- Fatores de usabilidade prejudicados: eficiência
+- Descrição e justificativa do problema: existe uma figura que existe para digitar o texto na imagem, algumas vezes a imagem pode ser muito ruim de visualizar e atrapalha a análise do texto
+- Prioridade para correção: Baixa
+- Sugestões de correção: Trocar o critério de verificação
 - Indicações de partes do sistema que podem ser mais bem elaboradas.
 
 
