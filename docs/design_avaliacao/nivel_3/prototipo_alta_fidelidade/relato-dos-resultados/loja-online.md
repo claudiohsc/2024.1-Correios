@@ -31,7 +31,7 @@ O método de avaliação que será utilizado será o de teste de usabilidade atr
 
 ## Número e perfil dos avaliadores e participantes
 
-Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e seus papeis, das sessões do teste de usabilidade.
+A escolha dos usários se deu levando em conta o perfil de usuário definido no artefato de perfil de usuário criado na fase de elicitação anteriormente e pela sua utilização so site dos correios. Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e seus papeis, das sessões do teste de usabilidade.
 
 <center>
 
