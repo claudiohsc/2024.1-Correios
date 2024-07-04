@@ -14,21 +14,21 @@ Neste artefato é apresentada uma tabela com a relação das etapas existentes n
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
-    |Heatmap|[Pablo][PabloGH]|Claudio|
-    |Sites Avaliados|Claudio|Elias|
-    |Site Escolhido|Ricardo|Claudio|
+    |Heatmap|[Pablo][PabloGH]|[Claudio][ClaudioGH]|
+    |Sites Avaliados|[Claudio][ClaudioGH]|Elias|
+    |Site Escolhido|Ricardo|[Claudio][ClaudioGH]|
     |Ferramentas do Projeto|Pablo|Ricardo|
-    |Apresentações|Gabriel F.| Claudio |
-    |Atas| Ricardo | Claudio |
-    |Cronograma|Elias F. Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva e Pablo S. Costa| Claudio e Ricardo |
-    |Processos de Design| Claudio | Elias |
+    |Apresentações|Gabriel F.| [Claudio][ClaudioGH] |
+    |Atas| Ricardo | [Claudio][ClaudioGH] |
+    |Cronograma|Elias F. Oliveira, Gabriel B. Bertolazi, Gabriel F. J. Silva e Pablo S. Costa| [Claudio][ClaudioGH] e Ricardo |
+    |Processos de Design| [Claudio][ClaudioGH] | Elias |
 
     </center>
 
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
     
-=== "Etapa 2"
+=== "Etapa 2 - Análise de Requisitos I "
 
     Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas e Análise de tarefas
 
@@ -38,20 +38,19 @@ Neste artefato é apresentada uma tabela com a relação das etapas existentes n
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
+    | Aspectos Éticos | Pablo e Ricardo | Gabriel. B |
+    | Perfil de Usuário | Elias e Claudio | Gabriel F. |
+    | Personas | Pablo | Claudio |
+    | Cenários | Claudio e Gabriel F. | Pablo |
+    |Análise de Tarefas HTA | Gabriel F. e Ricardo | Elias |
+    | Análise de Tarefas CMN-GOMS | Gabriel F. e Gabriel B. | Elias |
 
     </center>
 
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 
-=== "Etapa 3"
+=== "Etapa 3 - Análise de Requisitos II"
 
     Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo e características da plataforma para o projeto (Fase: análise de requisitos)
 
@@ -61,35 +60,40 @@ Neste artefato é apresentada uma tabela com a relação das etapas existentes n
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
+    | Características da plataforma para o projeto | Pablo e Gabriel B. | Ricardo |
+    | Princípios Gerais | Elias e Claudio | Gabriel F. |
+    | Metas de Usabilidade | Gabriel F. e Gabriel B.| Ricardo |
+    | Guia de Estilo | Ricardo e Pablo | Claudio e Elias |
 
     </center>
 
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
-=== "Etapa 4"
+=== "Etapa 4 - Design, Avaliação e Desenvolvimento Nível 01"
 
-    Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas.
+    Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas. Abaixo temos também uma legenda para os nomes dos artefatos listados na tabela xx:
 
+    - Legenda:
+      - Análise de Taferas : AT
+      - Storyboard : SB
+        
+        
         <font size="2"><p style="text-align: center">Tabela 01: Artefatos criados na Etapa 01</p></font>
-
     <center>
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
+    | AT - Planejamento da Avaliação |||
+    | AT - Planejamento do Relato dos Resultados |||
+    | AT - Relato dos Resultados - Calcular Preços e Prazos |||
+    | AT - Relato dos Resultados -Realizar Compras Online |||
+    | AT - Relato dos Resultados -Recebimento de Encomendas |||
+    | AT - Relato dos Resultados -Realizar Pré-postagem |||
+    | AT - Relato dos Resultados -Gerenciar Minhas Importações |||
+    | AT - Relato dos Resultados -Rastrear Encomendas |||
+    | SB - Planejamento da Avaliação |||
+    | SB - Planejamento do Relato dos Resultados |||
+    ||||
 
     </center>
 
@@ -105,13 +109,13 @@ Neste artefato é apresentada uma tabela com a relação das etapas existentes n
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
 
     </center>
 
@@ -127,13 +131,13 @@ Neste artefato é apresentada uma tabela com a relação das etapas existentes n
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
 
     </center>
 
@@ -149,13 +153,13 @@ Neste artefato é apresentada uma tabela com a relação das etapas existentes n
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
 
     </center>
 
@@ -171,13 +175,13 @@ Neste artefato é apresentada uma tabela com a relação das etapas existentes n
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
 
     </center>
 
@@ -193,13 +197,13 @@ Neste artefato é apresentada uma tabela com a relação das etapas existentes n
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
 
     </center>
 
