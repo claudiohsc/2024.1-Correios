@@ -74,10 +74,10 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 | Tarefa | Entrevistador | Entrevistado | Idade |Ocupação | Horário | Data | Local | 
 | :----- | :-----------: | :----------: | :-----: |:-----: | :-----: |:----:| :----:| 
-| **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Renato Medeiros | 28 anos | Graduando em Engenharia Aeroespacial na Unb |13:20 - 13:30 | 02/07/2024 | UnB-FGA| 
-| **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Marcos Antônio| 20 anos | Estudante |13:40 - 13:50 | 02/07/2024 | UnB-FGA| 
-| **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Henrique Quenino | 22 anos | Graduando em Engenharia de Software na Unb e Trabalha na área de T.I  | 13:50 - 13:55 | 02/07/2024 | UnB-FGA| 
-| **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Isabelly Sophia | 18 anos | Graduando em Engenharia de Software na Unb e membro do Ai-Lab | 15:40 - 15:50 | 02/07/2024 | UnB-FGA| 
+| **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Renato Medeiros | 28 anos | Graduando em Engenharia Aeroespacial na UnB |13:20 - 13:30 | 02/07/2024 | UnB-FGA| 
+| **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Marcos Antônio| 20 anos | Graduando em Engenharia de Software na UnB |13:40 - 13:50 | 02/07/2024 | UnB-FGA| 
+| **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Henrique Quenino | 22 anos | Graduando em Engenharia de Software na UnB | 13:50 - 13:55 | 02/07/2024 | UnB-FGA| 
+| **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Isabelly Sophia | 18 anos | Graduanda em Direito | 22:20 - 22:30 | 02/07/2024 | Presencial | 
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
@@ -99,7 +99,7 @@ Abaixo nas figuras 1 e 2 é mostrado o protótipo de alta fidelidade e logo abai
 
 <font size="2"><p style="text-align: center">Figura 2 - Páginas de cadastro e resultado da simulação.</p></font>
 
-![img1](../../../../assets/prototipos-AF/Claudio/4.png)
+![img2](../../../../assets/prototipos-AF/Claudio/4.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
@@ -125,64 +125,163 @@ Abaixo nas figuras 1 e 2 é mostrado o protótipo de alta fidelidade e logo abai
 
     <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
+    <center>
 
-<font size="2"><p style="text-align: center">Vídeo 2 - Entrevista do protótipo de alta fidelidade com o usuário Henrique Quenino.</p></font>
-
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yQMmVa78Ksk?si=jh3N5EJphITk0wO9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Link direto para o vídeo](https://www.youtube.com/watch?v=yQMmVa78Ksk)
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+    <font size="2"><p style="text-align: center">Tabela 4 - Respostas do usuário</p></font>
 
 
-<font size="2"><p style="text-align: center">Vídeo 3 - Entrevista do protótipo de alta fidelidade com o usuário Marcos Antônio.</p></font>
-
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jp6LJB2UJ-M?si=JmRTECnNMcMQkUAO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-[Link direto para o vídeo](https://www.youtube.com/watch?v=jp6LJB2UJ-M)
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+    | ID | Pergunta | Resposta|
+    | :-:| -------- |-------- |
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo, pela abordagem de design diferente em relação ao site. |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim, estão bem organizados. |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não, utilizei sem problemas. |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não. Somente a fonte que poderia aumentar em alguns pontos. |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim, representam o que seria a simulação. |
+    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, funcionalidade está bem representada.  |
 
 
-<font size="2"><p style="text-align: center">Vídeo 4 - Entrevista do protótipo de alta fidelidade com o usuário Isabelly Sophia.</p></font>
+    </center>
 
-<center>
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WZpKRBjGiMA?si=WnCDOeuZWMfHteuT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+=== "Gravação 02 - Entrevistado: Henrique Quenino"
 
-[Link direto para o vídeo](https://www.youtube.com/watch?v=WZpKRBjGiMA)
+    <font size="2"><p style="text-align: center">Vídeo 2 - Entrevista do protótipo de alta fidelidade com o usuário Henrique Quenino.</p></font>
 
-</center>
+    <center>
 
-<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yQMmVa78Ksk?si=jh3N5EJphITk0wO9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    [Link direto para o vídeo](https://www.youtube.com/watch?v=yQMmVa78Ksk)
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+    <center>
+
+    <font size="2"><p style="text-align: center">Tabela 5 - Respostas do usuário</p></font>
+
+    | ID | Pergunta | Resposta|
+    | :-:| -------- |-------- |
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Médio, a imagem inicial estava fora da resolução correta para a tela. |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim, estão bem dispostos. |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Sim, na parte da data poderia inserir por meio de um calendário. |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não, mas gostaria de simular vários tipos de embalagem ao mesmo tempo e mais de uma. |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim, representa a realidade. |
+    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Mudança na forma de inserir a data, resolução da página inicial, especificação dos valores máximos e mínimos das medidas do objeto.  |
+
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+=== "Gravação 03 - Entrevistado: Marcos Antônio"
+
+    <font size="2"><p style="text-align: center">Vídeo 3 - Entrevista do protótipo de alta fidelidade com o usuário Marcos Antônio.</p></font>
+
+    <center>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jp6LJB2UJ-M?si=JmRTECnNMcMQkUAO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    [Link direto para o vídeo](https://www.youtube.com/watch?v=jp6LJB2UJ-M)
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+    <center>
+
+    <font size="2"><p style="text-align: center">Tabela 6 - Respostas do usuário</p></font>
+
+
+    | ID | Pergunta | Resposta|
+    | :-:| -------- |-------- |
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | ótimo. |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim, estão bem organizados. |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não. |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não, funcionou bem. |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim, representam. |
+    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, achou bem organizado e prático.  |
+
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+=== "Gravação 04 - Entrevistada: Isabelly Sophia"
+
+    <font size="2"><p style="text-align: center">Vídeo 4 - Entrevista do protótipo de alta fidelidade com o usuário Isabelly Sophia.</p></font>
+
+    <center>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WZpKRBjGiMA?si=WnCDOeuZWMfHteuT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    [Link direto para o vídeo](https://www.youtube.com/watch?v=WZpKRBjGiMA)
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+    <center>
+
+    <font size="2"><p style="text-align: center">Tabela 7 - Respostas do usuário</p></font>
+
+
+    | ID | Pergunta | Resposta|
+    | :-:| -------- |-------- |
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo. |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Com certeza, estão bem organizados. |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não. |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não. |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim, representam. |
+    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, para a funcionalidade está ok.  |
+
+
+    </center>
 
 
 ## Lista de Problemas de usabilidade corrigidos
-O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados no nível anterior pelo grupo. Deverá ser indicado:
 
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Correção realizada no protótipo em papel;
-- Indicação se o problema voltou a ocorrer depois da correção;
+Abaixo está a lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados no nível anterior pelo grupo.
+
+- Local onde ocorreu: Preenchimento de informações sobre o objeto;
+- Fatores de usabilidade prejudicados: Eficiência;
+- Descrição e justificativa do problema: Escolha dos vários tipos de serviço sem relação com o tipo do objeto deixavam o usuário confuso;
+- Correção realizada no protótipo de alta fidelidade: Escolha do formato do objeto antes do tipo de serviço;
+- Indicação se o problema voltou a ocorrer depois da correção: Não, o usuário escolhe o formato e tem as opções certas de serviço de entrega;
 
 ## Lista de Problemas de usabilidade não corrigidos
-Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
 
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Prioridade para correção;
-- Sugestões de correção;
-- Indicações de partes do sistema que podem ser mais bem elaboradas.
+Abaixo temos os problemas de usabilidade não corrigidos após a fase de avaliação do protótipo de alta fidelidade elaborado nessa etapa do projeto.
+
+- Local onde ocorreu: Página inicial da funcionalidade e preenchimento de informações;
+- Fatores de usabilidade prejudicados: Eficiência;
+- Descrição e justificativa do problema: Fonte das letras pequenas, a data da postagem ser totalmente direto pelo teclado e falta de informações sobre medidas do objeto;
+- Prioridade para correção: Tamanho da fonte e informações do objeto;
+- Sugestões de correção: Aumentar tamanho da fonte, preencher data da postagem por meio de um calendário e adicionar informações de máximos e mínimos das medidas permitidas para envio de encomendas;
+- Indicações de partes do sistema que podem ser melhoradas: Preechimento da data da postagem e informações úteis sobre as medidas do objeto a ser enviado.
+
+
+## Resultado e Reprojeto
+
+Abaixo temos a tabela 06 com o cronograma executado do reprojeto:
+
+<center>
+
+<font size="2"><p style="text-align: center">Tabela 8 - Cronograma do Reprojeto executado.</p></font>
+
+| Funcionalidade | Autor | Data | Status |
+| :----- | :-----------: |:----------: |:----------: |
+| Aumentar fonte dos textos | [Claudio Henrique][ClaudioGH]  |03/07/2024| Implementado |
+| Informações dos limites das medidas do objeto  | [Claudio Henrique][ClaudioGH]  |03/07/2024| Implementado|
+
+
+<font size="2"><p style="text-align: center">[Claudio Henrique][ClaudioGH] </p></font>
+
+[Link para o novo protótipo]()
+
+</center>
 
 
 ## Bibliografia

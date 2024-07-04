@@ -39,10 +39,10 @@ Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e
 
 | Tarefa | Entrevistador | Entrevistado | Idade |Ocupação | Horário | Data | Local | 
 | :----- | :-----------: | :----------: | :-----: |:-----: | :-----: |:----:| :----:| 
-| **Realizar compras na loja online** | Elias | Renato Medeiros | 28 anos | Graduando em Engenharia Aeroespacial na Unb |13:00 - 13:10 | 02/07/2024 | UnB-FGA| 
-| **Realizar compras na loja online** | Elias | Marcos Antônio| 20 anos | Estudante |13:10 - 13:20 | 02/07/2024 | UnB-FGA| 
-| **Realizar compras na loja online** | Elias | João Eduardo | 24 anos | Graduando em Engenharia de Software na Unb e Trabalha na área de T.I  | 15:30 - 15:40 | 02/07/2024 | UnB-FGA| 
-| **Realizar compras na loja online** | Elias | Daniel | 21 anos | Graduando em Engenharia de Software na Unb e membro do Ai-Lab | 15:40 - 15:50 | 02/07/2024 | UnB-FGA| 
+| **Realizar compras na loja online** | [Elias F. Oliveira][EliasGH] | Renato Medeiros | 28 anos | Graduando em Engenharia Aeroespacial na Unb |13:00 - 13:10 | 02/07/2024 | UnB-FGA| 
+| **Realizar compras na loja online** | [Elias F. Oliveira][EliasGH] | Marcos Antônio| 20 anos | Estudante |13:10 - 13:20 | 02/07/2024 | UnB-FGA| 
+| **Realizar compras na loja online** | [Elias F. Oliveira][EliasGH] | João Eduardo | 24 anos | Graduando em Engenharia de Software na Unb e Trabalha na área de T.I  | 15:30 - 15:40 | 02/07/2024 | UnB-FGA| 
+| **Realizar compras na loja online** | [Elias F. Oliveira][EliasGH] | Daniel | 21 anos | Graduando em Engenharia de Software na Unb e membro do Ai-Lab | 15:40 - 15:50 | 02/07/2024 | UnB-FGA| 
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
