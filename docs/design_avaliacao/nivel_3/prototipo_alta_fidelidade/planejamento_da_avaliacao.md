@@ -288,6 +288,7 @@ Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 18/06/2024 | Criação do documento | [Elias Oliveira][EliasGH] e [Pablo S. Costa][PabloGH] | [Claudio Henrique][ClaudioGH] e [Gabriel Fernando][GabrielFGH]  |
 | `1.1`  | 26/06/2024 | Ajuste e perguntas pré teste | [Pablo S. Costa][PabloGH] e [Gabriel B. Bertolazi][GabrielBGH] | [Claudio Henrique][ClaudioGH]   |
+| `1.2`  | 03/07/2024 | Adiciona testes piloto | [Cláudio Henrique][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] | [Claudio Henrique][ClaudioGH]   |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
