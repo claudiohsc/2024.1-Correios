@@ -252,6 +252,22 @@ Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
 
 <font size="2"><p style="text-align: center">Vídeo 3 - Gravação do teste piloto da avaliação do Protótipo de alta fidelidade rastrear encomendas.</p></font>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rh_k-7t6i8g" title="(Entrega 8) Teste de Usabilidade do Protótipo de Alta Fidelidade: Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+
+</center>
+
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=Rh_k-7t6i8g"> Link para o vídeo </a>
+</p>
+
+#### Rastrear Encomendas
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 4 - Gravação do teste piloto da avaliação do Protótipo de alta fidelidade rastrear encomendas.</p></font>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S9biff154oI?si=CIKVdrHA-lpC7qBm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
