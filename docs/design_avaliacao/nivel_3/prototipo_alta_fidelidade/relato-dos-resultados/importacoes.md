@@ -68,7 +68,7 @@ Na tabela 4, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 | **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Diego Medeiros - 34 anos | 16:30 - 16:42 | 01/07/2024  | Estudio do entrevistado |
 | **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Heloisa Lima - 27 anos| 17:00 - 17:11 | 03/07/2024  | Domicilio |
 | **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Matheus Wesley - 29 Anos | 20:30 - 21:00 | 03/07/2024  | Domicilio |
-| **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Wirley israel apolonio de oliveira - 29 Anos | 22:00 - 22:15 | 03/07/2024  | Domicilio |
+| **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Wirley Israel - 19 Anos | 22:00 - 22:15 | 03/07/2024  | Domicilio |
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
@@ -118,18 +118,31 @@ Abaixo temos as gravações das entrevistas realizadas que estão no vídeos 1, 
     <a href="https://youtu.be/b10SL1mjrms?si=mqld_woXxMuwoYVG"> Link para o vídeo </a>
 </p>
 
+<font size="2"><p style="text-align: center">Vídeo 4 - Entrevista do protótipo de alta fidelidade com o usuário Wirley.</p></font>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AyyX5xo1JfU?si=wz3wZ4lAVD9j6-WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+<p style="text-align: center">
+    <a href="https://youtu.be/AyyX5xo1JfU?si=wz3wZ4lAVD9j6-WE"> Link para o vídeo </a>
+</p>
+
 ### Respstas
 
 <font size="2"><p style="text-align: center">Tabela 2 - Perguntas do questionário pré-teste.</p></font>
 
 <center>
 
-| ID | Pergunta | Diego | Heloisa | Matheus |
-| --- | --- | --- | --- | --- |
-| **1** | Qual o seu nome completo? | Diego Medeiros dos Santos | Heloísa Lima | Matheus Wesley Santana Lima |
-| **2** | Qual a sua idade? | 34 anos | 27 anos | 29 anos  |
-| **3** | Qual a sua ocupação? | Influenciador digital | Empresária | Professor de beach Tennis  |
-| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | Boa | Muito boa |  Muito boa |
+| ID | Pergunta | Diego | Heloisa | Matheus | Wirley  |
+| --- | --- | --- | --- | --- | --- |
+| **1** | Qual o seu nome completo? | Diego Medeiros dos Santos | Heloísa Lima | Matheus Wesley Santana Lima | Wirley Israel Apolônio de Oliveira |
+| **2** | Qual a sua idade? | 34 anos | 27 anos | 29 anos | 19 anos |
+| **3** | Qual a sua ocupação? | Influenciador digital | Empresária | Professor de beach Tennis | Empresário |
+| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | Boa | Muito boa | Muito boa | Boa |
 
 </center>
 
@@ -139,14 +152,14 @@ Abaixo temos as gravações das entrevistas realizadas que estão no vídeos 1, 
 
 <center>
 
-| ID | Pergunta | Diego | Heloisa | Matheus |
-| --- | --- | --- | --- | --- |
-| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Bom | Ótimo | Ótimo |
-| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim. | Está fácil de visualizar e bem organizado |  Sim |
-| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não | Não | Não  |
-| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não | Não | Não  |
-| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim | Sim | Sim  |
-| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, Não. | Não está ótimo. | Não  |
+| ID | Pergunta | Diego | Heloisa | Matheus | Wirley |
+| --- | --- | --- | --- | --- | --- |
+| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Bom | Ótimo | Ótimo | Otimo |
+| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim. | Está fácil de visualizar e bem organizado | Sim | Sim |
+| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não | Não | Não | Não |
+| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não | Não | Não | Não |
+| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim | Sim | Sim | Sim |
+| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, Não. | Não está ótimo. | Não | Não |
 
 </center>
 
@@ -158,13 +171,13 @@ Abaixo temos as gravações das entrevistas realizadas que estão no vídeos 1, 
 
 <center>
 
-| ID | Pergunta | Diego | Heloisa | Matheus |
-| --- | --- | --- | --- | --- |
-| **1** | O usuário utilizou de forma correta a funcionalidade? | Sim | Sim | Sim  |
-| **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? | Sim | Sim | Sim  |
-| **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? | Não houve obstaculos. | Não houve obstaculos. | Não houve obstaculos.  |
-| **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? | Não se aplica. | Não se aplica. | Não se aplica.  |
-| **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Não precisou. | Não precisou. | Não precisou.  |
+| ID | Pergunta | Diego | Heloisa | Matheus | Wirley |
+| --- | --- | --- | --- | --- | --- |
+| **1** | O usuário utilizou de forma correta a funcionalidade? | Sim | Sim | Sim | Sim |
+| **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? | Sim | Sim | Sim | Sim |
+| **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? | Não houve obstaculos. | Não houve obstaculos. | Não houve obstaculos. | Não houve obstaculos. |
+| **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? | Não se aplica. | Não se aplica. | Não se aplica. | Não se aplica. |
+| **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Não precisou. | Não precisou. | Não precisou. | Não precisou. |
 
 </center>
 
@@ -173,9 +186,9 @@ Abaixo temos as gravações das entrevistas realizadas que estão no vídeos 1, 
 
 ## Lista de Problemas de usabilidade corrigidos
 
-Abaixo temos a tabela 4 com os problemas de usabilidades encontados ao usar o Minhas Importações e que nesse prototipo ja foram corrijidos antes da avaliação.
+Abaixo temos a tabela 5 com os problemas de usabilidades encontados ao usar o Minhas Importações e que nesse prototipo ja foram corrijidos antes da avaliação.
 
-<font size="2"><p style="text-align: center">Tabela 4 - Lista de Problemas de usabilidade corrigidos.</p></font>
+<font size="2"><p style="text-align: center">Tabela 5 - Lista de Problemas de usabilidade corrigidos.</p></font>
 
 <center>
 
@@ -194,15 +207,7 @@ Abaixo temos a tabela 4 com os problemas de usabilidades encontados ao usar o Mi
 
 ## Lista de Problemas de usabilidade não corrigidos
 
-Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
-
-- Local onde ocorreu;
-- Fatores de usabilidade prejudicados;
-- Descrição e justificativa do problema;
-- Prioridade para correção;
-- Sugestões de correção;
-- Indicações de partes do sistema que podem ser mais bem elaboradas.
-
+Com base nos dados obtidos pelas as entrevistas, não há outros problemas de usabilidade para se reportar após a validação. disto isso com o presente resultado não se faz necessidade de reprojeto.
 
 ## Bibliografia
 
