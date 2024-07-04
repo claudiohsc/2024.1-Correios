@@ -74,9 +74,9 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 | Tarefa | Entrevistador | Entrevistado | Idade |Ocupação | Horário | Data | Local | 
 | :----- | :-----------: | :----------: | :-----: |:-----: | :-----: |:----:| :----:| 
-| **Realizar compras na loja online** | [Ricardo Augusto][RicardoGH] | [Johnny Lopes](https://www.github.com/JohnnyLopess) | 23 anos | Graduando em Engenharia de Software na Unb | 13:10 - 13:15 | 03/07/2024 | UnB-FGA| 
-| **Realizar compras na loja online** | [Ricardo Augusto][RicardoGH] | [Mateus Orlando](https://www.github.com/MateusPy)| 21 anos | Graduando em Engenharia de Software na Unb |13:20 - 13:25 | 03/07/2024 | UnB-FGA| 
-| **Realizar compras na loja online** | [Ricardo Augusto][RicardoGH] | [Wildemberg Sales](https://www.github.com/wildemberg-sales) | 21 anos | Graduando em Engenharia de Software na Unb | 13:30 - 15:35 | 03/07/2024 | UnB-FGA|  
+| **Rastrear encomendas** | [Ricardo Augusto][RicardoGH] | [Johnny Lopes](https://www.github.com/JohnnyLopess) | 23 anos | Graduando em Engenharia de Software na Unb | 13:10 - 13:15 | 03/07/2024 | UnB-FGA| 
+| **Rastrear encomendas** | [Ricardo Augusto][RicardoGH] | [Mateus Orlando](https://www.github.com/MateusPy)| 21 anos | Graduando em Engenharia de Software na Unb |13:20 - 13:25 | 03/07/2024 | UnB-FGA| 
+| **Rastrear encomendas** | [Ricardo Augusto][RicardoGH] | [Wildemberg Sales](https://www.github.com/wildemberg-sales) | 21 anos | Graduando em Engenharia de Software na Unb | 13:30 - 15:35 | 03/07/2024 | UnB-FGA|  
 
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
