@@ -68,6 +68,7 @@ Na tabela 4, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 | **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Diego Medeiros - 34 anos | 16:30 - 16:42 | 01/07/2024  | Estudio do entrevistado |
 | **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Heloisa Lima - 27 anos| 17:00 - 17:11 | 03/07/2024  | Domicilio |
 | **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Matheus Wesley - 29 Anos | 20:30 - 21:00 | 03/07/2024  | Domicilio |
+| **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Wirley israel apolonio de oliveira - 29 Anos | 22:00 - 22:15 | 03/07/2024  | Domicilio |
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
