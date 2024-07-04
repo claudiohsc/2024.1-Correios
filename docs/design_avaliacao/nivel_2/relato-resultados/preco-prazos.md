@@ -1,6 +1,6 @@
 ## Introdução
 
-Este artefato contém o relato dos resultados obtidos na sessão de observação do protótipo de papel produzido por [Claudio Henrique][ClaudioGH], que tem como foco a funcionalidade de realizar uma pré-postagem. Ele servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
+Este artefato contém o relato dos resultados obtidos na sessão de observação do protótipo de papel produzido por [Claudio Henrique][ClaudioGH], que tem como foco a funcionalidade de realizar uma simulação de envio de encomenda. Ele servirá para certificar que as informações principais e de extrema importância para o projeto sejam melhormente exploradas e representadas de forma concisa e ordenada, auxiliando no entendimento dos dados e informações coletados nas análises para se obter o melhor uso dessas, trazendo melhorias para o projeto.
 
 ## Objetivos da avaliação
 Assim como foi definido no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/), os objetivos da avaliação são:

@@ -215,9 +215,26 @@ Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
 
 ### Gravação dos testes pilotos
 
+#### Calcular preços e prazos de entrega
+
+<font size="2"><p style="text-align: center">Vídeo 1 - Teste Piloto da Entrevista do protótipo de alta fidelidade.</p></font>
+
 <center>
 
-<font size="2"><p style="text-align: center">Vídeo 1 - Gravação do teste piloto da avaliação do Protótipo de alta fidelidade Minhas Importações.</p></font>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SC2olngQC3k?si=QaQWCCZ14ZgyrWcF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Link direto para o vídeo](https://www.youtube.com/watch?v=SC2olngQC3k)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Elias Oliveira][EliasGH], 2024.</p></font>
+
+
+#### Minhas Importações
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 2 - Gravação do teste piloto da avaliação do Protótipo de alta fidelidade Minhas Importações.</p></font>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HOYQqycLLjc?si=ehplihczaE79y3wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -229,6 +246,54 @@ Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
     <a href="https://youtu.be/HOYQqycLLjc"> Link para o vídeo </a>
 </p>
 
+#### Rastrear Encomendas
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 3 - Gravação do teste piloto da avaliação do Protótipo de alta fidelidade rastrear encomendas.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rh_k-7t6i8g" title="(Entrega 8) Teste de Usabilidade do Protótipo de Alta Fidelidade: Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+
+</center>
+
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=Rh_k-7t6i8g"> Link para o vídeo </a>
+</p>
+
+#### Rastrear Encomendas
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 4 - Gravação do teste piloto da avaliação do Protótipo de alta fidelidade rastrear encomendas.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S9biff154oI?si=CIKVdrHA-lpC7qBm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+</center>
+
+<p style="text-align: center">
+    <a href="https://youtu.be/S9biff154oI"> Link para o vídeo </a>
+</p>
+
+#### Receber Encomendas
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 5 - Gravação do teste piloto da avaliação do Protótipo de alta fidelidade receber encomendas.</p></font>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOlgWWRjFIQ?si=QsHa18q8oVcTW0kT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
+
+</center>
+
+<p style="text-align: center">
+    <a href="https://youtu.be/iOlgWWRjFIQ?si=GvgemYUHjkKvAL56"> Link para o vídeo </a>
+</p>
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -239,6 +304,7 @@ Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 18/06/2024 | Criação do documento | [Elias Oliveira][EliasGH] e [Pablo S. Costa][PabloGH] | [Claudio Henrique][ClaudioGH] e [Gabriel Fernando][GabrielFGH]  |
 | `1.1`  | 26/06/2024 | Ajuste e perguntas pré teste | [Pablo S. Costa][PabloGH] e [Gabriel B. Bertolazi][GabrielBGH] | [Claudio Henrique][ClaudioGH]   |
+| `1.2`  | 03/07/2024 | Adiciona testes piloto | [Cláudio Henrique][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] | [Claudio Henrique][ClaudioGH]   |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

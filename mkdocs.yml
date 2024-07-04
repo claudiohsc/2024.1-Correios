@@ -80,6 +80,13 @@ nav:
       - Protótipo de Alta Fidelidade:
         - Planejamento da Avaliação: design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_da_avaliacao.md
         - Planejamento do Relato dos Resultados: design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_do_relato.md
+        - Relato dos Resultados:
+          - Loja online: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/loja-online.md
+          - Calcular preços e prazos: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/precos-prazos.md
+          - Rastreamento de encomendas: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/rastreamento-encomendas.md 
+          - Gerenciar Minhas Importações: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/importacoes.md 
+          - Pré-postagem: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/pre-postagem.md
+          - Mudar recebimento de encomendas: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/recebimento-de-encomendas.md
   - Verificação:
     - Grupo+1:
         - Etapa 01:
@@ -198,6 +205,9 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 extra:
   analytics:
     provider: google
