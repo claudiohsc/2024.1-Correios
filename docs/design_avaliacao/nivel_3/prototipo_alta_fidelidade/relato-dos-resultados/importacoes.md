@@ -58,6 +58,7 @@ Abaixo nas figuras 1 e 2 temos as telas dos protótipos e o protótipo em si.
 ## Número e perfil dos avaliadores e participantes
 
 Na tabela 4, temos a tarefa a ser avaliada, os participantes e seus papéis e a data do teste de usabilidade.
+Na escolha dos participantes o primeiro Diego Medeiros foi escolhido de acordo com a disponibilidade e aptidão em usar o Minhas importações, por ser influenciador digital e ter diversos patrocínios de recebidos internacionais, o que o faz ter um constante uso da plataforma mesmo. A escolha da segunda usuário é por ser uma representante feminina de um grupo majoritariamente masculino, e se encaixar ao perfil de usuário recomendado e ter disponibilidade. O terceiro usuário Matheus foi escolhido por sua grande aptidão tecnológica e bastante reconhecimento da plataforma dos Correios, sendo professor e também empresário de um Clube de beach Tennis. A escolha do último usuário Wirley foi por se encaixar no perfil de usuário e ter se disponibilizado por participar.
 
 <center>
 
