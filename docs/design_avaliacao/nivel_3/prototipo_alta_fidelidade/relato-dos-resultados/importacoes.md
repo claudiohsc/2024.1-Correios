@@ -205,7 +205,7 @@ Abaixo temos a tabela 5 com os problemas de usabilidades encontados ao usar o Mi
 
 ## Lista de Problemas de usabilidade não corrigidos
 
-Com base nos dados obtidos pelas as entrevistas, não há outros problemas de usabilidade para se reportar após a validação. disto isso com o presente resultado não se faz necessidade de reprojeto.
+Com base nos dados obtidos pelas as entrevistas, não há outros problemas de usabilidade para se reportar após a avaliação. disto isso com o presente resultado não se faz necessidade de reprojeto.
 
 ## Bibliografia
 
