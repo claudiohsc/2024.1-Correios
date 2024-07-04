@@ -24,25 +24,25 @@ Os objetivos desse artefato, conforme estabelecido no planejamento da avaliaçã
 
 O método de avaliação que será utilizado será o de teste de usabilidade através do protótipo de alta fidelidade, com um questionário para o usuário e um para ser respondido com base nas ações do usuário ao utilizar e avaliar o protótipo. Abaixo temos o script das ações que o usuário deveria realizar utilizando o protótipo, mas podendo realizar ações não previstas no nele:
 
-1. Preencher os dados de uma pré-postagem
-2. Gerenciar o carrinho de compras
-3. Escolher um método de pagamento
-4. Realizar pagamento
+- Preencher os dados de uma postagem
+- Gerenciar o carrinho de postagens
+- Escolher método de pagamento
+- Realizar pagamento
 
 
 ## Número e perfil dos avaliadores e participantes
 
-Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e seus papeis, das sessões do teste de usabilidade.
+Na Tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e seus papeis, das sessões do teste de usabilidade.
 
 <center>
 
 <font size="2"><p style="text-align: center">Tabela 1 - Número e perfil dos participantes da entrevista.</p></font>
 
-| Tarefa | Entrevistador | Entrevistado | Idade | Ocupação | Horário | Data | Local | 
-| ------ | :-----------: | ------------ | :---: | :------: | ------- | :---:| :----:| 
-| **Realizar pré-postagem** | [Gabriel F. J. Silva][GabrielFGH] | Caio Mesquita | 23 anos | Estagiário e Estudante |13:00 - 13:10 | 02/07/2024 | UnB-FGA| 
-| **Realizar pré-postagem** | [Gabriel F. J. Silva][GabrielFGH] | Marcos Antônio | 20 anos | Estudante |13:10 - 13:20 | 02/07/2024 | UnB-FGA| 
-| **Realizar pré-postagem** | [Gabriel F. J. Silva][GabrielFGH] | João Eduardo | 24 anos | Graduando em Engenharia de Software na Unb e Trabalha na área de T.I  | 15:30 - 15:40 | 02/07/2024 | UnB-FGA| 
+| Tarefa | Entrevistador | Entrevistado | Idade | Ocupação | Experiência e facilidade com tecnologia | Data | Local | 
+| ---- | :-----------: | ------------ | :---: | :------: | :-----: |:----:| :----:| 
+| **Pré-postagem** | [Gabriel F. J. Silva][GabrielFGH] | Caio Mesquita | 23 anos | Estudante | Boa | 03/07/2024 | UnB-FGA| 
+| **Pré-postagem** | [Gabriel F. J. Silva][GabrielFGH] | Emivalto Tavares | 24 anos | Estudante | Muito Boa | 03/07/2024 | UnB-FGA| 
+| **Pré-postagem** | [Gabriel F. J. Silva][GabrielFGH] | Willdemberg Salles | 21 anos | Estudante  | Muito Boa | 03/07/2024 | UnB-FGA|  
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
 
@@ -50,38 +50,41 @@ Na tabela 1, temos tanto as tarefas a serem avaliadas quanto os participantes, e
 
 ## Protótipo de Alta Fidelidade
 
-Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo temos o protótipo direto com a ferramenta figma.
+Para a realização do protótipo foi utiliada a ferramenta [JustInMind](https://www.justinmind.com/), que pode ser conferido por meio desse link [aqui](https://cloud.justinmind.com/usernote/prototype/122c258254c9d39de110b40f46fd981903b873e74149f54ee2b3de94d5d07a5f) .Abaixo na Figura 01, 02, 03 estão as telas que foram desenvolvidas do zero para o protótipo de alta fidelidade, pois representam funções que não estavam implementadas no site dos correios até a data do projeto.
 
-<font size="2"><p style="text-align: center">Figura 01: Protótipo de Alta Fidelidade</p></font>
+<font size="2"><p style="text-align: center">Figura 01: tela desenvolvida para adicionar endereços, do remetente, já cadastrados na conta Meus Correios </p></font>
 
-![Imagem do Protótipo](../../../../assets/prototipos-AF/)
+![Imagem do Protótipo](../../../../assets/prototipos-AF/Gabrielf/Meus%20endere%25C3%25A7os@1x.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH]</p></font>
+
+<font size="2"><p style="text-align: center">Figura 02: tela desenvolvida para adicionar destinatários frequentes </p></font>
+
+![Imagem do Protótipo](../../../../assets/prototipos-AF/Gabrielf/destinat%25C3%25A1rios%20frequentes@1x.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH]</p></font>
 
-<center>
+<font size="2"><p style="text-align: center">Figura 03: tela adicionada para o pagamento por pix </p></font>
 
-<font size="2"><p style="text-align: center">Protótipo de Alta fidelidade</p></font>
-
-</center>
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2Fa0P9XJF8KBQ8ywJWyFeuJb%2FProt%25C3%25B3tipo-de-Alta-FIdelidade-Correios---IHC%3Fnode-id%3D0-1%26t%3DON3TkUTgDYKHROOJ-1" allowfullscreen></iframe>
+![Imagem do Protótipo](../../../../assets/prototipos-AF/Gabrielf/pix@1x.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH]</p></font>
+
+
 
 ## Gravações das Avaliações do Protótipo
 
-<center>
+=== "Gravação 01 - Entrevistado: Caio Mesquita"
 
-=== "Gravação 01 - Entrevistado: Renato Medeitos"
+    <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista do protótipo de alta fidelidade com o usuário Caio Mesquita.</p></font>
 
-   
-    <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista do protótipo de alta fidelidade com o usuário Renato Medeiros.</p></font>
+    <p style="text-align: center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Fq78gSI_oAU" title="(Entrega 8) Teste de Usabilidade do Protótipo de Alta Fidelidade: Sessão 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
 
-    <center>
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/hR0K_-JOL_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    [Link direto para o vídeo](https://www.youtube.com/watch?v=hR0K_-JOL_A)
+    <p style="text-align: center">
+        <a href="https://www.youtube.com/watch?v=Fq78gSI_oAU">Link direto para o vídeo</a> 
+    </p>
 
     <font size="2"><p style="text-align: center">Tabela 2 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
@@ -89,28 +92,28 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
     | ID | Pergunta | Resposta|
     | :-:| -------- |-------- |
-    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo, pelo protótipo ser bem fidedigno a um site de comprar comum. |
-    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim, pois o protótipo apresenta os elementos de maneira a ter uma fácil visualização das opções |
-    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Sim, o usuário se despercebeu não visualizando o filtro logo de início. |
-    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não, tudo conforme o esperado. |
-    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim, pois o protótipo apresenta uma estrutura fidedigna aos sites de compra encontrados atualmente. |
-    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | O usuário sugeriu a inclusão de uma função pára poder aumentar ou diminuir a fonte dos textos no site.  |
-
-    OBS: O usuário gostou bastante da opção de filtragem implementada no site, pela economia de tempo que o ele terá ao realizar uma compra.
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Sim |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
+    | **6** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não |
 
     </center>
 
     <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
-=== "Gravação 02 Entrevistado: Marcos Antônio"
+=== "Gravação 02 Entrevistado: Emivalto Tavares"
 
-    <font size="2"><p style="text-align: center">Vídeo 2 - Entrevista do protótipo de alta fidelidade com o usuário Marcos Antônio.</p></font>
+    <font size="2"><p style="text-align: center">Vídeo 2 - Entrevista do protótipo de alta fidelidade com o usuário Emivalto Tavares.</p></font>
 
-    <center>
+    <p style="text-align: center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/lSWACF1MbSw" title="(Entrega 8) Teste de Usabilidade do Protótipo de Alta Fidelidade: Sessão 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ejdxy_wD0Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    [Link direto para o vídeo](https://www.youtube.com/watch?v=ejdxy_wD0Us)
+    <p style="text-align: center">
+        <a href="https://www.youtube.com/watch?v=lSWACF1MbSw">Link direto para o vídeo</a> 
+    </p>
 
     <font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
@@ -118,26 +121,27 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
     | ID | Pergunta | Resposta|
     | :-:| -------- |-------- |
-    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo. |
-    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim. |
-    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não. |
-    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Sim, erro no filtro dos produtos. |
-    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim. |
-    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, o protótipo está de acordo. |
-
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
+    | **6** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não |
 
     </center>
 
 
-=== "Gravação 03 Entrevistado: João Eduardo"  
+=== "Gravação 03 Entrevistado: Willdemberg Salles"  
 
-    <font size="2"><p style="text-align: center">Vídeo 3 - Entrevista do protótipo de alta fidelidade com o usuário João Eduardo.</p></font>
+    <font size="2"><p style="text-align: center">Vídeo 3 - Entrevista do protótipo de alta fidelidade com o usuário Willdemberg Salles.</p></font>
 
-    <center>
+    <p style="text-align: center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/cAXgVQwTwk8" title="(Entrega 8) Teste de Usabilidade do Protótipo de Alta Fidelidade: Sessão 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Rm0RkXn9Ock" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    [Link direto para o vídeo](https://www.youtube.com/watch?v=Rm0RkXn9Ock)
+    <p style="text-align: center">
+        <a href="https://www.youtube.com/watch?v=cAXgVQwTwk8">Link direto para o vídeo</a> 
+    </p>
 
     <font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
@@ -145,93 +149,70 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
     | ID | Pergunta | Resposta|
     | :-:| -------- |-------- |
-    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo, pois está bem simples e intuitivo. |
-    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim, pois as funcionalidades estão bem visíveis. |
-    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não. |
-    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Sim, problema ao realizar a filtragem. |
-    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim, o protótipo está bem fidedigno com a realidade. |
-    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Alterar a localização do filtro para a parte lateral esquerda do site, ao invés da parte superior onde ele se encontrava. |
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
+    | **6** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não |
 
 
     </center>
 
 
-=== "Gravação 04 Entrevistado: Daniel"  
-
-    <font size="2"><p style="text-align: center">Vídeo 4 - Entrevista do protótipo de alta fidelidade com o usuário Daniel.</p></font>
-
-    <center>
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ocdx-z3g4fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    [Link direto para o vídeo](https://www.youtube.com/watch?v=Ocdx-z3g4fc)
-
-    <font size="2"><p style="text-align: center">Tabela 5 - Perguntas do questionário para o usuário pós-teste.</p></font>
-
-
-    | ID | Pergunta | Resposta|
-    | :-:| -------- |-------- |
-    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo. |
-    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim. |
-    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não. |
-    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Sim, parte não implementada. |
-    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim. |
-    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Na tela do produto a imagem do produto estar localizada a esquerda, a descrição um pouco menor à direita e a opção de compra logo abaixo da descrição. Outra sugestão seria alterar a cor de alguns textos na tabela de produtos no carrinho para se obter um contraste entre os títulos dos campos e o conteúdo em cada célula. |
-
-
-    </center>
-
-
-</center>
-
-## Lista de Problemas de usabilidade corrigidos
+## Lista de Problemas encontrados
 
 Abaixo temos os problemas de usabilidade corrigidos após a fase de avaliação do protótipo de papel elaborado na etapa passada do projeto.
 
-- Local onde ocorreu: Carrinho da loja
-- Fatores de usabilidade prejudicados: Estética e design minimalista.
-- Descrição e justificativa do problema: O problema relatado na avaliação do protótipo de papel foi ambiguidade na apresentação a opção de cáculo do frete na etapa de pagamento no carrinho sendo que o usuário já estaria logado e suas informações de endereço ja estariam armazenas apenas necessitando calcular o frete na tela do produto caso não esteja logado.
-- Indicação se o problema voltou a ocorrer depois da correção: Não, a opção de cálculo de frete foi retirada da tela do carrinho.
+### Problema 1
 
-## Lista de Problemas de usabilidade não corrigidos
+- Local onde ocorreu: [tela inicial](../../../../assets/prototipos-AF/Gabrielf/Home@1x.png)
+- Fatores de usabilidade prejudicados: Eficiência
+- Descrição e justificativa do problema: ao procurar por onde começar para realizar a tarefa de pré-postagem, todos os participantes começaram pelo primeiro menu horizontal, onde há a opção "enviar", ao invés da sessão de acesso rápido, em que há um ícone para pré-postagem
+- sugestões de solução: creio que ambos os locais de acesso são válidos, uma vez que eu mesmo enquanto analisava a interface do site nunca havia acessado a funcionalidade por aquele menu
 
-Abaixo temos os problemas de usabilidade não corrigidos após a fase de avaliação do protótipo de papel elaborado na etapa passada do projeto.
+### Problema 2
 
-- Local onde ocorreu: Todas as telas.
-- Fatores de usabilidade prejudicados: Visibilidade e Reconhecimento / Estética e design minimalista 
-- Descrição e justificativa do problema: Ao avaliar o protótipo alguns usuários relataram dificuldade para enchergar alguns textos, como descrições dos produtos que são textos menores, também foi relatado problemas com as funcionalidades de filtragem que ainda não estavam implementadas corretamente.
-- Prioridade para correção: Alta.
-- Sugestões de correção: Adicionar uma funcionalidade que possibilite o usuário aumentar ou diminuir a fonte do site, para a funcionalidade de filtragem foi-se também sugerido alterar o posicionamento e realizar a implementação correta desta.
-- Indicações de partes do sistema que podem ser mais bem elaboradas: Melhoramento da filtragem dos produtos e implementação da edição da quantidade de itens no carrinho e a exclusão.
+- Local onde ocorreu: telas de [preenchimento dos dados da postagem](../../../../assets/prototipos-AF/Gabrielf/remetente%20preechido@1x.png)
+- Fatores de usabilidade prejudicados: Aprendizado
+- Descrição e justificativa do problema: todos os participantes não perceberam que ao clicar em um tipo de embalagem, certos campos do tamanho das dimensões não eram necessários e com isso, inseriram dados neles
+- sugestões de solução: bloquear o campo de preenchimento conforme o tipo de embalagem escolhido
+
+### Problema 3
+
+- Local onde ocorreu: [tela de pagamento por pix](../../../../assets/prototipos-AF/Gabrielf/pix@1x.png)
+- Fatores de usabilidade prejudicados: Aprendizagem
+- Descrição e justificativa do problema: ao clicar em copiar a chave pix, surge uma tela confirmando o recebimento do pagamento e disponibilizando o código para postagem da encomenda junto a um botão para copiá-lo, porém, todos os participantes não perceberam isso e acharam que ainda se tratava do código pix  
+- sugestões de solução: após o recebimento do pix, mostrar um tela de pop up com a confirmação do recebimento e disponibilizar o código para postagem fora deste pop up.
 
 ## Resultado e Reprojeto
 
-Abaixo temos a tabela 06 com o cronograma executado do reprojeto:
+Abaixo temos a Tabela 5 com o cronograma executado do reprojeto:
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 06 - Cronograma do Reprojeto executado.</p></font>
+<font size="2"><p style="text-align: center">Tabela 5 - Cronograma do Reprojeto executado.</p></font>
 
 | Funcionalidade | Autor | Revisor | Data | Status |
-| :----- | :-----------: | :----------: |:----------: |:----------: |
-| Filtragem dos itens da loja | [Gabriel F. J. Silva][GabrielFGH] | Revisor |03/07/2024| Implementado |
-| Opção de aumentar e diminuir a fonte do site  | [Gabriel F. J. Silva][GabrielFGH] | Revisor |03/07/2024| Implementado|
-| Edição da quantidade de itens no carrinho | [Gabriel F. J. Silva][GabrielFGH] | Revisor |03/07/2024 | Implementado |
-| Exclusão de itens no carrinho | [Gabriel F. J. Silva][GabrielFGH] | Revisor |03/07/2024| Implementado |
+| -------------- | :---: | :-----: |:---: | :----: |
+| Filtragem dos itens da loja | Elias | Revisor |03/07/2024| Implementado |
 
-<font size="2"><p style="text-align: center"> [Gabriel F. J. Silva][GabrielFGH] </p></font>
+
+<font size="2"><p style="text-align: center">[Gabriel F. J. Silva][GabrielFGH] </p></font>
 
 </center>
 
 ## Bibliografia
 
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. 
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Acesso em: 03 de Julho de 2024
+>
+> 2. Justinmind. Disponível em: . Acesso em: 03 de Julho de 2024
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 03/07/2024 | Criação do documento| [Gabriel F. J. Silva][GabrielFGH] | |
+|`1.0`| 03/07/2024 | Criação do documento| [Gabriel F. J. Silva][GabrielFGH]| |
 
 [GabrielFGH]: https://github.com/MMcLovin
 [GabrielBGH]: https://github.com/https://github.com/Bertolazi
