@@ -160,7 +160,7 @@ Para a realização do protótipo foi utiliada a ferramenta [JustInMind](https:/
     </center>
 
 
-## Lista de Problemas encontrados
+## Lista de Problemas de usabilidade não corrigidos 
 
 Abaixo temos os problemas de usabilidade corrigidos após a fase de avaliação do protótipo de papel elaborado na etapa passada do projeto.
 
@@ -193,9 +193,11 @@ Abaixo temos a Tabela 5 com o cronograma executado do reprojeto:
 
 <font size="2"><p style="text-align: center">Tabela 5 - Cronograma do Reprojeto executado.</p></font>
 
-| Funcionalidade | Autor | Revisor | Data | Status |
-| -------------- | :---: | :-----: |:---: | :----: |
-| Filtragem dos itens da loja | Elias | Revisor |03/07/2024| Implementado |
+| Funcionalidade | Autor | Revisor | Data | 
+| -------------- | :---: | :-----: |:---: | 
+| tela inicial | [Gabriel F. J. Silva][GabrielFGH] | [Pablo S. Costa][PabloGH] |05/07/2024| 
+| preenchimento dos dados da postagem | [Gabriel F. J. Silva][GabrielFGH] | [Pablo S. Costa][PabloGH] |05/07/2024| 
+| tela de pagamento por pix | [Gabriel F. J. Silva][GabrielFGH] | [Pablo S. Costa][PabloGH] |05/07/2024| 
 
 
 <font size="2"><p style="text-align: center">[Gabriel F. J. Silva][GabrielFGH] </p></font>
