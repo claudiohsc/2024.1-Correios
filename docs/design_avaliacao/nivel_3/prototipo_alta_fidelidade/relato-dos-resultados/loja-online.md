@@ -77,11 +77,14 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
    
     <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista do protótipo de alta fidelidade com o usuário Renato Medeiros.</p></font>
 
-    <center>
+    <p style="text-align: center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/hR0K_-JOL_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/hR0K_-JOL_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
 
-    [Link direto para o vídeo](https://www.youtube.com/watch?v=hR0K_-JOL_A)
+    <font size="2"><p style="text-align: center">[Link direto para o vídeo](https://www.youtube.com/watch?v=hR0K_-JOL_A)</p></font>
+    
 
     <font size="2"><p style="text-align: center">Tabela 2 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
@@ -96,7 +99,7 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
     | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim, pois o protótipo apresenta uma estrutura fidedigna aos sites de compra encontrados atualmente. |
     | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | O usuário sugeriu a inclusão de uma função pára poder aumentar ou diminuir a fonte dos textos no site.  |
 
-    OBS: O usuário gostou bastante da opção de filtragem implementada no site, pela economia de tempo que o ele terá ao realizar uma compra.
+    OBS: O usuário gostou bastante da opção de filtragem implementada no site, pela economia de tempo que ele terá ao buscar algum produto no site.
 
     </center>
 
@@ -106,11 +109,13 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
     <font size="2"><p style="text-align: center">Vídeo 2 - Entrevista do protótipo de alta fidelidade com o usuário Marcos Antônio.</p></font>
 
-    <center>
-
+     <p style="text-align: center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ejdxy_wD0Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
 
-    [Link direto para o vídeo](https://www.youtube.com/watch?v=ejdxy_wD0Us)
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+    
+    <font size="2"><p style="text-align: center">[Link direto para o vídeo](https://www.youtube.com/watch?v=ejdxy_wD0Us)</p></font>
 
     <font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
@@ -135,9 +140,15 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
     <center>
 
+    <p style="text-align: center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Rm0RkXn9Ock" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
 
-    [Link direto para o vídeo](https://www.youtube.com/watch?v=Rm0RkXn9Ock)
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+
+    <font size="2"><p style="text-align: center">[Link direto para o vídeo](https://www.youtube.com/watch?v=Rm0RkXn9Ock)</p></font>
+
+    
 
     <font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
@@ -162,10 +173,14 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
     <center>
 
+    <p style="text-align: center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Ocdx-z3g4fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
 
-    [Link direto para o vídeo](https://www.youtube.com/watch?v=Ocdx-z3g4fc)
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
 
+    <font size="2"><p style="text-align: center">[Link direto para o vídeo](https://www.youtube.com/watch?v=Ocdx-z3g4fc)</p></font>
+    
     <font size="2"><p style="text-align: center">Tabela 5 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
 
@@ -177,7 +192,6 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
     | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Sim, parte não implementada. |
     | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim. |
     | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Na tela do produto a imagem do produto estar localizada a esquerda, a descrição um pouco menor à direita e a opção de compra logo abaixo da descrição. Outra sugestão seria alterar a cor de alguns textos na tabela de produtos no carrinho para se obter um contraste entre os títulos dos campos e o conteúdo em cada célula. |
-
 
     </center>
 
@@ -219,7 +233,7 @@ Abaixo temos a tabela 06 com o cronograma executado do reprojeto:
 | Edição da quantidade de itens no carrinho | Elias | Revisor |03/07/2024 | Implementado |
 | Exclusão de itens no carrinho | Elias | Revisor |03/07/2024| Implementado |
 
-<font size="2"><p style="text-align: center">[Elias F. Oliveira][EliasGH] </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024 </p></font>
 
 </center>
 
