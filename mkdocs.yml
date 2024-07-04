@@ -176,6 +176,7 @@ nav:
             - Planejamento do Relato dos Resultados: verificacao_01/grupo/DAD/nivel3/planejamento-relato-paf.md
   - Entrega Final:
     - Ferramentas Utilizadas: entrega-final/ferramentas.md
+    - 08 - Artefatos Criados em Cada Etapa: entrega-final/artefatos-criados.md
 
 extra_css:
   - stylesheets/extra.css
