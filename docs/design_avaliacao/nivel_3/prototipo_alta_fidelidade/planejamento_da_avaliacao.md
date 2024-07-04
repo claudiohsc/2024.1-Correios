@@ -246,7 +246,7 @@ Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
     <a href="https://youtu.be/HOYQqycLLjc"> Link para o vídeo </a>
 </p>
 
-#### Rastrear Encomendas
+#### Receber Encomendas
 
 <center>
 
@@ -278,7 +278,7 @@ Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
     <a href="https://youtu.be/S9biff154oI"> Link para o vídeo </a>
 </p>
 
-#### Realizar Comprar na Loja Online 
+#### Realizar Compras na Loja Online 
 
 <center>
 
