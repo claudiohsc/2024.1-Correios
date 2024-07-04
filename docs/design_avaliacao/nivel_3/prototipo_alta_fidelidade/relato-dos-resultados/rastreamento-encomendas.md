@@ -70,11 +70,13 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 <center>
 
-<font size="2"><p style="text-align: center">Tabela 3 - Cronograma executado da realização das entrevistas do protótipo de alta fidelidade.</p></font>
+<font size="2"><p style="text-align: center">Tabela 3 - Cronograma executado da realização das entrevistas do protótipo de alta fidelidade.</p></font> 
 
-| Tarefa | Entrevistador | Entrevistado | Data | 
-| :----- | :-----------: | :----------: |:----:|
-| **Rastrear encomendas** | [Ricardo Augusto][RicardoGH] | [Johnny Lopes](https://www.github.com/JohnnyLopess), [Mateus Orlando](https://www.github.com/MateusPy), [Wildemberg Sales](https://www.github.com/wildemberg-sales) | 03/07/2024  | 
+| Tarefa | Entrevistador | Entrevistado | Idade |Ocupação | Horário | Data | Local | 
+| :----- | :-----------: | :----------: | :-----: |:-----: | :-----: |:----:| :----:| 
+| **Realizar compras na loja online** | [Ricardo Augusto][RicardoGH] | [Johnny Lopes](https://www.github.com/JohnnyLopess) | 23 anos | Graduando em Engenharia de Software na Unb | 13:10 - 13:15 | 03/07/2024 | UnB-FGA| 
+| **Realizar compras na loja online** | [Ricardo Augusto][RicardoGH] | [Mateus Orlando](https://www.github.com/MateusPy)| 21 anos | Graduando em Engenharia de Software na Unb |13:20 - 13:25 | 03/07/2024 | UnB-FGA| 
+| **Realizar compras na loja online** | [Ricardo Augusto][RicardoGH] | [Wildemberg Sales](https://www.github.com/wildemberg-sales) | 21 anos | Graduando em Engenharia de Software na Unb | 13:30 - 15:35 | 03/07/2024 | UnB-FGA|  
 
 
 <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
@@ -103,12 +105,12 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 | ID | Pergunta | Resposta
 | :-:| -------- |-|
-| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) |  |
-| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | |
-| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? |  |
-| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | |
-| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | |
-| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? |
+| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo |
+| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Bem organizado e tranquilo de ver |
+| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não, foi tranquilo |
+| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
+| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
+| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não  |
 
 
 </center>
@@ -135,12 +137,12 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 | ID | Pergunta | Resposta
 | :-:| -------- |-|
-| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) |  |
-| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | |
-| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? |  |
-| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | |
-| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | |
-| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? |
+| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Bom |
+| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim, tudo ok |
+| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não, foi tudo intuitivo |
+| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
+| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
+| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, tudo está apresentado de maneia coerente |
 
 
 </center>
@@ -167,12 +169,12 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 | ID | Pergunta | Resposta
 | :-:| -------- |-|
-| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) |  |
-| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | |
-| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? |  |
-| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | |
-| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | |
-| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? |
+| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo |
+| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim |
+| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não, nenhuma dificuldade |
+| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
+| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
+| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, está bem organizado |
 
 
 </center>
