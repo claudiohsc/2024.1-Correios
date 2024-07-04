@@ -105,6 +105,24 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
 
+    Abaixo na tabela 03 temos as perguntas que o entrevistador respondeu analisando como o usuário utilizou o protótipo.
+
+    <font size="2"><p style="text-align: center">Tabela 03 - Perguntas do questionário para o avaliado responder</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | 
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface|
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+
 === "Gravação 02 Entrevistado: Marcos Antônio"
 
     <font size="2"><p style="text-align: center">Vídeo 2 - Entrevista do protótipo de alta fidelidade com o usuário Marcos Antônio.</p></font>
@@ -117,7 +135,7 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
     
     <font size="2"><p style="text-align: center">[Link direto para o vídeo](https://www.youtube.com/watch?v=ejdxy_wD0Us)</p></font>
 
-    <font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário para o usuário pós-teste.</p></font>
+    <font size="2"><p style="text-align: center">Tabela 04 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
     <center>
 
@@ -132,6 +150,24 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
 
     </center>
+
+    Abaixo na tabela 05 temos as perguntas que o entrevistador respondeu analisando como o usuário utilizou o protótipo.
+
+    <font size="2"><p style="text-align: center">Tabela 5 - Perguntas do questionário para o avaliado responder</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | 
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface|
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
 
 
 === "Gravação 03 Entrevistado: João Eduardo"  
@@ -150,7 +186,7 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
     
 
-    <font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário para o usuário pós-teste.</p></font>
+    <font size="2"><p style="text-align: center">Tabela 06 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
     <center>
 
@@ -163,8 +199,25 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
     | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim, o protótipo está bem fidedigno com a realidade. |
     | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Alterar a localização do filtro para a parte lateral esquerda do site, ao invés da parte superior onde ele se encontrava. |
 
+    </center>
+
+    Abaixo na tabela 07 temos as perguntas que o entrevistador respondeu analisando como o usuário utilizou o protótipo.
+
+    <font size="2"><p style="text-align: center">Tabela 07 - Perguntas do questionário para o avaliado responder</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | 
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface|
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface|
 
     </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
 
 
 === "Gravação 04 Entrevistado: Daniel"  
@@ -181,7 +234,7 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
     <font size="2"><p style="text-align: center">[Link direto para o vídeo](https://www.youtube.com/watch?v=Ocdx-z3g4fc)</p></font>
     
-    <font size="2"><p style="text-align: center">Tabela 5 - Perguntas do questionário para o usuário pós-teste.</p></font>
+    <font size="2"><p style="text-align: center">Tabela 08 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
 
     | ID | Pergunta | Resposta|
@@ -194,6 +247,24 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
     | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Na tela do produto a imagem do produto estar localizada a esquerda, a descrição um pouco menor à direita e a opção de compra logo abaixo da descrição. Outra sugestão seria alterar a cor de alguns textos na tabela de produtos no carrinho para se obter um contraste entre os títulos dos campos e o conteúdo em cada célula. |
 
     </center>
+
+    Abaixo na tabela 09 temos as perguntas que o entrevistador respondeu analisando como o usuário utilizou o protótipo.
+
+    <font size="2"><p style="text-align: center">Tabela 09 - Perguntas do questionário para o avaliado responder</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | 
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface|
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
 
 
 </center>
