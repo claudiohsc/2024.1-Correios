@@ -275,11 +275,12 @@ Abaixo temos a tabela 06 com o cronograma executado do reprojeto:
 | :----- | :-----------: |:----------: |:----------: |
 | Aumentar fonte dos textos | [Claudio Henrique][ClaudioGH]  |03/07/2024| Implementado |
 | Informações dos limites das medidas do objeto  | [Claudio Henrique][ClaudioGH]  |03/07/2024| Implementado|
+| Alterar formato de inserção da data  | [Claudio Henrique][ClaudioGH]  |03/07/2024| Implementado|
 
 
 <font size="2"><p style="text-align: center">[Claudio Henrique][ClaudioGH] </p></font>
 
-[Link para o novo protótipo]()
+[Link para o novo protótipo](https://cloud.justinmind.com/usernote/prototype/12e837421a0a0a7846edcae93003faada28eb9d5bd7d22ee077e3819634e7d7e)
 
 </center>
 
