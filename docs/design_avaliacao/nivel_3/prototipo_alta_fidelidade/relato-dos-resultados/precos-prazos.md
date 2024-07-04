@@ -66,7 +66,7 @@ O método de avaliação que será utilizado será o de teste de usabilidade atr
 
 ## Número e perfil dos avaliadores e participantes
 
-Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a data do teste de usabilidade.
+Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a data do teste de usabilidade. Os usuários foram escolhidos com base no perfil de usuário definido nesse trabalho e pelas suas ações realizadas com relação ao site dos Correios, pois a maioria utiliza para rastrear encomendas, simular preços e prazos e realizar postagens.
 
 <center>
 
