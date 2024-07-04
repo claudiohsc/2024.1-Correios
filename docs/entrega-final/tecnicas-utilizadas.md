@@ -15,6 +15,13 @@
 |Análise de Requisitos II | [Princípios Gerais](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/principios_gerais/)|Princípios e Diretrizes comumente usados em Interação Humano Computador (S. D. J. Barbosa, B. S. da Silva) [1]
 |Análise de Requisitos II | [Metas de Usabilidade](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/metas-usabilidade/) |Critérios de Usabilidade (Nielsen, 1993) [2] |
 | Análise de Requisitos II | [Guia de Estilo](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/guia_de_estilo/) |  [Guia de Estilo](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/guia_de_estilo/) |
+|Design, Avaliação e Desenvolvimento| [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/) | Framework DECIDE e Teste Piloto|
+|Design, Avaliação e Desenvolvimento| [Planejamento do Relato dos Resultados da Análise de Tarefas](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento_relato_resultados_analise_de_tarefas/) | Entrevista, Questionário e Diagrama HTA |
+|Design, Avaliação e Desenvolvimento| [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_dos_storyboards/planej_storyboard/) | Framework DECIDE e Teste Piloto|
+|Design, Avaliação e Desenvolvimento| [Planejamento do Relato dos resultados da avaliação do Storyboard](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_dos_storyboards/planejamento-relato-storyboard/) | Entrevista, Questionário e Storyboard| 
+|Design, Avaliação e Desenvolvimento| [Storyboards](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/storyboards/) | Storyboard|
+|Design, Avaliação e Desenvolvimento| [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/) | Framework DECIDE e Teste Piloto|
+|Design, Avaliação e Desenvolvimento| [Planejamento do Relato dos resultados da avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados/) | Entrevista, Questionário e Protótipo de Papel|  
 
 
 ## Conclusão
