@@ -212,7 +212,7 @@ Abaixo temos a Tabela 5 com o cronograma executado do reprojeto:
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 03/07/2024 | Criação do documento| [Gabriel F. J. Silva][GabrielFGH]| |
+|`1.0`| 03/07/2024 | Criação do documento| [Gabriel F. J. Silva][GabrielFGH]| [Pablo S. Costa][PabloGH] |
 
 [GabrielFGH]: https://github.com/MMcLovin
 [GabrielBGH]: https://github.com/https://github.com/Bertolazi
