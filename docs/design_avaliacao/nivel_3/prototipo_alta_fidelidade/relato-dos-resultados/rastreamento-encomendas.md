@@ -95,101 +95,101 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 ## Resultados
 
-### Avaliação 1
+=== "Avaliação 1"
 
-<font size="2"><p style="text-align: center">Vídeo 1 - Entrevista do protótipo de alta fidelidade com o usuário Johnny.</p></font>
+    <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista do protótipo de alta fidelidade com o usuário Johnny.</p></font>
 
-<center>
+    <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B-H9Si_WhnI?si=qf-dPFlu7dPjnfwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/B-H9Si_WhnI?si=qf-dPFlu7dPjnfwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-</center>
+    </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
-[Link direto para o vídeo](https://youtu.be/B-H9Si_WhnI)
+    [Link direto para o vídeo](https://youtu.be/B-H9Si_WhnI)
 
-<font size="2"><p style="text-align: center">Tabela 4 - Respostas do questionário pós teste.</p></font>
+    <font size="2"><p style="text-align: center">Tabela 4 - Respostas do questionário pós teste.</p></font>
 
-<center>
+    <center>
 
-| ID | Pergunta | Resposta
-| :-:| -------- |-|
-| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo |
-| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Bem organizado e tranquilo de ver |
-| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não, foi tranquilo |
-| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
-| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
-| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não  |
-
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
-
-### Avaliação 2
-
-<font size="2"><p style="text-align: center">Vídeo 2 - Entrevista do protótipo de alta fidelidade com o usuário Mateus.</p></font>
-
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gf-SPMVfHkQ?si=2UbZJnyi8MLMM1SJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
-
-[Link direto para o vídeo](https://youtu.be/Gf-SPMVfHkQ)
-
-<font size="2"><p style="text-align: center">Tabela 5 - Respostas do questionário pós teste.</p></font>
-
-<center>
-
-| ID | Pergunta | Resposta
-| :-:| -------- |-|
-| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Bom |
-| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim, tudo ok |
-| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não, foi tudo intuitivo |
-| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
-| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
-| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, tudo está apresentado de maneia coerente |
+    | ID | Pergunta | Resposta
+    | :-:| -------- |-|
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Bem organizado e tranquilo de ver |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não, foi tranquilo |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
+    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não  |
 
 
-</center>
+    </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
 
-### Avaliação 3
+=== "Avaliação 2"
 
-<font size="2"><p style="text-align: center">Vídeo 3 - Entrevista do protótipo de alta fidelidade com o usuário Wildemberg.</p></font>
+    <font size="2"><p style="text-align: center">Vídeo 2 - Entrevista do protótipo de alta fidelidade com o usuário Mateus.</p></font>
 
-<center>
+    <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sD6vT3xpiFA?si=N_klhiptGA8hBzjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Gf-SPMVfHkQ?si=2UbZJnyi8MLMM1SJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-</center>
+    </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
-[Link direto para o vídeo](https://youtu.be/sD6vT3xpiFA)
+    [Link direto para o vídeo](https://youtu.be/Gf-SPMVfHkQ)
 
-<font size="2"><p style="text-align: center">Tabela 5 - Respostas do questionário pós teste.</p></font>
+    <font size="2"><p style="text-align: center">Tabela 5 - Respostas do questionário pós teste.</p></font>
 
-<center>
+    <center>
 
-| ID | Pergunta | Resposta
-| :-:| -------- |-|
-| **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo |
-| **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim |
-| **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não, nenhuma dificuldade |
-| **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
-| **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
-| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, está bem organizado |
+    | ID | Pergunta | Resposta
+    | :-:| -------- |-|
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Bom |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim, tudo ok |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não, foi tudo intuitivo |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
+    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, tudo está apresentado de maneia coerente |
 
 
-</center>
+    </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
+
+=== "Avaliação 3"
+
+    <font size="2"><p style="text-align: center">Vídeo 3 - Entrevista do protótipo de alta fidelidade com o usuário Wildemberg.</p></font>
+
+    <center>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sD6vT3xpiFA?si=N_klhiptGA8hBzjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+    [Link direto para o vídeo](https://youtu.be/sD6vT3xpiFA)
+
+    <font size="2"><p style="text-align: center">Tabela 6 - Respostas do questionário pós teste.</p></font>
+
+    <center>
+
+    | ID | Pergunta | Resposta
+    | :-:| -------- |-|
+    | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo |
+    | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim |
+    | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não, nenhuma dificuldade |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
+    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não, está bem organizado |
+
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
 
 
 ## Lista de Problemas de usabilidade corrigidos
