@@ -348,10 +348,24 @@ Na tabela 15, tem-se o planejado das atividades previstas para sétima entrega
 ### Executado
 
 <font size="2"><p style="text-align: center;">
-    <b>Tabela 18 </b> - 
+    <b>Tabela 18 </b> - cronograma executado da entrega 8
 </p></font> 
 
-*EM BREVE...*
+| **Ata de Reunião** | Início: 25/06   
+Fim: 25/06 | Ricardo | Início: 25/06  Fim: 25/06 | Gabriel B. Bertolazi |
+| **Desenvolvimento do protótipo de alta fidelidade** | Início: 28/06   
+Fim: 02/07 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 03/07 Fim: 03/07 | \- |
+| **Avaliação do protótipo de alta fidelidade** | Início: 02/07   
+Fim: 03/07 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 03/07 Fim: 03/07 | \- |
+| **Relatos da avaliação do protótipo de alta fidelidade** | Início: 02/07   
+Fim: 03/07 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 03/07   
+Fim: 03/07 | Cláudio, Pablo, Ricardo |
+| **Gravação da Apresentação** | Início: 03/07   
+Fim: 03/07 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 03/07   
+Fim: 03/07 | Cláudio |
+| **Correções** | Início: 04/07   
+Fim: 08/07 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 03/07   
+Fim: 03/07 | Cláudio, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 
 ## Entrega Final
 
