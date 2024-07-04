@@ -83,6 +83,16 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
 </center>
 
+## Protótipo de Alta Fidelidade
+
+<font size="2"><p style="text-align: center">Protótipo de Alta fidelidade</p></font>
+
+</center>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FPiDmHEVjccRmW79TKD4JHQ%2Fcorreios-site%3Fnode-id%3D0-1%26t%3DIvYMId0hOihrf1R4-1" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
 ## Resultados
 
 ### Avaliação 1
