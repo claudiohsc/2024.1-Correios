@@ -166,8 +166,6 @@ Abaixo temos as gravações das entrevistas realizadas que estão no vídeos 1, 
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024</p></font>
 
-
-
 <font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário pós-teste.</p></font>
 
 <center>
@@ -183,7 +181,6 @@ Abaixo temos as gravações das entrevistas realizadas que estão no vídeos 1, 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024</p></font>
-
 
 ## Lista de Problemas de usabilidade corrigidos
 
