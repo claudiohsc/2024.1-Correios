@@ -1,6 +1,9 @@
 # Técnicas Utilizadas no Projeto
 
 ## Introdução
+Este artefato apresenta uma tabela geral com todas as técnicas e metodologias utilizadas durante o processo de estudo e aplicação dos conceitos da disciplina de Interação Humano-Computador.
+
+
 
 ## Tabela de Técnicas Utilizadas
 
@@ -22,6 +25,30 @@
 |Design, Avaliação e Desenvolvimento| [Storyboards](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/storyboards/) | Storyboard|
 |Design, Avaliação e Desenvolvimento| [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao/) | Framework DECIDE e Teste Piloto|
 |Design, Avaliação e Desenvolvimento| [Planejamento do Relato dos resultados da avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados/) | Entrevista, Questionário e Protótipo de Papel|  
-
+|Design, Avaliação e Desenvolvimento| [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_da_avaliacao/) | Framework DECIDE e Teste Piloto|
+|Design, Avaliação e Desenvolvimento| [Planejamento do Relato dos resultados da avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_do_relato/) | Entrevista, Questionário e Protótipo de Alta Fidelidade|  
+| Verificação Grupo + 1 | [Grupo + 1](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo%2B1/etapa_01/planejamento_etapa_01/)| Inspeção de Fagan|
+| Verificação Grupo | [Grupo 3](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/planejamento-geral/)| Inspeção de Fagan|
 
 ## Conclusão
+
+
+## Bibliografia
+
+> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> 2. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
+
+## Histórico de Versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :----: | :--: | --------- | ----------- | ------ |
+| `1.0`  | 04/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [][] |
+
+
+[ClaudioGH]: https://github.com/claudiohsc
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
