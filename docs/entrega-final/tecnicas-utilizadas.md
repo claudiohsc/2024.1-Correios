@@ -1,13 +1,16 @@
 # Técnicas Utilizadas no Projeto
 
 ## Introdução
-Este artefato apresenta uma tabela geral com todas as técnicas e metodologias utilizadas durante o processo de estudo e aplicação dos conceitos da disciplina de Interação Humano-Computador.
-
-
+Este artefato apresenta uma tabela geral com todas as técnicas e metodologias utilizadas durante o processo de estudo e aplicação dos conceitos da disciplina de Interação Humano-Computador. Na tabela estará detalhado cada um dos artefatos e quais as respectivas técnicas que foram utilizadas durante o estudo de IHC.
 
 ## Tabela de Técnicas Utilizadas
 
-| Entrega | Artefato | Técnica Utilizada|
+Na tabela 1 é possíver as técnicas utilizadas relacionando-as com a entrega e o artefato respectivo.
+
+<font size="2"><p style="text-align: center">Tabela 1 - Tabela de técnicas utilizadas.</p></font>
+
+
+| Entrega | Artefato | Técnica(s) Utilizada(s)|
 |:---:|:---:|:---:|
 | Planejamento | [Sites Avaliados](https://interacao-humano-computador.github.io/2024.1-Correios/planejamento/site_avaliados/)| Framework DECIDE|
 |Planejamento| [Processo de Design](https://interacao-humano-computador.github.io/2024.1-Correios/planejamento/processo-design/)| Ciclo de Vida de Mayhew|
@@ -32,6 +35,7 @@ Este artefato apresenta uma tabela geral com todas as técnicas e metodologias u
 
 ## Conclusão
 
+Ao longo das diversas fases, do planejamento à verificação, foram empregadas várias técnicas o que demonstra o compromisso com a compreensão das necessidades dos usuários em cada etapa do desenvolvimento. Baseado em fontes acadêmicas respeitadas, este documento também enfatiza a importância da teoria como fundamento para a prática, assim possibilitando a criação de sistemas mais eficientes e focados no usuário.
 
 ## Bibliografia
 
