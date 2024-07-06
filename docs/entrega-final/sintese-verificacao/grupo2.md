@@ -31,12 +31,12 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 <center>
 
-| Artefato | Versão | Data | Autor(es) | Verificado por |
-| -------- | :----: | :--: | --------- | -------------- |
-| [Princípios gerais do projeto](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/principios_gerais/) | `1.0` | 12/05/2024 | [Claudio H][ClaudioGH] e [Elias F.][EliasGH] | [Cláudio Henrique](https://github.com/claudiohsc) e [Ricardo Augusto](https://github.com/avmricardo) | [Gabriel F.][GabrielFGH] |
-| [Metas usabilidade](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/metas-usabilidade/) | `1.0` | 12/05/2024 | [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] | [Elias F. Oliveira](https://www.github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) | [Elias F.][EliasGH] |
-| [Guia de estilo](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/guia_de_estilo/) | `1.0` | 10/05/2024 | [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Gabriel B. Bertolazi](https://github.com/ Bertolazi) e [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Elias F.][EliasGH] |
-| [Características da plataforma](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/caracteristicas-da-plataforma/) | `1.0` | 13/05/2024 | [Gabriel B.][GabrielBGH] e [Pablo S.][PabloGH] | [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Ricardo Augusto](https://github.com/avmricardo) | [Pablo S.][PabloGH] |
+| Artefato | Versão | Data | Autor(es) | Checklist por | Verificado por |
+| -------- | :----: | :--: | --------- | ------------- | -------------- |
+| [Princípios gerais do projeto](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/principios_gerais/) | `1.0` | 12/05/2024 | [Claudio H][ClaudioGH] e [Elias F.][EliasGH] |   | [Cláudio Henrique](https://github.com/claudiohsc) e [Ricardo Augusto](https://github.com/avmricardo) |
+| [Metas usabilidade](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/metas-usabilidade/) | `1.0` | 12/05/2024 | [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |   | [Elias F. Oliveira](https://www.github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) |
+| [Guia de estilo](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/guia_de_estilo/) | `1.0` | 10/05/2024 | [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |   | [Gabriel B. Bertolazi](https://github.com/ Bertolazi) e [Gabriel F. J. Silva](https://github.com/MMcLovin) |
+| [Características da plataforma](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/caracteristicas-da-plataforma/) | `1.0` | 13/05/2024 | [Gabriel B.][GabrielBGH] e [Pablo S.][PabloGH] |   | [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Ricardo Augusto](https://github.com/avmricardo) |
 
 </center>
 
@@ -50,16 +50,15 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 <center>
 
-| Artefato | Versão | Data | Autor(es) | Verificado por |
-| -------- | :----: | :--: | --------- | -------------- |
-| [Análise de Tarefas (HTA) - Planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/) | `1.1` | 24/05/2024 | [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH] | [Pablo S. Costa](https://github.com/pabloheika) | [Ricardo A.][RicardoGH] |
-| [Análise de Tarefas (HTA) - Planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel1/analise_tarefas/planejamento_avaliacao/) | `1.0` | 22/05/2024 | [Elias F.][EliasGH] e [Gabriel B.][GabrielBGH] | [Ricardo Augusto](https://github.com/avmricardo) | [Claudio H.][ClaudioGH] |
-| [Análise de Tarefas (HTA) - Relato dos resultados (expandir)][] | `1.0` | 02/06/2024 | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
-| [Storyboards - Planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel1/storyboard/planej_storyboard/) | `1.1` | 24/05/2024 | [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Claudio Henrique](https://github.com/claudiohsc) e [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias F.][EliasGH] |
-| [Storyboards - Planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel1/storyboard/planejamento_do_relato/) | `1.0` | 21/05/2024 | [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH] | [Elias F. Oliveira](https://www.github.com/EliasOliver21) e [Pablo S. Costa](https://github.com/pabloheika) | [Claudio H][ClaudioGH] |
-| [Storyboards - Relato dos resultados (expandir)](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel1/storyboard/relato-resultados-story/) | `1.0` | 03/06/2024 | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Pablo S. Costa](https://github.com/pabloheika) | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
-| [Storyboards](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel1/storyboard/storyboards/) | `2.0` | 01/06/2024 | [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Ricardo Augusto](https://github.com/avmricardo) | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
-
+| Artefato | Versão | Data | Autor(es) | Checklist por | Verificado por |
+| -------- | :----: | :--: | --------- | ------------- | -------------- |
+| [Análise de Tarefas (HTA) - Planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/planejamento-analise-tarefas/) | `1.1` | 24/05/2024 | [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH] |   | [Pablo S. Costa](https://github.com/pabloheika) |
+| [Análise de Tarefas (HTA) - Planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel1/analise_tarefas/planejamento_avaliacao/) | `1.0` | 22/05/2024 | [Elias F.][EliasGH] e [Gabriel B.][GabrielBGH] |   | [Ricardo Augusto](https://github.com/avmricardo) |
+| [Análise de Tarefas (HTA) - Relato dos resultados (expandir)][] | `1.0` | 02/06/2024 | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |   | [Gabriel F. J. Silva](https://github.com/MMcLovin) |
+| [Storyboards - Planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel1/storyboard/planej_storyboard/) | `1.1` | 24/05/2024 | [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |   | [Claudio Henrique](https://github.com/claudiohsc) e [Gabriel B. Bertolazi](https://github.com/Bertolazi) |
+| [Storyboards - Planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel1/storyboard/planejamento_do_relato/) | `1.0` | 21/05/2024 | [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH] |   | [Elias F. Oliveira](https://www.github.com/EliasOliver21) e [Pablo S. Costa](https://github.com/pabloheika) |
+| [Storyboards - Relato dos resultados (expandir)](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel1/storyboard/relato-resultados-story/) | `1.0` | 03/06/2024 | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |   | [Pablo S. Costa](https://github.com/pabloheika) |
+| [Storyboards](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel1/storyboard/storyboards/) | `2.0` | 01/06/2024 | [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |   | [Ricardo Augusto](https://github.com/avmricardo) |
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
@@ -70,11 +69,11 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 <center>
 
-| Artefato | Versão | Data | Autor(es) | Verificado por |
-| -------- | :----: | :--: | --------- | -------------- |
-| [Protótipo de Papel - Planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel2/prototipo_papel/planej_avaliacao_pp/) | `1.2` | 18/06/2024 | [Gabriel B.][GabrielBGH] e [Ricardo A.][RicardoGH] | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias F.][EliasGH] |
-| [Protótipo de Papel - Planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel2/prototipo_papel/planejamento-relato-pp/) | `1.0` | 01/06/2024 | [Claudio H][ClaudioGH] e [Elias F.][EliasGH] | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Ricardo A.][RicardoGH] |
-| [Protótipo de Papel - Relato dos Resultados (expandir)][] | `1.0` | 01/06/2024 | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
+| Artefato | Versão | Data | Autor(es) | Checklist por | Verificado por |
+| -------- | :----: | :--: | --------- | ------------- | -------------- |
+| [Protótipo de Papel - Planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel2/prototipo_papel/planej_avaliacao_pp/) | `1.2` | 18/06/2024 | [Gabriel B.][GabrielBGH] e [Ricardo A.][RicardoGH] |   | [Gabriel B. Bertolazi](https://github.com/Bertolazi) |
+| [Protótipo de Papel - Planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel2/prototipo_papel/planejamento-relato-pp/) | `1.0` | 01/06/2024 | [Claudio H][ClaudioGH] e [Elias F.][EliasGH] |   | [Gabriel F. J. Silva](https://github.com/MMcLovin) |
+| [Protótipo de Papel - Relato dos Resultados (expandir)][] | `1.0` | 01/06/2024 | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |   | [Gabriel B. Bertolazi](https://github.com/Bertolazi) |
 
 </center>
 
@@ -86,10 +85,10 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 <center>
 
-| Artefato | Versão | Data | Autor(es) | Verificado por |
-| -------- | :----: | :--: | --------- | -------------- |
-| [Protótipo de Alta Fidelidade - Planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel3/planejamento-avaliacao-paf/) | `1.0` | 18/06/2024 | [Elias F.][EliasGH] e [Pablo S.][PabloGH] | [Ricardo Augusto](https://github.com/avmricardo) | [Pablo S.][PabloGH] |
-| [Protótipo de Alta Fidelidade - Planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel3/planejamento-relato-paf/) | `1.0` | 19/06/2024 | [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH] | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Gabriel B.][GabrielBGH] |
+| Artefato | Versão | Data | Autor(es) | Checklist por | Verificado por |
+| -------- | :----: | :--: | --------- | ------------- | -------------- |
+| [Protótipo de Alta Fidelidade - Planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel3/planejamento-avaliacao-paf/) | `1.0` | 18/06/2024 | [Elias F.][EliasGH] e [Pablo S.][PabloGH] |   | [Ricardo Augusto](https://github.com/avmricardo) |
+| [Protótipo de Alta Fidelidade - Planejamento do relato](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/DAD/nivel3/planejamento-relato-paf/) | `1.0` | 19/06/2024 | [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH] |   | [Gabriel F. J. Silva](https://github.com/MMcLovin) |
 
 </center>
 
@@ -102,14 +101,14 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 ## Bibliografia
 
-> 1. GitHub. Disponível em: (https://docs.github.com/pt](https://docs.github.com/pt). Acesso em: 29 de mar. de 2024.
+> 1. GitHub. Disponível em: [https://docs.github.com/pt](https://docs.github.com/pt). Acesso em: 29 de mar. de 2024.
 >
 
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :----: | :--: | --------- | --------- | ----------- |
+| Artefato | Versão | Data | Autor(es) | Checklist por | Verificado por |
+| -------- | :----: | :--: | --------- | ------------- | -------------- |
 | `1.0`  | 06/07/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH]  | [Claudio Henrique](https://github.com/claudiohsc)   |
 
 [ClaudioGH]: https://github.com/claudiohsc
