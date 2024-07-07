@@ -14,13 +14,15 @@ nav:
     - Reunião 6: atas/ata6.md
     - Reunião 7: atas/ata7.md
   - Apresentações:
-    - Apresentação 01: apresentações/apresentação-01.md
-    - Apresentação 02: apresentações/apresentação-02.md
-    - Apresentação 03: apresentações/apresentação-03.md
-    - Apresentação 04: apresentações/apresentação-04.md
-    - Apresentação 05: apresentações/apresentação-05.md
-    - Apresentação 06: apresentações/apresentação-06.md
-    - Apresentação 07: apresentações/apresentação-07.md
+    - Apresentação 1: apresentações/apresentação-01.md
+    - Apresentação 2: apresentações/apresentação-02.md
+    - Apresentação 3: apresentações/apresentação-03.md
+    - Apresentação 4: apresentações/apresentação-04.md
+    - Apresentação 5: apresentações/apresentação-05.md
+    - Apresentação 6.1: apresentações/apresentação-06.md
+    - Apresentação 7: apresentações/apresentação-07.md
+    - Apresentação 6.2: apresentações/apresentação-08.md
+    - Apresentação 8: apresentações/apresentação-09.md
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
     - Sites Avaliados: planejamento/site_avaliados.md
@@ -79,6 +81,13 @@ nav:
       - Protótipo de Alta Fidelidade:
         - Planejamento da Avaliação: design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_da_avaliacao.md
         - Planejamento do Relato dos Resultados: design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_do_relato.md
+        - Relato dos Resultados:
+          - Loja online: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/loja-online.md
+          - Calcular preços e prazos: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/precos-prazos.md
+          - Rastreamento de encomendas: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/rastreamento-encomendas.md 
+          - Gerenciar Minhas Importações: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/importacoes.md 
+          - Pré-postagem: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/pre-postagem.md
+          - Mudar recebimento de encomendas: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/recebimento-de-encomendas.md
   - Verificação:
     - Grupo+1:
         - Etapa 01:
@@ -197,6 +206,9 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 extra:
   analytics:
     provider: google

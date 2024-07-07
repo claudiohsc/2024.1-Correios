@@ -63,11 +63,11 @@ Haverá um total de 6 sessões presenciais, cada uma contará com um participant
 
 Equipamentos e materiais para a entrevista:
 
-- Protótipo de alta fidelidade
-- Câmera
-- Roteiro da sessão
-- 2 vias impressas do Termo de consentimento (uma para ficar com o avaliador e outra com o participante)
-- Questionários
+- Protótipo de alta fidelidade;
+- Câmera;
+- Roteiro da sessão;
+- 2 vias impressas do Termo de consentimento (uma para ficar com o avaliador e outra com o participante);
+- Questionários;
 
 Custos:
 
@@ -92,8 +92,22 @@ Custos:
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
-
 <font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário pré-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | 
+| :-:| -------- |
+| **1** | Qual o seu nome completo? |
+| **2** | Qual a sua idade? | 
+| **3** | Qual a sua ocupação? | 
+| **4** | Você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos em "Muito boa", "Boa", "Média", "Ruim", "Muito ruim" | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH] e [Pablo S. Costa][PabloGH], 2024</p></font>
+
+<font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário pós-teste.</p></font>
 
 <center>
 
@@ -104,7 +118,7 @@ Custos:
 | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | 
 | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? |
 | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? |
-| **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? |
+| **6** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? |
 
 
 </center>
@@ -113,7 +127,7 @@ Custos:
 
 
 
-<font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário pós-teste.</p></font>
+<font size="2"><p style="text-align: center">Tabela 5 - Perguntas do questionário para o avaliado responder</p></font>
 
 <center>
 
@@ -169,21 +183,134 @@ Antes de mergulharmos nas entrevistas com os usuários, um passo crucial nos agu
 
 Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando surpresas durante as entrevistas reais. Analisaremos a eficácia do nosso planejamento, ajustando-o para garantir um fluxo suave e eficiente durante as avaliações. Asseguraremos que a avaliação forneça os dados precisos e relevantes para o nosso estudo, respondendo às nossas perguntas e objetivos. Avaliaremos a clareza e a objetividade da linguagem utilizada nas entrevistas, certificando-nos de que as perguntas sejam compreendidas de maneira inequívoca pelos participantes. Conforme Barbosa e Silva (2021, p. 276), o teste piloto vai além de um simples teste de ferramentas. Ele nos permite avaliar o próprio planejamento, garantindo que a avaliação produza os dados necessários para alcançarmos os objetivos do estudo.Durante o teste piloto, os avaliadores conduzirão uma simulação completa de uma sessão de avaliação, incluindo explicações, materiais e interação com os participantes. O cronograma passar essa etapa encontrase na Tabela 2 abaixo.
 
-<font size="2"><p style="text-align: center">Tabela 5 - Planejamento do Teste Piloto.</p></font>
+<font size="2"><p style="text-align: center">Tabela 6 - Planejamento dos Testes Piloto.</p></font>
 
 <center>
 
 |    Data    | Horário de início e fim | Local            |     Avaliadores    |
 | :--------: | :---------------------: | :----------------: | :----------------------: |
-| 25/06/2024 | 12:00 - 14:00 | Unb-FGA | Ricardo e Gabriel. B |
+| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Ricardo e Gabriel. B |
+| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Elias e Cláudio |
+| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Pablo e Gabriel. F |
 
 </center>
 
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+Abaixo temos na tabela 07 o cronograma executados dos testes piloto.
+
+<font size="2"><p style="text-align: center">Tabela 7 - Cronograma Executado dos Testes Piloto.</p></font>
+
+<center>
+
+|    Data    | Horário de início e fim | Local            |     Avaliadores    |
+| :--------: | :---------------------: | :----------------: | :----------------------: |
+| 28/06/2024 | 12:00 - 14:00 | Unb-FGA | Ricardo e Gabriel. B |
+| 02/07/2024 | 13:00 - 13:20 | Unb-FGA | Elias e Cláudio |
+| 28/06/2024 | 19:50 - 19:59 | Teams | Pablo |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+### Gravação dos testes pilotos
+
+#### Calcular preços e prazos de entrega
+
+<font size="2"><p style="text-align: center">Vídeo 1 - Teste Piloto da Entrevista do protótipo de alta fidelidade.</p></font>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SC2olngQC3k?si=QaQWCCZ14ZgyrWcF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Link direto para o vídeo](https://www.youtube.com/watch?v=SC2olngQC3k)
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH] e [Elias Oliveira][EliasGH], 2024.</p></font>
+
+
+#### Minhas Importações
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 2 - Gravação do teste piloto da avaliação do Protótipo de alta fidelidade Minhas Importações.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HOYQqycLLjc?si=ehplihczaE79y3wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+</center>
+
+<p style="text-align: center">
+    <a href="https://youtu.be/HOYQqycLLjc"> Link para o vídeo </a>
+</p>
+
+#### Receber Encomendas
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 3 - Gravação do teste piloto da avaliação do Protótipo de alta fidelidade rastrear encomendas.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rh_k-7t6i8g" title="(Entrega 8) Teste de Usabilidade do Protótipo de Alta Fidelidade: Teste Piloto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+
+</center>
+
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=Rh_k-7t6i8g"> Link para o vídeo </a>
+</p>
+
+#### Rastrear Encomendas
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 4 - Gravação do teste piloto da avaliação do Protótipo de alta fidelidade rastrear encomendas.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S9biff154oI?si=CIKVdrHA-lpC7qBm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+</center>
+
+<p style="text-align: center">
+    <a href="https://youtu.be/S9biff154oI"> Link para o vídeo </a>
+</p>
+
+#### Realizar Compras na Loja Online 
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 2 - Gravação da Avaliação do Protótipo Loja Online.</p></font>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vachq9pNeBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+<p style="text-align: center">
+    <a href="https://youtu.be/Vachq9pNeBQ"> Link para o vídeo </a>
+</p>
+
+</center>
+
+
+#### Receber Encomendas
+
+<center>
+
+<font size="2"><p style="text-align: center">Vídeo 5 - Gravação do teste piloto da avaliação do Protótipo de alta fidelidade receber encomendas.</p></font>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOlgWWRjFIQ?si=QsHa18q8oVcTW0kT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
-### Gravação do teste piloto
+</center>
 
-*Em Breve*
+<p style="text-align: center">
+    <a href="https://youtu.be/iOlgWWRjFIQ?si=GvgemYUHjkKvAL56"> Link para o vídeo </a>
+</p>
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -192,8 +319,9 @@ Verificaremos se todas as ferramentas estão funcionando adequadamente, evitando
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 18/06/2024 | Criação do documento | [Elias Oliveira][EliasGH] e [Pablo][PabloGH] | [Claudio Henrique][ClaudioGH] e [Gabriel Fernando][GabrielFGH]  |
-
+| `1.0`  | 18/06/2024 | Criação do documento | [Elias Oliveira][EliasGH] e [Pablo S. Costa][PabloGH] | [Claudio Henrique][ClaudioGH] e [Gabriel Fernando][GabrielFGH]  |
+| `1.1`  | 26/06/2024 | Ajuste e perguntas pré teste | [Pablo S. Costa][PabloGH] e [Gabriel B. Bertolazi][GabrielBGH] | [Claudio Henrique][ClaudioGH]   |
+| `1.2`  | 03/07/2024 | Adiciona testes piloto | [Cláudio Henrique][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] | [Claudio Henrique][ClaudioGH]   |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

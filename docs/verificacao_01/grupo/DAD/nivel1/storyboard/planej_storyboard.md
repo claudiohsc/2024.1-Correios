@@ -61,10 +61,6 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 <font size="2"><p style="text-align: center">Fonte: [Elias][EliasGH], 2024.</p></font>
 
 
-### Problemas Encontrados
-
-Nenhum problema ou erro foi encontrado no artefato.
-
 ### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
@@ -77,6 +73,9 @@ Nenhum problema ou erro foi encontrado no artefato.
     <a href="https://youtu.be/2VuzhCCNjMg"> Link para o vídeo </a>
 </p>
 
+### Problemas Encontrados
+
+Nenhum problema ou erro foi encontrado no artefato.
 
 
 ### Sumário de verificação

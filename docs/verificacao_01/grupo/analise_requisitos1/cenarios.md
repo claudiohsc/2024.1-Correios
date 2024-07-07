@@ -64,6 +64,19 @@ Após as verificações dos itens, os que possuirem resultado negativo serão co
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. oliveira][EliasGH], 2024.</p></font>
 
+
+### Gravação da verificação
+
+<!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
+
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/IML64DyoiPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+<p style="text-align: center">
+    <a href="https://youtu.be/IML64DyoiPs"> Link para o vídeo </a>
+</p>
+
 #### Problemas Encontrados
 
 Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/cenarios/).
@@ -394,7 +407,7 @@ pie
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 
 ## Bibliografia
@@ -410,7 +423,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento |[Elias F. Oliveira][EliasGH]| |
+| `1.0`  | 25/06/2024 | Criação do documento |[Elias F. Oliveira][EliasGH]| [Gabriel F.][GabrielFGH]|
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

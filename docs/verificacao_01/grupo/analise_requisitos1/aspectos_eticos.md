@@ -58,33 +58,25 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <font size="2"><p style="text-align: center">Fonte: [Elias Faria][EliasGH], 2024.</p></font>
 
-Problemas Encontrados:
-
-ID 03: Informado os objetivos da pesquisa aos participantes? dizendo exatamente como vai ser a participação deles; informando o que vai ocorrer durante a coleta de dados; o tempo aproximado da coleta; os tipos de dados que serão coletados; e ainda como eles serão analisados. | Incompleto.| <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"
-
-- Avaliação: Incompleto.
-- Comentário: É informado apenas que será utlizado os dados obtidos nas entrevistas e em outros métodos, mas não informa como acontecerá as etapas da coleta de dados como: quanto tempo durará a coleta de dados?, tipos de dados coletados e etc. 
-
-
 
 ### Gravação da verificação
 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embedGeSqhz50Rsw" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GeSqhz50Rsw" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <center>
 [Link do vídeo](https://youtube.com/video/GeSqhz50Rsw/)
 </center>
 
-## Problemas Encontrados
+## Problemas Encontrados:
 
-<!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
+ID 03: Informado os objetivos da pesquisa aos participantes? dizendo exatamente como vai ser a participação deles; informando o que vai ocorrer durante a coleta de dados; o tempo aproximado da coleta; os tipos de dados que serão coletados; e ainda como eles serão analisados. | Incompleto.| <a href="#ref1">1.</a> "7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas"
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+- Avaliação: Incompleto.
+- Comentário: É informado apenas que será utlizado os dados obtidos nas entrevistas e em outros métodos, mas não informa como acontecerá as etapas da coleta de dados como: quanto tempo durará a coleta de dados?, tipos de dados coletados e etc. 
+
 
 ## Sumário dos resultados
 
@@ -132,8 +124,8 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [][] |
-| `1.1`  | 25/06/2024 | Verificação com Checklist| [Elias F. Oliveira][EliasGH] | [][] |
+| `1.0`  | 25/06/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Gabriel][GabrielBGH] |
+| `1.1`  | 25/06/2024 | Verificação com Checklist| [Elias F. Oliveira][EliasGH] | [Gabriel][GabrielBGH]  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

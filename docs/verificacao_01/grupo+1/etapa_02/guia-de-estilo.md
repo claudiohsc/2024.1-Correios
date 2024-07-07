@@ -105,17 +105,6 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
     - Avaliação: Incompleto
     - Comentário: Não foram apresentadas as ações
 
-## Gravação da Verificação
-
-<center>
-
-<font size="2"><p style="text-align: center">Gravação Inspeção do Artefato</p></font>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PwVfg233Wbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
-
-</center>
 
 ## Bibliografia
 

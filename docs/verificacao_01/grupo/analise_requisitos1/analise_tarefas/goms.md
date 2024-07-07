@@ -98,15 +98,12 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 0
-    "Não" : 0
-    "Incompleto" : 0
-    "Não se Aplica" : 0
+    "Sim" : 7
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo][PabloGH], 2024.</p></font>
 
 ## GOMS - Pré-postagem
 
@@ -249,8 +246,6 @@ A seguir, apresentamos a Figura 3 com o gráfico de pizza do sumário dos result
 pie
     "Sim" : 6
     "Não" : 1
-    "Incompleto" : 0
-    "Não se Aplica" : 0
 ```
 
 </center>
@@ -408,9 +403,6 @@ A seguir, apresentamos a Figura 5 com o gráfico de pizza do sumário dos result
 }%%
 pie
     "Sim" : 7
-    "Não" : 0
-    "Incompleto" : 0
-    "Não se Aplica" : 0
 ```
 
 </center>
@@ -519,15 +511,13 @@ A seguir, apresentamos a Figura 7 com o gráfico de pizza do sumário total dos 
   }
 }%%
 pie
-    "Sim" : 7
-    "Não" : 0
-    "Incompleto" : 0
-    "Não se Aplica" : 0
+    "Sim" : 39
+    "Não" : 2
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Cláudio Henrique][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -537,7 +527,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [][] |
+| `1.0`  | 25/06/2024 | Criação do documento | [Pablo S. Costa][PabloGH] | [Claudio Henrique][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
