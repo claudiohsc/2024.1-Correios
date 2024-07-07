@@ -6,7 +6,7 @@ Nesse documento temos a síntese das verificações realizadas na etapa 6.1 (ver
 
 ## Metodologia
 
-O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#ref1"><sup>1</sup></a>. Os artefatos produzidos pelo [Grupo 04](https://interacao-humano-computador.github.io/2024.1-PCDF/) foram divididos entre todos os membros [Grupo 3 (Correios)](https://interacao-humano-computador.github.io/2024.1-Correios/) para que todos participem das verificações, desse modo, uns produziam o checklist e outros completaam o artefato com o preenchimento do checklist e, ocasionalmente, a gravação da verificação. Abaixo, Tabelas 01 a 04, temos as entregas divididas em seções com uma tabela para cada etapa (Análise de Requisitos I e II junto a Design, Avaliação e Desenvolvimento Níveis 1, 2 e 3)
+O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#ref1"><sup>1</sup></a>. Os artefatos produzidos pelo [Grupo 04](https://interacao-humano-computador.github.io/2024.1-PCDF/) foram divididos entre todos os membros [Grupo 3 (Correios)](https://interacao-humano-computador.github.io/2024.1-Correios/) para que todos participem das verificações, desse modo, uns produziam o checklist e outro membro finalizava o artefato com o preenchimento do checklist e, ocasionalmente, a gravação da verificação. Abaixo, Tabelas 01 a 04, temos as entregas divididas em seções com uma tabela para cada etapa (Análise de Requisitos I e II junto a Design, Avaliação e Desenvolvimento Níveis 1, 2 e 3)
 
 
 **OBSERVAÇÃO**: as colunas de "Versão" e  "Data" são referentes ao artefato verificado, enquanto os *hiperlinks*, coluna "Artefato de Verificação", levam à verificação realizada.
