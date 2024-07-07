@@ -1,12 +1,10 @@
 ## Introdução
 
-Neste artefato é apresentada uma tabela com a relação das etapas existentes no projeto da matéria de Interação humano computador com os artefatos criados, revisores e autores destes.
+Neste artefato é são apresentadas abaixo 8 tabelas de acordo com cada etapa do projeto. Cada tabela contendo: os artefatos criados na etapa, seus autores e revisores, e nas etapas 6.1 e 6.2 há ainda os responsáveis por verificarem o artefato com o checklist.
 
 ## Artefatos Criados
 
 === "Etapa 1 - Planejamento do Projeto"
-
-    
 
     <font size="2"><p style="text-align: center">Tabela 01: Artefatos criados na Etapa 01</p></font>
 
@@ -135,8 +133,32 @@ Neste artefato é apresentada uma tabela com a relação das etapas existentes n
 
     <center>
 
-    |Artefatos|Autor(s)|Revisor(s)|
-    |---------|--------|----------|
+    |Artefatos|Autor(s)|Revisor(s)| Verifcação do Artefato |
+    |---------|--------|----------|------------------------|
+    | Planejamento da Verificação | Elias e Claudio | Pablo | -- |
+    | Aspectos Éticos | Pablo | Ricardo | Gabriel F. |
+    | Perfil de Usuário - Questionário | Elias | Gabriel B. | Claudio |
+    | Perfil de Usuário - Entrevista | Elias  | Claudio | Gabriel B. |
+    | Análise Competitiva | Elias e Claudio | Gabriel F. |
+    | Resultado do Perfil de Usuário | Elias e Claudio | Gabriel F. |
+    | Personas | Pablo | Claudio |
+    | Cenários | Claudio e Gabriel F. | Pablo |
+    |Análise de Tarefas HTA | Gabriel F. e Ricardo | Elias |
+    | Análise de Tarefas CMN-GOMS | Gabriel F. e Gabriel B. | Elias |
+    |||||
+    |||||
+    |||||
+    |||||
+    |||||
+    |||||
+    |||||
+    |||||
+    |||||
+    |||||
+    |||||
+    |||||
+    |||||
+    |||||
 
     </center>
 
