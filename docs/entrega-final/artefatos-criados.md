@@ -40,7 +40,7 @@ Neste artefato é são apresentadas abaixo 8 tabelas de acordo com cada etapa do
     | Perfil de Usuário | Elias e Claudio | Gabriel F. |
     | Personas | Pablo | Claudio |
     | Cenários | Claudio e Gabriel F. | Pablo |
-    |Análise de Tarefas HTA | Gabriel F. e Ricardo | Elias |
+    | Análise de Tarefas HTA | Gabriel F. e Ricardo | Elias |
     | Análise de Tarefas CMN-GOMS | Gabriel F. e Gabriel B. | Elias |
 
     </center>
@@ -129,36 +129,64 @@ Neste artefato é são apresentadas abaixo 8 tabelas de acordo com cada etapa do
 
     Verificação dos artefatos I
 
-        <font size="2"><p style="text-align: center">Tabela 01: Artefatos criados na Etapa 01</p></font>
+    - Legenda:
+      - Análise de Taferas : AT
+      - Storyboard : SB
+      - Protótipo de Papel: PP
+
+    <font size="2"><p style="text-align: center">Tabela x: Artefatos verificação etapa 01</p></font>
 
     <center>
 
-    |Artefatos|Autor(s)|Revisor(s)| Verifcação do Artefato |
-    |---------|--------|----------|------------------------|
-    | Planejamento da Verificação | Elias e Claudio | Pablo | -- |
-    | Aspectos Éticos | Pablo | Ricardo | Gabriel F. |
-    | Perfil de Usuário - Questionário | Elias | Gabriel B. | Claudio |
-    | Perfil de Usuário - Entrevista | Elias  | Claudio | Gabriel B. |
-    | Análise Competitiva | Elias e Claudio | Gabriel F. |
-    | Resultado do Perfil de Usuário | Elias e Claudio | Gabriel F. |
-    | Personas | Pablo | Claudio |
-    | Cenários | Claudio e Gabriel F. | Pablo |
-    |Análise de Tarefas HTA | Gabriel F. e Ricardo | Elias |
-    | Análise de Tarefas CMN-GOMS | Gabriel F. e Gabriel B. | Elias |
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
-    |||||
+    |Artefatos|Autor(s)|Revisor(s)|
+    |---------|--------|----------|
+    | Planejamento da Verificação | Elias e Claudio | Pablo |
+    | Aspectos Éticos | Pablo | Ricardo |
+    | Perfil de Usuário - Questionário | Elias | Gabriel B. |
+    | Perfil de Usuário - Entrevista | Gabriel B.  | Elias |
+    | Perfil de Usuário - Análise Competitiva | Gabriel F. | Gabriel B. |
+    | Perfil de Usuário - Resultados| Pablo | Ricardo |
+    | Personas | Ricardo | Claudio |
+    | Cenários | Claudio | Elias |
+    | Análise de Tarefas HTA | Elias | Gabriel B. |
+    | Análise de Tarefas CMN-GOMS | Gabriel B. | Gabriel F. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela x: Artefatos verificação Etapa 02</p></font>
+
+    <center>
+
+    |Artefatos|Autor(s)|Revisor(s)|
+    |---------|--------|----------|
+    | Planejamento da Verificação | Elias e Claudio | Pablo |
+    | Princípios Gerais | Claudio | Elias |
+    | Metas de Usabilidade | Elias | Gabriel B. |
+    | Guia de Estilo | Gabriel B. | Gabriel F. |
+    | Características da plataforma para o projeto | Gabriel F. | Pablo |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+        <font size="2"><p style="text-align: center">Tabela x: Artefatos verificação Etapa 03</p></font>
+
+    <center>
+
+    |Artefatos|Autor(s)|Revisor(s)|
+    |---------|--------|----------|
+    | Planejamento da Verificação | Pablo | Ricardo |
+    | AT - Planejamento da Avaliação | Ricardo | Claudio |
+    | AT - Planejamento do Relato dos Resultados | Gabriel F. | Ricardo |
+    | AT - Relato dos Resultados | Ricardo | Gabriel F. , Gabriel B. e Elias |
+    | SB - Planejamento da Avaliação | Claudio | Ricardo |
+    | SB - Planejamento do Relato dos Resultados | Elias | Gabriel B. |
+    | SB - Relato dos Resultados | Pablo | Ricardo |
+    | Storyboars | Ricardo | Claudio |
+    | PP - Planejamento da Avaliação | Gabriel B. | Pablo |
+    | PP - Planejamento do Relato dos Resultados | Gabriel F. | Pablo |
 
     </center>
 
@@ -195,13 +223,73 @@ Neste artefato é são apresentadas abaixo 8 tabelas de acordo com cada etapa do
 
     Verificação dos artefatos II
 
-        <font size="2"><p style="text-align: center">Tabela 01: Artefatos criados na Etapa 01</p></font>
+    <font size="2"><p style="text-align: center">Tabela 01: Artefatos criados na Etapa 01</p></font>
 
     <center>
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
-   
+    | Planejamento Geral das Verificações | Elias e Claudio | Ricardo |
+    | Planejamento da Verificação da Análise de Requisitos I | Elias e Claudio | Pablo |
+    | Aspectos Éticos | Pablo e Ricardo | Gabriel. B |
+    | Perfil de Usuário | Gabriel. B e Gabriel F. | Elias |
+    | Personas | Ricardo | Pablo |
+    | Cenários | Elias | Gabriel F. |
+    | Análise de Tarefas HTA | Claudio | Gabriel B. |
+    | Análise de Tarefas CMN-GOMS | Pablo | Claudio |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+    <!-- Análise 2 -->
+
+    <font size="2"><p style="text-align: center">Tabela 01: Artefatos criados na Etapa 01</p></font>
+
+    <center>
+
+    |Artefatos|Autor(s)|Revisor(s)|
+    |---------|--------|----------|
+    | Planejamento da Verificação da Análise de Requisitos II | Elias e Claudio | Pablo |
+    | Características da plataforma para o projeto | Ricardo | Pablo |
+    | Princípios Gerais | Ricardo | Pablo |
+    | Metas de Usabilidade | Gabriel F. e Gabriel B.| Ricardo |
+    | Guia de Estilo | Ricardo e Pablo | Claudio e Elias |
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+    <!-- DAD -->
+
+    <font size="2"><p style="text-align: center">Tabela 01: Artefatos criados na Etapa 01</p></font>
+
+    <center>
+
+    |Artefatos|Autor(s)|Revisor(s)|
+    |---------|--------|----------|
+    | Planejamento Geral das Verificações | Elias e Claudio | Ricardo |
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
+    ||||
 
     </center>
 

@@ -53,7 +53,7 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 26/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] e [Claudio Henrique][ClaudioGH]  | [][] |
+|`1.0`| 26/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] e [Claudio Henrique][ClaudioGH]  | [Ricardo][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
