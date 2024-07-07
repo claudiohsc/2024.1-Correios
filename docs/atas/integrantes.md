@@ -9,12 +9,12 @@ Ricardo
 
 [Cláudio Henrique][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH], [Ricardo Augusto][RicardoGH]
 
-[Claúdio][ClaudioGH] 
-[Elias][EliasGH] 
-[Gabriel Bertolazi][GabrielBGH]
-[Gabriel Fernando][GabrielFGH]
+[Cláudio Henrique][ClaudioGH] 
+[Elias F. Oliveira][EliasGH] 
+[Gabriel B. Bertolazi][GabrielBGH]
+[Gabriel F. J. Silva][GabrielFGH]
 [Pablo S. Costa][PabloGH]
-[Ricardo][RicardoGH]
+[Ricardo Augusto][RicardoGH]
 
 Claúdio Henrique dos Santos Carvalho
 Elias Faria de Oliveira
