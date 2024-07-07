@@ -52,7 +52,7 @@ Abaixo, na Tabela 2, temos a representação da HTA em forma de tabela e na figu
 
 <center>
 
-![hta calcular precos e prazos](../../assets/analiseHTA/HTA-precos-prazos.png)
+![hta calcular precos e prazos](../../assets/analiseHTA/precos-prazos-HTA.png)
 
 </center>
 
@@ -352,7 +352,9 @@ Na Tabela 6 apresentada a seguir, é possível visualizar a representação da H
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin), [Ricardo Augusto](https://www.github.com/avmricardo) | [Elias F. Oliveira](https://www.github.com/EliasOliver21)  |
 | `1.1`  | 01/06/2024 | Alterações HTA | [Elias][EliasGH], [Gabriel Basto][GabrielBGH], [Gabriel Fernando][GabrielFGH], [Pablo S.Costa](https://github.com/pabloheika)| [Ricardo Augusto][RicardoGH] |
-| `1.2`  | 06/06/2024 | Adiciona versão reprojetada para realizar pré-postagem | [Gabriel Fernando][GabrielFGH] | [][] |
+| `1.2`  | 06/06/2024 | Adiciona versão reprojetada para realizar pré-postagem | [Gabriel Fernando][GabrielFGH] | [Claudio Henrique][ClaudioGH] |
+| `1.3`  | 07/07/2024 | Adiciona versão reprojetada para calcular preços e prazos |[Claudio Henrique][ClaudioGH] | [Gabriel Fernando][GabrielFGH] |
+
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
