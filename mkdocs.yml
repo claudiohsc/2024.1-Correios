@@ -176,12 +176,13 @@ nav:
             - Planejamento da Avaliação: verificacao_01/grupo/DAD/nivel3/planejamento-avaliacao-paf.md
             - Planejamento do Relato dos Resultados: verificacao_01/grupo/DAD/nivel3/planejamento-relato-paf.md
   - Entrega Final:
-    - 01 - Site Selecionado: entrega-final/site-selecionado.md
-    - 04 - Execução do Projeto: /entrega-final/execucao-projeto.md
-    - 07 - Técnicas Utilizadas: entrega-final/tecnicas-utilizadas.md
-    - 06 - Ferramentas Utilizadas: entrega-final/ferramentas.md
-    - 08 - Artefatos Criados em Cada Etapa: entrega-final/artefatos-criados.md
-    - 10 - Síntese das Verificações: 
+    - Site Selecionado: entrega-final/site-selecionado.md
+    - Execução do Projeto: /entrega-final/execucao-projeto.md
+    - Técnicas Utilizadas: entrega-final/tecnicas-utilizadas.md
+    - Os resultados alcançados com a execução do projeto: entrega-final/resultados.md
+    - Ferramentas Utilizadas: entrega-final/ferramentas.md
+    - Artefatos Criados em Cada Etapa: entrega-final/artefatos-criados.md
+    - Síntese das Verificações: 
       - Grupo+1 (PC-DF): entrega-final/sintese-verificacao/grupo+1.md
       - Grupo 3 (Correios): entrega-final/sintese-verificacao/grupo3.md
     - Facilidades e Dificuldades: entrega-final/facilidades-dificuldades.md
