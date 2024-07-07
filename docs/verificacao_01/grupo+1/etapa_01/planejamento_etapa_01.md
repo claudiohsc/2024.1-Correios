@@ -10,11 +10,11 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
-|Etapa 1| Aspectos éticos e termo de consentimento | `1.2`|15/05/2024| Giovana Barbosa e Renata Quadros| [Gabriel F.][GabrielFGH] |
+|Etapa 1| Aspectos éticos e termo de consentimento | `1.2`|15/05/2024| Giovana Barbosa e Renata Quadros| [Gabriel F. J. Silva][GabrielFGH] |
 |Etapa 1| Perfil usuário - Questionário	 | `1.1`|18/04/2024| Raissa Andrade| [Claudio H][ClaudioGH] |
 |Etapa 1| Perfil usuário - Entrevista | `1.0`|10/05/2024| Giovana Barbosa| [Elias F.][EliasGH] |
 |Etapa 1| Perfil usuário - Análise competitiva | `1.0`|14/04/2024| Renata Quadros| [Gabriel B.][GabrielBGH] |
-|Etapa 1| Perfil usuário - Resultado perfil do usuário | `2.0`|15/04/2024| Giovana Barbosa| [Gabriel F.][GabrielFGH] |
+|Etapa 1| Perfil usuário - Resultado perfil do usuário | `2.0`|15/04/2024| Giovana Barbosa| [Gabriel F. J. Silva][GabrielFGH] |
 |Etapa 1| Personas | `1.2`|08/05/2024| João Pedro | [Pablo S.][PabloGH] |
 |Etapa 1| Cenários | `1.7`|15/05/2024| Giovana Barbosa|Todos |
 |Etapa 1| Análise tarefas - HTA	 | `1.8`|21/05/2024| Lara Giuliana |Todos |
