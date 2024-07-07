@@ -15,8 +15,11 @@ O site dos Correios disponibiliza diversos serviços postais e logísticos para 
 
 Além disso, com base nos critérios de avaliação heurística de Nielsen, a escolha do site dos [Correios](https://www.correios.com.br) para o nosso projeto foi motivada principalmente pelas questões abaixo:
 
-- **Complexidade das funcionalidades no site:** O site dos [Correios](https://www.correios.com.br) apresenta funcionalidades que possuem uma complexidade adequada para ser desenvolvida na disciplina de IHC. O site apresenta telas de cadastro de informações, envios de formulários, 
+- **Complexidade das funcionalidades no site:** O site dos [Correios](https://www.correios.com.br) apresenta funcionalidades que possuem uma complexidade adequada para ser desenvolvida na disciplina de IHC. O site apresenta telas de cadastro de informações, envios de formulários, rastreio de objetos, simulação de fretes etc. Dessa forma, proporciona um desafio para o grupo, assim aplicando os conceitos aprendidos na disciplina;
 
+- **Integração Interdisciplinar:** A utilização do site dos [Correios](https://www.correios.com.br) na disciplina de IHC favoreceu a escolha do aplicativo a ser estudado na disciplina de [Requisitos de Software](https://requisitos-de-software.github.io/2024.1-Correios/), e dessa forma ofereceu uma ótima oportunidade para a integração interdisciplinar entre as duas disciplinas. Executando os projetos com o mesmo site e aplicativo possibilita o aproveitamento ainda maior dos conhecimentos aprendidos em ambas matérias.
+
+- **Melhoria da Interface:** O site escolhido também possui problemas na interface que foi uma das motivações principais para a escolha como foco do projeto. Ao aplicar os conhecimentos da disciplina de IHC, podemos aprimorar a usabilidade e interação, assim, tornando-o mais eficaz e intuitivo para o usuário final.
 
 
 
