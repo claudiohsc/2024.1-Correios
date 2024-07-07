@@ -21,12 +21,15 @@ Além disso, com base nos critérios de avaliação heurística de Nielsen, a es
 
 - **Melhoria da Interface:** O site escolhido também possui problemas na interface que foi uma das motivações principais para a escolha como foco do projeto. Ao aplicar os conhecimentos da disciplina de IHC, podemos aprimorar a usabilidade e interação, assim, tornando-o mais eficaz e intuitivo para o usuário final.
 
+- **Público acessível**: O site dos [Correios](https://www.correios.com.br) possui um público grande, pois a sua finalidade não restringe muito as idades do público geral e nem o sexo, sendo os usuários principais os compradores em lojas online no Brasil ou do Exterior. Dessa forma, torna-se muito mais fácil realizar qualuquer tipo de pesquisa com os usuários sendo bem acessíveis aos membros do grupo.
 
+Com tudo isso, o site dos [Correios](https://www.correios.com.br) torna-se uma excelente escolha para desenvolver o projeto de IHC e assim oferece um desafio maior para a aplicação de todo o conhecimento da disciplina de Interação Humano Computador.
 
 ## Aspectos selecionados para trabalhar no projeto
 
-Além disso, a nossa escolha foi guiada também por uma avaliação heurística seguindo os princípios estabelecidos por Nielsen<sup><a herf="#ref2">2</a></sup>. Na avaliação, guiada pelo framework DECIDE, identificamos açguns pontos em que o site apresenta violações desses princípios heurísticos, o que justifica a necessidade de uma análise mais profunda. Entre as violações destacadas que podem ser melhoradas, destacam-se:
+Após a escolha do site, prosseguimos para a fase de [Análise de Requisitos](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/aspectos-eticos/), onde realizamos uma análise detalhada da plataforma em questão. Além disso, a nossa escolha foi guiada também por uma avaliação seguindo os princípios estabelecidos por Barbosa e Silva<sup><a herf="#ref1">1</a></sup>. Na avaliação identificamos alguns pontos em que o site apresenta violações desses princípios e diretrizes gerais. Entre as violações destacadas que podem ser melhoradas, destacam-se:
 
+- **Correspondência com as Expectativas dos Usuários:** 
 
 - **Visibilidade do estado do sistema:** Algumas ações levam o usuário a outra tela sem saber se ela foi executada comêxito ou não;
 
