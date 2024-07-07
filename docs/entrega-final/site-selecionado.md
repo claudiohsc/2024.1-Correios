@@ -42,6 +42,7 @@ Após a escolha do site, prosseguimos para a fase de [Análise de Requisitos](ht
 
 ## Conclusão
 
+Com base nas nossas motivações de escolha e todos os aspectos que selecionamos para trabalhar no projeto, o site dos "Correios" foi definitivamente escolhido para ser trabalhado na disciplina de IHC. O site apresenta algumas falhas principalmente em fatores de usabilidade, design e acessibilidade. Além disso, a escolha foi bem aceita pelos membros do grupo pela integração com outra disciplina de Requisitos de Software.
 
 ## Bibliografia
 
