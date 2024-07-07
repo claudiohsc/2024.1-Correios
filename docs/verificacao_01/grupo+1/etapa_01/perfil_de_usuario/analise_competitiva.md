@@ -73,8 +73,8 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 11/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | []() |
-| `1.1`  | 12/06/2024 | Aplicação do Checklist | [Gabriel B. Brtolazi](GabrielbGH) | []() |
+| `1.0`  | 11/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Gabriel B. Brtolazi](GabrielbGH) |
+| `1.1`  | 12/06/2024 | Aplicação do Checklist | [Gabriel B. Brtolazi](GabrielbGH) | [Elias F. Oliveira][EliasGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
