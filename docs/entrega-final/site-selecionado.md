@@ -27,17 +27,17 @@ Com tudo isso, o site dos [Correios](https://www.correios.com.br) torna-se uma e
 
 ## Aspectos selecionados para trabalhar no projeto
 
-Após a escolha do site, prosseguimos para a fase de [Análise de Requisitos](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/aspectos-eticos/), onde realizamos uma análise detalhada da plataforma em questão. Além disso, a nossa escolha foi guiada também por uma avaliação seguindo os princípios estabelecidos por Barbosa e Silva<sup><a herf="#ref1">1</a></sup>. Na avaliação identificamos alguns pontos em que o site apresenta violações desses princípios e diretrizes gerais. Entre as violações destacadas que podem ser melhoradas, destacam-se:
+Após a escolha do site, prosseguimos para a fase de [Análise de Requisitos](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/aspectos-eticos/), onde realizamos uma análise detalhada da plataforma em questão. Além disso, a nossa escolha foi guiada também por uma avaliação seguindo os princípios estabelecidos por Barbosa e Silva<sup><a herf="#ref1">1</a></sup>. Na avaliação identificamos alguns pontos em que o site apresenta violações desses princípios e diretrizes gerais. Entre as violações destacadas que escolhemos trabalhar no projeto, destacam-se:
 
-- **Correspondência com as Expectativas dos Usuários:** 
+- **Correspondência com as Expectativas dos Usuários:** O site dos [Correios](https://www.correios.com.br) apresenta algumas violações da diretriz de Correspondência com as Expectativas dos Usuários, e um exemplo disso pode ser visto mais detalhadamente no artefato de [Princípios Gerais](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/principios_gerais/#correspondencia-com-as-expectativas-dos-usuarios). 
 
-- **Visibilidade do estado do sistema:** Algumas ações levam o usuário a outra tela sem saber se ela foi executada comêxito ou não;
+- **Conteúdo Relevante e Expressão adequada:** O site dos [Correios](https://www.correios.com.br) apresenta algumas violações da diretriz de Conteúdo Relevante e Expressão adequada, e um exemplo disso pode ser visto mais detalhadamente no artefato de [Princípios Gerais](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/principios_gerais/#conteudo-relevante-e-expressao-adequada). 
 
-- **Reconhecimento em vez de memorização:** Algumas telas do sistema são acessadas apenas em áreas como "Veja Mais", podendo aparecer em alguns casos ou não;
+- **Consistência e Padronização:** O site dos [Correios](https://www.correios.com.br) apresenta algumas violações da diretriz de Consistência e Padronização, e um exemplo disso pode ser visto mais detalhadamente no artefato de [Princípios Gerais](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/principios_gerais/#consistencia-e-padronizacao). 
 
-- **Projeto estético e minimalista:** Tela inicial carregada de informações, algumas até aparecem mais de uma vez na mesma tela;
+- **Equilíbrio entre Controle e Liberdade do Usuário:** O site dos [Correios](https://www.correios.com.br) apresenta algumas violações da diretriz de Equilíbrio entre Controle e Liberdade do Usuário, e um exemplo disso pode ser visto mais detalhadamente no artefato de [Princípios Gerais](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/principios_gerais/#equilibrio-entre-controle-e-liberdade-do-usuario). 
 
-- **Consistência e padronização:** Algumas telas do sistema são muito diferentes do usual do site, que por vezes mostram funcionalidades que não podem ser acessadas.
+- **Visibilidade e Reconhecimento:** O site dos [Correios](https://www.correios.com.br) apresenta algumas violações da diretriz de Visibilidade e Reconhecimento, e um exemplo disso pode ser visto mais detalhadamente no artefato de [Princípios Gerais](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos2/principios_gerais/#visibilidade-e-reconhecimento). 
 
 
 ## Conclusão
