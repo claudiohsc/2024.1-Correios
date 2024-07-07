@@ -12,7 +12,7 @@ Para esse artefato, foi dividido em duas partes: Facilidades e Dificuldades. Em 
 
 #### **Claudio Henrique**
 
-
+Durante o projeto, a maior facilidade que observei foi sobre o planejamento geral da disciplina desde o começo e a divisão igualitária das tarefas a serem feitas por cada integrante. Essa organização inicial facilitou na hora de dividir os artefatos e, assim, contribuiu para um bom aproveitamento do conteúdo pelos integrantes do grupo. Outro ponto de destaque foi a colaboração geral do grupo em que todos os integrantes participaram ativamente das decisões e etapas do projeto. Por fim, a oportunidade de trabalhar com o site e o aplicativo dos Correios nas disciplinas de Interação Humano Computador e Requisitos de Software, o que foi de grande valor porque os projetos compartilhavam de conteúdos semelhantes e tinham o mesmo público-alvo.
 
 #### **Elias Faria**
 
@@ -37,7 +37,7 @@ Para esse artefato, foi dividido em duas partes: Facilidades e Dificuldades. Em 
 
 #### **Claudio Henrique**
 
-
+Eu acredito que a maior dificuldade foi o gerenciamento do tempo que tínhamos para realizar os artefatos de cada etapa. Por mais que seguíssemos o planejamento de cada entrega, apareciam alguns imprevistos que impediam de realizar a entrega dos documentos na data certa prevista, e isso acabava que prejudicava algumas etapas com relação ao prazo e qualidade dos artefatos. Outro ponto foi a integração entre as duas disciplinas de IHC e Requisitos de Software, que como são orientadas a projetos acabou gerando uma demanda ainda maior de tempo para a produção com qualidade dos artefatos exigidos.
 
 #### **Elias Faria**
 
