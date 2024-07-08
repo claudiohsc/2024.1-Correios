@@ -223,6 +223,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+    | ![Logo do Figma](../assets/ferramentas/figma.png) | Figma | Produção do protótipo de alta fidelidade. |
     | ![Just In Mind](../assets/ferramentas/justinmind.png) | Justinmind | Produção do protótipo de alta fidelidade |
 
     </center>
