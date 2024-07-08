@@ -533,16 +533,37 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 25</b> 
     </p></font>
 
+    <center>
 
+    | **Nome** |**Ocupação**|**Idade**|**Experiência e facilidade com tecnologia**|
+    | -- | -- | :--: | :--: |
+    | Renato Medeiros | Estudante de Engenharia Aeroespacial | 28 Anos |  Boa | 
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024 </p></font>
+    </center>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 26</b> 
     </p></font>
+
+    <center>
+
+    | ID | Pergunta | Resposta |
+    | :-:| -------- | ------------------ |
+    | **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Pontos fortes: eficiência, objetividade e rapidez. Não encontrou pontos fracos. | 
+    | **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | O usuário achou mais eficiente a primeira alternativa proposta no Protótipo de Papel. |
+    | **4** | Qual delas você prefere? Por quê? | Ele preferiu a primeira porque foi uma proposta mais objetiva informando o formato do objeto antes da escolha do serviço. |
+    | **7** | Alguma parte da interface e da interação o deixa insatisfeito? | Não |
+    | **8** | Você entende o que significa e para que serve cada elemento de interface? | Sim |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
 === "Elias"
     O aluno Elias ficou responsável pela funcionalidade de Realizar Compras Online.
@@ -551,16 +572,40 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 27</b> 
     </p></font>
 
+    <center>
 
+    | Nome | Perfil| Função |
+    | :--------:| :--------: | :---------------------: |
+    |[Elias F. Oliveira][EliasGH]| Graduando em Engenharia de Software - 21 anos | Computador/Facilitador | 17/06/2024 |
+    |[Claudio][ClaudioGH]| Graduando em Engenharia de Software - 20 anos | Observador | 17/06/2024 |
+    |Renato Medeiros| Graduando em Engenharia Aeroespacial - 28 anos | Entrevistado | 17/06/2024 |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 28</b> 
     </p></font>
+
+    <center>
+
+    | ID | Pergunta | Resposta |
+    | :-:| -------- | ------------------ |
+    | **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | O usuário achou acertiva a inclusão de opções de filtragem e ordenação dos produtos da loja online. | 
+    | **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | O usuário gostou bastante da versão criada para o protótipo de papel, pontuando como positivas as mudanças como a diminuição da poluição visual e oferecer um maior direcionamento para o usuário. |
+    | **4** | Qual delas você prefere? Por quê? | O usuário preferiu a versão representada no protótipo de papel principalmente pelas mudanças no design e facilitação no entendimento das funcionalidades do site. |
+    | **7** | Alguma parte da interface e da interação o deixa insatisfeito? | A unica insatisfação do usuário foi pelo motivo de que no protótipo de papel a loja online esta representada como um site a parte e não integrado ao site principal dos correios, e já deixou a sujestão de realizar essa integração. |
+    | **8** | Você entende o que significa e para que serve cada elemento de interface? | Sim. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
 
 === "Gabriel B."
     O aluno Gabriel B. Bertolazi ficou responsável pela funcionalidade de Receber Encomendas.
@@ -569,16 +614,39 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 29</b> 
     </p></font>
 
+    <center>
 
+    |    Data    | Horário de início e fim | Local            |     Avaliador    | Entrevistado |
+    | :--------: | :---------------------: | :----------------: | :----------------------: | :----: |
+    | 18/06/2024 | 18:30 - 18:40 |FGA - UnB |Gabriel B. Bertolazi | Filipe Oliveira |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 30</b> 
     </p></font>
+
+    <center>
+
+    | ID | Pergunta | Resposta |
+    | :-:| -------- | ------------------ |
+    | **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Pontos fortes: eficiência, objetividade e rapidez. Pntos fracos: Excesso de pop-ups | 
+    | **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | Ele achou a segunda opção melhor. |
+    | **4** | Qual delas você prefere? Por quê? | A segunda, pois foi mais simples de achar as informações |
+    | **7** | Alguma parte da interface e da interação o deixa insatisfeito? | Sim, o excesso de pop-ups |
+    | **8** | Você entende o que significa e para que serve cada elemento de interface? | Sim |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
+
 
 === "Gabriel F."
     O aluno F. J. Silva ficou responsável pela funcionalidade de Realizar Pré-Postagem.
@@ -587,16 +655,40 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 31</b> 
     </p></font>
 
+    <center>
 
+    | **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
+    | -- | -- | :--: | :--: | :--: | :--: |
+    | [Gabriel F. J. Silva][GabrielfGH] | Renato Medeiros | 13:30 | 13:49  | 19/06/2024  | UnB-FGA | 
+
+    </center>
+
+    <font size="2"><p style="text-align: center">**Fonte:** [Gabriel F. J. Silva][GabrielfGH], 2024 </p></font>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 32</b> 
     </p></font>
+
+    <center>
+
+    | ID | Pergunta | Resposta | Objetivo Relacionado |
+    | :-:| -------- | -------- | -------------------- |
+    | **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Objetividade da disposição das informações | Analisar apropriação da tecnologia | 
+    | **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | Foi identificada a alternativa proposta no problema 1 A alternativa proposta foi considerada mais eficiente, com iguais níveis de dificuldade de aprendizado . | Comparar ideias alternativas de design |
+    | **3.1** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | Foi identificada a alternativa proposta no problema 2 A alternativa proposta foi considerada mais eficiente, com iguais níveis de dificuldade de aprendizado . | Comparar ideias alternativas de design |
+    | **4** | Qual delas você prefere? Por quê? | Foi identificada a alternativa proposta no problema 1 A alternativa proposta foi preferida pois ela agiliza o preenchimento dos muitos campos obrigatórios. | Comparar ideias alternativas de design |
+    | **4.1** | Qual delas você prefere? Por quê? | Foi identificada a alternativa proposta no problema 2 A alternativa proposta foi preferida pois permite outros meios de pagamento. | Comparar ideias alternativas de design |
+    | **7** | Alguma parte da interface e da interação o deixa insatisfeito? | Não | Identificar problemas na interação e interface |
+    | **8** | Você entende o que significa e para que serve cada elemento de interface? | Sim | Identificar problemas na interação e interface |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024</p></font>
 
 === "Pablo"
     O aluno Pablo ficou responsável pela funcionalidade de Gerenciar Minhas Importações.
@@ -605,16 +697,40 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 34</b> 
     </p></font>
 
+    <center>
 
+    | Nome | Perfil | Função |
+    | :--------:| :--------: | :---------------------: |
+    | [Pablo S. Costa ][PabloGH] | Graduando em Engenharia de Software - 25 anos | Avaliador & computador | 19/06/2024 |
+    | [Gabriel F. J. Silva ][GabrielFGH] | Graduando em Engenharia de Software - 23 anos | Observador | 19/06/2024 |
+    | Matheus Moreira Lima | Graduando em Engenharia Software - 25 anos | Entrevistado | 19/06/2024 |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa ][PabloGH], 2024.</p></font>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 35</b> 
     </p></font>
+
+    <center>
+
+    | ID | Pergunta | Resposta |
+    | :-:| -------- | ------------------ |
+    | **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Muito burocratico para saber o status | 
+    | **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | A que clico pelo acesso rapido |
+    | **4** | Qual delas você prefere? Por quê? | A que clico pelo acesso rapido, pois vai direto. |
+    | **7** | Alguma parte da interface e da interação o deixa insatisfeito? | Não |
+    | **8** | Você entende o que significa e para que serve cada elemento de interface? | Sim |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa ][PabloGH], 2024</p></font>
 
 === "Ricardo"
     O aluno Ricardo ficou responsável pela funcionalidade de Rastrear Encomendas.
@@ -623,16 +739,36 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 35</b> 
     </p></font>
 
+    <center>
 
+    |    Data    | Horário de início e fim | Local            |     Avaliadores    | Entrevistado |
+    | :--------: | :---------------------: | :----------------: | :----------------------: | :----: |
+    | 19/06/2024 | 15:10 - 15:20 | FGA - UnB | [Ricardo Augusto][RicardoGH] | [Johnny Lopes](https://github.com/JohnnyLopess) |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 36</b> 
     </p></font>
+
+    | ID | Pergunta | Resposta |
+    | :-:| -------- | ------------------ |
+    | **2** | Na sua opnião, quais são os pontos fortes e fracos do sistema? | Ponto fraco foi o direcionamento da tela inicial para a tela do rastreamento de encomendas | 
+    | **3** | (Caso tenham sido identificadas) Sobre as alternativas de design, qual delas você acha que é a mais eficiente? E a mais fácil de aprender? | Não houveram alternativas de design |
+    | **4** | Qual delas você prefere? Por quê? | Não houveram alternativas de design |
+    | **7** | Alguma parte da interface e da interação o deixa insatisfeito? | Não |
+    | **8** | Você entende o que significa e para que serve cada elemento de interface? | Sim |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
 
 ## Protótipo de Alta Fidelidade
 
