@@ -124,16 +124,42 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
 
 ## Bibliografia
 
-> 1. GitHub. Disponível em: [https://docs.github.com/pt](https://docs.github.com/pt). Acesso em: 29 de mar. de 2024.
+## Bibliografia
+
+> 1. GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 04 de jul. de 2024.
 >
-> 2. Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). Acesso em: 29 de mar. de 2024.
+> 2. Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](). Acesso em: 04 de jul. de 2024.
+>
+> 3. Mkdocs for material. Disponível em: [https://squidfunk.github.io/mkdocs-material/](). Acesso em: 04 de jul. de 2024.
+>
+> 4. Visual Studio Code. Disponível em: [https://code.visualstudio.com/](). Acesso em: 04 de jul. de 2024.
+>
+> 5. Telegram. Disponível em: [https://telegram.org/](). Acesso em: 04 de jul. de 2024.
+>
+> 6. YouTube. Disponível em: [https://about.youtube/](). Acesso em: 04 de jul. de 2024.
+>
+> 7. This person does not exist. Disponível em: [https://thispersondoesnotexist.com/](). Acesso em: 04 de jul. de 2024.
+>
+> 8. Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](). Acesso em: 04 de jul. de 2024.
+>
+> 9. Google Planilhas. Disponível em: [https://www.google.com/sheets/about/](). Acesso em: 04 de jul. de 2024.
+>
+> 10. Canva. Disponível em: [https://www.canva.com/](). Acesso em: 04 de jul. de 2024.
+> 
+> 11. Draw.io. Disponível em: [https://app.diagrams.net/](). Acesso em: 04 de jul. de 2024.
+>
+> 12. Figma. Disponível em: [https://www.figma.com/about/](). Acesso em: 04 de jul. de 2024.
+>
+> 13. Git. Disponível em: <https://git-scm.com/>. Acesso em: 08 de jul. de 2024.
+>
+> 14. Justinmind. Disponível em: <https://www.justinmind.com/>. Acesso em: 08 de jul. de 2024.
 
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 04/07/2024 | Criação do documento | [Ricardo Augusto][RicardoGH]  | [Claudio Henrique](https://github.com/claudiohsc)   |
+| `1.0`  | 08/07/2024 | Criação do documento | [Ricardo Augusto][RicardoGH]  | [Claudio Henrique](https://github.com/claudiohsc)   |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
