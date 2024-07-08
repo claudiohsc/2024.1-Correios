@@ -779,16 +779,41 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 37</b> 
     </p></font>
 
+    <center>
 
+    | Tarefa | Entrevistador | Entrevistado | Idade |Ocupação | Horário | Data | Local | 
+    | :----- | :-----------: | :----------: | :-----: |:-----: | :-----: |:----:| :----:| 
+    | **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Renato Medeiros | 28 anos | Graduando em Engenharia Aeroespacial na UnB |13:20 - 13:30 | 02/07/2024 | UnB-FGA| 
+    | **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Marcos Antônio| 20 anos | Graduando em Engenharia de Software na UnB |13:40 - 13:50 | 02/07/2024 | UnB-FGA| 
+    | **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Henrique Quenino | 22 anos | Graduando em Engenharia de Software na UnB | 13:50 - 13:55 | 02/07/2024 | UnB-FGA| 
+    | **Calcular preços e prazos de entrega** | [Claudio Henrique][ClaudioGH] | Isabelly Sophia | 18 anos | Graduanda em Direito | 22:20 - 22:30 | 02/07/2024 | Presencial | 
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+    </center>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 38</b> 
     </p></font>
+
+    <center>
+
+    | ID | Pergunta | Renato | Henrique | Marcos | Isabelly |
+    | --- | --- | --- | --- | --- | --- |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Sim | Sim | Sim | Sim |
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? | Sim | Sim | Sim | Sim |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? | Sim, preenchimento da data. | Sim, preenchimento da data. | Sim, preenchimento da data. | Sim, preenchimento da data. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? | Na página inicial da funcionalidade. Sempre que precisam informar a data. | Na página inicial da funcionalidade. Sempre que precisam informar a data. | Na página inicial da funcionalidade. Sempre que precisam informar a data. | Na página inicial da funcionalidade. Sempre que precisam informar a data. |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Não foi preciso. | Não foi preciso. | Não foi preciso. | Não foi preciso. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024</p></font>
 
 === "Elias"
     O aluno Elias ficou responsável pela funcionalidade de Realizar Compras Online.
@@ -797,15 +822,26 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 39</b> 
     </p></font>
 
+    <center>
 
+    | Tarefa | Entrevistador | Entrevistado | Idade |Ocupação | Horário | Data | Local | 
+    | :----- | :-----------: | :----------: | :-----: |:-----: | :-----: |:----:| :----:| 
+    | **Realizar compras na loja online** | [Elias F. Oliveira][EliasGH] | Renato Medeiros | 28 anos | Graduando em Engenharia Aeroespacial na Unb |13:00 - 13:10 | 02/07/2024 | UnB-FGA| 
+    | **Realizar compras na loja online** | [Elias F. Oliveira][EliasGH] | Marcos Antônio| 20 anos | Estudante |13:10 - 13:20 | 02/07/2024 | UnB-FGA| 
+    | **Realizar compras na loja online** | [Elias F. Oliveira][EliasGH] | João Eduardo | 24 anos | Graduando em Engenharia de Software na Unb e Trabalha na área de T.I  | 15:30 - 15:40 | 02/07/2024 | UnB-FGA| 
+    | **Realizar compras na loja online** | [Elias F. Oliveira][EliasGH] | Daniel | 21 anos | Graduando em Engenharia de Software na Unb e membro do Ai-Lab | 15:40 - 15:50 | 02/07/2024 | UnB-FGA| 
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+    </center>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 40</b> 
     </p></font>
 
 === "Gabriel B."
@@ -815,16 +851,70 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 41</b> 
     </p></font>
 
+    <center>
 
+    | Tarefa | Entrevistador | Entrevistado | Idade |Ocupação | Horário | Data | Local | 
+    | :----- | :-----------: | :----------: | :-----: |:-----: | :-----: |:----:| :----:| 
+    | **Mudar recebimento de encomendas** | Gabriel Bertolazi | Caio Mesquita | 23 anos | Graduando em Engenharia Aeroespacial na Unb |15:00 - 15:10 | 03/07/2024 | UnB-FGA| 
+    | **Mudar recebimento de encomendas** | Gabriel Bertolazi | Emivalto Tavares| 24 anos | Graduando em Engenharia Aeroespacial na Unb |15:10 - 15:20 | 03/07/2024 | UnB-FGA| 
+    | **Mudar recebimento de encomendas** | Gabriel Bertolazi | Willdemberg Salles | 21 anos | Graduando em Engenharia Aeroespacial na Unb  | 15:20 - 15:30 | 03/07/2024 | UnB-FGA| 
+
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
+
+    </center>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 42</b> 
     </p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado | Resposta |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Incompleto |
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Sim, ao identificar na tela inicial de login onde estava a tarefa desejada. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  | Na página inicial de login onde o usuário demonstra dificuldade em achar a terefa, acontece em média uma vez. |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface| Não |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado | Resposta |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Sim. |
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim. |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Não. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  | O usuário não achou defeitos no protótipo mostrado. |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface| O usuário não solicitou ajuda. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado | Resposta |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Sim. |
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim. |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Não. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  | O usuário não identificou defeitos nos protótipos mostrados. |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface| O usuário não solicitou ajuda. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024</p></font>
+
 
 === "Gabriel F."
     O aluno F. J. Silva ficou responsável pela funcionalidade de Realizar Pré-Postagem.
@@ -833,16 +923,68 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     ont size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 43</b> 
     </p></font>
 
+    <center>
 
+    | Tarefa | Entrevistador | Entrevistado | Idade | Ocupação | Experiência e facilidade com tecnologia | Data | Local | 
+    | ---- | :-----------: | ------------ | :---: | :------: | :-----: |:----:| :----:| 
+    | **Pré-postagem** | [Gabriel F. J. Silva][GabrielFGH] | Caio Mesquita | 23 anos | Estudante | Boa | 03/07/2024 | UnB-FGA| 
+    | **Pré-postagem** | [Gabriel F. J. Silva][GabrielFGH] | Emivalto Tavares | 24 anos | Estudante | Muito Boa | 03/07/2024 | UnB-FGA| 
+    | **Pré-postagem** | [Gabriel F. J. Silva][GabrielFGH] | Willdemberg Salles | 21 anos | Estudante  | Muito Boa | 03/07/2024 | UnB-FGA|  
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+
+    </center>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 44</b> 
     </p></font>    
+
+    <center>
+
+    | ID | Pergunta | Resposta |
+    | :-:| -------- | -------- |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Sim, porém, a alternativa de design de adicionar um atalho mais vísivel na página inicial não foi a primeira opção para iniciar a tarefa e a função de bloquear o campo das dimensões com base no tipo da embalagem (funcionalidade original do site dos correios) não foi facilmente compreendida pelo usuário | 
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? | sim |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? | sim, o usuário tentou iniciar a tarefa por um caminho não previsto no protótipo |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? | Eles foram encontrados na página inicial e ocorreu em todas as sessões do teste, porém, apenas uma vez durante cada sessão  |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Sim, ao preencher os campos dos dados da pré-postagem |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024</p></font>
+
+    <center>
+
+    | ID | Pergunta | Resposta |
+    | :-:| -------- | -------- |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Sim, porém, a alternativa de design de adicionar um atalho mais vísivel na página inicial não foi a primeira opção para iniciar a tarefa | 
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? | sim |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? | sim, o usuário tentou iniciar a tarefa por um caminho não previsto no protótipo e, inicialmente, não se atentou à ordem de preenchimento dos campos |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? | Eles foram encontrados na página inicial e ná página de preenchimento da pré-postagem, ocorrendo em todas as sessões do teste, porém, apenas uma vez durante cada sessão  |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Sim, sobre a ordem de preenchimento dos campos dos dados da pré-postagem |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024</p></font>
+
+     <center>
+
+    | ID | Pergunta | Resposta |
+    | :-:| -------- | -------- |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Sim, porém, a alternativa de design de adicionar um atalho mais vísivel na página inicial não foi a primeira opção para iniciar a tarefa e a função de bloquear o campo das dimensões com base no tipo da embalagem (funcionalidade original dos correios) não foi facilmente compreendida pelo usuário | 
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? | sim |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? | sim, o usuário tentou iniciar a tarefa por um caminho não previsto no protótipo |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? | Eles foram encontrados na página inicial e ocorreu em todas as sessões do teste, porém, apenas uma vez durante cada sessão  |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Sim, ao preencher os campos dos dados da pré-postagem apenas uma vez |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024</p></font>
 
 === "Pablo"
     O aluno Pablo ficou responsável pela funcionalidade de Gerenciar Minhas Importações.
@@ -851,16 +993,42 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     ont size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 45</b> 
     </p></font>
 
+    <center>
 
+    | Tarefa | Entrevistador | Entrevistado | Horário | Data | Local | 
+    | :----- | :-----------: | :----------: | :-----: |:----:| :----:| 
+    | **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Diego Medeiros - 34 anos | 16:30 - 16:42 | 01/07/2024  | Estudio do entrevistado |
+    | **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Heloisa Lima - 27 anos| 17:00 - 17:11 | 03/07/2024  | Domicilio |
+    | **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Matheus Wesley - 29 Anos | 20:30 - 21:00 | 03/07/2024  | Domicilio |
+    | **Gerenciar Minhas Imprtações** | [Pablo S. Costa][PabloGH] | Wirley Israel - 19 Anos | 22:00 - 22:15 | 03/07/2024  | Domicilio |
+
+    <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+    </center>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 46</b> 
     </p></font>
+
+    <center>
+
+    | ID | Pergunta | Diego | Heloisa | Matheus | Wirley |
+    | --- | --- | --- | --- | --- | --- |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Sim | Sim | Sim | Sim |
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? | Sim | Sim | Sim | Sim |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? | Não houve obstaculos. | Não houve obstaculos. | Não houve obstaculos. | Não houve obstaculos. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? | Não se aplica. | Não se aplica. | Não se aplica. | Não se aplica. |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Não precisou. | Não precisou. | Não precisou. | Não precisou. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024</p></font>
+
 
 === "Ricardo"
     O aluno Ricardo ficou responsável pela funcionalidade de Rastrear Encomendas.
@@ -872,7 +1040,17 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <b>Tabela 3</b> 
     </p></font>
 
+    <center>
 
+    | Tarefa | Entrevistador | Entrevistado | Idade |Ocupação | Horário | Data | Local | 
+    | :----- | :-----------: | :----------: | :-----: |:-----: | :-----: |:----:| :----:| 
+    | **Rastrear encomendas** | [Ricardo Augusto][RicardoGH] | [Johnny Lopes](https://www.github.com/JohnnyLopess) | 23 anos | Graduando em Engenharia de Software na Unb | 13:10 - 13:15 | 03/07/2024 | UnB-FGA| 
+    | **Rastrear encomendas** | [Ricardo Augusto][RicardoGH] | [Mateus Orlando](https://www.github.com/MateusPy)| 21 anos | Graduando em Engenharia de Software na Unb |13:20 - 13:25 | 03/07/2024 | UnB-FGA| 
+    | **Rastrear encomendas** | [Ricardo Augusto][RicardoGH] | [Wildemberg Sales](https://www.github.com/wildemberg-sales) | 21 anos | Graduando em Engenharia de Software na Unb | 13:30 - 15:35 | 03/07/2024 | UnB-FGA|  
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+    </center>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
