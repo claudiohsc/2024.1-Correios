@@ -18,9 +18,9 @@ Durante o projeto, a maior facilidade que observei foi o planejamento geral da d
 
 
 
-#### **Gabriel Bertolazzi**
+#### **Gabriel Bertolazi**
 
-
+Durante a execução do projeto como maior facilidade o trabalho em grupo em geral, todos do grupo trabalharam de forma igualitária sempre com voa comunicação, sempre fazendo as tarefas no prazo estipulado, também sempre ajudando um ao outro em questão de conteúdo da matéria em si, sempre corrigindo um ao outro, apontando erros de forma respeitosa, além disso o conteúdo muito bem apresentado. Talvez a maior dificuldade do projeto talvez tenha sido o planejamento inicial do projeto, como inicialmente não tínhamos uma noção muito boa do esforço necessário para cada artefato, algumas tarefas pesaram mais para uns membros que para outros.
 
 #### **Gabriel Fernando**
 
