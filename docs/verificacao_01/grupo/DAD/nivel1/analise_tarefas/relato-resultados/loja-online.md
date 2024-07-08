@@ -6,7 +6,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de Rel
 
 ## Metodologia
 
-Este artefato foi produzido por [Gabriel F. J. Silva][GabrielFGH] e verificado por [][], seguindo a divisão planejada pelo grupo na [reunião 7](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 03/06/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi produzido por [Gabriel F. J. Silva][GabrielFGH] e verificado por [Gabriel B. Bertolazi][GabrielBGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://interacao-humano-computador.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 03/06/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com as referências bibliográficas para os relatos do resultado.</p></font>
 
@@ -123,8 +123,8 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [][] |
-| `1.1`  | 26/06/2024 | Aplicação do Checklist | [Gabriel B. Bertolazi][GabrielBGH] | [][] |
+| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [Elias F. Oliveira][EliasGH] |
+| `1.1`  | 26/06/2024 | Aplicação do Checklist | [Gabriel B. Bertolazi][GabrielBGH] | [Elias F. Oliveira][EliasGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
