@@ -8,6 +8,8 @@ Portanto, a introdução sobre os resultados alcançados deve destacar a conexã
 
 ## Objetivos
 
+O objetivo do desenvolvimento do projeto na disciplina é oferecer aos estudantes  a possibilidade de aplicar os conteúdos da disciplina em um projeto prático. 
+
 ## Bibliografia
 
 > 1. Plano de Ensino da disciplina Interação Humano Computador. Disponível em: [https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/53/Plano_de_Ensino%20FIHC%20012024%20Turma%201%20v3.pdf](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/53/Plano_de_Ensino%20FIHC%20012024%20Turma%201%20v3.pdf). Acesso em: 07 de jul. de 2024.
