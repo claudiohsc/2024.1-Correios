@@ -37,6 +37,8 @@ Na tabela 1 é possíver as técnicas utilizadas relacionando-as com a entrega e
 | Verificação do Grupo + 1 | [Grupo + 1](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo%2B1/etapa_01/planejamento_etapa_01/)| Inspeção de Fagan<sup><a href="#ref2">2</a></sup>| [Claudio H.][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
 | Verificação do Grupo | [Grupo 3](https://interacao-humano-computador.github.io/2024.1-Correios/verificacao_01/grupo/planejamento-geral/)| Inspeção de Fagan <sup><a href="#ref2">2</a></sup>| [Claudio H.][ClaudioGH], [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S. Costa][PabloGH] e [Ricardo Augusto][RicardoGH] |
 
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024</p></font>
+
 ## Conclusão
 
 Ao longo das diversas fases, do planejamento à verificação, foram empregadas várias técnicas o que demonstra o compromisso com a compreensão das necessidades dos usuários em cada etapa do desenvolvimento. Baseado em fontes acadêmicas respeitadas, este documento também enfatiza a importância da teoria como fundamento para a prática, assim possibilitando a criação de sistemas mais eficientes e focados no usuário.
