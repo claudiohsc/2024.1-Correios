@@ -253,18 +253,8 @@ Neste artefato é são apresentadas abaixo 8 tabelas de acordo com cada etapa do
     | Planejamento da Verificação da Análise de Requisitos II | Elias e Claudio | Pablo |
     | Características da plataforma para o projeto | Ricardo | Pablo |
     | Princípios Gerais | Ricardo | Pablo |
-    | Metas de Usabilidade | Gabriel F. e Gabriel B.| Ricardo |
-    | Guia de Estilo | Ricardo e Pablo | Claudio e Elias |
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
+    | Metas de Usabilidade | Claudio | Gabriel B. |
+    | Guia de Estilo | Gabriel F. |  Gabriel B. |
 
     </center>
 
@@ -278,18 +268,34 @@ Neste artefato é são apresentadas abaixo 8 tabelas de acordo com cada etapa do
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
-    | Planejamento Geral das Verificações | Elias e Claudio | Ricardo |
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
-    ||||
+    | Planejamento da Verificação do Design, Avaliação e Desenvolvimento | Elias e Claudio | Pablo |
+    | AT - Planejamento da Avaliação | Pablo | Gabriel F. |
+    | AT - Planejamento do Relato dos Resultados | Ricardo | Pablo |
+    | AT - Relato dos Resultados - Calcular Preços e Prazos | Gabriel F | Gabriel B. |
+    | AT - Relato dos Resultados - Realizar Compras Online | Gabriel F. | Gabriel B. |
+    | AT - Relato dos Resultados - Recebimento de Encomendas | Gabriel F. | Gabriel B. |
+    | AT - Relato dos Resultados - Realizar Pré-postagem | Gabriel F. | Gabriel B. , Ricardo e Elias |
+    | AT - Relato dos Resultados - Gerenciar Minhas Importações | Pablo | Elias |
+    | AT - Relato dos Resultados - Rastrear Encomendas | Ricardo | Gabriel F. , Gabriel B. e Elias |
+    | SB - Planejamento da Avaliação | Claudio | Ricardo |
+    | SB - Planejamento do Relato dos Resultados | Elias | Gabriel B. |
+    | SB - Relato dos Resultados - Calcular Preços e Prazos | Claudio | Elias |
+    | SB - Relato dos Resultados -Realizar Compras Online | Elias | Claudio |
+    | SB - Relato dos Resultados -Recebimento de Encomendas | Gabriel B. | Elias |
+    | SB - Relato dos Resultados -Realizar Pré-postagem | Gabriel F. | Gabriel B. |
+    | SB - Relato dos Resultados -Gerenciar Minhas Importações | Pablo | Elias |
+    | SB - Relato dos Resultados -Rastrear Encomendas | Ricardo | Elias |
+    | Storyboards | Ricardo e Pablo | Claudio |
+    | PP - Planejamento da Avaliação | Ricardo e Gabriel B. | Elias |
+    | PP - Planejamento do Relato dos Resultados | Elias e Claudio | Gabriel B. |
+    | PP - Relato dos Resultados - Calcular Preços e Prazos | Claudio | Ricardo |
+    | PP - Relato dos Resultados -Realizar Compras Online | Elias | Gabriel B.|
+    | PP - Relato dos Resultados -Recebimento de Encomendas | Gabriel B. | Elias |
+    | PP - Relato dos Resultados -Realizar Pré-postagem | Gabriel F. | Gabriel B. |
+    | PP - Relato dos Resultados -Gerenciar Minhas Importações | Pablo | Gabriel F. |
+    | PP - Relato dos Resultados -Rastrear Encomendas | Ricardo | Pablo |
+    | PAF - Planejamento da Avaliação | Elias e Pablo | Claudio e Gabriel F. |
+    | PAF - Planejamento do Relato dos Resultados | Claudio e Gabriel F. | Gabriel B. e Ricardo |
 
     </center>
 
