@@ -294,12 +294,12 @@ Neste artefato é são apresentadas abaixo 8 tabelas de acordo com cada etapa do
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
-    | PAF - Relato dos Resultados - Calcular Preços e Prazos | [Claudio][ClaudioGH] | [Ricardo][RicardoGH] |
-    | PAF - Relato dos Resultados -Realizar Compras Online | [Elias F. Oliveira][EliasGH] | [Claudio][ClaudioGH]|
-    | PAF - Relato dos Resultados -Recebimento de Encomendas | [Gabriel B.][GabrielBGH] | [Elias F. Oliveira][EliasGH] |
-    | PAF - Relato dos Resultados -Realizar Pré-postagem | [Gabriel F.][GabrielFGH] | [Pablo][PabloGH]|
-    | PAF - Relato dos Resultados -Gerenciar Minhas Importações | [Pablo][PabloGH] | [Ricardo][RicardoGH] |
-    | PAF - Relato dos Resultados -Rastrear Encomendas | [Ricardo][RicardoGH] | [Claudio][ClaudioGH] |
+    | [PAF - Relato dos Resultados - Calcular Preços e Prazos](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/precos-prazos/) | [Claudio][ClaudioGH] | [Ricardo][RicardoGH] |
+    | [PAF - Relato dos Resultados -Realizar Compras Online](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/loja-online/) | [Elias F. Oliveira][EliasGH] | [Claudio][ClaudioGH]|
+    | [PAF - Relato dos Resultados -Recebimento de Encomendas](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/recebimento-de-encomendas/) | [Gabriel B.][GabrielBGH] | [Elias F. Oliveira][EliasGH] |
+    | [PAF - Relato dos Resultados -Realizar Pré-postagem](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/pre-postagem/) | [Gabriel F.][GabrielFGH] | [Pablo][PabloGH]|
+    | [PAF - Relato dos Resultados -Gerenciar Minhas Importações](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/importacoes/) | [Pablo][PabloGH] | [Ricardo][RicardoGH] |
+    | [PAF - Relato dos Resultados -Rastrear Encomendas](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/rastreamento-encomendas/) | [Ricardo][RicardoGH] | [Claudio][ClaudioGH] |
 
     </center>
 
