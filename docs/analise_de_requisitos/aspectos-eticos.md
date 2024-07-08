@@ -57,6 +57,20 @@ Na figura 1 temos com base nas diretrizes estabelecidas par IHC um termo de cons
 
 No termo acima foi descrito que o uso será para as disciplinas de Interação Humano Computador e Requisitos de Software, como a avaliação de ambas as disciplinas está sendo sobre os Correios, uma para o site e outra para o aplicativo, utilizamos o mesmo questionário e o mesmo termo de consentimento para as duas matérias. Dentro do questionário, existem partes específicas para cada matéria, focando nos assuntos abordados e estudados por cada disciplina.
 
+## Utilizando os aspectos éticos
+
+**Autonomia e Consentimento:** Obteremos o consentimento livre e esclarecido dos participantes, respeitando sua autonomia e protegendo grupos vulneráveis. O termo de consentimento detalha os objetivos, procedimentos e riscos da pesquisa, e garante que os participantes tenham total autonomia para decidir se desejam participar ou não. Menores de idade precisarão do consentimento de seus responsáveis legais.
+
+**Beneficência e Não Maleficência:** Buscaremos maximizar os benefícios e minimizar os danos e riscos potenciais para os participantes. A pesquisa não causará nenhum constrangimento ou danos aos participantes, que se sentirão confortáveis e seguros durante todo o processo.
+
+**Justiça e Equidade:** A pesquisa terá relevância social, oferecendo vantagens significativas e minimizando o ônus para os participantes vulneráveis. Não teremos incentivos oferecidos, seguindo as leis brasileiras.
+
+**Privacidade e Anonimato:** Os dados coletados dos participantes pelos questionarios serão confidenciais e anônimos. Seus nomes e outras informações de identificação pessoal não serão divulgados, e serão armazenados de forma segura para evitar acessos não autorizados. Mas as entrevistas como o grupo de foco temos as indentificações.
+
+### Termo de Consentimento:
+
+No Termo de Consentimento (Figura 1) foi elaborado com base nas diretrizes éticas para pesquisas em IHC e está em conformidade com a Resolução 510/2016 do Conselho Nacional de Saúde. Ele garante que os participantes estejam cientes de todos os aspectos da pesquisa e tenham total autonomia para decidir se desejam participar ou não.
+
 ## Conclusão
 
 Ao seguir estes princípios éticos, os pesquisadores podem garantir que suas pesquisas sejam conduzidas de forma responsável e que os direitos dos participantes sejam protegidos.
@@ -70,4 +84,6 @@ Ao seguir estes princípios éticos, os pesquisadores podem garantir que suas pe
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 03/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika), [Ricardo Augusto](https://www.github.com/avmricardo)  | [Gabriel B. Bertolazi](https://github.com/Bertolazi) |
+| `1.0`  | 03/05/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) & [Ricardo Augusto](https://www.github.com/avmricardo)  | [Gabriel B. Bertolazi](https://github.com/Bertolazi) |
+| `1.1`  | 13/05/2024 | Adiciona usos dos aspectos | [Pablo S. Costa](https://github.com/pabloheika)  | [Gabriel Fernando](https://github.com/MMcLovin)  |
+

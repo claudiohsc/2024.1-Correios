@@ -33,7 +33,7 @@ Na tabela 1 está descrito as tarefas analisadas pelos integrantes do grupo.
 | --- | --- |
 | Calcular preços e prazos de entrega | Cláudio |
 | Realizar compras na loja online | Elias |
-| Emitir certificados digitais | Gabriel B. Bertolazi |
+| Recebimento de encomendas | Gabriel B. Bertolazi |
 | Realizar pré-postagem | Gabriel F. J. Silva|
 | Gerenciar minhas importações| Pablo |
 | Rastrear encomendas | Ricardo |
@@ -52,7 +52,7 @@ Abaixo, na Tabela 2, temos a representação da HTA em forma de tabela e na figu
 
 <center>
 
-![hta calcular precos e prazos](../../assets/analiseHTA/HTA-precos-prazos.png)
+![hta calcular precos e prazos](../../assets/analiseHTA/precos-prazos-HTA.png)
 
 </center>
 
@@ -98,9 +98,11 @@ Prevenção de erros, estética, design minimalista, ajuda para a recuperação 
 
 <font size="2"><p style="text-align: center">Figura 3: Diagrama HTA da utilização da loja online.</p></font>
 
-![Loja HTA](../../assets/analiseHTA/Análise%20loja%20HTA.png)
+![Loja HTA](../../assets/analiseHTA/analise_loja_hta.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
+
+Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/analise_loja_hta.png).
 
 <font size="2"><p style="text-align: center">Tabela 3: Especificação do diagrama da análise HTA .</p></font>
 
@@ -113,7 +115,9 @@ Prevenção de erros, estética, design minimalista, ajuda para a recuperação 
 |1.1 Descrição do Site 1+2||
 |2. Cesta de Compras1+2||
 |2.1 Itens adicionados a cesta/Carrinho de compras|**Input:** Selecione um produto e adicione-o ao carrinho caso não esteja logado insira um CEP válido.<br>**feedback:** É mostrado os itens adicionados ao carrinho/cesta. <br>**Problemas:**Ao Fechar um pedido mas não ir até a etapa final de confirmação e retornar a página inicial o produto desaparece do carrinho de compras.|
-|2.1.1 Fechar Pedido|**feedback:** O usuário é redirecionado para a finalização da compra e etapas de verificação de dados e pagamento.<br> <br>**Problemas:** Ao inicar o processo de finalização de uma compra caso queira editar depois de selecionar uma opção de pagamento, mesmo não cheganda a etapa de confirmação final não é possível retornar as etapas anteriores.|
+|2.1.1 Fechar Pedido|**feedback:** O usuário é redirecionado para a finalização da compra e etapas de verificação de dados e pagamento.<br>**Problemas:** Ao inicar o processo de finalização de uma compra caso queira editar depois de selecionar uma opção de pagamento, mesmo não cheganda a etapa de confirmação final não é possível retornar as etapas anteriores.|
+|2.1.1.1 Pagar com boleto|**feedback:** É gerado o boleto e disponibilizado para impressão.|
+|2.1.1.2 Pagar com Cartão de crédito|**Input:** Insira o número do cartão data de vencimento e código de segurança <br>**feedback:** A compra é aprovada e gerado um comprovante de pagamento.|
 |2.1.2 Recalcular Frete|**Input:** Insira um CEP válido no campo. <br>**feedback:**É verificado o valor do frete com outro cep adicionado.|
 |2.1.2.1 Informar e Calcular valor do frete|**Input:** Insira um Cep válido para calcular o valor da entrega.|
 |2.1.2.2 Buscar Cep|**Plano:** Descobrir o CEP do usuário.<br>**feedback:**O usuário é redirecionado para o site dos correios na página busca CEP.|
@@ -121,97 +125,154 @@ Prevenção de erros, estética, design minimalista, ajuda para a recuperação 
 |3. Atendimento 1+2||
 |3.1 Contatos de suporte ao usuário|**Plano:**Suporte ao usuário.<br>**feedback:**É mostrado diferentes forma de contato com o suporte do correios.|
 |4. Meus Dados 1+2||
-|4.1 Login/Cadastro||
-|4.1.1 Informações pessoais|**Plano:**Visualizar informações do cadastro.<br>**feedback:**É apresentada as informações do usuário.<br>**Problemas:** Não possui uma opção para sair do perfil de usuário que esta logado apenas apresentando essa opção na etapa final de fechamento de uma compra na página de cesta de compras.|
-|4.1.2 Editar dados pessoais|**Plano:**Alterar dados pessoais.<br>**Input:** O usuário deve inserir ou alterar os dados desejados e confirmar.<br>**feedback:**É apresentado todos os dados e ao final da tela uma opção de recuperação de senha.|
+|4.1 Login/Cadastro|**Problemas:** Não possui uma opção para sair do perfil de usuário que esta logado apenas apresentando essa opção na etapa final de fechamento de uma compra na página de cesta de compras.|
+|4.1.1 Editar dados pessoais|**Plano:**Alterar dados pessoais.<br>**Input:** O usuário deve inserir ou alterar os dados desejados e confirmar.<br>**feedback:**É apresentado todos os dados e ao final da tela uma opção de recuperação de senha.|
 |5. Buscar Produtos 1+2||
 |5.1 Aplicar filtro/preferência|**Input:** Digite o nome de algum priduto que deseja visualizar e filtre o resultado caso deseje.<br>**feedback:**É apresentado os produtos que coincidem com a pesquisa, ou caso não seja encontrado o usuário pode inserir um email e selecionar um prazo para receber uma notificação quando aquela pesquisa retorne algum produto no site. |
 |5.2 Escolher Produto|**Plano:**Selecionar um produto.<br>**Input:**Clique em um produto desejado. <br>**feedback:**É mostrado a descrição com nome foto e informações detalhadas sobre o produto e a opção de compra para adicionar ao carrinho.|
-|5.3 Comprar Produto||
+|5.2.1 Comprar Produto||
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 </center>
 
-### 3. Emitir certificados digitais
+### 3. Recebimento de encomendas
 
 
-<font size="2"><p style="text-align: center">Figura 4: Figura da realização do HTA da emição de certificados.</p></font>
+<font size="2"><p style="text-align: center">Figura 4: Figura da realização do HTA do recebimento de encomendas.</p></font>
 
-![Emição certificado](../../assets/analiseHTA/Bertolazihta.drawio.png)
+![Emição certificado](../../assets/analiseHTA/HTA2.0Bertolazi.drawio.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
-Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/Bertolazihta.drawio.png).
+Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/HTA2.0Bertolazi.drawio.png).
 
-<font size="2"><p style="text-align: center">Tabela 4: Tabela da realização do HTA da emição de certificados.</p></font>
+<font size="2"><p style="text-align: center">Tabela 4: Tabela da realização do HTA do recebimento de encomendas.</p></font>
 
 | objetivos | operações **problema**s e recomendações |
 | --- | --- |
-| 0. Emitir certificados digitais | **Plano:** levar a pessoa para a escolha do certificado. |
-| 1. Escolher certificado desejado | **Input:** Escolher o certificado que quer emitir <br>**Problemas:** Não interativo tendo que colocar duas vezes o certificado desejado. |
-| 1.1 Buscar certificado desejado | **Input:** Escolher o tipo de certificado com o tipo de emissão desejado |
-| 2. Comprar certificado desejado | |
-| 2.1 Dados de compra | **Input:** Forma de pagamento <br> ****Problemas:** ele te manda escolher entre as opções e se tem somente a opção de pagamento por crédito | 
-| 2.1.1 Pessoa jurídica | **Input:** Inserir dados da empresa como: CNPJ, nome da empresa e email para contato |
-| 2.1.2 Pessoa Física | **Input:** Inserir dados pessoais como nome do usuário, email, e CPF |
-| 4. Agendar atendimento para emissão do certificado | **Input:** Escolher uma data dentre as opções que o site te fornece |
-| 6. Emissão do certificado | |
-| 2.2 Digitar CPF | **Input:** Digitar seu CPF |
-| 5. Consultar solicitação de certificados | |
+| 0. Recebimento de encomendas | **Plano:** Mudar ou consultar local de encomenda. |
+| 1. informações de recebimento | **Input:** Inserir o código da encomenda. |
+| 2. Informar CEP onde a encomenda vai ser recebida |  |
+| 2.1. Informar CEP de recebimento da encomenda | **Input:** Inserir o CEP do endereço de recebimento da encomenda. |
+| 2.2. Esqueci meu CEP |  |
+| 3. Informar tipo de recebimento para consulta | **Input:** Clicar na opção desejada. |
+| 4. Mudar escolha de recebimento | **Plano:** Poder mudar método ou endereço de entrega. |
+| 4.1. Receber no vizinho |  |
+| 4.1.1. Informar CEP do vizinho | **Input:** Escrever o CEP do vizinho |
+| 4.1.2. Informar nome e RG do vizinho | **Input:** Escrever o nome do recebedor. <br> **Input:** Escrever o RG do recebedor |
+| 4.2. Receber no locker |  |
+| 4.2.1 Informar CEP da sua localidade | **Input:** Escrever um CEP de onde você esteja. |
+| 4.2.1.1. Verificar disponibilidade |  |
+| 4.3 Receber na caixa postal |  |
+| 5. Mudar endereço residencial | **Input:** Inserir CEP antigo. <br>**Input:** Inserir CEP novo. |
+
+
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi](https://github.com/Bertolazi), 2024.</p></font>
 
 ### 4. Realizar pré-postagem
 
-Abaixo, na Tabela 5, temos a representação da HTA em forma de tabela e na figura 5, a HTA em forma de diagrama para a tarefa de realizar uma pré-postagem pelo site dos correios.
+=== "Depois do reprojeto"
+    Conforme o [reprojeto](https://interacao-humano-computador.github.io/2024.1-Correios/design_avaliacao/nivel_1/analise_de_tarefas/relato-resultados/pre-postagem/#planejamento-para-o-reprojeto-da-aplicacao) previsto na avaliação, temos abaixo, na Tabela 5, a representação da HTA em forma de tabela e na figura 5, a HTA em forma de diagrama para a tarefa de realizar uma pré-postagem pelo site dos correios com a diferença que, agora, é possível preencher os campos de destinatário e remetente com dados pré-cadastrados.
 
 
-<font size="2"><p style="text-align: center">Figura 5: HTA para realizar uma pré-postagem.</p></font>
+    <font size="2"><p style="text-align: center">Figura 5: HTA para realizar uma pré-postagem.</p></font>
 
-<center>
+    <center>
 
-![legenda](../../assets/analiseHTA/Pre-postagemHTA.jpg)
+    ![legenda](../../assets/analiseHTA/HTA%20-%20Pré-postagem%20reprojetada.svg)
 
-</center>
+    </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
-Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/Pre-postagemHTA.jpg).
+    Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/HTA%20-%20Pré-postagem%20reprojetada.svg).
 
-<font size="2"><p style="text-align: center">Tabela 5: HTA em tabela para realizar uma pré-postagem.</p></font>
+    <font size="2"><p style="text-align: center">Tabela 5: HTA em tabela para realizar uma pré-postagem.</p></font>
 
-<center>
+    <center>
 
-| objetivos | operações **problema**s e recomendações |
-| --- | --- |
-| 0 Realizar pré-postagem 1 > 2 > 3| **input**: dados da pré-postagem e meio de pagamento <br>**plano**: preencher dados da pré-postagem, gerenciar o carrinho e concluir a compra |
-| 1 informar dados da pré-postagem 1 + 2| **input**: dados do remetente, destinatario e objeto <br>**plano**: informar dados do remetente e destinatário, informar dados do objeto, escolher o tipo de serviço e adicionar a pré-postagem ao carrinho <br>**recomendação**: informar ao usuário quais campos são obrigatórios |
-| 1.1 informar destinatario e remetente | <br>**input**: Nome, Email, Telefone, CEP, Endereçõ e CPF <br>**feedback**: os dados inseridos são salvos e disponibilizados para edição pelo usuário <br>**plano**: informar nome, CEP e número do remetente e destinatário |
-| 1.1.1 informar dados do remetente | |
-| 1.1.2 informar dados do destinatario | |
-| 1.2 informar dados do objeto 1 + 2 | **input**: formato e dimensões da embalagem e informações adiconais sobre o objeto <br>**plano**: selecionar o tipo da embalagem (carta, caixa ou cilindro) e as respectivas dimensões |
-| 1.2.1 selecionar a embalagem do objeto e inserir dimensões | |
-| 1.2.2 fornecer informações adicionais (1 / 2) > 3| **plano**: Informar dados da nota fiscal ou descrição do objeto, quantidade ou valor e clicar em inserir informações <br>**feedback**: os campos de dimensão variam conforme o tipo de embalagem escolhida e as informações adicionais são salvas em uma tabela ao final da página <br>**recomendação**: avisar o usuário que é necessário clicar em "adicionar" para registrar as informações inseridas nos campos|
-| 1.2.2.1 Número e chave da NF-e | |
-| 1.2.2.2 Informar descrição, quantidade e valor do objeto | |
-| 1.2.2.3 Confirmar e adicionar informações | |
-| 1.3 Escolher o tipo do serviço 1 / 2| **plano**: escolher entre o serviço SEDEX e PAC <br>**feedback**: o serviço escolhido é salvo e disponibilizado para vizualização e edição pelo usuário <br>**recomendação**: avisar o usuário caso um dos serviços não esteja disponível na região |
-| 1.3.1 Escolher SEDEX | |
-| 1.3.2 Escolher PAC | |
-| 1.4 Adicionar pré-postagem ao carrinho | |
-| 2 Gerenciar carrinho 1 / 2 / 3| **plano**: Prosseguir com a conclusão do pagamento ou inserir uma nova pré-postagem ou editar limpar os itens do carrinho <br>**feedback**: a tabela de itens no carrinho é atualizada de acordo com as ações do usuário <br>**problema**: não é possível apagar 1 item do carrinho quando há apenas 1 item <br>**recomendação**: identificar e mostrar o erro de não exclusão para o usuário |
-| 2.1 Prosseguir com pagamento | |
-| 2.2 Inserir nova pré-postagem | |
-| 2.3 Limpar carrinho | |
-| 3 Escolher a forma de pagamento 1 / 2 / 3|  **input**: dados do cartão de crédito <br>**feedback**: a página é atualizada conforme o meio de pagamento escolhido<br>**plano**: escolher netre pagar com cartão de crédito, boleto ou PIX <br>**recomendação**: caso não seja possivel selecionar uma opção em específico explicar para o usuário o motivo |
-| 3.1 Pagar com cartão de crédito| |
-| 3.2 Pagar com boleto| |
-| 3.3 Pagar com PIX| |
+    | objetivos | operações **problema**s e recomendações |
+    | --- | --- |
+    | 0 Realizar pré-postagem 1 > 2 > 3 | **input**: dados da pré-postagem e meio de pagamento   <br>**plano**: preencher dados da pré-postagem, gerenciar o carrinho e concluir a compra |
+    | 1 preencher pré-postagem 1 > 2 > 3 | **input**: dados do remetente, destinatario e objeto   <br>**plano**: informar dados do remetente e destinatário, informar dados do objeto, escolher o tipo de serviço e adicionar a pré-postagem ao carrinho   <br>**recomendação**: informar ao usuário quais campos são obrigatórios |
+    | 1.1 informar dados 1 + 2 |   **input**: Nome, Email, Telefone, CEP, Endereço, CPF, tipo de embalagem da encomenda, dimensões da encomenda e informações adicionais da encomenda   <br>**feedback**: os dados inseridos são salvos e disponibilizados para edição pelo usuário   <br>**plano**: informar dados do remetente, destinatário e do objeto |
+    | 1.1.1 Informar dados do destinatário e remetente 1 / 2 | **input**: Nome, Email, Telefone, CEP, Endereço, CPF ou destinatário e remetentes pré-cadastrados  <br>**feedback**: os dados inseridos são salvos e disponibilizados para edição pelo usuário  <br>**plano**: Selecionar destinatário ou remetente pré-cadastrado e Informar nome, CEP, CPF e números do remetente e destinatário |
+    | 1.1.1.1 Selecionar destinatário ou remetente pré-cadastrado |   |
+    | 1.1.1.2 Informar nome, CEP, CPF e números do remetente e destinatário |   |
+    | 1.2 informar dados do objeto 1 + 2 | **input**: formato e dimensões da embalagem e informações adicionais sobre o objeto   <br>**plano**: selecionar o tipo da embalagem (carta, caixa ou cilindro) e as respectivas dimensões |
+    | 1.2.1 selecionar a embalagem do objeto e inserir dimensões |   |
+    | 1.2.2 fornecer informações adicionais (1 / 2) > 3 | **plano**: Informar dados da nota fiscal ou descrição do objeto, quantidade ou valor e clicar em inserir informações   <br>**feedback**: os campos de dimensão variam conforme o tipo de embalagem escolhida e as informações adicionais são salvas em uma tabela ao final da página   <br>**recomendação**: avisar o usuário que é necessário clicar em "adicionar" para registrar as informações inseridas nos campos |
+    | 1.2.2.1 Número e chave da NF-e |   |
+    | 1.2.2.2 Informar descrição, quantidade e valor do objeto |   |
+    | 1.2.2.3 Confirmar e adicionar informações |   |
+    | 1.3 Escolher o tipo do serviço 1 / 2 | **plano**: escolher entre o serviço SEDEX e PAC   <br>**feedback**: o serviço escolhido é salvo e disponibilizado para vizualização e edição pelo usuário   <br>**recomendação**: avisar o usuário caso um dos serviços não esteja disponível na região |
+    | 1.3.1 Escolher SEDEX |   |
+    | 1.3.2 Escolher PAC |   |
+    | 1.4 Adicionar pré-postagem ao carrinho |   |
+    | 2 Gerenciar carrinho 1 / 2 / 3 | **plano**: Prosseguir com a conclusão do pagamento ou inserir uma nova pré-postagem ou editar limpar os itens do carrinho   <br>**feedback**: a tabela de itens no carrinho é atualizada de acordo com as ações do usuário   <br>**problema**: não é possível apagar 1 item do carrinho quando há apenas 1 item   <br>**recomendação**: identificar e mostrar o erro de não exclusão para o usuário |
+    | 2.1 Prosseguir com pagamento |   |
+    | 2.2 Inserir nova pré-postagem |   |
+    | 2.3 Limpar carrinho |   |
+    | 3 Escolher a forma de pagamento 1 / 2 / 3 | **input**: dados do cartão de crédito   <br>**feedback**: a página é atualizada conforme o meio de pagamento escolhido  <br>**plano**: escolher netre pagar com cartão de crédito, boleto ou PIX   <br>**recomendação**: caso não seja possivel selecionar uma opção em específico explicar para o usuário o motivo |
+    | 3.1 Pagar com cartão de crédito |   |
+    | 3.2 Pagar com boleto |   |
+    | 3.3 Pagar com PIX |   |
 
-</center>
+    </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
+=== "Antes do reprojeto"
+    Abaixo, na Tabela 5, temos a representação da HTA em forma de tabela e na figura 5, a HTA em forma de diagrama para a tarefa de realizar uma pré-postagem pelo site dos correios.
+
+
+    <font size="2"><p style="text-align: center">Figura 5: HTA para realizar uma pré-postagem.</p></font>
+
+    <center>
+
+    ![legenda](../../assets/analiseHTA/HTA%20-%20Pré-postagem.drawio(old).svg)
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
+
+    Para uma melhor vizualização, abra a imagem por [aqui](../../assets/analiseHTA/HTA%20-%20Pré-postagem.drawio.svg).
+
+    <font size="2"><p style="text-align: center">Tabela 5: HTA em tabela para realizar uma pré-postagem.</p></font>
+
+    <center>
+
+    | objetivos | operações **problema**s e recomendações |
+    | --- | --- |
+    | 0 Realizar pré-postagem 1 > 2 > 3| **input**: dados da pré-postagem e meio de pagamento <br>**plano**: preencher dados da pré-postagem, gerenciar o carrinho e concluir a compra |
+    | 1 informar dados da pré-postagem 1 + 2| **input**: dados do remetente, destinatario e objeto <br>**plano**: informar dados do remetente e destinatário, informar dados do objeto, escolher o tipo de serviço e adicionar a pré-postagem ao carrinho <br>**recomendação**: informar ao usuário quais campos são obrigatórios |
+    | 1.1 informar destinatario e remetente 1 + 2 | <br>**input**: Nome, Email, Telefone, CEP, Endereçõ e CPF <br>**feedback**: os dados inseridos são salvos e disponibilizados para edição pelo usuário <br>**plano**: informar nome, CEP e número do remetente e destinatário |
+    | 1.1.1 informar dados do remetente | |
+    | 1.1.2 informar dados do destinatario | |
+    | 1.2 informar dados do objeto 1 + 2 | **input**: formato e dimensões da embalagem e informações adiconais sobre o objeto <br>**plano**: selecionar o tipo da embalagem (carta, caixa ou cilindro) e as respectivas dimensões |
+    | 1.2.1 selecionar a embalagem do objeto e inserir dimensões | |
+    | 1.2.2 fornecer informações adicionais (1 / 2) > 3| **plano**: Informar dados da nota fiscal ou descrição do objeto, quantidade ou valor e clicar em inserir informações <br>**feedback**: os campos de dimensão variam conforme o tipo de embalagem escolhida e as informações adicionais são salvas em uma tabela ao final da página <br>**recomendação**: avisar o usuário que é necessário clicar em "adicionar" para registrar as informações inseridas nos campos|
+    | 1.2.2.1 Número e chave da NF-e | |
+    | 1.2.2.2 Informar descrição, quantidade e valor do objeto | |
+    | 1.2.2.3 Confirmar e adicionar informações | |
+    | 1.3 Escolher o tipo do serviço 1 / 2| **plano**: escolher entre o serviço SEDEX e PAC <br>**feedback**: o serviço escolhido é salvo e disponibilizado para vizualização e edição pelo usuário <br>**recomendação**: avisar o usuário caso um dos serviços não esteja disponível na região |
+    | 1.3.1 Escolher SEDEX | |
+    | 1.3.2 Escolher PAC | |
+    | 1.4 Adicionar pré-postagem ao carrinho | |
+    | 2 Gerenciar carrinho 1 / 2 / 3| **plano**: Prosseguir com a conclusão do pagamento ou inserir uma nova pré-postagem ou editar limpar os itens do carrinho <br>**feedback**: a tabela de itens no carrinho é atualizada de acordo com as ações do usuário <br>**problema**: não é possível apagar 1 item do carrinho quando há apenas 1 item <br>**recomendação**: identificar e mostrar o erro de não exclusão para o usuário |
+    | 2.1 Prosseguir com pagamento | |
+    | 2.2 Inserir nova pré-postagem | |
+    | 2.3 Limpar carrinho | |
+    | 3 Escolher a forma de pagamento 1 / 2 / 3|  **input**: dados do cartão de crédito <br>**feedback**: a página é atualizada conforme o meio de pagamento escolhido<br>**plano**: escolher netre pagar com cartão de crédito, boleto ou PIX <br>**recomendação**: caso não seja possivel selecionar uma opção em específico explicar para o usuário o motivo |
+    | 3.1 Pagar com cartão de crédito| |
+    | 3.2 Pagar com boleto| |
+    | 3.3 Pagar com PIX| |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva](https://github.com/MMcLovin), 2024.</p></font>
 
 ### 5. Gerenciar minhas importações
 
@@ -223,20 +284,27 @@ Na Tabela 6 apresentada a seguir, é possível visualizar a representação da H
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
+[Clique aqui para abrir a figura 6](../../assets/analiseHTA/importacoes.svg).
+
 <font size="2"><p style="text-align: center">Tabela 6: Especificação do diagrama da análise HTA .</p></font>
 
 | Objetivos / Operações | Problemas e recomendações |
 | --- | --- |
-| 0. Gerenciar minhas importações 1>2>(3+4) | **plano**: Acessar o site dos correios para obter os status das importações realizadas. |
-| 1. Acessar meus correios (2/3)>1 | **feedback:** Página a ser mostrado quando o usuário acessa o site.<br> **input**: Ir para a página específica da autenticação.<br> **plano**: Ter acesso a área restrita. |
-| 1.1 Realizar a autenticação | **input**: Entrar com usuário e senha.<br> **feedback**: Encaminhado para sistema Meus Correios. |
-| 1.2 Cadastrar | **input**: Entrar com dados pessoas em formulário.<br> **feedback**: Cadastro realizado valide seu usuário. |
-| 1.3 Recuperar a senha | **input**: Entrar com meio de recuperação, documento, código de verificação e nova senha.<br> **plano**: Recuperar credenciais esquecidas.<br> **feedback**: Senha alterada com sucesso, realize o login. |
-| 2. Acessar minhas importações | **feedback**: Informações importantes sobre prazos e consequências. |
-| 3. Buscar importação 1/2 | **plano**: Ver o status da importação e tomar providencias. |
-| 3.1 Inserir código da encomenda | **input**: Código da encomenda.<br> **feedback**: Importação atrelado ao usuário.<br> **problema:** O sistema nem sempre atrela o documento pessoal, sendo necessários realizar a mão. |
-| 3.2 Selecionar importação | **feedback**: Ver status e andamentos. |
-| 4. Emitir boleto | **plano**: Gerar boleto de cobrança para liberar a encomenda.<br>  **feedback**: DIS emitido aguardando pagamento. |
+| 0\. Gerenciar minhas importações 1>2 | **plano**: Acessar o site dos correios para obter os status das importações realizadas. |
+| 1\. Acessar “Meu Correios” 1/2 | **feedback:** Página a ser mostrado quando o usuário acessa o site. <br>**input**: Ir para a página específica da autenticação.  <br>**plano**: Ter acesso a área restrita. |
+| 1.1. Realizar a autenticação | **input**: Entrar com usuário e senha.  <br>**feedback**: Encaminhado para sistema "Meu Correios". |
+| 1.2. Recuperar a senha | **input**: Entrar com meio de recuperação, documento, código de verificação e nova senha.  <br>**plano**: Recuperar credenciais esquecidas.  <br>**feedback**: Senha alterada com sucesso, realize o login. |
+| 1.3. Cadastrar | **input**: Entrar com dados pessoas em formulário.  <br>**feedback**: Cadastro realizado valide seu usuário. |
+| 2\. Acessar minhas importações | **plano**: Escolher entre os serviços disponíveis no "Meu Correios" o “minhas importações”. |
+| 2.1. Selecionar serviço | **feedback**: Encaminhado para sistema “minhas importações” e informações importantes sobre prazos e consequências. |
+| 3\. Buscar importação 1/2 | **plano**: Ver o status da importação e tomar providencias. |
+| 3.1 Inserir código da encomenda | **input**: Código da encomenda.  <br>**feedback**: Importação atrelado ao usuário.  <br>**problema:** O sistema nem sempre atrela o documento pessoal, sendo necessários realizar a mão. |
+| 3.2. Encontrar importação atrelada ao documento fiscal | **feedback**: Ver tabela de importações já incluídas. |
+| 4\. Escolher importação | **feedback**: Ver status e andamentos. |
+| 5\. Realizar operação 1+2 | **plano**: Realizar ações disponíveis para o gerenciamento. |
+| 5.1. Emitir boleto | **plano**: Gerar boleto de cobrança para liberar a encomenda.  <br>**feedback**: DIS emitido aguardando pagamento. |
+| 5.2. Ver status | **plano**: Checar status detalhado da importação.  <br>**feedback**: Situação e histórico exibido. |
+| 5.3. Emitir Comprovante | **feedback**: Comprovante emitido. |
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
@@ -283,3 +351,14 @@ Na Tabela 6 apresentada a seguir, é possível visualizar a representação da H
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 05/05/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin), [Ricardo Augusto](https://www.github.com/avmricardo) | [Elias F. Oliveira](https://www.github.com/EliasOliver21)  |
+| `1.1`  | 01/06/2024 | Alterações HTA | [Elias][EliasGH], [Gabriel Basto][GabrielBGH], [Gabriel Fernando][GabrielFGH], [Pablo S.Costa](https://github.com/pabloheika)| [Ricardo Augusto][RicardoGH] |
+| `1.2`  | 06/06/2024 | Adiciona versão reprojetada para realizar pré-postagem | [Gabriel Fernando][GabrielFGH] | [Claudio Henrique][ClaudioGH] |
+| `1.3`  | 07/07/2024 | Adiciona versão reprojetada para calcular preços e prazos |[Claudio Henrique][ClaudioGH] | [Gabriel Fernando][GabrielFGH] |
+
+
+[ClaudioGH]: https://github.com/claudiohsc
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
