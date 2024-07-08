@@ -20,6 +20,8 @@ A partir da análise de requisitos o grupo pode começar colocar em prática os 
 
 
 No design avaliação e desenvolvimento começamos a introduzir sugestões de melhorias com base nos estudos levantados, nisso desenvolvemos análises de tarefas, storyboards e protótipos de alta e baixa fidelidade. Realizamos a avaliação desses artefatos buscando identificar a credibilidade do que foi produzido.
+
+
 Ademais na verificação realizamos o trabalho de checagem dos artefatos produzidos durante todo o projeto, esse trecho foi essencial para garantir a qualidade final. Para isso utilizamos método baseado nas inspeção de checklist desenvolvido por Fagan.
 
 ## Conclusão
