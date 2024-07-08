@@ -120,7 +120,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [][] |
+| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [Elias F. Oliveira][EliasGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
