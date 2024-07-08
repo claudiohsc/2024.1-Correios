@@ -106,7 +106,10 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 11
+
+    "Sim" : 9
+    "Não" : 1
+    "Incompleto" : 0
     "Não se Aplica" : 2
 ```
 
