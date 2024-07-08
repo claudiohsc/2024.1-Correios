@@ -233,7 +233,7 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 11</b> 
     </p></font>
 
     <center>
@@ -249,8 +249,28 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 12</b> 
     </p></font>
+
+    <center>
+
+    | ID | Pergunta | Resposta |
+    |:---:|:---:|:----:|
+    | **1** | Qual seu nome completo? | Johnny da Ponte Lopes|
+    | **2** | Qual a sua idade? | 23 anos  |  
+    | **3** | Qual sua ocupação?	  | Estudante de engenharia |  
+    | **4** | Como você descreveria seu grau de experiência e facilidade em utilizar artefatos tecnologicos? | Muito boa |
+    | **5** | O diagrama de tarefas reflete corretamente suas expectativas de como o processo deveria ser? | Sim |
+    | **6** | Existem etapas no processo que você considera particularmente demoradas ou ineficientes? | Em relação ao captcha de verificação que pode ter uma imagem muito ruim de visualizar. |  
+    | **7** | Como você acha que o processo poderia ser otimizado? | Não precisa ser otimizado. |
+    | **8** | Há alguma parte da tarefa que você acha especialmente difícil ou confusa? | Não. |
+    | **9** | Qual a frequência que você necessita realizar a tarefa?  | Mensalmente. |
+    | **10** | Se você pudesse mudar qualquer coisa no processo da tarefa principal, o que mudaria? | Não precisaria ter a etapa "Selecionar o tipo de objeto". |
+    | **11** | Como você avalia a sua satisfação com o processo atual descrito no HTA? | Satisfação boa. |
+
+    <font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+    </center>
 
 ## Storyboard
 
@@ -261,16 +281,39 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 13</b> 
     </p></font>
 
+    <center>
 
+    | Entrevistador | Entrevistado | Horário | Data | Local | 
+    | :-----------: | :----------: | :-----: |:----:| :----:| 
+    | [Claudio Henrique][ClaudioGH] | Renato Medeiros |12:45 - 13:00  | 24/05/2024  | Presencial | 
+
+    
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+    </center>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 14</b> 
     </p></font>
+
+    <center>
+
+    |Pergunta | Resposta |
+    | ------- | :------: |
+    | <p>Foi fácil compreender as histórias descritas no storyboard?</p> | **Sim, bem fácil**  |
+    | <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | **Sim, estão bem representadas** |
+    | <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | **Não** |
+    | <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | **Sim** |
+
+
+    <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
+
+    </center>
 
 === "Elias"
     O aluno Elias ficou responsável pela funcionalidade de Realizar Compras Online.
@@ -279,16 +322,39 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 15</b> 
     </p></font>
 
+    <center>
 
+    <font size="2"><p style="text-align: center">**Tabela 01** - Cronograma da Entrevista</p></font>
+
+    | Entrevistado | Entrevistador | Local | Data / Horário |
+    :--:|:--:|:--:|:--:|
+    | Heitor Simões | [Elias F. Oliveira][EliasGH] | Unb/FGA | 24/05/2024 Às 12:00 |
+
+    <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+    </center>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 16</b> 
     </p></font>
+
+    <center>
+
+    |Pergunta | Resposta |
+    |-|-|
+    | <p>Foi fácil compreender as histórias descritas no storyboard?</p> | **Sim**  |
+    | <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | **Sim** |
+    | <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | **Sim** |
+    | <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | **Sim** |
+
+    <font size="2"><p style="text-align: center">**Fonte:** [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
+    </center>
 
 === "Gabriel B."
     O aluno Gabriel B. Bertolazi ficou responsável pela funcionalidade de Receber Encomendas.
@@ -297,16 +363,42 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 17</b> 
     </p></font>
 
+    
+    <center>
 
+    <font size="2"><p style="text-align: center">Tabela 1 - Cronograma planejado e executado da entrevista.</p></font>
+
+
+    | Entrevistador | Entrevistado | Horário | Data | Local | 
+    | :-----------: | :----------: | :-----: |:----:| :----:| 
+    | **Cronograma executado** | Gaabriel Bertolazi | Adam |20:00 - 20:30  | 31/05/2024  | Residencial Maestri (Sala de reuniões) | 
+
+
+    <font size="2"><p style="text-align: center">Fonte:[Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
+
+    </center>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 18</b> 
     </p></font>
+
+    <center>
+
+    |Pergunta | Resposta |
+    |-|-|
+    | <p>Foi fácil compreender as histórias descritas no storyboard?</p> | **Sim**  |
+    | <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | **Sim** |
+    | <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | **Sim** |
+    | <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | **Sim** |
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
+
+    </center>
 
 === "Gabriel F."
     O aluno F. J. Silva ficou responsável pela funcionalidade de Realizar Pré-Postagem.
@@ -315,16 +407,40 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 19</b> 
     </p></font>
 
+    <center>
+
+    | **Entrevistador** |**Entrevistado(a)**|**Horário do início**|**Horário do Fim**|**Data**|**Local**|
+    | -- | -- | :--: | :--: | :--: | :--: |
+    |[Gabriel Fernando][GabrielfGH]|Paulo Cerqueira|17:26|17:30|29/05/24|FGA|
+
+    <font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
+
+    </center>
 
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 20</b> 
     </p></font>
+
+    <center>
+
+    <font size="2"><p style="text-align: center">Tabela 2 - Perguntas e respostas da entrevista.</p></font>
+
+    |Pergunta | Resposta |
+    | ------- | :------: |
+    | <p>Foi fácil compreender as histórias descritas no storyboard?</p> | **sim**  |
+    | <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | **sim** |
+    | <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | **sim** |
+    | <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | **sim** |
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH], 2024.</p></font>
+
+    </center>
 
 === "Pablo"
     O aluno Pablo ficou responsável pela funcionalidade de Gerenciar Minhas Importações.
@@ -336,6 +452,17 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <b>Tabela 3</b> 
     </p></font>
 
+    <center>
+
+    <font size="2"><p style="text-align: center">Tabela 1 - Cronograma planejado e executado da entrevista.</p></font>
+
+    | Entrevistador | Entrevistado | Horário | Data | Local | 
+    | :-----------: | :----------: | :-----: |:----:| :----:| 
+    | [Pablo S. Costa][PabloGH] | Matheus | 17:00 - 17:30 | 02/06/2024  | LagoBT, Lago Sul – DF |
+
+    <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+    </center>
 
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
@@ -343,6 +470,20 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="2"><p style="text-align: center;">
     <b>Tabela 4</b> 
     </p></font>
+
+    <center>
+
+    |Pergunta | Resposta |
+    |-|-|
+    | <p>Foi fácil compreender as histórias descritas no storyboard?</p> | **Sim**  |
+    | <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | **Sim** |
+    | <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | **Sim** |
+    | <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | **Sim** |
+
+    <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+    </center>
+
 
 === "Ricardo"
     O aluno Ricardo ficou responsável pela funcionalidade de Rastrear Encomendas.
@@ -351,16 +492,37 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 23</b> 
     </p></font>
 
+    <center>
 
+    | Entrevistado | Entrevistador | Local | Data / Horário |
+    |:--:|:--:|:--:|:--:|
+    | [Johhny Pontes](https://www.github.com/JohnnyLopess) | [Ricardo Augusto][RicardoGH] | Teams | 03/06/2024 Às 14:30 |
+
+    <font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+    </center>
 
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 24</b> 
     </p></font>
+
+    <center>
+
+    |Pergunta | Resposta |
+    |-|-|
+    | <p>Foi fácil compreender as histórias descritas no storyboard?</p> | **Sim**  |
+    | <p> As funcionalidades propostas pelo sistema estão bem representadas no storyboard?</p> | **Sim** |
+    | <p> Existe alguma coisa que ficou de fora do storyboard ou que pode ser alterada? </p> | **Sim** |
+    | <p> A satisfação final do usuário ficou clara no final do storyboard? </p> | **Sim** |
+
+    <font size="2"><p style="text-align: center">**Fonte:** [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
+    </center>
 
 ## Protótipo de Papel
 
