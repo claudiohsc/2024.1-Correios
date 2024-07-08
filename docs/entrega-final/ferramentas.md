@@ -230,6 +230,30 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
 
     <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
+=== "Entrega Final"
+
+    Entrega final
+
+    <font size="2"><p style="text-align: center">Tabela 10 - Ferramentas utilizadas na entrega final.</p></font>
+
+    <center class="img_ferramentas">
+
+    | Logo | Ferramenta | Finalidade |
+    | :--: | ---------- | ---------- |
+    | ![Notebook](../assets/ferramentas/notebook.jpg) | Notebook | Desevolvimento do projeto|
+    | ![Smartphone](../assets/ferramentas/celular.jpg) | Smartphone | Comunicação entre a equipe |
+    | ![Git](../assets/ferramentas/git.png) | Git | Controle de versionamento de código |
+    | ![Logo Github](../assets/ferramentas/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
+    | ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
+    | ![Logo do Mfdocs](../assets/ferramentas/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
+    | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
+    | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
+    | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
 
 ## Bibliografia
 
