@@ -101,28 +101,134 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
 
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
 === "Etapa 5"
 
     Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel
+
+    <font size="2"><p style="text-align: center">Tabela 5 - Ferramentas utilizadas na etapa 5.</p></font>
+
+    <center class="img_ferramentas">
+
+    | Logo | Ferramenta | Finalidade |
+    | :--: | ---------- | ---------- |
+    | ![Notebook](../assets/ferramentas/notebook.jpg) | Notebook | Desevolvimento do projeto|
+    | ![Smartphone](../assets/ferramentas/celular.jpg) | Smartphone | Comunicação entre a equipe |
+    | ![Git](../assets/ferramentas/git.png) | Git | Controle de versionamento de código |
+    | ![Logo Github](../assets/ferramentas/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
+    | ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
+    | ![Logo do Mfdocs](../assets/ferramentas/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
+    | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
+    | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
+    | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+    | ![Storyboard That](../assets/ferramentas/storyboardthat.png) | Storyboard That | Confecção do storyboard |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 === "Etapa 6.1"
 
     Verificação dos artefatos I
 
+    <font size="2"><p style="text-align: center">Tabela 6 - Ferramentas utilizadas na etapa 6.1.</p></font>
+
+    <center class="img_ferramentas">
+
+    | Logo | Ferramenta | Finalidade |
+    | :--: | ---------- | ---------- |
+    | ![Notebook](../assets/ferramentas/notebook.jpg) | Notebook | Desevolvimento do projeto|
+    | ![Smartphone](../assets/ferramentas/celular.jpg) | Smartphone | Comunicação entre a equipe |
+    | ![Git](../assets/ferramentas/git.png) | Git | Controle de versionamento de código |
+    | ![Logo Github](../assets/ferramentas/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
+    | ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
+    | ![Logo do Mfdocs](../assets/ferramentas/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
+    | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
+    | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
+    | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
 === "Etapa 7"
 
     Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade
+
+    <font size="2"><p style="text-align: center">Tabela 7 - Ferramentas utilizadas na etapa 7.</p></font>
+
+    <center class="img_ferramentas">
+
+    | Logo | Ferramenta | Finalidade |
+    | :--: | ---------- | ---------- |
+    | ![Notebook](../assets/ferramentas/notebook.jpg) | Notebook | Desevolvimento do projeto|
+    | ![Smartphone](../assets/ferramentas/celular.jpg) | Smartphone | Comunicação entre a equipe |
+    | ![Git](../assets/ferramentas/git.png) | Git | Controle de versionamento de código |
+    | ![Logo Github](../assets/ferramentas/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
+    | ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
+    | ![Logo do Mfdocs](../assets/ferramentas/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
+    | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
+    | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
+    | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+    | ![Materiais de escrever](../assets/ferramentas/lapis.png) | Materiais de escrever (lápis, lapiseira, caneta, borracha) | Confecção do protótipo de papel |
+    | ![Papel](../assets/ferramentas/papel.jpg) | Papel | Confecção do protótipo de papel |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 === "Etapa 6.2"
 
     Verificação dos artefatos II
 
+    <font size="2"><p style="text-align: center">Tabela 8 - Ferramentas utilizadas na etapa 6.2.</p></font>
+
+    <center class="img_ferramentas">
+
+    | Logo | Ferramenta | Finalidade |
+    | :--: | ---------- | ---------- |
+    | ![Notebook](../assets/ferramentas/notebook.jpg) | Notebook | Desevolvimento do projeto|
+    | ![Smartphone](../assets/ferramentas/celular.jpg) | Smartphone | Comunicação entre a equipe |
+    | ![Git](../assets/ferramentas/git.png) | Git | Controle de versionamento de código |
+    | ![Logo Github](../assets/ferramentas/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
+    | ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
+    | ![Logo do Mfdocs](../assets/ferramentas/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
+    | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
+    | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
+    | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
 === "Etapa 8"
 
     Relato dos resultados da avaliação do protótipo de alta fidelidade
 
+    <font size="2"><p style="text-align: center">Tabela 9 - Ferramentas utilizadas na etapa 8.</p></font>
 
-## Bibliografia
+    <center class="img_ferramentas">
+
+    | Logo | Ferramenta | Finalidade |
+    | :--: | ---------- | ---------- |
+    | ![Notebook](../assets/ferramentas/notebook.jpg) | Notebook | Desevolvimento do projeto|
+    | ![Smartphone](../assets/ferramentas/celular.jpg) | Smartphone | Comunicação entre a equipe |
+    | ![Git](../assets/ferramentas/git.png) | Git | Controle de versionamento de código |
+    | ![Logo Github](../assets/ferramentas/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
+    | ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
+    | ![Logo do Mfdocs](../assets/ferramentas/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
+    | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
+    | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
+    | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+    | ![Just In Mind](../assets/ferramentas/justinmind.png) | Justinmind | Produção do protótipo de alta fidelidade |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
+
 
 ## Bibliografia
 
@@ -153,6 +259,8 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
 > 13. Git. Disponível em: <https://git-scm.com/>. Acesso em: 08 de jul. de 2024.
 >
 > 14. Justinmind. Disponível em: <https://www.justinmind.com/>. Acesso em: 08 de jul. de 2024.
+>
+> 15. Storyboard That. Disponível em: <https://www.storyboardthat.com/pt>. Acesso em: 08 de jul. de 2024.
 
 
 ## Histórico de Versões

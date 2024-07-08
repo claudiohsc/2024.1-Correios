@@ -32,6 +32,9 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 | ![Logo do Draw.io](../assets/ferramentas/drawio.png) | Draw.io | Produção de diagramas UML. |
 | ![Logo do Figma](../assets/ferramentas/figma.png) | Figma | Produção do protótipo de alta fidelidade. |
 | ![Just In Mind](../assets/ferramentas/justinmind.png) | Justinmind | Produção do protótipo de alta fidelidade |
+| ![Storyboard That](../assets/ferramentas/storyboardthat.png) | Storyboard That | Confecção do storyboard |
+| ![Materiais de escrever](../assets/ferramentas/lapis.png) | Materiais de escrever (lápis, lapiseira, caneta, borracha) | Confecção do protótipo de papel |
+| ![Papel](../assets/ferramentas/papel.jpg) | Papel | Confecção do protótipo de papel |
 
 </center>
 
@@ -66,6 +69,8 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 > 13. Git. Disponível em: <https://git-scm.com/>. Acesso em: 08 de jul. de 2024.
 >
 > 14. Justinmind. Disponível em: <https://www.justinmind.com/>. Acesso em: 08 de jul. de 2024.
+>
+> 15. Storyboard That. Disponível em: <https://www.storyboardthat.com/pt>. Acesso em: 08 de jul. de 2024.
 
 ## Histórico de Versões
 
