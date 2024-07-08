@@ -1,4 +1,4 @@
-# O(s) resultado(s) alcançado(s) com a execução do projeto
+# Os resultados alcançados com a execução do projeto
 
 ## Introdução
 
@@ -8,11 +8,33 @@ Portanto, a introdução sobre os resultados alcançados deve destacar a conexã
 
 ## Objetivos
 
-O objetivo do desenvolvimento do projeto na disciplina é oferecer aos estudantes  a possibilidade de aplicar os conteúdos da disciplina em um projeto prático. 
+O objetivo do desenvolvimento do projeto na disciplina de Interação Humano-Computador (IHC) é oferecer aos estudantes do grupo 3 a possibilidade de aplicar os conteúdos da disciplina em um projeto prático, utilizando como base o site dos Correios.
+
+## Resultados
+
+Durante a disciplina nós exploramos os conceitos gerais de IHC destacando as principais teorias de fundamento, métodos e técnicas utilizadas para a concepção e desenvolvimento de sistemas e avaliação de uso, para tal foi utilizado o processo de design adaptado de Mayhew, este define ciclos para serem projetados interfaces de software, para isso primeiro foi elaborado uma etapa de planejamento para então aplicar os ciclos análises de requisitos; design, avaliação e desenvolvimento; e verificação.
+
+
+Para poder iniciar o projeto foi determinado uma etapa de planejamento, definimos então regras de design, cronograma, site escolhido, estruturação da documentação, ferramentas adotadas, equipe e regras de trabalho. Essa etapa foi crucial para podermos ter uma noção de como seria o projeto em geral.
+
+
+A partir da análise de requisitos o grupo pode começar colocar em prática os conhecimentos adquiridos durante as aulas, nesse Nível do projeto podemos identificar as características dos serviços que os Correios fornecem e identificarmos o tipo e as necessidades dos usuários, estipulamos as metas de usabilidade e aplicamos um guia de estilo.
+
+
+No design avaliação e desenvolvimento começamos a introduzir sugestões de melhorias com base nos estudos levantados, nisso desenvolvemos análises de tarefas, storyboards e protótipos de alta e baixa fidelidade. Realizamos a avaliação desses artefatos buscando identificar a credibilidade do que foi produzido.
+Ademais na verificação realizamos o trabalho de checagem dos artefatos produzidos durante todo o projeto, esse trecho foi essencial para garantir a qualidade final. Para isso utilizamos método baseado nas inspeção de checklist desenvolvido por Fagan.
+
+## Conclusão
+
+A integração dos conceitos de interação humano-computador (IHC) em um projeto prático proporcionou uma experiência valiosa para nós estudantes do grupo 3. Ao utilizar o site dos Correios como base, podemos explorar aspectos reais de usabilidade e acessibilidade, elementos cruciais no design de interfaces eficientes. Este projeto nos permitiu aplicar teorias de IHC na análise e melhoria da experiência do usuário, identificando pontos de fricção e propondo soluções de melhorias. Além disso, a colaboração do projeto aplicado fomentou a habilidades de trabalho em equipe e comunicação, essenciais no ambiente profissional de tecnologia da informação.
 
 ## Bibliografia
 
 > 1. Plano de Ensino da disciplina Interação Humano Computador. Disponível em: [https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/53/Plano_de_Ensino%20FIHC%20012024%20Turma%201%20v3.pdf](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/53/Plano_de_Ensino%20FIHC%20012024%20Turma%201%20v3.pdf). Acesso em: 07 de jul. de 2024.
+>
+> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> 3. FAGAN, Michael E. Design and Code Inspections to Reduce Errors in Program Development. 1976.
 >
 
 ## Histórico de Versões
