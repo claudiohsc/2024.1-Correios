@@ -196,6 +196,8 @@ Artefato destinado a documentar e organizar todos os vídeos das apresentações
 
 === "Entrega Final"
 
+    Entrega final
+
     Integrantes presentes na apresentação da entrega final:
 
     <label><input type="checkbox" checked disabled>[Cláudio Henrique][ClaudioGH]</label><br>
