@@ -2,17 +2,17 @@
 
 ## Introdução
 
-Artefato destinado a explicar o site escolhido pelo o grupo para o projeto da disciplina, descrevendo suas principais funcionalidades, o motivo da escolha do site, os critérios avaliados, os termos de uso e o histórico de versão do artefato.
+Artefato destinado a explicar o site escolhido pelo o grupo para o projeto da disciplina, descrevendo suas principais funcionalidades, o motivo da escolha do site, os critérios avaliados e o histórico de versão do artefato.
 
-No começo da disciplina, os integrantes fizeram avaliações de alguns sites, presentes nesse [link](site_avaliados.md), e foi discutido qual site seria o escolhido para o andamento do projeto. Porém o grupo optou por pegar um site novo, o site dos Correios, viu-se que o site possui várias funcionalidades e interfaces que podem ser analisadas pelos integrantes da equipe ao longo da disciplina.
+No começo da disciplina, os integrantes fizeram avaliações de alguns sites, presentes nesse [link](site_avaliados.md), e foi discutido qual site seria o escolhido para o andamento do projeto, porém o grupo optou por pegar um site novo, o site dos Correios, viu-se que o site possui várias funcionalidades e interfaces que podem ser analisadas pelos integrantes da equipe ao longo da disciplina. A avaliação do site dos Correios pode ser conferida neste [link](../assets/avaliacoes/Correios.pdf).
 
 ## Correios
 
 <div style="text-align: center">
-<p> Tabela 1: Logo dos Correios. </p>
+<p> Figura 1: Logo dos Correios. </p>
 </div>
 
-<center><br><img style="border: 1px solid white; border-radius: 10%" src="../../assets/correios-logo.png" width = 40%></center>
+<center><br><img style="border: 1px solid white; border-radius: 10%" src="../../assets/correios.svg" width = 40%></center>
 
 <div style="text-align: center">
 <p> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa.</a> </p>
@@ -64,8 +64,7 @@ Com base na avaliação feita do site, abaixo elencamos alguns pontos importante
 ## Bibliografia
 
 > 1. CORREIOS. Correios. Disponível em: <https://www.correios.com.br/>. Acesso em: 8 de Abril de 2024.
-> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) 
-Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-
+> 2. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-
 19677-1.
 
 ## Histórico de versão
@@ -74,4 +73,5 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 08/04/2024 | [Ricardo Augusto](https://www.github.com/avmricardo) | Criação do documento | [Claudio Henrique](https://github.com/claudiohsc)
 |`1.1`| 08/04/2024 | [Ricardo Augusto](https://www.github.com/avmricardo) | Ajuste de bibliografia |  [Pablo S. Costa](https://www.github.com/pabloheika)
-|`1.2`| 07/07/2024 | [Claudio Henrique](https://www.github.com/claudiohsc) | Adição da seção de Motivações de Escolha |  [Elias F.](https://www.github.com/EliasOliver21)|
+|`1.2`| 08/04/2024 | [Elias Oliveira](https://www.github.com/EliasOliver21) | Adição da avaliação do Site dos correios | [Claudio Henrique](https://github.com/claudiohsc)
+|`1.3`| 07/07/2024 | [Claudio Henrique](https://www.github.com/claudiohsc) | Adição da seção de Motivações de Escolha |  [Elias F.](https://www.github.com/EliasOliver21)|
