@@ -59,8 +59,9 @@ Durante o projeto, tive desafios significativos, principalmente relacionados ao 
 
 #### **Ricardo Augusto**
 
-A maior dificuldade foi a parte do gerenciamento do tempo, apesar da boa comunicação e as boas referências para a matéria deu para sentir que o projeto e bastante trabalhoso e grande, o que exigia bastante tempo e organização. Um fator que contribui para essa dificuldade foi a ter pego a matéria de interação humano computador e requisitos de software juntas, que ambas são orientadas a projeto e possuem bastante coisa a ser feito. Diante dessas dificuldades, sinto que o andamento das duas disciplinas me ajudou a evoluir esse ponto de gerenciamento de tempo, de forma que percebi pontos a melhorar na minha rotina e nas minhas atividades de forma e ser mais eficiente nos meus estudos e trabalhos.
+A maior dificuldade foi o gerenciamento do tempo. Apesar da boa comunicação e das boas referências para a matéria, deu para perceber que o projeto é bastante trabalhoso e extenso, exigindo muito tempo e organização. A combinação das disciplinas de Interação Humano-Computador e Requisitos de Software apresentou um desafio adicional, já que ambas são orientadas a projetos e demandam bastante esforço.
 
+Diante dessas dificuldades, sinto que o progresso em ambas as disciplinas me ajudou a melhorar meu gerenciamento de tempo. Percebi pontos a aprimorar na minha rotina e nas minhas atividades, tornando-me mais eficiente nos estudos e trabalhos.
 
 ## Histórico de Versões
 
