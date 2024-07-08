@@ -10,12 +10,19 @@ nav:
     - Reunião 2: atas/ata2.md
     - Reunião 3: atas/ata3.md
     - Reunião 4: atas/ata4.md
+    - Reunião 5: atas/ata5.md
+    - Reunião 6: atas/ata6.md
+    - Reunião 7: atas/ata7.md
   - Apresentações:
-    - Apresentação 01: apresentações/apresentação-01.md
-    - Apresentação 02: apresentações/apresentação-02.md
-    - Apresentação 03: apresentações/apresentação-03.md
-    - Apresentação 04: apresentações/apresentação-04.md
-    - Apresentação 05: apresentações/apresentação-05.md
+    - Apresentação 1: apresentações/apresentação-01.md
+    - Apresentação 2: apresentações/apresentação-02.md
+    - Apresentação 3: apresentações/apresentação-03.md
+    - Apresentação 4: apresentações/apresentação-04.md
+    - Apresentação 5: apresentações/apresentação-05.md
+    - Apresentação 6.1: apresentações/apresentação-06.md
+    - Apresentação 7: apresentações/apresentação-07.md
+    - Apresentação 6.2: apresentações/apresentação-08.md
+    - Apresentação 8: apresentações/apresentação-09.md
   - Planejamento:
     - Heatmap: planejamento/heatmap.md
     - Sites Avaliados: planejamento/site_avaliados.md
@@ -63,6 +70,112 @@ nav:
       - Protótipo de Papel:
         - Planejamento da Avaliação: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_avaliacao.md
         - Planejamento do Relato dos Resultados: design_avaliacao/nivel_2/prototipo_de_papel/planejamento_relato_resultados.md
+        - Relato dos Resultados:
+          - Calcular Preços e Prazos: design_avaliacao/nivel_2/relato-resultados/preco-prazos.md
+          - Realizar Compras Online: design_avaliacao/nivel_2/relato-resultados/loja-online.md
+          - Recebimento de Encomendas: design_avaliacao/nivel_2/relato-resultados/receber-encomenda.md
+          - Realizar Pré-postagem: design_avaliacao/nivel_2/relato-resultados/pre-postagem.md
+          - Gerenciar Minhas Importações: design_avaliacao/nivel_2/relato-resultados/gerenciar-importacoes.md
+          - Rastrear Encomendas: design_avaliacao/nivel_2/relato-resultados/rastrear-encomendas.md
+    - Nível 3:
+      - Protótipo de Alta Fidelidade:
+        - Planejamento da Avaliação: design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_da_avaliacao.md
+        - Planejamento do Relato dos Resultados: design_avaliacao/nivel_3/prototipo_alta_fidelidade/planejamento_do_relato.md
+        - Relato dos Resultados:
+          - Loja online: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/loja-online.md
+          - Calcular preços e prazos: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/precos-prazos.md
+          - Rastreamento de encomendas: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/rastreamento-encomendas.md 
+          - Gerenciar Minhas Importações: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/importacoes.md 
+          - Pré-postagem: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/pre-postagem.md
+          - Mudar recebimento de encomendas: design_avaliacao/nivel_3/prototipo_alta_fidelidade/relato-dos-resultados/recebimento-de-encomendas.md
+  - Verificação:
+    - Grupo+1:
+        - Etapa 01:
+          - Planejamento da Verificação: verificacao_01/grupo+1/etapa_01/planejamento_etapa_01.md
+          - Aspectos Éticos: verificacao_01/grupo+1/etapa_01/aspectos_eticos.md
+          - Perfil do Usuário:
+            - Questionário : verificacao_01/grupo+1/etapa_01/perfil_de_usuario/questionario.md
+            - Entrevista: verificacao_01/grupo+1/etapa_01/perfil_de_usuario/entrevista.md
+            - Análise Competitiva: verificacao_01/grupo+1/etapa_01/perfil_de_usuario/analise_competitiva.md
+            - Resultado do Perfil do Usuário: verificacao_01/grupo+1/etapa_01/perfil_de_usuario/resultado_do_perfil.md
+          - Personas: verificacao_01/grupo+1/etapa_01/personas.md
+          - Cenários : verificacao_01/grupo+1/etapa_01/cenarios.md
+          - Análise de tarefas:
+              - HTA: verificacao_01/grupo+1/etapa_01/analise_de_tarefas/hta.md
+              - GOMS: verificacao_01/grupo+1/etapa_01/analise_de_tarefas/goms.md
+        - Etapa 02:
+          - Planejamento da Verificação: verificacao_01/grupo+1/etapa_02/planejamento_etapa_02.md
+          - Princípios Gerais do Projeto: verificacao_01/grupo+1/etapa_02/principios_gerais.md
+          - Metas de Usabilidade: verificacao_01/grupo+1/etapa_02/metas_de_usabilidade.md
+          - Guia de Estilo: verificacao_01/grupo+1/etapa_02/guia-de-estilo.md
+          - Características da plataforma: verificacao_01/grupo+1/etapa_02/caracteristicas_da_plataforma.md
+        - Etapa 03 :
+          - Planejamento da Verificação: verificacao_01/grupo+1/etapa_03/planejamento_etapa_03.md
+          - Nível 1:
+            - Análise de tarefas:
+              - Planejamento da Avaliação da Análise de Tarefas : verificacao_01/grupo+1/etapa_03/nivel_01/analise_de_tarefas/planejamento_da_avaliacao.md
+              - Planejamento do Relato dos Resultados da Avaliação: verificacao_01/grupo+1/etapa_03/nivel_01/analise_de_tarefas/planejamento_do_relato.md
+              - Relato dos Resultados: verificacao_01/grupo+1/etapa_03/nivel_01/analise_de_tarefas/relato_dos_resultados.md
+            - Storyboard:
+              - Planejamento da Avaliação do Storyboard : verificacao_01/grupo+1/etapa_03/nivel_01/storyboard/planejamento_da_avaliacao.md
+              - Planejamento do Relato dos Resultados da Avaliação: verificacao_01/grupo+1/etapa_03/nivel_01/storyboard/planejamento_do_relato.md
+              - Relato dos Resultados: verificacao_01/grupo+1/etapa_03/nivel_01/storyboard/relato_dos_resultados.md
+              - Storyboards: verificacao_01/grupo+1/etapa_03/nivel_01/storyboard/storyboards.md
+          - Nível 2:
+            - Protótipo de Papel:
+              - Planejamento da Avaliação do Protótipo de Papel : verificacao_01/grupo+1/etapa_03/nivel_02/prototipo_de_papel/planejamento_da_avaliacao.md
+              - Planejamento do Relato do Protótipo de Papel: verificacao_01/grupo+1/etapa_03/nivel_02/prototipo_de_papel/planejamento_do_relato.md
+    - Grupo 3:
+      - Planejamento Geral das Verificações: verificacao_01/grupo/planejamento-geral.md
+      - Análise de Requisitos:
+        - Planejamento da Verificação da Análise de Requisitos I: verificacao_01/grupo/analise_requisitos1/planejamento_verificacao.md
+        - Aspectos Éticos: verificacao_01/grupo/analise_requisitos1/aspectos_eticos.md
+        - Perfil de Usuário: verificacao_01/grupo/analise_requisitos1/perfil_de_usuario.md
+        - Personas: verificacao_01/grupo/analise_requisitos1/personas.md
+        - Cenários: verificacao_01/grupo/analise_requisitos1/cenarios.md
+        - Análise de tarefas:
+          - Análise Hierárquica de Tarefas: verificacao_01/grupo/analise_requisitos1/analise_tarefas/analise-hta.md
+          - CMN-GOMS: verificacao_01/grupo/analise_requisitos1/analise_tarefas/goms.md
+      - Análise de Requisitos II:
+        - Planejamento da Verificação da Análise de Requisitos II: verificacao_01/grupo/analise_requisitos2/planejamento_verificacao.md
+        - Características da plataforma para o projeto: verificacao_01/grupo/analise_requisitos2/caracteristicas_plataforma.md
+        - Princípios Gerais: verificacao_01/grupo/analise_requisitos2/principios_gerais.md
+        - Metas de Usabilidade: verificacao_01/grupo/analise_requisitos2/metas_de_usabilidade.md
+        - Guia de Estilo: verificacao_01/grupo/analise_requisitos2/guia-de-estilo.md
+      - Design, Avaliação e Desenvolvimento:
+        - Planejamento da Verificação do Design, Avaliação e Desenvolvimento: verificacao_01/grupo/DAD/planejamento_verificacao.md
+        - Nível 1:
+          - Análise de Tarefas:
+            - Planejamento da Avaliação: verificacao_01/grupo/DAD/nivel1/analise_tarefas/planejamento_avaliacao.md
+            - Planejamento do Relato dos Resultados: verificacao_01/grupo/DAD/nivel1/analise_tarefas/planejamento_relato.md
+            - Relato dos Resultados:
+              - Calcular Preços e Prazos: verificacao_01/grupo/DAD/nivel1/analise_tarefas/relato-resultados/preco-prazos.md
+              - Realizar Compras Online: verificacao_01/grupo/DAD/nivel1/analise_tarefas/relato-resultados/loja-online.md
+              - Recebimento de Encomendas: verificacao_01/grupo/DAD/nivel1/analise_tarefas/relato-resultados/receber-encomenda.md
+              - Realizar Pré-postagem: verificacao_01/grupo/DAD/nivel1/analise_tarefas/relato-resultados/pre-postagem.md
+              - Gerenciar Minhas Importações: verificacao_01/grupo/DAD/nivel1/analise_tarefas/relato-resultados/gerenciar-importacoes.md
+              - Rastrear Encomendas: verificacao_01/grupo/DAD/nivel1/analise_tarefas/relato-resultados/rastrear-encomendas.md
+          - Storyboard:
+            - Planejamento da Avaliação: verificacao_01/grupo/DAD/nivel1/storyboard/planej_storyboard.md 
+            - Planejamento do Relato dos Resultados: verificacao_01/grupo/DAD/nivel1/storyboard/planejamento_do_relato.md
+            - Relato dos Resultados dos Storyboards: verificacao_01/grupo/DAD/nivel1/storyboard/relato-resultados-story.md
+            - Storyboards: verificacao_01/grupo/DAD/nivel1/storyboard/storyboards.md
+        - Nível 2:
+          - Protótipo de Papel:
+            - Planejamento da Avaliação: verificacao_01/grupo/DAD/nivel2/prototipo_papel/planej_avaliacao_pp.md
+            - Planejamento do Relato dos Resultados: verificacao_01/grupo/DAD/nivel2/prototipo_papel/planejamento-relato-pp.md
+            - Relato dos Resultados:
+              - Calcular Preços e Prazos: verificacao_01/grupo/DAD/nivel2/prototipo_papel/relato_dos_resultados_PP/precos-e-prazos-pp.md
+              - Realizar Compras Online: verificacao_01/grupo/DAD/nivel2/prototipo_papel/relato_dos_resultados_PP/loja-pp.md
+              - Recebimento de Encomendas:  verificacao_01/grupo/DAD/nivel2/prototipo_papel/relato_dos_resultados_PP/receber-encomendas-pp.md
+              - Realizar Pré-postagem:  verificacao_01/grupo/DAD/nivel2/prototipo_papel/relato_dos_resultados_PP/pre-postagem-pp.md
+              - Gerenciar Minhas Importações:  verificacao_01/grupo/DAD/nivel2/prototipo_papel/relato_dos_resultados_PP/minhas-importacoes-pp.md
+              - Rastrear Encomendas: verificacao_01/grupo/DAD/nivel2/prototipo_papel/relato_dos_resultados_PP/rastrear encomendas-pp.md
+        - Nível 3:
+          - Protótipo de Alta Fidelidade:
+            - Planejamento da Avaliação: verificacao_01/grupo/DAD/nivel3/planejamento-avaliacao-paf.md
+            - Planejamento do Relato dos Resultados: verificacao_01/grupo/DAD/nivel3/planejamento-relato-paf.md
+
 extra_css:
   - stylesheets/extra.css
 theme:
@@ -87,4 +200,16 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Mudar para o modo claro
-
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+extra:
+  analytics:
+    provider: google
+    property: G-7QVWYC7EZJ

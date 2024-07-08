@@ -50,7 +50,9 @@ Houve a participação de uma pessoa para a entrevista, que foi o Paulo Cerqueir
 
 ## Gravação da Reunião
 
-<iframe width="1519" height="542" src="https://www.youtube.com/embed/KkPOLVolZ4U" title="Avaliação da Análise de Tarefas - Grupo 03 (Gabriel Fernando)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<center>
+    <iframe width="600" height="350" src="https://www.youtube.com/embed/KkPOLVolZ4U" title="Avaliação da Análise de Tarefas - Grupo 03 (Gabriel Fernando)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 <font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
 
@@ -89,7 +91,7 @@ Além da extensão do objetivo de preencher os dados da pré-postagem, não fora
 
 ## Planejamento para o reprojeto da aplicação
 
-Como base nos resultados levantados apartir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do diagrama para incluir uma opção de adicionar destinatários ou remetentes pré-cadastros. Isso será feito de forma a tentar solucionar o problema descrito na interpretação e análise dos dados, esses campos de preenchimento, uma vez que são os elementos mais recorrentes na tarefa, podem ser agilizados por meio de uma opção de selecionar endereços pré-cadastrados para isso, será seguido o cronograma da Tabela 5.
+Como base nos resultados levantados apartir dos dados e informações obtidos nas entrevistas, será realizado um reprojeto do diagrama para incluir uma opção de adicionar destinatários ou remetentes pré-cadastros. Isso será feito de forma a tentar solucionar o problema descrito na interpretação e análise dos dados, esses campos de preenchimento, uma vez que são os elementos mais recorrentes na tarefa, podem ser agilizados por meio de uma opção de selecionar endereços pré-cadastrados para isso, temos o cronograma planejado para o reprojeto na Tabela 5 e o executado na Tabela 6.
 
 <center>
 
@@ -100,6 +102,19 @@ Como base nos resultados levantados apartir dos dados e informações obtidos na
 |[Gabriel Fernando][GabrielfGH]| 17:00 | 22:00 | 06/06/24|
 
 <font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
+
+</center>
+
+<center>
+
+<font size="2"><p style="text-align: center">**Tabela 06:** cronograma executado do reprojeto</p></font>
+
+| **Responsável** |**Horário do início**|**Horário do Fim**|**Data**|
+| -- | :--: | :--: | :--: |
+|[Gabriel Fernando][GabrielfGH]| 21:00 | 22:00 | 06/06/24|
+
+<font size="2"><p style="text-align: center">**Fonte:** [Gabriel Fernando][GabrielfGH], 2024 </p></font>
+
 </center>
 
 
@@ -117,6 +132,7 @@ Além das alterações previstas no [reprojeto](#planejamento-para-o-reprojeto-d
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 02/06/2024 | Criação do documento| [Gabriel F. J. Silva][GabrielfGH] | [Gabriel B. Bertolazi][GabrielbGH], [Ricardo][RicardoGH] e [Elias F. Oliveira][EliasGH] |
+|`1.1`| 06/06/2024 | Adiciona cronograma executado do reprojeto | [Gabriel F. J. Silva][GabrielfGH] | [][] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
