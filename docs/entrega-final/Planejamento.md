@@ -409,4 +409,8 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 20</b> 
     </p></font>
 
-    
+## Histórico de versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :----: | :--: | --------- | ----------- | ------ |
+| `1.0`  | 04/07/2024 | Criação do documento |[Gabriel B. Bertolazi][GabrielBGH] | [Gabriel F. J. Silva][GabrielFGH] |
