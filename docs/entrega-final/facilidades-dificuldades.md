@@ -32,6 +32,8 @@ Durante o projeto, tive facilidades principalmente na comunicação e entendimen
 
 #### **Ricardo Augusto**
 
+Minha maior facilidade ao longo do semestre foi a comunicação com os integrantes do grupo, essa boa comunicação permitiu uma divisão igual de tarefas para que nenhum integrante ficasse sobrecarregado ou ocioso, e ajudou também na organização e desenvolvimento do projeto. Outro bom ponto foi a bibliografia utilizada, o principal livro de interação humano computador de Barbosa e Silva (2021) é bem explicativo e deu para sentir que ele ajudou bastante na organização dos artefatos e no conteúdo que ele dispõe.
+
 
 ## Dificuldades
 
@@ -57,6 +59,7 @@ Durante o projeto, tive desafios significativos, principalmente relacionados ao 
 
 #### **Ricardo Augusto**
 
+A maior dificuldade foi a parte do gerenciamento do tempo, apesar da boa comunicação e as boas referências para a matéria deu para sentir que o projeto e bastante trabalhoso e grande, o que exigia bastante tempo e organização. Um fator que contribui para essa dificuldade foi a ter pego a matéria de interação humano computador e requisitos de software juntas, que ambas são orientadas a projeto e possuem bastante coisa a ser feito. Diante dessas dificuldades, sinto que o andamento das duas disciplinas me ajudou a evoluir esse ponto de gerenciamento de tempo, de forma que percebi pontos a melhorar na minha rotina e nas minhas atividades de forma e ser mais eficiente nos meus estudos e trabalhos.
 
 
 ## Histórico de Versões
