@@ -241,6 +241,22 @@ Abaixo nas figuras 1 e 2 é mostrado o protótipo de alta fidelidade e logo abai
     </center>
 
 
+<font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário pós-teste.</p></font>
+
+<center>
+
+| ID | Pergunta | Renato | Henrique | Marcos | Isabelly |
+| --- | --- | --- | --- | --- | --- |
+| **1** | O usuário utilizou de forma correta a funcionalidade? | Sim | Sim | Sim | Sim |
+| **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? | Sim | Sim | Sim | Sim |
+| **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? | Sim, preenchimento da data. | Sim, preenchimento da data. | Sim, preenchimento da data. | Sim, preenchimento da data. |
+| **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? | Na página inicial da funcionalidade. Sempre que precisam informar a data. | Na página inicial da funcionalidade. Sempre que precisam informar a data. | Na página inicial da funcionalidade. Sempre que precisam informar a data. | Na página inicial da funcionalidade. Sempre que precisam informar a data. |
+| **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Não foi preciso. | Não foi preciso. | Não foi preciso. | Não foi preciso. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024</p></font>
+
 ## Lista de Problemas de usabilidade corrigidos
 
 Abaixo está a lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados no nível anterior pelo grupo.
@@ -294,6 +310,7 @@ Abaixo temos a tabela 06 com o cronograma executado do reprojeto:
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 02/07/2024 | Criação do documento| [Claudio Henrique][ClaudioGH]|[Ricardo Augusto][RicardoGH]|
+|`1.1`| 07/07/2024 | Adição da Tabela de perguntas pós-teste do avaliador | [Claudio Henrique][ClaudioGH]|[Ricardo Augusto][RicardoGH]|
 
 [GabrielFGH]: https://github.com/MMcLovin
 [GabrielBGH]: https://github.com/https://github.com/Bertolazi
