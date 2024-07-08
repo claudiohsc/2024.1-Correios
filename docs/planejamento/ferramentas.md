@@ -16,6 +16,9 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 
 | Logo | Ferramenta | Finalidade |
 | :--: | ---------- | ---------- |
+| ![Notebook](../assets/ferramentas/notebook.jpg) | Notebook | Desevolvimento do projeto|
+| ![Smartphone](../assets/ferramentas/celular.jpg) | Smartphone | Comunicação entre a equipe |
+| ![Git](../assets/ferramentas/git.png) | Git | Controle de versionamento de código |
 | ![Logo Github](../assets/ferramentas/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
 | ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
 | ![Logo do Mfdocs](../assets/ferramentas/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
@@ -28,6 +31,7 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 | ![Logo do Canva](../assets/ferramentas/canva.png) | Canva | Produção de arte para storyboard. |
 | ![Logo do Draw.io](../assets/ferramentas/drawio.png) | Draw.io | Produção de diagramas UML. |
 | ![Logo do Figma](../assets/ferramentas/figma.png) | Figma | Produção do protótipo de alta fidelidade. |
+| ![Just In Mind](../assets/ferramentas/justinmind.png) | Justinmind | Produção do protótipo de alta fidelidade |
 
 </center>
 
@@ -59,10 +63,21 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 >
 > 12. Figma. Disponível em: [https://www.figma.com/about/](). Acesso em: 08 de abr. de 2024.
 >
+> 13. Git. Disponível em: <https://git-scm.com/>. Acesso em: 08 de jul. de 2024.
+>
+> 14. Justinmind. Disponível em: <https://www.justinmind.com/>. Acesso em: 08 de jul. de 2024.
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :------: | :--------: | -------------------- | ----------------------------------------------- | ----------- |
 | `1.0`  | 08/04/2024 | Criação do documento | [Pablo S. Costa](https://github.com/pabloheika) | [Ricardo Augusto](https://www.github.com/avmricardo) |  
+| `1.1` | 08/07/2024 | Adicionando ferramentas | [Ricardo Augsuto](https://www.github.com/avmricardo) | [Cláudio Henrique][ClaudioGH] |
+
+[ClaudioGH]: https://github.com/claudiohsc
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo
 

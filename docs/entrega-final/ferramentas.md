@@ -16,6 +16,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | :--: | ---------- | ---------- |
     | ![Notebook](../assets/ferramentas/notebook.jpg) | Notebook | Desevolvimento do projeto|
     | ![Smartphone](../assets/ferramentas/celular.jpg) | Smartphone | Comunicação entre a equipe |
+    | ![Git](../assets/ferramentas/git.png) | Git | Controle de versionamento de código |
     | ![Logo Github](../assets/ferramentas/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
     | ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
     | ![Logo do Mfdocs](../assets/ferramentas/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
@@ -40,6 +41,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | :--: | ---------- | ---------- |
     | ![Notebook](../assets/ferramentas/notebook.jpg) | Notebook | Desevolvimento do projeto|
     | ![Smartphone](../assets/ferramentas/celular.jpg) | Smartphone | Comunicação entre a equipe |
+    | ![Git](../assets/ferramentas/git.png) | Git | Controle de versionamento de código |
     | ![Logo Github](../assets/ferramentas/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
     | ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
     | ![Logo do Mfdocs](../assets/ferramentas/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
@@ -66,6 +68,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | :--: | ---------- | ---------- |
     | ![Notebook](../assets/ferramentas/notebook.jpg) | Notebook | Desevolvimento do projeto|
     | ![Smartphone](../assets/ferramentas/celular.jpg) | Smartphone | Comunicação entre a equipe |
+    | ![Git](../assets/ferramentas/git.png) | Git | Controle de versionamento de código |
     | ![Logo Github](../assets/ferramentas/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
     | ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
     | ![Logo do Mfdocs](../assets/ferramentas/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
@@ -90,6 +93,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | :--: | ---------- | ---------- |
     | ![Notebook](../assets/ferramentas/notebook.jpg) | Notebook | Desevolvimento do projeto|
     | ![Smartphone](../assets/ferramentas/celular.jpg) | Smartphone | Comunicação entre a equipe |
+    | ![Git](../assets/ferramentas/git.png) | Git | Controle de versionamento de código |
     | ![Logo Github](../assets/ferramentas/github.png) | GitHub | Repositório git online para organizar e armazenar toda a produção da equipe |
     | ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Microsoft Teams | Realizar videos chamadas com gravações de reuniões e apresentações. |
     | ![Logo do Mfdocs](../assets/ferramentas/mkdocs.svg) | Mkdocs for material | Geração da documentação do gitpages em paginas estáticas. |
