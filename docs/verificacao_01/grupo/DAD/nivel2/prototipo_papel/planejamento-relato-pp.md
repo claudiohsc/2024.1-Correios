@@ -104,7 +104,7 @@ pie
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -114,8 +114,8 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [][] |
-| `1.1`  | 26/06/2024 | Aplicação do checklist | [Ricardo Augusto][RicardoGH] | [][] |
+| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Gabriel B.][GabrielBGH] |
+| `1.1`  | 26/06/2024 | Aplicação do checklist | [Ricardo Augusto][RicardoGH] | [Gabriel B.][GabrielBGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
