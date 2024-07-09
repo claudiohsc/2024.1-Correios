@@ -932,7 +932,7 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <center>
 
     | ID | Pergunta | Objetivo Relacionado | Resposta |
-    | :-:| -------- | ------------------ |
+    | :-:| -------- | ------------------ | ---------- |
     | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Incompleto |
     | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim |
     | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Sim, ao identificar na tela inicial de login onde estava a tarefa desejada. |
@@ -946,7 +946,7 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <center>
 
     | ID | Pergunta | Objetivo Relacionado | Resposta |
-    | :-:| -------- | ------------------ |
+    | :-:| -------- | ------------------ | ---------- |
     | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Sim. |
     | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim. |
     | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Não. |
@@ -960,7 +960,7 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <center>
 
     | ID | Pergunta | Objetivo Relacionado | Resposta |
-    | :-:| -------- | ------------------ |
+    | :-:| -------- | ------------------ | ---------- |
     | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Sim. |
     | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim. |
     | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Não. |
