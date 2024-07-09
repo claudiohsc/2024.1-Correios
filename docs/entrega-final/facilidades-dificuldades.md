@@ -21,7 +21,9 @@ No decorrer do semestre na realização desse projeto da matéria de IHC foi per
 
 #### **Gabriel Bertolazi**
 
-Durante a execução do projeto como maior facilidade o trabalho em grupo em geral, todos do grupo trabalharam de forma igualitária sempre com voa comunicação, sempre fazendo as tarefas no prazo estipulado, também sempre ajudando um ao outro em questão de conteúdo da matéria em si, sempre corrigindo um ao outro, apontando erros de forma respeitosa, além disso o conteúdo muito bem apresentado. Talvez a maior dificuldade do projeto talvez tenha sido o planejamento inicial do projeto, como inicialmente não tínhamos uma noção muito boa do esforço necessário para cada artefato, algumas tarefas pesaram mais para uns membros que para outros.
+Durante a execução do projeto, uma das maiores facilidades foi o trabalho em grupo. Todos os membros se dedicaram de maneira igualitária, mantendo uma comunicação eficaz e constante. Cada tarefa foi realizada dentro dos prazos estipulados, demonstrando um comprometimento coletivo com o sucesso do projeto. Além disso, a equipe se destacou pelo espírito colaborativo, com todos se ajudando mutuamente em relação ao conteúdo da matéria. Quando surgiam dúvidas ou dificuldades, os membros do grupo estavam sempre dispostos a oferecer suporte e corrigir uns aos outros de forma respeitosa e construtiva. Esse ambiente de apoio mútuo não apenas facilitou a execução das tarefas, mas também contribuiu para um aprendizado mais profundo e integrado de todos os participantes. O conteúdo produzido foi de alta qualidade e bem apresentado, refletindo o esforço conjunto e a sinergia do grupo. O trabalho em equipe não só proporcionou uma distribuição equilibrada das responsabilidades, mas também fortaleceu o vínculo entre os membros, promovendo um ambiente de trabalho harmonioso e produtivo.
+
+
 
 #### **Gabriel Fernando**
 
@@ -46,9 +48,9 @@ Eu acredito que a maior dificuldade foi o gerenciamento do tempo que tínhamos p
 
 No decorrer do semestre as maiores dificuldades foram principalmente a organização e gerenciamento do tempo necessário para a matéria, levando em conta as entregas semanais e o quão laboroso eram alguns dos artefatos de alguma entregas, também tivemos alguns obstáculos para realizar algumas etapas como artefatos de validação, perfil de usuário, relato de resultado, que por necessitarmos de pessoas para serem entrevistadas e com o perfil de usuário que foi elicitados não foi uma tarefa muito simples. As reuniões de alinhamento do grupo e das apresentações também se mostraram ações e tarefas dificultosas por diversas vezes sendo por causa do tamanho de algumas entregas, levando os membros do grupo a ficarem fadigados com algumas etapas e ficarem menos enérgicos nas entregas.
 
-#### **Gabriel Bertolazzi**
+#### **Gabriel Bertolazi**
 
-
+A maior dificuldade do projeto provavelmente foi o planejamento inicial. No começo, enfrentamos desafios significativos devido à falta de uma noção precisa do esforço necessário para a criação e desenvolvimento de cada artefato. Essa incerteza inicial resultou em uma distribuição desigual das tarefas entre os membros do grupo, o que acabou sobrecarregando alguns enquanto outros tinham uma carga de trabalho relativamente menor. Essa disparidade na distribuição de tarefas gerou algumas dificuldades adicionais, como a necessidade de reavaliar constantemente o cronograma e realocar recursos para garantir que todas as atividades fossem concluídas dentro dos prazos estipulados. A falta de experiência na estimativa de tempo e esforço para cada atividade foi um fator crucial que complicou o planejamento. Além disso, a diversidade das habilidades e experiências individuais dos membros do grupo contribuiu para essa distribuição desigual, já que algumas tarefas exigiam competências específicas que nem todos possuíam.
 
 #### **Gabriel Fernando**
 
