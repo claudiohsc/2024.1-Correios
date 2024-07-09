@@ -35,10 +35,11 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 | ![Storyboard That](../assets/ferramentas/storyboardthat.png) | Storyboard That | Confecção do storyboard |
 | ![Materiais de escrever](../assets/ferramentas/lapis.png) | Materiais de escrever (lápis, lapiseira, caneta, borracha) | Confecção do protótipo de papel |
 | ![Papel](../assets/ferramentas/papel.jpg) | Papel | Confecção do protótipo de papel |
+| ![OBS Studio](../assets/ferramentas/obs.svg) | OBS Studio | Gravação de telas |
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), [Ricardo Augusto][RicardoGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -71,6 +72,8 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 > 14. Justinmind. Disponível em: <https://www.justinmind.com/>. Acesso em: 08 de jul. de 2024.
 >
 > 15. Storyboard That. Disponível em: <https://www.storyboardthat.com/pt>. Acesso em: 08 de jul. de 2024.
+>
+> 16. OBS Studio. Disponível em: <https://obsproject.com/pt-br/download>. Acesso em: 08 de jul. de 2024.
 
 ## Histórico de Versões
 

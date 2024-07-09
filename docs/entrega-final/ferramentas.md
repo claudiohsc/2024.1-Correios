@@ -48,9 +48,9 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
-    | ![Logo do Google Forms](../assets/ferramentas/forms.svg) | Google Forms | Produção e distribuição de questionarios e formularios online. |
+    | ![Logo do Google Forms](../assets/ferramentas/forms.svg) | Google Forms | Produção e distribuição de questionário para realização do perfil do usuário. |
     | ![Logo do TPDNE](../assets/ferramentas/personnotexist.jpg) | This person does not exist | Geração de imagens para as personas do projeto. |
-    | ![Logo do Draw.io](../assets/ferramentas/drawio.png) | Draw.io | Produção de diagramas UML. |
+    | ![Logo do Draw.io](../assets/ferramentas/drawio.png) | Draw.io | Produção de diagramas para análise hierárquica de tarefas. |
 
     </center>
 
@@ -75,7 +75,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
-    | ![Logo do Figma](../assets/ferramentas/figma.png) | Figma | Produção do protótipo de alta fidelidade. |
+    | ![Logo do Figma](../assets/ferramentas/figma.png) | Figma | Exibição de prints com elementos de interface no guia de estilo. |
 
     </center>
 
@@ -149,6 +149,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+    | ![OBS Studio](../assets/ferramentas/obs.svg) | OBS Studio | Gravação de telas para vídeos de verificação de artefatos. |
 
     </center>
 
@@ -199,6 +200,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+    | ![OBS Studio](../assets/ferramentas/obs.svg) | OBS Studio | Gravação de telas para vídeos de verificação de artefatos. |
 
     </center>
 
@@ -225,6 +227,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
     | ![Logo do Figma](../assets/ferramentas/figma.png) | Figma | Produção do protótipo de alta fidelidade. |
     | ![Just In Mind](../assets/ferramentas/justinmind.png) | Justinmind | Produção do protótipo de alta fidelidade |
+    | ![OBS Studio](../assets/ferramentas/obs.svg) | OBS Studio | Gravação de telas para vídeos de verificação de artefatos. |
 
     </center>
 
@@ -286,6 +289,8 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
 > 14. Justinmind. Disponível em: <https://www.justinmind.com/>. Acesso em: 08 de jul. de 2024.
 >
 > 15. Storyboard That. Disponível em: <https://www.storyboardthat.com/pt>. Acesso em: 08 de jul. de 2024.
+>
+> 16. OBS Studio. Disponível em: <https://obsproject.com/pt-br/download>. Acesso em: 08 de jul. de 2024.
 
 
 ## Histórico de Versões
