@@ -198,6 +198,14 @@ Artefato destinado a documentar e organizar todos os vídeos das apresentações
 
     Entrega final
 
+    <div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7-6hqKV-1SE" title="Apresentação final de Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <p style="text-align: center">
+        <a href="https://www.youtube.com/watch?v=7-6hqKV-1SE"> Link para o vídeo </a>
+    </p>
+
     Integrantes presentes na apresentação da entrega final:
 
     <label><input type="checkbox" checked disabled>[Cláudio Henrique][ClaudioGH]</label><br>
