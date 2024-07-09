@@ -55,7 +55,7 @@ Ao longo das diversas fases, do planejamento à verificação, foram empregadas 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 04/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [][] |
+| `1.0`  | 04/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Ricardo A.][RicardoGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
