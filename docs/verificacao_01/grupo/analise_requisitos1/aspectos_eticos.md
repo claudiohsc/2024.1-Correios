@@ -106,15 +106,13 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 10
-    "Não" : 5
-    "Incompleto" : 5
-    "Não se Aplica" : 1
+    "Sim" : 9
+    "Incompleto" : 1
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -126,6 +124,7 @@ pie
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 25/06/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Gabriel][GabrielBGH] |
 | `1.1`  | 25/06/2024 | Verificação com Checklist| [Elias F. Oliveira][EliasGH] | [Gabriel][GabrielBGH]  |
+| `1.2`  | 08/07/2024 | Corrigi gráfico de pizza | [Gabriel F. J. Silva][GabrielFGH] | [Gabriel B. Bertolazi][GabrielBGH]  |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

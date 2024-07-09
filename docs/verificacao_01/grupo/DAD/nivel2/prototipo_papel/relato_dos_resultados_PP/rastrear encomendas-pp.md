@@ -133,8 +133,8 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [][] |
-
+| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel B. Bertolazi][GabrielBGH] | [Gabriel F. J. Silva][GabrielFGH] |
+| `1.1`  | 26/06/2024 | Aplicação do Checklist | [Cláudio][ClaudioGH] | [Gabriel F. J. Silva][GabrielFGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

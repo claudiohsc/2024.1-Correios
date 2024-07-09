@@ -97,7 +97,7 @@ pie
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024.</p></font>
 
 ## Bibliografia
 
@@ -107,8 +107,8 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [][] |
-| `1.1`  | 25/06/2024 | Aplicação do checklist | [Gabriel B. Bertolazi][GabrielBGH] | [][] |
+| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Elias F. Oliveira][EliasGH] |
+| `1.1`  | 25/06/2024 | Aplicação do checklist | [Gabriel B. Bertolazi][GabrielBGH] | [Elias F. Oliveira][EliasGH] |
 
 [ref-pg-303]: ../../../../assets/prints_verificacao/gabrielf/(Protótipo%20de%20Alta%20Fidelidade)%20Planejamento%20do%20Relato%20ref%20-%20pg%20303.jpeg
 [ClaudioGH]: https://github.com/claudiohsc

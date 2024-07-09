@@ -245,7 +245,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| `1.0` | 11/06/2024 | Criação do documento | [Gabriel B. Bertolazi](GabrielbGH) |  |
+| `1.0` | 11/06/2024 | Criação do documento | [Gabriel B. Bertolazi](GabrielbGH) | [Gabriel F.][GabrielfGH] |
 
 
 [GabrielfGH]: https://github.com/MMcLovin

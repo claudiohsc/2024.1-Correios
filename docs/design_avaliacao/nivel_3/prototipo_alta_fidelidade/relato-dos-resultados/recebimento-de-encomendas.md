@@ -241,7 +241,7 @@ Abaixo temos a tabela 06 com o cronograma executado do reprojeto:
 
 | Funcionalidade | Autor | Revisor | Data | Status |
 | :----- | :-----------: | :----------: |:----------: |:----------: |
-| Recebiemnto de encomendas | Gabriel B. Bertolazi | Gabriel F. J. Silva | 05/07/2024 | Implementado |
+| Recebimento de encomendas | Gabriel B. Bertolazi | Gabriel F. J. Silva | 05/07/2024 | Implementado |
 
 
 <font size="2"><p style="text-align: center">[Gabriel B. Bertolazi][GabrielBGH] </p></font>
@@ -256,7 +256,7 @@ Abaixo temos a tabela 06 com o cronograma executado do reprojeto:
 
 | Versão | Data | Descrição | Autor | Revisor | 
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 03/07/2024 | Criação do documento| [Gabriel B. Bertolazi][GabrielBGH]| | [Gabriel F. J. Silva][GabrielFGH] |
+|`1.0`| 03/07/2024 | Criação do documento| [Gabriel B. Bertolazi][GabrielBGH]| [Gabriel F. J. Silva][GabrielFGH] |
 
 [GabrielFGH]: https://github.com/MMcLovin
 [GabrielBGH]: https://github.com/https://github.com/Bertolazi
