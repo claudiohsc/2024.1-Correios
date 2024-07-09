@@ -20,27 +20,27 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
 |Análise de Requisitos 1| Aspectos éticos e termo de consentimento | `1.1`|13/05/2024|  [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Elias F.][EliasGH]|
-|Análise de Requisitos 1| Perfil usuário - Questionário e Grupo de Foco | `1.2`|08/05/2024| [Claudio H][ClaudioGH] e [Elias F.][EliasGH]|  [Gabriel F.][GabrielFGH]|
+|Análise de Requisitos 1| Perfil usuário - Questionário e Grupo de Foco | `1.2`|08/05/2024| [Claudio H][ClaudioGH] e [Elias F.][EliasGH]|  [Gabriel F. J. Silva][GabrielFGH]|
 |Análise de Requisitos 1| Personas | `1.1`|10/05/2024|  [Pablo S.][PabloGH] | [Claudio H][ClaudioGH] |
-|Análise de Requisitos 1| Cenários | `1.0`|21/05/2024|  [Claudio H][ClaudioGH] e   [Gabriel F.][GabrielFGH] |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
-|Análise de Requisitos 1| Análise tarefas - HTA	 | `1.1`|01/06/2024| [Gabriel F.][GabrielFGH] e [Ricardo A.][RicardoGH]  |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
-|Análise de Requisitos 1| Análise tarefas - GOMS | `1.1`|03/06/2024|[Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
-|Análise de Requisitos 2| Princípios gerais do projeto | `1.0`|12/05/2024|  [Claudio H][ClaudioGH] e [Elias F.][EliasGH] | [Gabriel F.][GabrielFGH]|
-|Análise de Requisitos 2| Metas usabilidade | `1.0`|12/05/2024| [Gabriel B.][GabrielBGH] e [Gabriel F.][GabrielFGH] |[Elias F.][EliasGH] |
+|Análise de Requisitos 1| Cenários | `1.0`|21/05/2024|  [Claudio H][ClaudioGH] e   [Gabriel F. J. Silva][GabrielFGH] |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
+|Análise de Requisitos 1| Análise tarefas - HTA	 | `1.1`|01/06/2024| [Gabriel F. J. Silva][GabrielFGH] e [Ricardo A.][RicardoGH]  |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
+|Análise de Requisitos 1| Análise tarefas - GOMS | `1.1`|03/06/2024|[Gabriel B.][GabrielBGH] e [Gabriel F. J. Silva][GabrielFGH] |[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |
+|Análise de Requisitos 2| Princípios gerais do projeto | `1.0`|12/05/2024|  [Claudio H][ClaudioGH] e [Elias F.][EliasGH] | [Gabriel F. J. Silva][GabrielFGH]|
+|Análise de Requisitos 2| Metas usabilidade | `1.0`|12/05/2024| [Gabriel B.][GabrielBGH] e [Gabriel F. J. Silva][GabrielFGH] |[Elias F.][EliasGH] |
 |Análise de Requisitos 2| Guia de estilo | `1.0`|10/05/2024| [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |[Elias F.][EliasGH]  |
 |Análise de Requisitos 2| Características da plataforma | `1.0`|13/05/2024| [Gabriel B.][GabrielBGH] e [Pablo S.][PabloGH] |  [Pablo S.][PabloGH] |
-|Design, avaliação e desenvolvimento| N1 - AT - Planejamento da avaliação | `1.1`|24/05/2024| [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH] | [Ricardo A.][RicardoGH] |
+|Design, avaliação e desenvolvimento| N1 - AT - Planejamento da avaliação | `1.1`|24/05/2024| [Claudio H][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | [Ricardo A.][RicardoGH] |
 |Design, avaliação e desenvolvimento| N1 - AT - Planejamento do relato | `1.0`|22/05/2024| [Elias F.][EliasGH] e [Gabriel B.][GabrielBGH] |   [Claudio H.][ClaudioGH]  |
-|Design, avaliação e desenvolvimento| N1 - AT - Relato dos resultados | `1.0`|02/06/2024|  [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]| [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]  |
+|Design, avaliação e desenvolvimento| N1 - AT - Relato dos resultados | `1.0`|02/06/2024|  [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]| [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]  |
 |Design, avaliação e desenvolvimento| N1 - SB - Planejamento da avaliação | `1.1`|24/05/2024|  [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] |[Elias F.][EliasGH] |
-|Design, avaliação e desenvolvimento| N1 - SB - Planejamento do relato	 | `1.0`|21/05/2024| [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH]| [Claudio H][ClaudioGH]   |
-|Design, avaliação e desenvolvimento| N1 - SB - Relato dos resultados	 | `1.0`|03/06/2024|  [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]| [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]  |
-|Design, avaliação e desenvolvimento| N1 - SB - Storyboards	 | `2.0`|01/06/2024| [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]  |
+|Design, avaliação e desenvolvimento| N1 - SB - Planejamento do relato	 | `1.0`|21/05/2024| [Claudio H][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH]| [Claudio H][ClaudioGH]   |
+|Design, avaliação e desenvolvimento| N1 - SB - Relato dos resultados	 | `1.0`|03/06/2024|  [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]| [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]  |
+|Design, avaliação e desenvolvimento| N1 - SB - Storyboards	 | `2.0`|01/06/2024| [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]  |
 |Design, avaliação e desenvolvimento| N2 - PP - Planejamento da avaliação	 | `1.2`|18/06/2024|  [Gabriel B.][GabrielBGH] e [Ricardo A.][RicardoGH]  | [Elias F.][EliasGH]   |
 |Design, avaliação e desenvolvimento| N2 - PP - Planejamento do relato	 | `1.0`|01/06/2024|[Claudio H][ClaudioGH] e [Elias F.][EliasGH] | [Ricardo A.][RicardoGH]   |
-|Design, avaliação e desenvolvimento| N2 - PP - Relato dos Resultados	 | `1.0`|01/06/2024|[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F.][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]   |
+|Design, avaliação e desenvolvimento| N2 - PP - Relato dos Resultados	 | `1.0`|01/06/2024|[Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH] | [Claudio H.][ClaudioGH], [Elias F.][EliasGH], [Gabriel B.][GabrielBGH], [Gabriel F. J. Silva][GabrielFGH], [Pablo S.][PabloGH] e [Ricardo A.][RicardoGH]   |
 |Design, avaliação e desenvolvimento| N3 - PAF - Planejamento da avaliação	 | `1.0`|18/06/2024|[Elias F.][EliasGH] e [Pablo S.][PabloGH] |[Pablo S.][PabloGH]  |
-|Design, avaliação e desenvolvimento| N3 - PAF - Planejamento do relato | `1.0`|19/06/2024| [Claudio H][ClaudioGH] e [Gabriel F.][GabrielFGH] | [Gabriel B.][GabrielBGH]  |
+|Design, avaliação e desenvolvimento| N3 - PAF - Planejamento do relato | `1.0`|19/06/2024| [Claudio H][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | [Gabriel B.][GabrielBGH]  |
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
@@ -53,7 +53,7 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 26/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] e [Claudio Henrique][ClaudioGH]  | [][] |
+|`1.0`| 26/06/2024 | Criação do documento| [Elias F. Oliveira][EliasGH] e [Claudio Henrique][ClaudioGH]  | [Ricardo][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

@@ -61,7 +61,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| `1.0` | 08/06/2024 | Criação do documento | [Gabriel B. Bertolazi](GabrielbGH) |
+| `1.0` | 08/06/2024 | Criação do documento | [Gabriel B. Bertolazi](GabrielbGH) | [Elias F. Oliveira][EliasGH] |
 
 [GabrielfGH]: https://github.com/MMcLovin
 [GabrielbGH]: https://github.com/https://github.com/Bertolazi
