@@ -316,6 +316,19 @@ Neste artefato é são apresentadas abaixo 8 tabelas de acordo com cada etapa do
 
     |Artefatos|Autor(s)|Revisor(s)|
     |---------|--------|----------|
+    |[Site Selecionado](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/site-selecionado/)| Claudio | Ricardo |
+    |[Ciclo de Vida Utilizado](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/ciclo-de-vida/)| Elias | Claudio |
+    |[Planejamento](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/Planejamento/)| Gabriel B. | Gabriel F. |
+    |[Execução do Projeto](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/execucao-projeto/)| Gabriel F. | Claudio |
+    |[Técnicas Utilizadas](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/tecnicas-utilizadas/)| Claudio | Ricardo |
+    |[Os resultados alcançados com a execução do projeto](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/resultados/)| Pablo | Claudio |
+    |[Ferramentas Utilizadas](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/ferramentas/)| Ricardo | Claudio |
+    |[Artefatos Criados em Cada Etapa](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/artefatos-criados/)| Elias | Claudio |
+    |[Avaliações Realizadas](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/avaliacoes/)| Gabriel B. | Gabriel F. |
+    |[Síntese das Verificações - Grupo+1 (PC-DF)](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/sintese-verificacao/grupo%2B1/)| Gabriel B. | Gabriel F. |
+    |[Síntese das Verificações - Grupo 3 (Correios)](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/sintese-verificacao/grupo3/)| Gabriel F. | Claudio |
+    |[Vídeos das Apresentações](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/videos/)| Ricardo | Elias |
+    |[Facilidades e Dificuldades](https://interacao-humano-computador.github.io/2024.1-Correios/entrega-final/facilidades-dificuldades/)| Claudio | Ricardo |
 
     </center>
 
