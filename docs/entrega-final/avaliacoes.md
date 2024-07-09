@@ -844,6 +844,62 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <b>Tabela 40</b> 
     </p></font>
 
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado | Resposta |
+    | :-:| -------- | ------------------ | -----------|
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Sim. |
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Não. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  | Não se aplica. |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface| Não. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado | Resposta |
+    | :-:| -------- | ------------------ | -----------|
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Sim. |
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim. |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Não. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  | Não se aplica. |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface| Não. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado | Resposta |
+    | :-:| -------- | ------------------ | -----------|
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Sim. |
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim. |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Sim, pela não implementação total da funcionalidade. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  | Tela inicial da loja. |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface| Sim, para verificar se a funcionalidade de filtragemjá estaria ativada. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado | Resposta |
+    | :-:| -------- | ------------------ | -----------|
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Sim. |
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim. |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Não. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  | Não se aplica.|
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface| Não. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+
 === "Gabriel B."
     O aluno Gabriel B. Bertolazi ficou responsável pela funcionalidade de Receber Encomendas.
     As tabelas 41 e 42 mostradas abixo mostram os participantes da entrevista e os resultados da avaliação.
@@ -1037,7 +1093,7 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     ont size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 3</b> 
+    <b>Tabela 47</b> 
     </p></font>
 
     <center>
@@ -1055,8 +1111,22 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     <font size="4"><p style="text-align: center">**Resultado da avaliacão**</p></font>
 
     <font size="2"><p style="text-align: center;">
-    <b>Tabela 4</b> 
+    <b>Tabela 48</b> 
     </p></font>
+
+    <center>
+
+    | ID | Pergunta | Resposta |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Sim, os usuários seguiram o caminho feliz da funcionalidade proposta com facilidade e sem se perderem. | 
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? | Sim, todos os participantes atingiram o objetivo principal da funcionalidade. |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? | Os usuários não tiveram obstáculos. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? | Não foram encontrados obstáculos. |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Nenhum usuário precisou de auxílio. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
 
 
 ## Histórico de versões
