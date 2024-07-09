@@ -50,6 +50,16 @@ Utilizando o método da avaliação heurística, guiada pelo framework DECIDE, e
 
 - Consistência e padronização: Algumas telas do sistema são muito diferentes do usual do site, que por vezes mostram funcionalidades que não podem ser acessadas.
 
+## Motivações de Escolha
+
+Com base na avaliação feita do site, abaixo elencamos alguns pontos importantes que auxiliaram a nossa escolha do site dos [Correios](https://www.correios.com.br/) para ser o foco do nosso projeto:
+
+- **Oportunidade de melhora na interface**: O site dos [Correios](https://www.correios.com.br/) apresenta funcionalidades que fogem do padrão aplicado pela organização em outras partes do site, além de possuir algumas seções com design totalmente desatualizado. Isso nos dá uma ótima motivação para escolher o site como foco do nosso projeto;
+
+- **Público acessível**: A plataforma dos [Correios](https://www.correios.com.br/) possui um enorme público e com uma variação de idade grande também, e isso nos dá uma facilidade em realizar pesquisas e estudo sobre a plataforma, pois será mais fácil de encontrar usuários que utilizam ou já utilizaram a plataforma alguma vez;
+
+- **Complexidade Adequada**: O site dos [Correios](https://www.correios.com.br/) possui muitas funcionalidades e a maioria delas possui um nível de complexidade ótimo para desenvolver o projeto da disciplina de Interação Humano Computador. Algumas funcionalidades são mais simples, porém outras exigem grande quantidade de passos e abrem um leque de caminhos para o usuário seguir, assim tornando-o um site excelente para a escolha como foco do projeto.
+
 
 ## Bibliografia
 
@@ -64,3 +74,4 @@ Utilizando o método da avaliação heurística, guiada pelo framework DECIDE, e
 |`1.0`| 08/04/2024 | [Ricardo Augusto](https://www.github.com/avmricardo) | Criação do documento | [Claudio Henrique](https://github.com/claudiohsc)
 |`1.1`| 08/04/2024 | [Ricardo Augusto](https://www.github.com/avmricardo) | Ajuste de bibliografia |  [Pablo S. Costa](https://www.github.com/pabloheika)
 |`1.2`| 08/04/2024 | [Elias Oliveira](https://www.github.com/EliasOliver21) | Adição da avaliação do Site dos correios | [Claudio Henrique](https://github.com/claudiohsc)
+|`1.3`| 07/07/2024 | [Claudio Henrique](https://www.github.com/claudiohsc) | Adição da seção de Motivações de Escolha |  [Elias F.](https://www.github.com/EliasOliver21)|
