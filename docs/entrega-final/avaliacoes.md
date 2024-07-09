@@ -976,7 +976,7 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     O aluno F. J. Silva ficou responsável pela funcionalidade de Realizar Pré-Postagem.
     As tabelas 43 e 44 mostradas abixo mostram os participantes da entrevista e os resultados da avaliação.
 
-    ont size="4"><p style="text-align: center">**Participantes**</p></font>
+    <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
     <b>Tabela 43</b> 
@@ -1046,7 +1046,7 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     O aluno Pablo ficou responsável pela funcionalidade de Gerenciar Minhas Importações.
     As tabelas 45 e 46 mostradas abixo mostram os participantes da entrevista e os resultados da avaliação.
 
-    ont size="4"><p style="text-align: center">**Participantes**</p></font>
+    <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
     <b>Tabela 45</b> 
@@ -1090,7 +1090,7 @@ Nesse artefato estão presentes as avaliações realizadas pelo grupo, começand
     O aluno Ricardo ficou responsável pela funcionalidade de Rastrear Encomendas.
     As tabelas 47 e 48 mostradas abixo mostram os participantes da entrevista e os resultados da avaliação.
 
-    ont size="4"><p style="text-align: center">**Participantes**</p></font>
+    <font size="4"><p style="text-align: center">**Participantes**</p></font>
 
     <font size="2"><p style="text-align: center;">
     <b>Tabela 47</b> 
