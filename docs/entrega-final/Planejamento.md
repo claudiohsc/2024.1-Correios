@@ -409,6 +409,14 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 20</b> 
     </p></font>
 
+    | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
+    | --- | --- | --- | --- | --- |
+    | Gravação da apresentação | Início: 08/07 <br>Fim: 08/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 08/07 <br>Fim: 08/07 | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+    | Artefato de apresentação | Início: 08/07 <br>Fim: 08/07 | Gabriel F. J. Silva | Início: 08/07 <br>Fim: 08/07 | Elias |
+    | Correção pós apresentação | Início: 09/07 <br>Fim: - | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 09/07 <br>Fim: - | Claúdio, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
+
+    <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
+
 ## Histórico de versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
