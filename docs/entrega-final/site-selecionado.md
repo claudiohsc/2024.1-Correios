@@ -54,7 +54,7 @@ Com base nas nossas motivações de escolha e todos os aspectos que selecionamos
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 04/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [][] |
+| `1.0`  | 04/07/2024 | Criação do documento | [Claudio Henrique][ClaudioGH] | [Ricardo A.][RicardoGH] |
 
 
 [ClaudioGH]: https://github.com/claudiohsc
