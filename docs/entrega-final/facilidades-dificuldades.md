@@ -32,7 +32,7 @@ Durante o projeto, tive facilidades principalmente na comunicação e entendimen
 
 #### **Ricardo Augusto**
 
-Minha maior facilidade ao longo do semestre foi a comunicação com os integrantes do grupo, essa boa comunicação permitiu uma divisão igual de tarefas para que nenhum integrante ficasse sobrecarregado ou ocioso, e ajudou também na organização e desenvolvimento do projeto. Outro bom ponto foi a bibliografia utilizada, o principal livro de interação humano computador de Barbosa e Silva (2021) é bem explicativo e deu para sentir que ele ajudou bastante na organização dos artefatos e no conteúdo que ele dispõe.
+Minha maior facilidade ao longo do semestre foi a comunicação com os integrantes do grupo, essa boa comunicação permitiu uma divisão igual de tarefas para que nenhum integrante ficasse sobrecarregado ou ocioso, e ajudou também na organização e desenvolvimento do projeto. Outro bom ponto foi a bibliografia utilizada, o principal livro é bem explicativo e deu para sentir que ele ajudou bastante na organização dos artefatos e no conteúdo que ele dispõe.
 
 
 ## Dificuldades
