@@ -13,13 +13,13 @@ Neste artefato iremos utilizar como base os princípios e diretrizes para o desi
 
 Para essa análise os membros, [Claudio Henrique](https://github.com/claudiohsc) e [Elias Faria](https://github.com/EliasOliver21), realizaram uma observação das principais funcionalidades e telas do site, e assim foram pontuando as violações dos princípios e diretrizes do design de IHC.
 
-### Correspondência com as Expectativas dos Usuários
+## Correspondência com as Expectativas dos Usuários
 
-## Definição
+### Definição
 
 De acordo com Norman(1988), levando em consideração as variáveis pisicológicas e físicas que envolvem o sistema em questão, o usuário deve perceber a relação entre suas intenções e ações possíveis; perceber a relação entre o estado atual e o que é percebido pela visão; entre o estado percebido do sistema e as vontades, intenções e expectativas dos usuários.
 
-## Violação
+### Violação
 
 Na figura 01 é possível ver no site dos Correios, logo na página inicial, a violação de um dos princípios de Norman descrito acima, tendo em foco o chat bot nomeado de "Carol" localizado no canto inferior direito da tela. Ao clicar, é aberto uma aba e o chat envia uma breve descrição sobre a ferramenta, e ao fim apresenta opções para o usuário.
 
@@ -36,11 +36,19 @@ Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
+## Simplicidade nas Estruturas das Tarefas
+
+### Definição
+
+Significa priorizar a simplicidade ao invés da complicação com relação a estrutura das tarefas e quantidade de resolução de problemas que elas requerem. As tarefas desnecessariamente complexas podem ser reestruturadas utilizando inovações tecnológicas.
+
+Nessa diretriz o site dos correios possui uma simplicidade aceitável na estrutura das tarefas, onde permite que o usuário chegue ao final das funcionalidades com pequenos passos e informações básicas sobre o seu objeto.
 
 
-### Conteúdo Relevante e Expressão adequada
 
-## Definição
+## Conteúdo Relevante e Expressão adequada
+
+### Definição
 
 Segundo Gride(1975) a interação polida leva em conta quatro máximas, que são : Quantidade, qualidade, relação e modo ou clareza.
 
@@ -54,7 +62,7 @@ Segundo Gride(1975) a interação polida leva em conta quatro máximas, que são
 
 Nielsen(1994) mostra também sobre a máxima de quantidade que o projeto deve ser estético e minimalista, fazendo com que os textos e diálogos não contenham informações desnecessárias ou irrelevantes.
 
-## Violação
+### Violação
 
 Na Figura 02, é evidente que, ao acessar a página "receber encomendas", um usuário que procura utilizar a funcionalidade de localizar sua encomenda ou encontrar uma agência do correio para receber seu pacote se depara com informações sobre os Correios que podem não ser tão relevantes para sua necessidade imediata. Nielsen destaca a importância de uma página polida e simples, priorizando a experiência do usuário que busca uma funcionalidade específica.
 
@@ -118,6 +126,35 @@ Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 </center>
 
 
+## Promovendo a Eﬁciência do Usuário
+
+### Definição
+
+A eficiência do usuário vem sempre antes da eficiência do computador, e isso significa minimizar obstáculos durante a interação do usuário, permitindo que eles realizem tarefas de forma a não perder tempo e de forma eficaz. Economia de tempo e esforço do usuário costumam trazer mais benefícios do que economias com o computador.
+
+### Violação
+
+Na parte do site de Pré-postagem Internacional (Simular preços e prazos internacionais), o site apresenta um aviso sobre a disponibilidade de serviços por país de destino. Ao clicar nesse link, o site faz o download de um arrquivo contendo os serviços disponíveis por país, e isso promove uma demora no cálculo, pois essa informação podia estar acessível diretamente no site ou já filtrado na lista de países selecionáveis. Isso pode ser observado na figura 06.
+
+<p style="text-align: center">Figura 06 - Simulação Preços e Prazos Internacionais</p>
+
+![](../assets/princípios_gerais/pre-postagem-internacional.png)
+
+
+<center>
+
+Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
+
+</center>
+
+## Antecipação das Necessidades do Usuário
+
+### Definição
+
+Essa diretriz envolve apresentar informações relevantes antes que elas sejam explicitamente solicitadas, em resumo as aplicações devem tentar prever o que o usuário quer e precisa, e assim tornando a interação mais eficaz.
+
+Não foi encontrado no site partes ou funcionalidades que violassem essa diretriz.
+
 ## Equilíbrio entre Controle e Liberdade do Usuário
 
 ### Definição
@@ -128,9 +165,9 @@ Norman (1988), Nielsen (1994), Tognazzini (2014), Shneiderman (1998) e Cooper (1
 
 A violação é observada quando o usuário, após fazer o login, entra na página de Pré-postagem e deseja voltar a página inicial, não consegue voltar, pois não existem setas ou botões que levem de volta para a página inicial do site.
 
-E mesmo clicando na logo dos Correios, como mostra a figura 06, o site somente recarrega e mantém a mesma tela.
+E mesmo clicando na logo dos Correios, como mostra a figura 07, o site somente recarrega e mantém a mesma tela.
 
-<p style="text-align: center">Figura 06 - Painel Pré-postagem</p>
+<p style="text-align: center">Figura 07 - Painel Pré-postagem</p>
 
 ![](../assets/princípios_gerais/violacao_pre_postagem.png)
 
@@ -150,12 +187,12 @@ De acordo com Norman (1988), os designers têm a responsabilidade de criar siste
 
 ### Violação
 
-Abaixo vemos na figura 07, 08 e 09 que o usuário ao entrar em suas informações de login observa que existem algumas opções como: historico de tokens e permissões recebidas, que viola a diretriz de visibilidade e reconhecimento não mostrando o estado do sistema ao entrar na página. 
+Abaixo vemos na figura 08, 09 e 10 que o usuário ao entrar em suas informações de login observa que existem algumas opções como: historico de tokens e permissões recebidas, que viola a diretriz de visibilidade e reconhecimento não mostrando o estado do sistema ao entrar na página. 
 
 É observado também uma opção não muito intuitiva ao usuário para **retornar**, que é apenas uma seta pouco visível no canto superior esquerdo da tela. Outro ponto a destacar é que o sistema não disponibiliza uma opção para o usuário retornar a página incial do site.
 
 
-<p style="text-align: center">Figura 07 - Painel Meu Correios</p>
+<p style="text-align: center">Figura 08 - Painel Meu Correios</p>
 
 ![](../assets/princípios_gerais/violacao_tela_login.png)
 
@@ -166,7 +203,7 @@ Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
-<p style="text-align: center">Figura 08 - Página de Permissões Recebidas</p>
+<p style="text-align: center">Figura 09 - Página de Permissões Recebidas</p>
 
 
 ![](../assets/princípios_gerais/violacao_login_permissao.png)
@@ -178,7 +215,7 @@ Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
-<p style="text-align: center">Figura 09 - Histórico de Tokens</p>
+<p style="text-align: center">Figura 10 - Histórico de Tokens</p>
 
 ![](../assets/princípios_gerais/violacao_login_tokens.png)
 
@@ -190,9 +227,9 @@ Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 </center>
 
 <br>
-Na Figura 10 observamos que quando o usuário realiza o login e retorna a página inicial do site dos Correios, ele não consegue ver o estado do sistema com relação ao login, mas ao clicar novamente na opção de login ele já estará logado. Acontece na parte superior, no canto direito.
+Na Figura 11 observamos que quando o usuário realiza o login e retorna a página inicial do site dos Correios, ele não consegue ver o estado do sistema com relação ao login, mas ao clicar novamente na opção de login ele já estará logado. Acontece na parte superior, no canto direito.
 
-<p style="text-align: center">Figura 10 - Página inicial</p>
+<p style="text-align: center">Figura 11 - Página inicial</p>
 
 ![](../assets/princípios_gerais/violacao_tela_inicial.png)
 
@@ -202,6 +239,12 @@ Na Figura 10 observamos que quando o usuário realiza o login e retorna a págin
 Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
+
+## Projeto para Erros
+
+### Definição
+
+Norman(1988) sugere antecipar o acontecimento dos erros, já supondo suas eventuais ocorrências. O designer deve prevenir o usuário de realizar ações que são irreverssíveis e deve proporcionar ao usuário uma recuperação do erro, mostrando a ele como ocorreu o erro e suas consequências. Cooper(1999) sugere não posicionar por exemplo botões de funcionalidades frequentemente utilizadas pelo usuário a funcionalidades que realizam ações possívelmente indesejadas, como por exemplo desabilitar a conexão com a rede ethernet. Nielsen(1994c) recomenda evitar em prioridade a ocorrência de erros, mas em suas eventuais ocorrência o sistema deve informar ao usuário o que ocorreu e proporcionar a ele uma solução para as falhas que ocorreram.
 
 ## Referências Bibliográficas
 
@@ -224,3 +267,4 @@ Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 12/05/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| [Gabriel F. J. Silva](https://github.com/MMcLovin) |
+| `1.1`  | 08/07/2024 | Adição de princípios faltantes | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| [Gabriel F. J. Silva](https://github.com/MMcLovin) |
