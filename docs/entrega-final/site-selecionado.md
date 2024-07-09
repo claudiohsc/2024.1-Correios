@@ -13,7 +13,7 @@ O site dos Correios disponibiliza diversos serviços postais e logísticos para 
 - Disponibilidade de informações;
 - Site com funcionalidades que podem ser analisadas por vários integrantes.
 
-Além disso, com base nos critérios de avaliação heurística de Nielsen, a escolha do site dos [Correios](https://www.correios.com.br) para o nosso projeto foi motivada principalmente pelas questões abaixo:
+Além disso, a escolha do site dos [Correios](https://www.correios.com.br) para o nosso projeto foi motivada principalmente pelas questões abaixo:
 
 - **Complexidade das funcionalidades no site:** O site dos [Correios](https://www.correios.com.br) apresenta funcionalidades que possuem uma complexidade adequada para ser desenvolvida na disciplina de IHC. O site apresenta telas de cadastro de informações, envios de formulários, rastreio de objetos, simulação de fretes etc. Dessa forma, proporciona um desafio para o grupo, assim aplicando os conceitos aprendidos na disciplina;
 
