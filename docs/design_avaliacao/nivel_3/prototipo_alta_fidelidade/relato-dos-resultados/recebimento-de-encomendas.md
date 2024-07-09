@@ -101,6 +101,22 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
     <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024</p></font>
 
+    <font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário para o avaliado responder</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado | Resposta |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Incompleto |
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Sim, ao identificar na tela inicial de login onde estava a tarefa desejada. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  | Na página inicial de login onde o usuário demonstra dificuldade em achar a terefa, acontece em média uma vez. |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface| Não |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024</p></font>
+
 
 === "Gravação 02 Entrevistado: Emivalto Tavares"
 
@@ -113,7 +129,7 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
     [Link direto para o vídeo](https://youtu.be/K-gUZyP6DYY?si=zcvryp2gExoy4Lg_)
 
 
-    <font size="2"><p style="text-align: center">Tabela 3 - Perguntas do questionário para o usuário pós-teste.</p></font>
+    <font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
     <center>
 
@@ -131,6 +147,22 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
     <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024</p></font>
 
+    <font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário para o avaliado responder</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado | Resposta |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Sim. |
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim. |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Não. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  | O usuário não achou defeitos no protótipo mostrado. |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface| O usuário não solicitou ajuda. |
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024</p></font>
+
 
 === "Gravação 03 Entrevistado: Willdemberg Salles"  
 
@@ -143,7 +175,7 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
     [Link direto para o vídeo](https://youtu.be/OYN-o0vj9SA?si=7VqBX7cPn54SiIpg)
 
 
-    <font size="2"><p style="text-align: center">Tabela 4 - Perguntas do questionário para o usuário pós-teste.</p></font>
+    <font size="2"><p style="text-align: center">Tabela 5 - Perguntas do questionário para o usuário pós-teste.</p></font>
 
     <center>
 
@@ -152,10 +184,26 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
     | **1** | Como você avalia o design apresentado no protótipo?(péssimo, ruim, médio, bom, ótimo) | Ótimo |
     | **2** | Você acredita que a disposição dos itens e elementos na tela está bem organizada e de fácil visualização? | Sim |
     | **3** | Você teve obstáculos ao realizar alguma ação na aplicação ou ao utilizar a funcionalidade proposta? | Não entendeu muito bem onde deveria ter entrado. |
-    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não |
-    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim |
-    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não |
+    | **4** | Foi encontrado alguma falha durante o uso da funcionalidade apresentada? | Não. |
+    | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim. |
+    | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Não. |
 
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Gabriel B. Bertolazi][GabrielBGH], 2024</p></font>
+
+    <font size="2"><p style="text-align: center">Tabela 6 - Perguntas do questionário para o avaliado responder</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado | Resposta |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | Sim. |
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia | Sim. |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Não. |
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  | O usuário não identificou defeitos nos protótipos mostrados. |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface| O usuário não solicitou ajuda. |
 
     </center>
 

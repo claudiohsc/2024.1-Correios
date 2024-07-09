@@ -120,6 +120,24 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
 
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
 
+    Abaixo na tabela 03 temos as perguntas que o entrevistador respondeu analisando como o usuário utilizou o protótipo.
+
+    <font size="2"><p style="text-align: center">Tabela 03 - Perguntas do questionário para o avaliado responder</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | 
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface|
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
+
 === "Gravação 02 Entrevistado: Marcos Antônio"
 
     <font size="2"><p style="text-align: center">Vídeo 2 - Entrevista do protótipo de alta fidelidade com o usuário Marcos Antônio.</p></font>
@@ -194,8 +212,24 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
     | **5** | As tarefas mostradas são plauzíveis e representam bem a realidade? | Sim, o protótipo está bem fidedigno com a realidade. |
     | **5** | Você sugere alguma mudança no design da interface ou nas funcionalidades apresentadas? | Alterar a localização do filtro para a parte lateral esquerda do site, ao invés da parte superior onde ele se encontrava. |
 
+    </center>
+
+    Abaixo na tabela 07 temos as perguntas que o entrevistador respondeu analisando como o usuário utilizou o protótipo.
+
+    <font size="2"><p style="text-align: center">Tabela 07 - Perguntas do questionário para o avaliado responder</p></font>
+
+    <center>
+
+    | ID | Pergunta | Objetivo Relacionado |
+    | :-:| -------- | ------------------ |
+    | **1** | O usuário utilizou de forma correta a funcionalidade? | Analisar apropriação da tecnologia | 
+    | **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? |Analisar apropriação da tecnologia |
+    | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface|
+    | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  |
+    | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface|
 
     </center>
+
 
     <font size="2"><p style="text-align: center">Tabela 07 - Perguntas do questionário para o avaliador responder</p></font>
 
@@ -210,6 +244,7 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
     | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface| Sim, para verificar se a funcionalidade de filtragemjá estaria ativada. |
 
     </center>
+
 
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024</p></font>
 
@@ -253,6 +288,7 @@ Abaixo na figura 01 é mostrado o protótipo de alta fidelidade e logo abaixo te
     | **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? |Identificar problemas na interação e interface| Não. |
     | **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? |Identificar problemas na interação e interface  | Não se aplica.|
     | **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Identificar problemas na interação e interface| Não. |
+
 
     </center>
 
