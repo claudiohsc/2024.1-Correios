@@ -28,11 +28,11 @@ As principais facilidades encontradas por mim na disciplina foram: a comunicaç�
 
 #### **Pablo Santos**
 
-Durante o projeto, tive facilidades principalmente na comunicação e entendimento entre os membros do grupo, o que foi possível devido ao fato de estarmos no mesmo grupo em outra disciplina. A bibliografia completa da disciplina também foi um ponto positivo, permitindo esclarecer dúvidas através da leitura do livro de Barbosa e Silva (2021). Além disso, a divisão igualitária das tarefas entre os integrantes do grupo contribuiu para que nenhum membro fosse sobrecarregado.
+Durante o projeto, tive facilidades principalmente na comunicação e entendimento entre os membros do grupo, o que foi possível devido ao fato de estarmos no mesmo grupo em outra disciplina. A bibliografia completa da disciplina também foi um ponto positivo, permitindo esclarecer dúvidas através da leitura do livro. Além disso, a divisão igualitária das tarefas entre os integrantes do grupo contribuiu para que nenhum membro fosse sobrecarregado.
 
 #### **Ricardo Augusto**
 
-Minha maior facilidade ao longo do semestre foi a comunicação com os integrantes do grupo, essa boa comunicação permitiu uma divisão igual de tarefas para que nenhum integrante ficasse sobrecarregado ou ocioso, e ajudou também na organização e desenvolvimento do projeto. Outro bom ponto foi a bibliografia utilizada, o principal livro é bem explicativo e deu para sentir que ele ajudou bastante na organização dos artefatos e no conteúdo que ele dispõe.
+Minha maior facilidade ao longo do semestre foi a comunicação com os integrantes do grupo, essa boa comunicação permitiu uma divisão igual de tarefas para que nenhum integrante ficasse sobrecarregado ou ocioso, e ajudou também na organização e desenvolvimento do projeto. Outro bom ponto foi a bibliografia utilizada, o principal livro de interação humano computador de Barbosa e Silva (2021) é bem explicativo e deu para sentir que ele ajudou bastante na organização dos artefatos e no conteúdo que ele dispõe.
 
 
 ## Dificuldades
