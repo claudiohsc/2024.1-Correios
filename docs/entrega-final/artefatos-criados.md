@@ -309,7 +309,7 @@ Neste artefato é são apresentadas abaixo 8 tabelas de acordo com cada etapa do
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 04/07/2024 | Criação do documento |[Elias F. Oliveira][EliasGH] | [][] |
+| `1.0`  | 04/07/2024 | Criação do documento |[Elias F. Oliveira][EliasGH] | [Claudio][ClaudioGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21
