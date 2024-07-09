@@ -16,6 +16,7 @@ Durante o projeto, a maior facilidade que observei foi o planejamento geral da d
 
 #### **Elias Faria**
 
+No decorrer do semestre na realização desse projeto da matéria de IHC foi perceptível o engajamento e proatividade do grupo como um todo facilitando todo o desenvolvimento deste, desde a fase de planejamento com o nosso cronograma até as fases finais e mais complexas do projeto. A união do grupo nos proporcionou uma maior facilidade nas divisões dos responsáveis pelos artefatos e no apoio para a compreensão do conteúdo em questão. Outra fator que para mim nos auxiliou positivamente foi a bibliografia apresentada pelo professor, como o livro IHC da Simone Barbosa de 2021, que apresenta o conteúdo de uma forma simples e aprofundada facilitando na absorção do conteúdo e realização do artefatos necessários para o projeto.
 
 
 #### **Gabriel Bertolazi**
@@ -43,6 +44,7 @@ Eu acredito que a maior dificuldade foi o gerenciamento do tempo que tínhamos p
 
 #### **Elias Faria**
 
+No decorrer do semestre as maiores dificuldades foram principalmente a organização e gerenciamento do tempo necessário para a matéria, levando em conta as entregas semanais e o quão laboroso eram alguns dos artefatos de alguma entregas, também tivemos alguns obstáculos para realizar algumas etapas como artefatos de validação, perfil de usuário, relato de resultado, que por necessitarmos de pessoas para serem entrevistadas e com o perfil de usuário que foi elicitados não foi uma tarefa muito simples. As reuniões de alinhamento do grupo e das apresentações também se mostraram ações e tarefas dificultosas por diversas vezes sendo por causa do tamanho de algumas entregas, levando os membros do grupo a ficarem fadigados com algumas etapas e ficarem menos enérgicos nas entregas.
 
 #### **Gabriel Bertolazzi**
 
