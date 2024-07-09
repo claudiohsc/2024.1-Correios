@@ -36,6 +36,7 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 | ![Materiais de escrever](../assets/ferramentas/lapis.png) | Materiais de escrever (lápis, lapiseira, caneta, borracha) | Confecção do protótipo de papel |
 | ![Papel](../assets/ferramentas/papel.jpg) | Papel | Confecção do protótipo de papel |
 | ![OBS Studio](../assets/ferramentas/obs.svg) | OBS Studio | Gravação de telas |
+| ![Markdowneditor](../assets/ferramentas/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
 </center>
 
@@ -74,6 +75,8 @@ A equipe empregará programas computacionais que darão suporte às tarefas de p
 > 15. Storyboard That. Disponível em: <https://www.storyboardthat.com/pt>. Acesso em: 08 de jul. de 2024.
 >
 > 16. OBS Studio. Disponível em: <https://obsproject.com/pt-br/download>. Acesso em: 08 de jul. de 2024.
+>
+> 17. Online Markdown Editor. Disponível em: <https://onlinemarkdowneditor.dev/>. Acesso em: 08 de jul. de 2024.
 
 ## Histórico de Versões
 

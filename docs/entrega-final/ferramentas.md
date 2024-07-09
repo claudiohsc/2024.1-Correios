@@ -24,6 +24,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
     | ![Logo do Google Planilhas](../assets/ferramentas/sheets.svg) | Google Planilhas | Produção de tabelas compartilhada para realização do heatmap. |
+    | ![Markdowneditor](../assets/ferramentas/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -51,6 +52,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Google Forms](../assets/ferramentas/forms.svg) | Google Forms | Produção e distribuição de questionário para realização do perfil do usuário. |
     | ![Logo do TPDNE](../assets/ferramentas/personnotexist.jpg) | This person does not exist | Geração de imagens para as personas do projeto. |
     | ![Logo do Draw.io](../assets/ferramentas/drawio.png) | Draw.io | Produção de diagramas para análise hierárquica de tarefas. |
+    | ![Markdowneditor](../assets/ferramentas/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -76,6 +78,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
     | ![Logo do Figma](../assets/ferramentas/figma.png) | Figma | Exibição de prints com elementos de interface no guia de estilo. |
+    | ![Markdowneditor](../assets/ferramentas/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -100,6 +103,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+    | ![Markdowneditor](../assets/ferramentas/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -125,6 +129,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
     | ![Storyboard That](../assets/ferramentas/storyboardthat.png) | Storyboard That | Confecção do storyboard |
+    | ![Markdowneditor](../assets/ferramentas/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -150,6 +155,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
     | ![OBS Studio](../assets/ferramentas/obs.svg) | OBS Studio | Gravação de telas para vídeos de verificação de artefatos. |
+    | ![Markdowneditor](../assets/ferramentas/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -176,6 +182,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
     | ![Materiais de escrever](../assets/ferramentas/lapis.png) | Materiais de escrever (lápis, lapiseira, caneta, borracha) | Confecção do protótipo de papel |
     | ![Papel](../assets/ferramentas/papel.jpg) | Papel | Confecção do protótipo de papel |
+    | ![Markdowneditor](../assets/ferramentas/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -201,6 +208,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
     | ![OBS Studio](../assets/ferramentas/obs.svg) | OBS Studio | Gravação de telas para vídeos de verificação de artefatos. |
+    | ![Markdowneditor](../assets/ferramentas/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -228,6 +236,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Figma](../assets/ferramentas/figma.png) | Figma | Produção do protótipo de alta fidelidade. |
     | ![Just In Mind](../assets/ferramentas/justinmind.png) | Justinmind | Produção do protótipo de alta fidelidade |
     | ![OBS Studio](../assets/ferramentas/obs.svg) | OBS Studio | Gravação de telas para vídeos de verificação de artefatos. |
+    | ![Markdowneditor](../assets/ferramentas/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -252,6 +261,7 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
     | ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Criação e edição dos arquivos de documentação. |
     | ![Logo do Telegram](../assets/ferramentas/telegram.png) | Telegram | Comunicação via chat com a equipe |
     | ![Logo do Youtube](../assets/ferramentas/youtube.png) | YouTube | Publicação dos vídeos produzidos em reuniões e apresentações. |
+    | ![Markdowneditor](../assets/ferramentas/markdowneditor.png) | Online Markdown Editor | Edição de arquivos em markdown |
 
     </center>
 
@@ -291,6 +301,8 @@ Artefato destinado a documentar as ferramentas utilziadas durante cada etapa rea
 > 15. Storyboard That. Disponível em: <https://www.storyboardthat.com/pt>. Acesso em: 08 de jul. de 2024.
 >
 > 16. OBS Studio. Disponível em: <https://obsproject.com/pt-br/download>. Acesso em: 08 de jul. de 2024.
+>
+> 17. Online Markdown Editor. Disponível em: <https://onlinemarkdowneditor.dev/>. Acesso em: 08 de jul. de 2024.
 
 
 ## Histórico de Versões
