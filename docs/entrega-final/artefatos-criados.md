@@ -305,6 +305,22 @@ Neste artefato é são apresentadas abaixo 8 tabelas de acordo com cada etapa do
 
     <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
+=== "Etapa - Entrega Final"
+
+    Abaixo temos uma legenda para a compreensão das nomenclaturas das pastas do projeto e mais abaixo a tabela 08 com os artefatos respectivos da entrega 08.
+
+
+    <font size="2"><p style="text-align: center">Tabela 13: Artefatos criados na Etapa 08</p></font>
+
+    <center>
+
+    |Artefatos|Autor(s)|Revisor(s)|
+    |---------|--------|----------|
+
+    </center>
+
+    <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
