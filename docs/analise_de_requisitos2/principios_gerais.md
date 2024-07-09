@@ -46,9 +46,9 @@ Nessa diretriz o site dos correios possui uma simplicidade aceitável na estrutu
 
 
 
-### Conteúdo Relevante e Expressão adequada
+## Conteúdo Relevante e Expressão adequada
 
-## Definição
+### Definição
 
 Segundo Gride(1975) a interação polida leva em conta quatro máximas, que são : Quantidade, qualidade, relação e modo ou clareza.
 
@@ -62,7 +62,7 @@ Segundo Gride(1975) a interação polida leva em conta quatro máximas, que são
 
 Nielsen(1994) mostra também sobre a máxima de quantidade que o projeto deve ser estético e minimalista, fazendo com que os textos e diálogos não contenham informações desnecessárias ou irrelevantes.
 
-## Violação
+### Violação
 
 Na Figura 02, é evidente que, ao acessar a página "receber encomendas", um usuário que procura utilizar a funcionalidade de localizar sua encomenda ou encontrar uma agência do correio para receber seu pacote se depara com informações sobre os Correios que podem não ser tão relevantes para sua necessidade imediata. Nielsen destaca a importância de uma página polida e simples, priorizando a experiência do usuário que busca uma funcionalidade específica.
 
@@ -240,6 +240,12 @@ Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 
 </center>
 
+## Projeto para Erros
+
+### Definição
+
+Norman(1988) sugere antecipar o acontecimento dos erros, já supondo suas eventuais ocorrências. O designer deve prevenir o usuário de realizar ações que são irreverssíveis e deve proporcionar ao usuário uma recuperação do erro, mostrando a ele como ocorreu o erro e suas consequências. Cooper(1999) sugere não posicionar por exemplo botões de funcionalidades frequentemente utilizadas pelo usuário a funcionalidades que realizam ações possívelmente indesejadas, como por exemplo desabilitar a conexão com a rede ethernet. Nielsen(1994c) recomenda evitar em prioridade a ocorrência de erros, mas em suas eventuais ocorrência o sistema deve informar ao usuário o que ocorreu e proporcionar a ele uma solução para as falhas que ocorreram.
+
 ## Referências Bibliográficas
 
 > 1. NORMAN, Don. The Psychology Of Everyday Things. Basic Books, New York, illustrated edition, 1988.
@@ -261,3 +267,4 @@ Fonte: [Site dos Correios](https://www.correios.com.br/), 2024.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 12/05/2024 | Criação do documento | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| [Gabriel F. J. Silva](https://github.com/MMcLovin) |
+| `1.1`  | 08/07/2024 | Adição de princípios faltantes | [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc)| [Gabriel F. J. Silva](https://github.com/MMcLovin) |
