@@ -69,20 +69,18 @@ Abaixo temos as tabelas de 2 a 7 com as listas verificadas para cada storyboard 
 <!-- para o iframe do vídeo, bote width = 560 e height = 315 -->
 
 <div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/playlist?list=PLy6hlCyBC58oRa-71RzKUpsPNZthYWjow" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-mEM9Uj_AOQ" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p style="text-align: center">
-    <a href="https://www.youtube.com/playlist?list=PLy6hlCyBC58oRa-71RzKUpsPNZthYWjow"> Link para o vídeo </a>
+    <a href="https://youtu.be/-mEM9Uj_AOQ"> Link para o vídeo </a>
 </p>
 
 ### Problemas Encontrados
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-- ID xx: Descrição
-    - Avaliação:
-    - Comentário:
+Nenhum Problema encontrado.
 
 ### Sumário dos resultados
 
@@ -112,15 +110,15 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 0
+    "Sim" : 12
     "Não" : 0
     "Incompleto" : 0
-    "Não se Aplica" : 0
+    "Não se Aplica" : 1
 ```
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira][EliasGH], 2024.</p></font>
 
 ## Storyboard - Pré-postagem
 
@@ -232,7 +230,7 @@ pie
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B.][GabrielBGH], 2024.</p></font>
 
 ### Gravação da verificação
 
@@ -247,7 +245,7 @@ pie
 
 <!--- Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de link do artefato. --->
 
-Não foram identifocados erros.
+Não foram identificados erros.
 
 ### Sumário dos resultados
 
@@ -285,7 +283,7 @@ pie
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [][], 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Gabriel B.][GabrielBGH], 2024.</p></font>
 
 ## Storyboard - Receber encomendas
 

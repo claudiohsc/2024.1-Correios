@@ -154,7 +154,7 @@ No Vídeo 1 abaixo está a gravação do teste piloto realizado.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 18/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] e [Pablo S. Costa][PabloGH] | [Claudio Henrique](ClaudioGH) e [Gabriel F.](GabrielFGH)  |
+| `1.0`  | 18/05/2024 | Criação do documento | [Ricardo Augusto][RicardoGH] e [Pablo S. Costa][PabloGH] | [Claudio Henrique](ClaudioGH) e [Gabriel F. J. Silva][GabrielFGH]  |
 | `1.1`  | 24/05/2024 | Adição da gravação do teste piloto | [Claudio Henrique][ClaudioGH] e [Gabriel F. J. Silva][GabrielFGH] | [Ricardo Augusto][RicardoGH] |
 
 

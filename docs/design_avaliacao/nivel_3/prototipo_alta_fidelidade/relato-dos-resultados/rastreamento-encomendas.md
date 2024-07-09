@@ -191,6 +191,24 @@ Na tabela 3, temos a tarefa a ser avaliada, os participantes e seus papéis e a 
 
     <font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
 
+### Perguntas respondidas pelo avaliador
+
+<font size="2"><p style="text-align: center">Tabela 7 - Perguntas do questionário para o avaliado responder</p></font>
+
+<center>
+
+| ID | Pergunta | Resposta |
+| :-:| -------- | ------------------ |
+| **1** | O usuário utilizou de forma correta a funcionalidade? | Sim, os usuários seguiram o caminho feliz da funcionalidade proposta com facilidade e sem se perderem. | 
+| **2** | Foram atingidos os objetivos principais do participante ao testar o protótipo? | Sim, todos os participantes atingiram o objetivo principal da funcionalidade. |
+| **3** | O usuário teve obstáculos para concluir a tarefa proposta? Se sim quais foram? | Os usuários não tiveram obstáculos. |
+| **4** | Em quais partes do sistema esses problemas e obstáculos são encontrados? E com qual frequência ocorrem? | Não foram encontrados obstáculos. |
+| **5** | O usuário requereu auxílio para compreender alguma parte da interface ou para realizar alguma ação? Se sim quantas vezes? | Nenhum usuário precisou de auxílio. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Ricardo Augusto][RicardoGH], 2024</p></font>
+
 
 ## Lista de Problemas de usabilidade corrigidos
 O relato deve apresentar uma lista dos problemas corrigidos durante o ciclo de avaliação e reprojeto realizados no nível anterior pelo grupo. Deverá ser indicado:
@@ -211,6 +229,12 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 - Sugestões de correção: Trocar o critério de verificação
 - Indicações de partes do sistema que podem ser mais bem elaboradas.
 
+## Reprojeto
+
+O único problema que não foi corrigido é de uma parte relacionada à segurança e verificação de usuário, por se tratar de algo que foge do escopo de intereção humano computador e por se tratar de um possível requisito ligado à segurança de sistema ele não foi alterado no protótipo de alta fidelidade.
+
+Por não terem outros problemas que aconteceram durante a avaliação, não existe a necessidade de um reprojeto para o protótipo.
+
 
 ## Bibliografia
 
@@ -221,6 +245,7 @@ Deverá ser apresentado pelo relo também uma lista dos problemas de usabilidade
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 02/07/2024 | Criação do documento| [Ricardo Augusto][RicardoGH]|[Cláudio Henrique][ClaudioGH]|
+| `1.1` | 08/07/2024 | Adicionando perguntas para o avaliador | [Ricardo Augusto][RicardoGH] |[Elias F. Oliveira][EliasGH] |
 
 [GabrielFGH]: https://github.com/MMcLovin
 [GabrielBGH]: https://github.com/https://github.com/Bertolazi

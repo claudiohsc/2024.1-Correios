@@ -7,9 +7,9 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
-|Etapa 2| Princípios gerais do projeto | `1.4`|16/05/2024|[Ricardo A.][RicardoGH] | [Gabriel F.][GabrielFGH] |
+|Etapa 2| Princípios gerais do projeto | `1.4`|16/05/2024|[Ricardo A.][RicardoGH] | [Gabriel F. J. Silva][GabrielFGH] |
 |Etapa 2| Metas de usabilidade | `1.2`|20/05/2024| [Claudio H][ClaudioGH] |[Elias F.][EliasGH]  |
-|Etapa 2| Guia de estilo | `1.2`|18/05/2024| [Gabriel F.][GabrielFGH]|[Elias F.][EliasGH]  |
+|Etapa 2| Guia de estilo | `1.2`|18/05/2024| [Gabriel F. J. Silva][GabrielFGH]|[Elias F.][EliasGH]  |
 |Etapa 2| Características da plataforma | `1.0`|11/05/2024| [Ricardo A.][RicardoGH]  |  [Pablo][PabloGH] |
 
 ## Checklists

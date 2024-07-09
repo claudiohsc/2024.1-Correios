@@ -111,7 +111,7 @@ pie
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH], 2024.</p></font>
 
-## Bibliografia
+## Referências Bibliográficas
 
 > 1. <a id="ref1"> </a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. 
 
@@ -119,7 +119,7 @@ pie
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
-| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [][] |
+| `1.0`  | 25/06/2024 | Criação do documento | [Gabriel F. J. Silva][GabrielFGH] | [Gabriel B.][GabrielBGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc
 [EliasGH]: https://github.com/EliasOliver21

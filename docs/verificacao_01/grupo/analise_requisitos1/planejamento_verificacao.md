@@ -10,10 +10,10 @@ Neste artefato estão descritos abaixo na tabela 01 os artefatos presentes na et
 
 |Entrega|Artefato|Versão|Data|Autor(es)|Verificado por|
 |:---:|:--:|:----:|:----:|:----:|:----:|
-|Etapa 1| Aspectos éticos e termo de consentimento | `1.2`|15/05/2024| [Claudio H][ClaudioGH]| [Gabriel F.][GabrielFGH] |
+|Etapa 1| Aspectos éticos e termo de consentimento | `1.2`|15/05/2024| [Claudio H][ClaudioGH]| [Gabriel F. J. Silva][GabrielFGH] |
 |Etapa 1| Perfil usuário - Questionário	 | `1.1`|18/04/2024| [Gabriel B.][GabrielBGH]| [Claudio H][ClaudioGH] |
 |Etapa 1|Perfil usuário - Grupo de Foco	 | `1.1`|18/04/2024| [Gabriel B.][GabrielBGH]| [Claudio H][ClaudioGH] |
-|Etapa 1| Perfil usuário - Resultado perfil do usuário | `2.0`|15/04/2024| [Gabriel B.][GabrielBGH]| [Gabriel F.][GabrielFGH] |
+|Etapa 1| Perfil usuário - Resultado perfil do usuário | `2.0`|15/04/2024| [Gabriel B.][GabrielBGH]| [Gabriel F. J. Silva][GabrielFGH] |
 |Etapa 1| Personas | `1.2`|08/05/2024| João Pedro | [Pablo S.][PabloGH] |
 |Etapa 1| Cenários | `1.7`|15/05/2024| [Elias F. Oliveira][EliasGH]| [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH] |
 |Etapa 1| Análise tarefas - HTA	 | `1.8`|21/05/2024| [Claudio H][ClaudioGH] | [Claúdio][ClaudioGH], [Elias][EliasGH], [Gabriel Bertolazi][GabrielBGH], [Gabriel Fernando][GabrielFGH],[Pablo][PabloGH], [Ricardo][RicardoGH]|
