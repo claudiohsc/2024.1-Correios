@@ -169,7 +169,7 @@ E mesmo clicando na logo dos Correios, como mostra a figura 07, o site somente r
 
 <p style="text-align: center">Figura 07 - Painel Pré-postagem</p>
 
-![](../assets/princípios_gerais/violacao_pre_postagem.png)
+
 
 
 <center>
